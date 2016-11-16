@@ -1,0 +1,4 @@
+273293 lines read from mw72adj1.txt
+161079 of these lines are changed in mw72adj1_roman2.txt
+0 of these transformations are not invertible
+0 lines with unconverted AS codes

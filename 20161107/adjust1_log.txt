@@ -1,0 +1,16 @@
+Occurs twice: 12754@ena@42377@Pruss@ains;
+Occurs twice: 23714@na@106124@Slav@ne;
+Occurs twice: 30677@prati@140021@Bohem@proti:
+Occurs twice: 46055@Sata@227968@Sax@hund;
+Occurs twice: 47656@zaz@237999@Goth@sihs;
+Occurs twice: 52274@siv@257029@Engl@seam:
+Occurs twice: 52274@siv@257029@Engl@seam:
+5676 non-sanskrit snippets retrieved from italics4.txt
+1  MULTIUSED (2): 30677@prati@140021@Bohem@proti:
+2  MULTIUSED (2): 47656@zaz@237999@Goth@sihs;
+3  MULTIUSED (3): 52274@siv@257029@Engl@seam:
+4  MULTIUSED (2): 12754@ena@42377@Pruss@ains;
+5  MULTIUSED (2): 46055@Sata@227968@Sax@hund;
+6  MULTIUSED (2): 23714@na@106124@Slav@ne;
+0 nonsand cases were not used
+6 nonsand cases were used more than once

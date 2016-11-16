@@ -1,0 +1,357 @@
+input file = mw72adj1_roman2.txt
+*******************************
+36  'EA' codes follow, with instances
+Each instances shows: page,headword,line number in mw72adj1_roman2.txt
+*******************************
+# 1 --------------------------------------------------
+º  (\u00ba) 21020 := MASCULINE ORDINAL INDICATOR
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1578 :: <>to be supplied, e. g. {%ºri-%}
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1579 :: <>{%inº%} after {%karīndra%} is for
+Page0001-a+ 70 :: Aṉśa, as, :: 1695 :: <>takes a share, a sharer. {%--Aṉśāṉśa (ºśa-aṉº), as,%} m.
+Page0001-a+ 70 :: Aṉśa, as, :: 1695 :: <>takes a share, a sharer. {%--Aṉśāṉśa (ºśa-aṉº), as,%} m.
+Page0001-a+ 70 :: Aṉśa, as, :: 1698 :: <>{%(ºśa-avº), am,%} n. descent of parts of the deities;
+Page0001-a+ 70 :: Aṉśa, as, :: 1698 :: <>{%(ºśa-avº), am,%} n. descent of parts of the deities;
+Page0001-c+ 62 :: akarman :: 1827 :: <>dom from the fruits of action. {%--Akarmānvita (ºma-%}
+Page0001-c+ 62 :: akarman :: 1828 :: <>{%anº), as, ā, am,%} unoccupied, disqualified; criminal.
+Page0001-c+ 62 :: akava :: 1850 :: <>Ved. not contemptible, not bad. {%--A-kavāri (ºva-%}
+Page0002-a+ 70 :: akAraRa :: 1880 :: <>{%raṇotpanna (ºṇa-utº), as, ā, am,%} produced spon-
+# 2 --------------------------------------------------
+ï  (\u00ef)     2 := LATIN SMALL LETTER I WITH DIAERESIS
+Page0409-b+ 73 :: dAdABAi :: 93440 :: <P>.{#dAdABAi#}¦ {%dādābhāï,%} N. of the author of
+Page0841-a+ 77 :: rAjasAi :: 193499 :: <P>.{#rAjasAi#}¦ {%rājasāï,%} N. of a country.
+# 3 --------------------------------------------------
+ü  (\u00fc)    12 := LATIN SMALL LETTER U WITH DIAERESIS
+Page0384-b+ 70 :: tejAura :: 87558 :: <P>.{#tejAura#}¦ {%tejāüra,%} N. of a place mentioned
+Page0430-a+ 77 :: deuliya :: 98253 :: <P>.{#deuliya#}¦ {%deüliya,%} N. of a Grāma.
+Page0601-b+ 77 :: prauga :: 137672 :: <P>.{#prauga#}¦ {%pra-üga, am,%} n. (according to the
+Page0601-b+ 77 :: prauga :: 137675 :: <>{%yuga-bandhana-sthānam%}); {%ubhayataḥ-praüga,%}
+Page0601-b+ 77 :: prauga :: 137678 :: <>the morning libation. {%--Praüga-ćit, t, t, t,%} Ved.
+Page0639-c+ 77 :: Pra-yuga, am, :: 146332 :: <>of {%praüga,%} q. v.
+Page0656-a+ 79 :: prAtar :: 150044 :: <>{%jāḥ, ājya%} or {%praüga śastra%}). {%--Prātaḥsavanika%}
+Page0766-a+ 79 :: mAuTa :: 175908 :: <P>.{#mAuTa#}¦ {%māütha,%} N. of a place; (also read
+Page0766-a+ 79 :: mAuTa :: 175909 :: <>{%māüṇatha.%})
+Page0837-b+ 78 :: rAula :: 192567 :: <P>.{#rAula#}¦ {%rāüla, as,%} m. a proper N.
+# 4 --------------------------------------------------
+Ā  (\u0100)  1713 := LATIN CAPITAL LETTER A WITH MACRON
+Page0048-b+ 73 :: ap :: 11994 :: <>nis. Sometimes, particularly in the Vedas, the {%Āpaḥ%}
+Page0102-b+ 77 :: Aśvīna, as, ā, am, :: 23671 :: <>horse; more usually {%Āśvīna.%}
+Page0110-c+ 65 :: Ā-kampa, as, :: 25547 :: <P>{%Ā-kampa, as,%} m. or {%ā-kampana, am,%} n. trem-
+Page0110-c+ 65 :: Ā-kampita :: 25549 :: <P>{%Ā-kampita%} or {%ā-kampra, as, ā, am,%} shaken,
+Page0110-c+ 65 :: Ā-karṇa, :: 25555 :: <P>{%Ā-karṇa,%} up to the ear, (occurs at the commence-
+Page0110-c+ 65 :: Ā-karṇana, am, :: 25558 :: <P>{%Ā-karṇana, am,%} n. hearing, listening.
+Page0110-c+ 65 :: Ā-karṇita, as, ā, am, :: 25559 :: <P>{%Ā-karṇita, as, ā, am,%} heard, listened to; over-
+Page0110-c+ 65 :: Ā-karṇya, :: 25561 :: <P>{%Ā-karṇya,%} ind. having heard or listened to.
+Page0111-a+ 73 :: Ā-kalana, am, :: 25568 :: <P>{%Ā-kalana, am,%} n. binding, confinement; counting,
+Page0111-a+ 73 :: Ā-kalita, as, ā, am, :: 25570 :: <P>{%Ā-kalita, as, ā, am,%} bound; counted, reckoned;
+# 5 --------------------------------------------------
+ā  (\u0101) 132897 := LATIN SMALL LETTER A WITH MACRON
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 199 :: <>ever, give up the epithet Āryan (from the Sanskṛit {%ārya,%} ‘noble’)
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 366 :: <>1. {%bhū,%} p. 714; 1. {%śru,%} p. 1026; 1. {%sthā,%} p. 1145 of this volume.
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 438 :: <>and 1. {%kāla,%} 2. {%kāla,%} at pp. 224, 225.</F>. An abundant return, however, has been
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 438 :: <>and 1. {%kāla,%} 2. {%kāla,%} at pp. 224, 225.</F>. An abundant return, however, has been
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 858 :: <>plex words, such, for example, as {%vaidika-manu-ādi-praṇīta-smṛi-%}
+# 6 --------------------------------------------------
+ă  (\u0103)     4 := LATIN SMALL LETTER A WITH BREVE
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 768 :: <>of the fourteen vowels (except {%ă%}) has two symbols, according as it is initial or non-initial, and the
+Page0114-b+ 73 :: ANga :: 26373 :: <>cate form or body; ({%as, ī, am,%} pl. {%ăńgās%}), produced or
+Page0764-c+ 81 :: Mātṛi, tā, trī, tṛi, :: 175598 :: <>({%tā%}), f. (nom. du. {%mātărau,%} nom. pl. {%mātăras,%}
+Page0764-c+ 81 :: Mātṛi, tā, trī, tṛi, :: 175598 :: <>({%tā%}), f. (nom. du. {%mātărau,%} nom. pl. {%mātăras,%}
+# 7 --------------------------------------------------
+Ć  (\u0106)  1939 := LATIN CAPITAL LETTER C WITH ACUTE
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1226 :: <>I may yet request leave to inform any mere {%Ćhidrānveshin,%} of whom it may be said {%ćhidraṃ%}
+Page0013-a+ 81 :: Ati :: 4390 :: <>{%jagatī,%} the other also called {%Ćuḍikā%} or {%Ćulikā.%}
+Page0013-a+ 81 :: Ati :: 4390 :: <>{%jagatī,%} the other also called {%Ćuḍikā%} or {%Ćulikā.%}
+Page0013-b+ 81 :: Ati :: 4461 :: <>to the class {%Ashṭi,%} also called {%Ćitra%} or {%Ćaṅćalā.%}
+Page0013-b+ 81 :: Ati :: 4461 :: <>to the class {%Ashṭi,%} also called {%Ćitra%} or {%Ćaṅćalā.%}
+Page0015-c+ 70 :: Ati-śayana, as, ā, am, :: 4947 :: <>four lines, also called {%Ćitralekhā.%}
+Page0310-b+ 76 :: ca :: 70647 :: <>having the simple sound of <nsi>ch</nsi> in <nsi>church</nsi>. {%--Ća-kāra,%}
+Page0310-b+ 76 :: Ća :: 70686 :: <P>{%Ća%} may be used for {%vā%} and is then translateable by
+Page0310-b+ 76 :: Ća :: 70697 :: <P>{%Ća%} is often joined to the adverbs {%eva, api, tathā,%}
+Page0310-b+ 76 :: Ća :: 70702 :: <P>{%Ća%} sometimes {%= eva,%} even, indeed, certainly, just,
+# 8 --------------------------------------------------
+ć  (\u0107) 16930 := LATIN SMALL LETTER C WITH ACUTE
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 885 :: <>to me so great that in the third edition of my Sanskṛit Grammar, I ventured to adopt {%ć%} for {#c,#} the
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 886 :: <>pronunciation, however, being the same as {%ch%} in {%church,%} which might therefore be written {%ćurć.%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 886 :: <>pronunciation, however, being the same as {%ch%} in {%church,%} which might therefore be written {%ćurć.%}
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1226 :: <>I may yet request leave to inform any mere {%Ćhidrānveshin,%} of whom it may be said {%ćhidraṃ%}
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1648 :: <>For the correct pronunciation of the aspirated consonants, {%kh, ćh, ṭh, th, ph,%} &c., see p. xix of the preceding Preface.
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1654 :: <>the symbol of any nasal will often be found at the end of a word, as in {%dānaṃ ća;%} but may also represent Anusvāra, when
+Page0001-b+ 66 :: Aṉhas, :: 1761 :: <>{%vat, ān, atī, at,%} sinful. {%--Aṉho-muć, k, k, k,%} Ved.
+Page0001-b+ 66 :: akaca :: 1782 :: <P>.{#akaca#}¦ {%a-kaća, as, ā, am,%} destitute of hair,
+# 9 --------------------------------------------------
+Ī  (\u012a)   114 := LATIN CAPITAL LETTER I WITH MACRON
+Page0143-b+ 73 :: Īkshaka, as, :: 32783 :: <P>{%Īkshaka, as,%} m. a spectator, a beholder.
+Page0143-b+ 73 :: Īkshaṇa, am, :: 32784 :: <P>{%Īkshaṇa, am,%} n. a look, view, aspect, sight; re-
+Page0143-b+ 73 :: Īkshaṇika, as, ā, :: 32786 :: <P>{%Īkshaṇika, as, ā,%} m. f. a looker into the future,
+Page0143-b+ 73 :: Īkshamāṇa, as, ā, am, :: 32788 :: <P>{%Īkshamāṇa, as, ā, am,%} looking at, surveying.
+Page0143-b+ 73 :: Īkshā, :: 32789 :: <P>{%Īkshā,%} f. sight, viewing, considering.
+Page0143-b+ 73 :: Īkshita, as, ā, am, :: 32790 :: <P>{%Īkshita, as, ā, am,%} seen, beheld, regarded.
+Page0143-b+ 73 :: Īkshitṛi, tā, trī, tṛi, :: 32791 :: <P>{%Īkshitṛi, tā, trī, tṛi,%} seeing, beholding, a beholder.
+Page0143-b+ 73 :: Īksheṇya, as, ā, am, :: 32792 :: <P>{%Īksheṇya, as, ā, am,%} Ved. deserving to be seen,
+Page0143-b+ 73 :: Īkshyamāṇa, as, ā, am, :: 32794 :: <P>{%Īkshyamāṇa, as, ā, am,%} being beheld, being
+Page0143-b+ 73 :: Īḍana, am, :: 32813 :: <P>{%Īḍana, am,%} n. the act of praising.
+# 10 --------------------------------------------------
+ī  (\u012b) 43148 := LATIN SMALL LETTER I WITH MACRON
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 858 :: <>plex words, such, for example, as {%vaidika-manu-ādi-praṇīta-smṛi-%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 859 :: <>{%titvāt, karma-phala-rūpa-śarīra-dhāri-jīva-nirmitatvābhāva-mātreṇa,%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 859 :: <>{%titvāt, karma-phala-rūpa-śarīra-dhāri-jīva-nirmitatvābhāva-mātreṇa,%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 881 :: <>paragraph. The vowels {%ṛi%} and {%ṛī%} ought to be represented by some one symbol--such as that used
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1257 :: <>really equivalent to {%svāmi-bhāva,%} and such a word as {%śrī-mat,%} ‘possessed of fortune,’ to {%śrī-yukta.%}
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1257 :: <>really equivalent to {%svāmi-bhāva,%} and such a word as {%śrī-mat,%} ‘possessed of fortune,’ to {%śrī-yukta.%}
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1318 :: <>a new classification of words in introduced by a {%new word in Nāgarī type.%} Other derivations are sometimes noticed
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1344 :: <>crude base, except in the cases explained at the end of the preceding Preface. Thus {%guru, us, vī, u,%} means that the
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1345 :: <>adjective {%guru%} makes in its nominative case masc. fem. and neut., {%gurus, guruvī, guru;%} similarly {%vividvas, ān, ushī, at%}
+# 11 --------------------------------------------------
+Ń  (\u0143)     1 := LATIN CAPITAL LETTER N WITH ACUTE
+Page0310-a+ 73 :: Na :: 70637 :: <>that of {%ng%} in <nsi>song</nsi>. {%--Ńa-kāra, as,%} m. the letter or
+# 12 --------------------------------------------------
+ń  (\u0144)  6378 := LATIN SMALL LETTER N WITH ACUTE
+Page0001-b+ 66 :: aMha :: 1747 :: <P>.{#aMha#}¦ {%aṉh%} (allied to {%ańgh%}), cl. 1. A. {%aṉhate,%}
+Page0001-b+ 66 :: Aṉhri, is, :: 1774 :: <>{%ańghri%}]. {%--Aṉhri-pa, as,%} m. a tree (foot-drinker).
+Page0003-b+ 76 :: akzara :: 2202 :: <>{%--Akshara-pańkti, is, is, i,%} containing five syllables;
+Page0003-b+ 76 :: akzara :: 2204 :: <>one dactyl and one spondee; also called {%pańkti%} or
+Page0003-b+ 76 :: akzara :: 2211 :: <>{%saṁsthāna, am,%} n. scripture, writing. {%--Aksharāńga%}
+Page0003-b+ 76 :: akzara :: 2212 :: <>{%(ºra-ańga), am,%} n. part of a syllable.
+Page0004-a+ 70 :: ag :: 2340 :: <>{%yitum,%} to cause to move tortuously [cf. rt. {%ańg%}].
+Page0004-b+ 72 :: agada :: 2363 :: <>cament, drug; the science of antidotes. {%--Agadań-%}
+Page0004-c+ 73 :: agni :: 2469 :: <P>.{#agni#}¦ {%agni, is,%} m. (fr. rt. {%ańg%} or {%ag%} or {%aṅj?%}),
+Page0005-c+ 81 :: agni :: 2671 :: <>of the dead body. {%--Agni-sańkāśa, as, ā, am,%} re-
+# 13 --------------------------------------------------
+Ś  (\u015a)  3905 := LATIN CAPITAL LETTER S WITH ACUTE
+Page0075-b+ 75 :: amara :: 17707 :: <>{%--Amara-Śakti, is,%} m., N. of a king. {%--Amara-%}
+Page0100-a+ 70 :: aSimividviz :: 23137 :: <>the true reading may be {%Śimi-vidvish,%} ‘hater of
+Page0147-c+ 73 :: uta :: 33747 :: <>{%Śālihotraḥ kiṃ nu syād utāhosvid rājā Nalaḥ,%}
+Page0213-a+ 81 :: kalpa :: 48496 :: <>dhākānta is entitled {%Śabda-kalpadruma,%} the tree
+Page0213-a+ 81 :: kalpa :: 48508 :: <>f. {%= kalpa-latā%} above; ({%Śabda-kº,%} title of a dic-
+Page0338-b+ 78 :: jap :: 77151 :: <>to pray to any one in a low voice (e. g. {%Śivo japyate,%}
+Page0404-a+ 80 :: Darśana, as, ā, am, :: 92131 :: <>theory prescribed in a system or book (e. g. {%Śāstra-%}
+Page0429-b+ 81 :: Dṛishṭa, as, ā, am, :: 98108 :: <>looked at or examined or read (e. g. {%Śāstra-dṛishṭa-%}
+Page0511-a+ 77 :: nI :: 116820 :: <>to give in pledge; {%Śūdratāṃ nī,%} to reduce to a
+Page0535-b+ 81 :: Parama, as, ā, am :: 122448 :: <>lent (with abl. {%Śivāt paramaḥ,%}  more excellent than [Page0535-b+ 81]
+# 14 --------------------------------------------------
+ś  (\u015b) 22571 := LATIN SMALL LETTER S WITH ACUTE
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 366 :: <>1. {%bhū,%} p. 714; 1. {%śru,%} p. 1026; 1. {%sthā,%} p. 1145 of this volume.
+Pagexii+ 45 :: Plan and Arrangement of the Present Work. :: 480 :: <>in doubt whether to translate compounds like {%Indra-śatru%} as Bahuvrīhis or Tatpurushas, the
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 654 :: <>{%śva-dṛitau dhṛitam;%} cf. Muir's Sanskṛit Texts, vol. ii. p. 53, note
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 854 :: <>even the simplest compounds like {%sad-asad-viveka, sv-alpa-keśin,%} would have required without its
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 859 :: <>{%titvāt, karma-phala-rūpa-śarīra-dhāri-jīva-nirmitatvābhāva-mātreṇa,%}
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1227 :: <>{%nirūpya sahasā praviśati,%} that no one can be more keenly alive to the flaws and defects of this
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1257 :: <>really equivalent to {%svāmi-bhāva,%} and such a word as {%śrī-mat,%} ‘possessed of fortune,’ to {%śrī-yukta.%}
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1257 :: <>really equivalent to {%svāmi-bhāva,%} and such a word as {%śrī-mat,%} ‘possessed of fortune,’ to {%śrī-yukta.%}
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1339 :: <>of the compound for the several etymologies, e. g. {%an-oka-śāyin%} is manifestly separable into {%an + oka + śāyin,%} to each of
+# 15 --------------------------------------------------
+Ū  (\u016a)   163 := LATIN CAPITAL LETTER U WITH MACRON
+Page0176-c+ 71 :: U :: 40235 :: <>that letter in the word {%rule%}. {%--Ū-kāra, as,%} m. the
+Page0177-a+ 74 :: Ūma, as, :: 40249 :: <P>{%Ūma, as,%} m., Ved. a good friend, an affectionate
+Page0177-a+ 74 :: UQa :: 40257 :: <>to the ritual. {%--Ūḍha-kańkaṭa, as, ā, am,%} armed,
+Page0177-a+ 74 :: UQa :: 40258 :: <>mailed. {%--Ūḍha-bhārya, as, ā, am,%} one who has
+Page0177-a+ 74 :: UQa :: 40259 :: <>married a wife. {%--Ūḍha-vayas, ās,%} m. a young man.
+Page0177-a+ 74 :: Ūḍhaya, :: 40260 :: <P>{%Ūḍhaya,%} nom. (fr. {%ūḍha%} or {%ūḍhi%}) P. {%ūḍhayati,%}
+Page0177-a+ 74 :: Ūḍhi, is, :: 40262 :: <P>{%Ūḍhi, is,%} f. carrying, bearing.
+Page0177-a+ 74 :: UDas :: 40280 :: <>Eng. <nsi>udder;</nsi> Hib. <nsi>uit, uitche.</nsi>] {%--Ūdhas-vatī,%} f.
+Page0177-a+ 74 :: Ūdhanya, as, ā, am, :: 40282 :: <P>{%Ūdhanya, as, ā, am,%} produced from the udder;
+Page0177-a+ 74 :: Ūdhasya, am, :: 40284 :: <P>{%Ūdhasya, am,%} n. milk, ‘produced from the udder.’
+# 16 --------------------------------------------------
+ū  (\u016b) 12545 := LATIN SMALL LETTER U WITH MACRON
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 366 :: <>1. {%bhū,%} p. 714; 1. {%śru,%} p. 1026; 1. {%sthā,%} p. 1145 of this volume.
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 859 :: <>{%titvāt, karma-phala-rūpa-śarīra-dhāri-jīva-nirmitatvābhāva-mātreṇa,%}
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1227 :: <>{%nirūpya sahasā praviśati,%} that no one can be more keenly alive to the flaws and defects of this
+Page0001-b+ 66 :: aMsa :: 1736 :: <><nsi>ansa</nsi>]. {%--Aṉsa-kūṭa, as,%} m. a bull's hump, the pro-
+Page0001-b+ 66 :: Aṉhūraṇa, as, ā, am, :: 1770 :: <P>{%Aṉhūraṇa, as, ā, am,%} distressing, sinful; ({%am%}),
+Page0002-a+ 70 :: akARqa :: 1861 :: <>{%am,%} dying as soon as born. {%--Akāṇḍa-śūla, am,%}
+Page0002-b+ 68 :: akUpAra :: 1944 :: <P>.{#akUpAra#}¦ {%a-kū-pāra, as, ā, am,%} (probably fr.
+Page0002-b+ 68 :: akUpAra :: 1945 :: <>{%akū%} for {%a-ku,%} not bad, not contemptible, and {%pāra,%}
+Page0002-b+ 68 :: A-kūvāra = a-kū-pāra :: 1949 :: <P>{%A-kūvāra = a-kū-pāra%} above.
+# 17 --------------------------------------------------
+ǵ  (\u01f5)     2 := LATIN SMALL LETTER G WITH ACUTE
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+# 18 --------------------------------------------------
+́  (\u0301)     2 := COMBINING ACUTE ACCENT
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 749 :: <>should be written {%ṕala,%} and {%dhana, d́ana;%} or perhaps according to the Anglo-Saxon method with
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 887 :: <>Had I dared to innovate further, I should have written {%ḱ%} for {%kh, t́%} for {%th, ṕ%} for {%ph;%} and so with
+# 19 --------------------------------------------------
+Ḍ  (\u1e0c)    24 := LATIN CAPITAL LETTER D WITH DOT BELOW
+Page0356-b+ 62 :: qa :: 81238 :: <>hard {%r%}. {%--Ḍa-kāra, as,%} m. the letter or sound {%ḍ.%}
+Page0356-c+ 66 :: Ḍamaru, us, :: 81260 :: <P>{%Ḍamaru, us,%} m. a musical instrument, a sort of
+Page0356-c+ 66 :: Ḍamaruka, am, :: 81263 :: <P>{%Ḍamaruka, am,%} n. a kind of drum.
+Page0356-c+ 66 :: qAkinI :: 81287 :: <>flesh; N. of a place; [cf. {%śākinī.%}] {%--Ḍākinī-tva,%}
+Page0356-c+ 66 :: qAmara :: 81301 :: <>{%--Ḍāmara-tva, am,%} n. the state of one who excites
+Page0357-a+ 70 :: qiRqima :: 81322 :: <>a small fruit, Carissa Carandas. {%--Ḍiṇḍimeśvara-%}
+Page0357-a+ 70 :: qiRqira :: 81326 :: <>and {%ḍiṇḍīra.%}] {%--Ḍiṇḍira-modaka, am,%} n. garlic.
+Page0357-a+ 70 :: qimba :: 81352 :: <>uterus; a globe or ball. {%--Ḍimba-yuddha, am,%} n.
+Page0357-a+ 70 :: qimBa :: 81361 :: <>({%ā%}), f. an infant. {%--Ḍimbha-ćakra, am,%} n. a mystical
+Page0357-a+ 70 :: Ḍimbhaka, as, ikā, :: 81363 :: <P>{%Ḍimbhaka, as, ikā,%} m. f. a new-born child, young
+# 20 --------------------------------------------------
+ḍ  (\u1e0d)  6972 := LATIN SMALL LETTER D WITH DOT BELOW
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1639 :: <HI>{#L#} ḷ {%in%} (sometimes for {#q#} {%ḍ%} in Veda).
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1640 :: <HI>{#Lah#} ḷh {%in%} (sometimes for {#Q#} {%ḍh%} in Veda).
+Page0002-a+ 70 :: akARqa :: 1859 :: <P>.{#akARqa#}¦ {%a-kāṇḍa, as, ā, am,%} ‘without a trunk,’
+Page0002-a+ 70 :: akARqa :: 1860 :: <>causeless, unexpected. {%--Akāṇḍa-pāta-jāta, as, ā,%}
+Page0002-a+ 70 :: akARqa :: 1861 :: <>{%am,%} dying as soon as born. {%--Akāṇḍa-śūla, am,%}
+Page0002-a+ 70 :: A-kāṇḍe, :: 1863 :: <P>{%A-kāṇḍe,%} ind. causelessly, unexpectedly.
+Page0002-a+ 70 :: akAla :: 1893 :: <>{%kāla-kushmāṇḍa, as,%} m. a pumpkin produced out
+Page0002-c+ 66 :: akrIqat :: 2036 :: <P>.{#akrIqat#}¦ {%a-krīḍat, an, antī, at,%} not playing.
+Page0003-a+ 79 :: akza :: 2075 :: <>yoked to the pole of a cart. {%--Aksha-pīḍā,%} f.,
+Page0003-a+ 79 :: akza :: 2123 :: <>what has occurred in gambling. {%--Aksha-śauṇḍa, as,%}
+# 21 --------------------------------------------------
+ḥ  (\u1e25)  2451 := LATIN SMALL LETTER H WITH DOT BELOW
+Page0001-a+ 70 :: Aids and Encouragements received. :: 1657 :: <>as a substitute for final {%s%} is a distinctly audible aspirate, so that the {%ḥ%} at the end of {%devaḥ%} must be clearly heard. [Page0001-a+ 70]
+Page0001-a+ 70 :: Aids and Encouragements received. :: 1657 :: <>as a substitute for final {%s%} is a distinctly audible aspirate, so that the {%ḥ%} at the end of {%devaḥ%} must be clearly heard. [Page0001-a+ 70]
+Page0006-b+ 78 :: Agratas, :: 2844 :: <>of; at the head, first. {%--Agrataḥ-kṛi,%} cl. 8. P. A.
+Page0006-b+ 78 :: Agratas, :: 2846 :: <>the head, to consider most important. {%--Agrataḥ-%}
+Page0011-a+ 79 :: Aṅjas, as, :: 3936 :: <>preparation. {%--Aṅjaḥ-sava, as,%} m. rapid preparation
+Page0012-b+ 75 :: atas :: 4208 :: <>reason; therefore. {%--Ataḥ-param,%} ind. henceforth, fur-
+Page0012-c+ 81 :: Ati :: 4297 :: <>{%--Ati-duḥkhita%} or {%ati-dushkhita, as, ā, am,%}
+Page0012-c+ 81 :: Ati :: 4298 :: <>greatly afflicted, very sad. {%--Ati-duḥsaha, as, ā, am,%}
+Page0018-a+ 72 :: adas :: 5464 :: <>that; a certain. {%--Adas,%} ind. thus, so; ever. {%--Adaḥ-%}
+Page0018-b+ 69 :: aduHKa :: 5538 :: <P>.{#aduHKa#}¦ {%a-duḥkha, as, ā, am,%} (free from evil
+# 22 --------------------------------------------------
+ḱ  (\u1e31)     3 := LATIN SMALL LETTER K WITH ACUTE
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 887 :: <>Had I dared to innovate further, I should have written {%ḱ%} for {%kh, t́%} for {%th, ṕ%} for {%ph;%} and so with
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+# 23 --------------------------------------------------
+ḷ  (\u1e37)   115 := LATIN SMALL LETTER L WITH DOT BELOW
+Page0009-b+ 81 :: aja, as, :: 3543 :: <>prince. {%--Aja-mīḍha%} or {%aja-mīḷha, as,%} m., N. of a
+Page0031-c+ 73 :: anILa :: 8361 :: <P>.{#anILa#}¦ {%a-nīḷa,%} Ved. See {%a-nīḍa.%}
+Page0082-a+ 75 :: arI|a :: 19198 :: <P>.{#arI|a#}¦ {%a-rīḷha, as, ā, am%} (for {%a-rīḍha,%}
+Page0092-b+ 73 :: Avayāta-heḷas, ās, :: 21518 :: <P>{%Avayāta-heḷas, ās,%} m., Ved. one whose anger is
+Page0102-b+ 77 :: azAQa :: 23698 :: <P>.{#azAQa#}¦ {%a-shāḍha,%} or Ved. {%a-shāḷha, as, ā, am,%}
+Page0110-a+ 70 :: aheLat :: 25423 :: <P>.{#aheLat#}¦ {%a-heḷat, an, antī, at,%} or {%a-heḷamāna,%}
+Page0110-a+ 70 :: aheLat :: 25423 :: <P>.{#aheLat#}¦ {%a-heḷat, an, antī, at,%} or {%a-heḷamāna,%}
+Page0110-a+ 70 :: aheLat :: 25424 :: <>{%as, ā, am,%} or {%a-heḷayat, an, antī, at%} (rt. {%heḍ,%} Ved.
+Page0138-b+ 73 :: iq :: 31660 :: <>ing of the Ṛig-veda, {%iḷā%} and {%iḷas%}), a refreshing draught,
+Page0138-b+ 73 :: iq :: 31660 :: <>ing of the Ṛig-veda, {%iḷā%} and {%iḷas%}), a refreshing draught,
+# 24 --------------------------------------------------
+ṁ  (\u1e41)    11 := LATIN SMALL LETTER M WITH DOT ABOVE
+Page0003-b+ 76 :: akzara :: 2211 :: <>{%saṁsthāna, am,%} n. scripture, writing. {%--Aksharāńga%}
+Page0044-c+ 78 :: antarikza :: 11194 :: <>world. {%--Antariksha-saṁśita, as, ā, am,%} sharpened
+Page0155-a+ 76 :: Ud-īraṇa, aṁ, :: 35466 :: <P>{%Ud-īraṇa, aṁ,%} n. throwing, casting, discharging
+Page0481-b+ 70 :: niHSaMsaya :: 110304 :: <>{%niḥ-saṁśaya.%}
+Page0486-b+ 75 :: nitya :: 111366 :: <>sense {%saṁhṛishṭa = sańghṛishṭa.%}) {%--Nitya-sama,%}
+Page0745-a+ 71 :: mantr :: 170951 :: <>{%yadhvaṁ hitam mama,%} give me friendly advice;
+Page0776-b+ 79 :: Māhendra, as, ī, am :: 178274 :: <>or belonging to great Indra (e. g. {%māhendraṁ dha-%}
+Page0783-a+ 81 :: Mukta, as, ā, am, :: 179772 :: <>signed an office or occupation. {%--Mukta-saṁśaya,%}
+Page1055-c+ 76 :: sadA :: 243299 :: <>Śiva; a proper N. {%--Sadāśiva-saṁhitā,%} f., N. of
+Page1101-a+ 75 :: sahasra :: 253538 :: <>{%kaṁ sahasram%} or {%vinśaṃ sahasram,%} a thousand
+# 25 --------------------------------------------------
+ṃ  (\u1e43)  2440 := LATIN SMALL LETTER M WITH DOT BELOW
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1226 :: <>I may yet request leave to inform any mere {%Ćhidrānveshin,%} of whom it may be said {%ćhidraṃ%}
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1654 :: <>the symbol of any nasal will often be found at the end of a word, as in {%dānaṃ ća;%} but may also represent Anusvāra, when
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1655 :: <>final {%m%} is followed by initial sibilants and {%h,%} and in words formed with preposition {%sam,%} like {%saṃ-śaya, saṃ-hata:%} in the word
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1655 :: <>final {%m%} is followed by initial sibilants and {%h,%} and in words formed with preposition {%sam,%} like {%saṃ-śaya, saṃ-hata:%} in the word
+Page0004-b+ 72 :: Agastya, a, :: 2405 :: <>Canopus. {%--Agastya-saṃhitā,%} f. Agastya's collection
+Page0007-b+ 80 :: aNga :: 3119 :: <>{%--Ańga-saṃhati, is,%} f. compactness, symmetry or
+Page0016-a+ 69 :: atisAMvatsara :: 4989 :: <P>.{#atisAMvatsara#}¦ {%ati-sāṃvatsara, as, ī, am,%}
+# 26 --------------------------------------------------
+ṅ  (\u1e45)  4997 := LATIN SMALL LETTER N WITH DOT ABOVE
+Page0002-a+ 70 :: akiYcana :: 1903 :: <P>.{#akiYcana#}¦ {%a-kiṅćana, as, ā, am,%} without
+Page0002-a+ 70 :: akiYcana :: 1906 :: <>{%kiṅćana-tā,%} f. voluntary poverty (as the duty of a
+Page0002-a+ 70 :: A-kiṅćaniman, ā, :: 1908 :: <P>{%A-kiṅćaniman, ā,%} m. destitution, poverty.
+Page0002-b+ 68 :: akuDryaYc :: 1925 :: <P>.{#akuDryaYc#}¦ {%a-kudhryaṅć, an, dhrīćī, ak (ku- %}[Page0002-b+ 68]
+Page0002-b+ 68 :: akfta :: 1961 :: <>fore. {%--Akṛita-jṅa, as, ā, am,%} ungrateful. {%--Akṛita-%}
+Page0002-b+ 68 :: akfta :: 1962 :: <>{%jṅa-tā,%} f. ingratitude. {%--Akṛita-buddhi, is, is, i,%}
+Page0002-c+ 66 :: akta :: 2007 :: <P>.{#akta#}¦ 1. {%akta, as, ā, am%} (part. of rt. {%aṅć%} or {%aṅj%}
+Page0002-c+ 66 :: akta :: 2007 :: <P>.{#akta#}¦ 1. {%akta, as, ā, am%} (part. of rt. {%aṅć%} or {%aṅj%}
+Page0002-c+ 66 :: akta :: 2009 :: <P>.{#akta#}¦ 2. {%akta, as, ā, am%} (part. of rt. {%aṅj%}),
+Page0002-c+ 66 :: Aktvā :: 2017 :: <P>{%Aktvā%} (ind. part. of rt. {%aṅj%}), having besmeared.
+# 27 --------------------------------------------------
+Ṇ  (\u1e46)     1 := LATIN CAPITAL LETTER N WITH DOT BELOW
+Page0357-c+ 70 :: Ra :: 81452 :: <>third or cerebral class of consonants. {%--Ṇa-kāra, as,%}
+# 28 --------------------------------------------------
+ṇ  (\u1e47) 21339 := LATIN SMALL LETTER N WITH DOT BELOW
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 407 :: <>both forms are allowed to co-exist, as {%bhan%} and {%bhaṇ, dhan%} and
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 408 :: <>{%dhaṇ;%} others whose initials are aspirated consonants have passed
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 858 :: <>plex words, such, for example, as {%vaidika-manu-ādi-praṇīta-smṛi-%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 859 :: <>{%titvāt, karma-phala-rūpa-śarīra-dhāri-jīva-nirmitatvābhāva-mātreṇa,%}
+Page0001-a+ 70 :: afRin :: 1679 :: <P>.{#afRin#}¦ {%a-ṛiṇin, ī, inī, i,%} free from debt.
+Page0001-a+ 70 :: Aṉśa, as, :: 1689 :: <>Lat. <nsi>axilla.</nsi>]. {%--Aṉśa-karaṇa, am,%} n. act of dividing.
+Page0001-a+ 70 :: Aṉśa, as, :: 1692 :: <>{%--Aṉśa-savarṇana, am,%} n. reduction of fractions.
+Page0001-a+ 70 :: Aṉśa, as, :: 1694 :: <>{%as, ā%} or {%ī, am,%} or {%aṉśa-hārin, ī, iṇī, i,%} one who
+Page0001-a+ 70 :: Aṉśa, as, :: 1697 :: <>{%--Aṉśāṉśi,%} ind. share by share. {%--Aṉśāvataraṇa%}
+# 29 --------------------------------------------------
+ṉ  (\u1e49)  2774 := LATIN SMALL LETTER N WITH LINE BELOW
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1327 :: <>be readily supplied; this applies especially to participles, and occasionally to verbal nouns, e. g. under {%vi-hiṉs%} at the head
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1328 :: <>of a group, p. 952, it is easy to supply {%vi-hiṉsana, am,%} n. the act of injuring.
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+Page0001-a+ 70 :: aMS :: 1680 :: <P>.{#aMS#}¦ {%aṉś,%} cl. 10. P. {%aṉśayati, -yitum,%} to
+Page0001-a+ 70 :: aMS :: 1680 :: <P>.{#aMS#}¦ {%aṉś,%} cl. 10. P. {%aṉśayati, -yitum,%} to
+Page0001-a+ 70 :: aMS :: 1682 :: <>{%aṉśayate;%} also {%aṉśāpayati.%}
+Page0001-a+ 70 :: aMS :: 1682 :: <>{%aṉśayate;%} also {%aṉśāpayati.%}
+# 30 --------------------------------------------------
+ṕ  (\u1e55)     2 := LATIN SMALL LETTER P WITH ACUTE
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 749 :: <>should be written {%ṕala,%} and {%dhana, d́ana;%} or perhaps according to the Anglo-Saxon method with
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 887 :: <>Had I dared to innovate further, I should have written {%ḱ%} for {%kh, t́%} for {%th, ṕ%} for {%ph;%} and so with
+# 31 --------------------------------------------------
+Ṛ  (\u1e5a)   288 := LATIN CAPITAL LETTER R WITH DOT BELOW
+Page0118-c+ 78 :: Ātmaka, as, ikā, :: 27297 :: <>posed of five; {%vishātmaka,%} poisonous; {%Ṛig-ātmaka,%}
+Page0178-c+ 75 :: f :: 40674 :: <>in {%merrily%}. {%--Ṛi-kāra, as,%} m. the letter or sound {%ṛi.%}
+Page0179-a+ 73 :: fkRa :: 40708 :: <>{%vraść%}), wounded. {%--Ṛikṇa-vaha, as, ā, am,%} whose
+Page0179-a+ 73 :: fkTa :: 40713 :: <>gold; see {%riktha%}. {%--Ṛiktha-grahaṇa, am,%} n. re-
+Page0179-a+ 73 :: fkTa :: 40714 :: <>ceiving or inheriting property. {%--Ṛiktha-grāha, as,%}
+Page0179-a+ 73 :: fkTa :: 40716 :: <>m. inheriting or receiving property. {%--Ṛiktha-jāta,%}
+Page0179-a+ 73 :: fkTa :: 40718 :: <>property). {%--Ṛiktha-bhāga, as,%} m. division of pro-
+Page0179-a+ 73 :: fkTa :: 40719 :: <>perty, inheritance, partition, a share. {%--Ṛiktha-bhā-%}
+Page0179-a+ 73 :: fkTa :: 40721 :: <>property. {%--Ṛiktha-hara, as, ī, am,%} an heir, a co-
+Page0179-a+ 73 :: fkTa :: 40722 :: <>heir. {%--Ṛiktha-hārin, ī, iṇī, i,%} inheriting or sharing
+# 32 --------------------------------------------------
+ṛ  (\u1e5b) 16787 := LATIN SMALL LETTER R WITH DOT BELOW
+Pagev+ 45 :: NO HW :: 32 :: <>{%Reasons for undertaking a New Sanskṛit Dictionary.%}
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 365 :: <>interminable chain. In illustration of this the student is referred to such roots as 1. {%kṛi,%} p. 245;
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 410 :: <>all forms co-exist in {%bhṛi, dhṛi, dhvṛi, hvṛi,%} &c. Again, such a
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 410 :: <>all forms co-exist in {%bhṛi, dhṛi, dhvṛi, hvṛi,%} &c. Again, such a
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 410 :: <>all forms co-exist in {%bhṛi, dhṛi, dhvṛi, hvṛi,%} &c. Again, such a
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 410 :: <>all forms co-exist in {%bhṛi, dhṛi, dhvṛi, hvṛi,%} &c. Again, such a
+Pagexii+ 45 :: Plan and Arrangement of the Present Work. :: 499 :: <H>{%Extent of Sanskṛit Literature comprehended.%}
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 654 :: <>{%śva-dṛitau dhṛitam;%} cf. Muir's Sanskṛit Texts, vol. ii. p. 53, note
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 654 :: <>{%śva-dṛitau dhṛitam;%} cf. Muir's Sanskṛit Texts, vol. ii. p. 53, note
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 767 :: <>vowel-system by the Hindūs necessitates the introduction of two new vowels, {%ṛi%} and {%lṛi.%} Again, each
+# 33 --------------------------------------------------
+ṝ  (\u1e5d)     1 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 882 :: <>by many German scholars--though {%ṛ, ṝ%} seem to me somewhat unsuitable for vowel sounds. So
+# 34 --------------------------------------------------
+ṣ  (\u1e63)     1 := LATIN SMALL LETTER S WITH DOT BELOW
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 902 :: <P>I also prefer the symbol {%ṣ%} for the cerebral sibilant. Should a second edition of this Dictionary
+# 35 --------------------------------------------------
+Ṭ  (\u1e6c)    24 := LATIN CAPITAL LETTER T WITH DOT BELOW
+Page0355-c+ 66 :: wa :: 81068 :: <>slightly turning it upwards. {%--Ṭa-kāra, as,%} m. the
+Page0355-c+ 66 :: wa :: 81069 :: <>letter or sound {%ṭ%}. {%--Ṭa-varga, as,%} m. the cerebral
+Page0355-c+ 66 :: wa :: 81070 :: <>consonants collectively. {%--Ṭavargīya, as, ā, am,%}
+Page0355-c+ 66 :: Ṭakkadeśīya, as, :: 81079 :: <P>{%Ṭakkadeśīya, as,%} m. a kind of pot-herb, Cheno-
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81093 :: <P>{%Ṭańka, as, am,%} m. n. (according to some only
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81104 :: <>({%as, ā, am%}), m. f. n. the leg. {%--Ṭańka-ṭīka, as,%} m.
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81105 :: <>an epithet of Śiva. {%--Ṭańka-pati, is,%} m. the master
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81106 :: <>of the mint. {%--Ṭańka-vat, ān, atī, at,%} having crags
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81107 :: <>or declivities. {%--Ṭańka-śālā,%} f. a mint.
+Page0355-c+ 66 :: Ṭańkaka, as, :: 81108 :: <P>{%Ṭańkaka, as,%} m. a stamped coin especially of
+# 36 --------------------------------------------------
+ṭ  (\u1e6d) 13201 := LATIN SMALL LETTER T WITH DOT BELOW
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1648 :: <>For the correct pronunciation of the aspirated consonants, {%kh, ćh, ṭh, th, ph,%} &c., see p. xix of the preceding Preface.
+Page0001-a+ 70 :: Aṉśu, us, :: 1714 :: <>bearer of rays, the sun. {%--Aṉśu-paṭṭa, am,%} n. a kind
+Page0001-a+ 70 :: Aṉśu, us, :: 1714 :: <>bearer of rays, the sun. {%--Aṉśu-paṭṭa, am,%} n. a kind
+Page0001-b+ 66 :: aMsa :: 1736 :: <><nsi>ansa</nsi>]. {%--Aṉsa-kūṭa, as,%} m. a bull's hump, the pro-
+Page0001-b+ 66 :: akaRwaka :: 1785 :: <P>.{#akaRwaka#}¦ {%a-kaṇṭaka, as, ā, am,%} free from
+Page0001-b+ 66 :: akanizWa :: 1790 :: <P>.{#akanizWa#}¦ {%a-kanishṭha, as, ā, am,%} not the
+Page0001-b+ 66 :: akanizWa :: 1792 :: <>saint, Buddha. {%--Akanishṭha-ga, as,%} m. Buddha.
+Page0002-a+ 70 :: akArRAvezwakika :: 1883 :: <P>.{#akArRAvezwakika#}¦ {%a-kārṇaveshṭakika, as, ī, am,%}
+Page0002-a+ 70 :: akArRAvezwakika :: 1884 :: <>not adapted for ear-rings. See {%karṇa-veshṭaka.%}
+Page0002-a+ 70 :: akuRWa :: 1914 :: <P>.{#akuRWa#}¦ {%a-kuṇṭha, as, ā, am,%} not blunted
+*******************************

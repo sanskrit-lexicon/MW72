@@ -1,0 +1,125 @@
+input file = italics4.txt
+*******************************
+43  'AS' codes follow, with instances
+Each instances shows: page,headword,line number in italics4.txt
+*******************************
+# 01 a1   136 := ā  (\u0101)  LATIN SMALL LETTER A WITH MACRON
+# 02 a10    70 := â  (\u00e2)  LATIN SMALL LETTER A WITH CIRCUMFLEX
+# 03 a11    18 := à  (\u00e0)  LATIN SMALL LETTER A WITH GRAVE
+# 04 a4    19 := á(\u00e1) LATIN SMALL LETTER A with udatta accent
+# 05 a7    10 := ä  (\u00e4)  LATIN SMALL LETTER A WITH DIAERESIS
+# 06 c4    28 := ć  (\u0107)  LATIN SMALL LETTER C WITH ACUTE
+# 07 d2     2 := ḍ  (\u1e0d)  LATIN SMALL LETTER D WITH DOT BELOW
+15925@koSa@58267@Vulg@keud2a1
+23104@dviz@101951@Zend@d2bish,
+# 08 e1    22 := ē  (\u0113)  LATIN SMALL LETTER E WITH MACRON
+# 09 e10    70 := ê  (\u00ea)  LATIN SMALL LETTER E WITH CIRCUMFLEX
+# 10 e11     2 := è  (\u00e8)  LATIN SMALL LETTER E WITH GRAVE
+20906@tittiri@85126@Lith@tete11rva,
+37782@mfti@181403@Lith@s-me11r-ti-s.
+# 11 e14     4 := ē'  (\u0113\u0301)  LATIN SMALL LETTER E WITH MACRON AND ACUTE
+24565@nij@111171@Lith@sne14g-a-s,
+26880@pati@120874@Lith@ve14sz-pat-s,
+28603@pA@127924@Lith@pe14-na-s,
+28627@pA@128083@Lith@pe14-tu-s,
+# 12 e4    34 := é  (\u00e9)  LATIN SMALL LETTER E WITH ACUTE
+# 13 e7     9 := ë  (\u00eb)  LATIN SMALL LETTER E WITH DIAERESIS
+21481@tyad@88187@Germ@de7r
+22377@div@94341@Lith@de7na11,
+28627@pA@128082@Lith@pe7-
+30677@prati@140021@Lith@pre7sz,
+33872@prI@151269@Lith@pre7teliu-s,
+36797@mA@175551@Lith@me7-ra,
+53330@spaSa@264983@Germ@spe7hon,
+53330@spaSa@264984@Germ@spe7hu,
+53751@svasf@267539@Germ@sue7star;
+# 14 g4     1 := ǵ  (\u01f5)  LATIN SMALL LETTER G WITH ACUTE
+12588@fkza@40747@Armen*@arg4.
+# 15 i1    67 := ī  (\u012b)  LATIN SMALL LETTER I WITH MACRON
+# 16 i10    25 := î  (\u00ee)  LATIN SMALL LETTER I WITH CIRCUMFLEX
+# 17 i11     8 := ì (\u00ec) LATIN SMALL LETTER I WITH GRAVE
+21312@tF@87428@Lith@tri11n-ti,
+23976@navan@108367@Lith@devi11n-ta-s,
+28317@pard@126595@Lith@perd-z-u, pe4rs-ti, pi11rd-i-s.
+28524@palita@127339@Lith@pi11l-ka-s,
+29336@piSuna@131842@Lith@pi11k-ta-s,
+29386@pItu@132195@Lith@pi11ki-s,
+29807@pF@136692@Lith@pi11l-na-s,
+31971@praTama@143960@Lith@pi11r-ma-s.
+# 18 i4     5 := í (\u00ed) LATIN SMALL LETTER I and udatta accent
+19225@jaYj@76576@Lith@z2inczi4ju.
+20884@tij@84985@Russ@toc4i4lo,
+22394@diS@94633@Sax@tihher, tiid, ti4d;
+22403@dih@94833@Sax@di4c, deag, tigel, tigul;
+28598@pasas@127874@Lith@pi4s-ti,
+# 19 i7     3 := ï  (\u00ef)  LATIN SMALL LETTER I WITH DIAERESIS
+18054@Gol@70571@Benga1li1@ghola1i7te.
+33872@prI@151270@Brit@pri7awd.
+48300@sakala@240544@Russ@zielyi7;
+# 20 k2     3 := ḳ  (\u1e33)  LATIN SMALL LETTER K WITH DOT BELOW
+23479@DUpya@104708@Pers@na1k2huni k2hwush.
+23479@DUpya@104708@Pers@na1k2huni k2hwush.
+36788@mahmadaKAna@175419@Pers@= muhammad k2ha1n
+# 21 n2     1 := ṇ  (\u1e47)  LATIN SMALL LETTER N WITH DOT BELOW
+21293@tfz@87304@Zend@tarshn2a,
+# 22 n3     3 := ṅ  (\u1e45)  LATIN SMALL LETTER N WITH DOT ABOVE
+26716@paYcan@119384@Zend@pan3c4an;
+48841@sat@242482@Lith@esan3s,
+53632@svayam@266793@Hib@fein3,
+# 23 n4     1 := ń  (\u0144)  LATIN SMALL LETTER N WITH ACUTE
+26383@nf@117811@Zend@s4an4gho.
+# 24 n5     2 := ñ  (\u00f1)  LATIN SMALL LETTER N WITH TILDE
+21671@tvakz@89948@Slav@tuÇk-n5a-ti,
+21869@danta@91460@Zend@dan5t-an,
+# 25 n6     1 := ṉ  (\u1e49)  LATIN SMALL LETTER N WITH LINE BELOW
+7081@avyaNga@22856@Zend@aiwya10n6hanem
+# 26 o1    39 := ō  (\u014d)  LATIN SMALL LETTER O WITH MACRON
+# 27 o10    74 := ô  (\u00f4)  LATIN SMALL LETTER O WITH CIRCUMFLEX
+# 28 o11     4 := ò  (\u00f2)  LATIN SMALL LETTER O WITH GRAVE
+158@akza@2151@Russ@o11ko
+12529@UrRa@40394@Russ@vo11lna;
+14692@kAs@51960@Lith@ko11stu, ko11seti;
+14692@kAs@51960@Lith@ko11stu, ko11seti;
+# 29 o4    15 := ó  (\u00f3) LATIN SMALL LETTER O and udatta accent
+# 30 o7     4 := ö  (\u00f6)  LATIN SMALL LETTER O WITH DIAERESIS
+15198@kubja@53889@Germ@Ho7cker?
+21312@tF@87423@Island@thro7-m,
+23085@dvA@101164@Germ@zwo7-lf.
+23637@DraR@105640@Germ@dro7nen.
+# 31 s2     2 := ṣ  (\u1e63)  LATIN SMALL LETTER S WITH DOT BELOW
+10156@ukzan@33192@Armen@es2n.
+12949@ojas@43014@Zend@aus2o;
+# 32 s4    35 := ś  (\u015b)  LATIN SMALL LETTER S WITH ACUTE
+# 33 t2     3 := ṭ  (\u1e6d)  LATIN SMALL LETTER T WITH DOT BELOW
+20532@tarawa@83312@Hindi@t2a1mMMkala1;
+34356@baw@153605@Zend@ba1t2, ba1.
+45203@vOzaw@223887@Zend@vaoshat2.
+# 34 u1    66 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
+# 35 u10    53 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
+# 36 u11    47 := ù  (\u00f9)  LATIN SMALL LETTER U WITH GRAVE
+# 37 u14     1 := ū'  (\u016b)  LATIN SMALL LETTER U WITH MACRON and acute
+10666@ud@34976@Lit@wandu14.
+# 38 u4    14 := ú (\u00fa) LATIN SMALL LETTER U and udatta accent
+# 39 u7    15 := ü  (\u00fc)  LATIN SMALL LETTER U WITH DIAERESIS
+# 40 y10     1 := ŷ  (\u0177)  LATIN SMALL LETTER Y WITH CIRCUMFLEX
+40580@lup@200142@Norse@ry10f:
+# 41 y4     8 := ý  (\u00fd)  LATIN SMALL LETTER Y WITH ACUTE
+21549@tri@88462@Lith@try4s,
+21671@tvakz@89945@Lith@y4-s,
+21671@tvakz@89947@Lith@tiky4-ti,
+21671@tvakz@89947@Lith@taszy4-ti,
+28603@pA@127924@Lith@py4-va-s,
+29336@piSuna@131842@Lith@py4k-ti,
+37900@me@182261@Lith@mainy4-ti,
+53155@sTA@263876@Lith@staty4-ti,
+# 42 z2     3 := ẓ  (\u1e93)  LATIN SMALL LETTER Z WITH DOT BELOW
+19151@Cfd@76230@Lith@spindz2iu, spindulys,
+19225@jaYj@76576@Lith@z2inczi4ju.
+19416@jala@77733@Lith@sz2ala, szattas;
+# 43 z4     6 := ź  (\u017a)  LATIN SMALL LETTER Z WITH ACUTE
+22376@div@94296@Lith*@z4ibu,
+22394@diS@94635@Lith@z4e4nklas,
+22434@dIp@95008@Lith@z4ibbu,
+36219@maT@168170@Slav@ez4Ç,
+46937@SuB@233921@Lith*@z4ibbu.
+48300@sakala@240544@Lith*@cz4iela-s;

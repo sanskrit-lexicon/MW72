@@ -1,0 +1,71 @@
+; 11/7/2016
+; L=23786, hw=naqa, chg= --Na2d2a -> --Nad2a
+106762 old <>of a place. {%--Na2d2a-sam2hati, is,%} f. a collection or
+106762 new <>of a place. {%--Nad2a-sam2hati, is,%} f. a collection or
+;
+; L=36832, hw=mAkara, chg= vyu1ha2 -> vyu1hah2,
+176056 old <>{%ma1karo vyu1ha2,%} a particular form of military array;
+176056 new <>{%ma1karo vyu1hah2,%} a particular form of military array;
+;
+; L=39957, hw=rOdrARI, chg= dra2n2i1-stotra. -> dra1n2i1-stotra.
+197136 old <>dra2n2i1-stotra.%}
+197136 new <>dra1n2i1-stotra.%}
+;
+; L=2963, hw=antima, chg= da4a1ntima, -> das4a1ntima,
+11295 old <>{%da4a1ntima,%} ‘the eleventh’); very near.
+11295 new <>{%das4a1ntima,%} ‘the eleventh’); very near.
+;
+; L=28626, hw=pA, chg= pe14-tu-s, -> pe14-tu-s,
+;128083 old <>mu4§,%} ‘a shepherd;’ {%pe14-tu-s,%} ‘midday:’ Goth. {%fod-
+;128083 new <>mu4§,%} ‘a shepherd;’ {%pe14-tu-s,%} ‘midday:’ Goth. {%fod-
+;
+; L=23975, hw=navan, chg= {%nabhas%}; {%devi11n-ta-s%}, -> {%nabhas; {%devi11n-ta-s%},
+108367 old <>{%nabhas; devi11n-ta-s,%} ‘the ninth:’ Hib. {%naoi,%} ‘nine:’
+108367 new <>{%nabhas%}; {%devi11n-ta-s,%} ‘the ninth:’ Hib. {%naoi,%} ‘nine:’
+;
+; L=39680, hw=ruDira, chg= in2i11 -> in2i1
+195718 old <>(ºra-udº), i1, in2i11, i,%} spitting blood, vomiting blood;
+195718 new <>(ºra-udº), i1, in2i1, i,%} spitting blood, vomiting blood;
+;
+; L=950, hw=aTarvan, chg= s4i4ras, -> s4iras,
+5351 old <>{%--Atharva-s4i4ras,%} n. = preceding; ({%a1s%}), m. an epithet
+5351 new <>{%--Atharva-s4iras,%} n. = preceding; ({%a1s%}), m. an epithet
+;
+; L=53872, hw=han, chg= aji7ghatat -> aji1ghatat
+268205 old <>&c.: Caus. {%gha1tayati, -yitum,%} Aor. {%aji7ghatat%}
+268205 new <>&c.: Caus. {%gha1tayati, -yitum,%} Aor. {%aji1ghatat%}
+;
+; L=20237, hw=Ra, chg= --N2a-ka1ra, as, -> --N2a-ka1ra, as,
+;81452 old <>third or cerebral class of consonants. {%--N2a-ka1ra, as,%}
+;81452 new <>third or cerebral class of consonants. {%--N2a-ka1ra, as,%}
+;
+; L=18074, hw=Na, chg= N4a-ka1ra, as, -> N4a-ka1ra, as,
+;70637 old <>that of {%ng%} in {%song%}. -- {%N4a-ka1ra, as,%} m. the letter or
+;70637 new <>that of {%ng%} in {%song%}. -- {%N4a-ka1ra, as,%} m. the letter or
+;
+; L=39726, hw=rUQa, chg= van5s4a, -> van3s4a,
+; elsewhere in mw72, n3 represents palatal nasal, which is printed as 
+; n with an overdot.
+195913 old <>attained to youth or adolescence. {%--Ru1d2ha-van5s4a,
+195913 new <>attained to youth or adolescence. {%--Ru1d2ha-van3s4a,
+;
+; L=30108, hw=prauga, chg= ubhayatah2-prau7ga, -> ubhayatah2-prau7ga,
+; in mw72, au7 is used for diaresis.
+;137675 old <>yuga-bandhana-stha1nam%}); {%ubhayatah2-prau7ga,%}
+;137675 new <>yuga-bandhana-stha1nam%}); {%ubhayatah2-prau7ga,%}
+;
+; L=30108, hw=prauga, chg= --Prau7ga-c4it, t, t, t, -> --Prau7ga-c4it, t, t, t,
+;137678 old <>the morning libation. {%--Prau7ga-c4it, t, t, t,%} Ved.
+;137678 new <>the morning libation. {%--Prau7ga-c4it, t, t, t,%} Ved.
+;
+; L=32604, hw=prayuga, chg= prau7ga, -> prau7ga,
+;146332 old <>of {%prau7ga,%} q. v.
+;146332 new <>of {%prau7ga,%} q. v.
+;
+; L=33553, hw=prAtar, chg= prau7ga s4astra -> prau7ga s4astra
+;150044 old <>ja1h2, a1jya%} or {%prau7ga s4astra%}). {%--Pra1tah2savanika%}
+;150044 new <>ja1h2, a1jya%} or {%prau7ga s4astra%}). {%--Pra1tah2savanika%}
+;
+; L=54197, hw=hiraRya, chg= --Hiran2ya-prau7ga, -> --Hiran2ya-prau7ga,
+;270352 old <>as,%} Ved. having golden lustre. {%--Hiran2ya-prau7ga,
+;270352 new <>as,%} Ved. having golden lustre. {%--Hiran2ya-prau7ga,

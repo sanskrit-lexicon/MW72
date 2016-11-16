@@ -1,0 +1,128 @@
+input file = italics1.txt
+*******************************
+51  'AS' codes follow, with instances
+Each instances shows: page,headword,line number in italics1.txt
+*******************************
+# 01 A1   709 := Ā  (\u0100)  LATIN CAPITAL LETTER A WITH MACRON
+# 02 a1 96210 := ā  (\u0101)  LATIN SMALL LETTER A WITH MACRON
+# 03 a10    37 := â  (\u00e2)  LATIN SMALL LETTER A WITH CIRCUMFLEX
+# 04 a11     7 := à  (\u00e0)  LATIN SMALL LETTER A WITH GRAVE
+21272@tfp@87246@@tarpa11,
+22377@div@94341@@de7na11,
+23016@dru@100716@@pa-dribba11,
+23460@DU@104633@@du-ma-s, du1-ma11,
+23536@Dfz@105222@@dras-a11,
+24565@nij@111171@@snaig-ala11,
+26909@pad@121076@@ped-a11,
+# 05 a4     6 := á(\u00e1) LATIN SMALL LETTER A with udatta accent
+20273@taNk@81598@@ta4kas,
+22394@diS@94633@@taecan, ta4cn, ta4cen, tier
+22394@diS@94633@@taecan, ta4cn, ta4cen, tier
+35611@Buj@163293@@bug-an, bea4g, beagrian, boga, eln-boga, el-
+37777@mf@181321@@ma4r-a-s,
+53155@sTA@263877@@sta4-kle-s,
+# 06 C4  1344 := Ć  (\u0106)  LATIN CAPITAL LETTER C WITH ACUTE
+# 07 c4 12867 := ć  (\u0107)  LATIN SMALL LETTER C WITH ACUTE
+# 08 d2  5180 := ḍ  (\u1e0d)  LATIN SMALL LETTER D WITH DOT BELOW
+# 09 D2    11 := Ḍ  (\u1e0c)  LATIN CAPITAL LETTER D WITH DOT BELOW
+# 10 e1    12 := ē  (\u0113)  LATIN SMALL LETTER E WITH MACRON
+# 11 e10    22 := ê  (\u00ea)  LATIN SMALL LETTER E WITH CIRCUMFLEX
+# 12 e14     4 := ē'  (\u0113\u0301)  LATIN SMALL LETTER E WITH MACRON AND ACUTE
+24565@nij@111171@@sne14g-a-s,
+26880@pati@120874@@ve14sz-pat-s,
+28603@pA@127924@@pe14-na-s,
+28627@pA@128083@@pe14-tu-s,
+# 13 e4    12 := é  (\u00e9)  LATIN SMALL LETTER E WITH ACUTE
+# 14 e7     3 := ë  (\u00eb)  LATIN SMALL LETTER E WITH DIAERESIS
+22377@div@94341@@de7na11,
+28627@pA@128082@@pe7-
+53330@spaSa@264984@@spe7hu,
+# 15 h2  2261 := ḥ  (\u1e25)  LATIN SMALL LETTER H WITH DOT BELOW
+# 16 I1    61 := Ī  (\u012a)  LATIN CAPITAL LETTER I WITH MACRON
+# 17 i1 30055 := ī  (\u012b)  LATIN SMALL LETTER I WITH MACRON
+# 18 i10     5 := î  (\u00ee)  LATIN SMALL LETTER I WITH CIRCUMFLEX
+9971@il@32462@@i10lju;
+29733@pf@135929@@peri10-culu-m, par-a-re (?), parere, partus, portare:
+47381@Sri@236293@@fora-hline10n; hli10ta,
+47381@Sri@236293@@scri10tan,
+47381@Sri@236294@@ga-scri10tan, scrit:
+# 19 i11     3 := ì (\u00ec) LATIN SMALL LETTER I WITH GRAVE
+23976@navan@108367@@devi11n-ta-s,
+28524@palita@127339@@pi11l-ka-s,
+29807@pF@136692@@pi11l-na-s,
+# 20 i4     3 := í (\u00ed) LATIN SMALL LETTER I and udatta accent
+20884@tij@84985@@toc4i4lo,
+22394@diS@94633@@tihher, tiid, ti4d;
+28598@pasas@127874@@pi4s-ti,
+# 21 i7     1 := ï  (\u00ef)  LATIN SMALL LETTER I WITH DIAERESIS
+18054@Gol@70571@@ghola1i7te.
+# 22 k2     3 := ḳ  (\u1e33)  LATIN SMALL LETTER K WITH DOT BELOW
+23479@DUpya@104708@@na1k2huni k2hwush.
+23479@DUpya@104708@@na1k2huni k2hwush.
+36788@mahmadaKAna@175419@@= muhammad k2ha1n
+# 23 l2    82 := ḷ  (\u1e37)  LATIN SMALL LETTER L WITH DOT BELOW
+# 24 m2  1711 := ṃ  (\u1e43)  LATIN SMALL LETTER M WITH DOT BELOW
+# 25 m3    10 := ṁ  (\u1e41)  LATIN SMALL LETTER M WITH DOT ABOVE
+# 26 N2     1 := Ṇ  (\u1e46)  LATIN CAPITAL LETTER N WITH DOT BELOW
+20238@Ra@81452@@--N2a-ka1ra, as,
+# 27 n2 15888 := ṇ  (\u1e47)  LATIN SMALL LETTER N WITH DOT BELOW
+# 28 n3  3745 := ṅ  (\u1e45)  LATIN SMALL LETTER N WITH DOT ABOVE
+# 29 N4     1 := Ń  (\u0143)  LATIN CAPITAL LETTER N WITH ACUTE
+18075@Na@70637@@--N4a-ka1ra, as,
+# 30 n4  4800 := ń  (\u0144)  LATIN SMALL LETTER N WITH ACUTE
+# 31 n5     1 := ñ  (\u00f1)  LATIN SMALL LETTER N WITH TILDE
+21869@danta@91460@@dan5t-an,
+# 32 n6  2220 := ṉ  (\u1e49)  LATIN SMALL LETTER N WITH LINE BELOW
+# 33 o1    14 := ō  (\u014d)  LATIN SMALL LETTER O WITH MACRON
+# 34 o10    25 := ô  (\u00f4)  LATIN SMALL LETTER O WITH CIRCUMFLEX
+# 35 o4     6 := ó  (\u00f3) LATIN SMALL LETTER O and udatta accent
+21293@tfz@87311@@tro4szkulis,
+23964@nava@108225@@nauyo4-ka-s,
+34159@plu@152609@@fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;
+34159@plu@152609@@fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;
+35959@BrAtf@166404@@bro4-li-s,
+37777@mf@181321@@mo4rai,
+# 36 R2   238 := Ṛ  (\u1e5a)  LATIN CAPITAL LETTER R WITH DOT BELOW
+# 37 r2 12444 := ṛ  (\u1e5b)  LATIN SMALL LETTER R WITH DOT BELOW
+# 38 s2     1 := ṣ  (\u1e63)  LATIN SMALL LETTER S WITH DOT BELOW
+12949@ojas@43014@@aus2o;
+# 39 S4  2885 := Ś  (\u015a)  LATIN CAPITAL LETTER S WITH ACUTE
+# 40 s4 18247 := ś  (\u015b)  LATIN SMALL LETTER S WITH ACUTE
+# 41 T2    13 := Ṭ  (\u1e6c)  LATIN CAPITAL LETTER T WITH DOT BELOW
+# 42 t2  9628 := ṭ  (\u1e6d)  LATIN SMALL LETTER T WITH DOT BELOW
+# 43 U1   124 := Ū  (\u016a)  LATIN CAPITAL LETTER U WITH MACRON
+# 44 u1  9969 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
+# 45 u10    16 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
+# 46 u11    17 := ù  (\u00f9)  LATIN SMALL LETTER U WITH GRAVE
+# 47 u4     9 := ú (\u00fa) LATIN SMALL LETTER U and udatta accent
+23873@nam@107488@@nu4§m-a-s,
+28627@pA@128083@@mu4§,
+29676@pUy@135091@@pu4-d-au,
+29676@pUy@135091@@pu4-lei,
+34159@plu@152612@@plau4-t-is; plu4-sti,
+34159@plu@152612@@plau4-t-is; plu4-sti,
+36797@mA@175551@@ma-tu4§-
+52274@siv@257031@@siu4-ti
+52274@siv@257031@@siu4-ta-s.
+# 48 u7     9 := ü  (\u00fc)  LATIN SMALL LETTER U WITH DIAERESIS
+12370@ulba@39895@@u7la;
+30109@prauga@137675@@ubhayatah2-prau7ga,
+30109@prauga@137678@@--Prau7ga-c4it, t, t, t,
+31565@pratIpa@142696@@protivnu7i,
+32605@prayuga@146332@@prau7ga,
+33554@prAtar@150044@@prau7ga s4astra
+34779@buD@156806@@bodru7iÇ,
+36819@mAuTa@175909@@ma1u7n2atha.
+54198@hiraRya@270352@@--Hiran2ya-prau7ga,
+# 49 y10     1 := ŷ  (\u0177)  LATIN SMALL LETTER Y WITH CIRCUMFLEX
+40580@lup@200142@@ry10f:
+# 50 y4     7 := ý  (\u00fd)  LATIN SMALL LETTER Y WITH ACUTE
+21671@tvakz@89945@@y4-s,
+21671@tvakz@89947@@tiky4-ti,
+21671@tvakz@89947@@taszy4-ti,
+28603@pA@127924@@py4-va-s,
+29336@piSuna@131842@@py4k-ti,
+37900@me@182261@@mainy4-ti,
+53155@sTA@263876@@staty4-ti,
+# 51 z4     1 := ź  (\u017a)  LATIN SMALL LETTER Z WITH ACUTE
+36219@maT@168170@@ez4Ç,

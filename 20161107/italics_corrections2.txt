@@ -1,0 +1,2482 @@
+22@aMsa@1736@Lat@ansa
+27@aMhas@1758@SAN@agha, a1gas;
+237@agADa@2413@Goth@go10da
+256@agni@2477@SAN@agni
+274@agru@2889@Zend@aghru
+329@aNgAra@3172@Germ@colo;
+958@ad@5375@Slav@jadmj;
+958@ad@5376@Goth@ita;
+1253@aDivAsana@6377@SAN@adhi-va1sa
+2912@anta@10826@Theme@andja;
+2912@anta@10827@SAN@anta
+2912@anta@10828@Goth@anda-vaurd,
+2912@anta@10829@Germ@entsagen
+2921@antar@10897@Zend@antareÇ;
+2923@antara@11120@Theme@anthara;
+2996@anya@11527@Zend@anya;
+2996@anya@11528@Them@alja;
+3004@anyadA@11661@Slav@inuÇda
+3349@apara@12596@Germ@Aber-mal, Aber-
+3349@apara@12597@Germ@witz
+3686@api@13454@Zend@api
+4138@aBi@14638@Zend@aibi
+5567@ambu@18289@?@imber
+5572@amBas@18366@?@imber
+5619@ayas@18565@Lat@œs-is;
+5619@ayas@18565@Them@aisa;
+5738@aram@18972@SAN@alam
+5863@arG@19429@Germ@a1rgern;
+5863@arG@19429@Germ@a
+5863@arG@19430@Germ@arag, arak,
+5863@arG@19430@Germ@arg,
+6107@ava@20479@Zend@ava,
+7080@avyaNga@22856@Zend@aiwya10n6hanem
+7255@aSman@23282@Zend@as4man;
+7255@aSman@23283@Pers@asma1n;
+7255@aSman@23283@Them@akmen;
+7255@aSman@23284@Them@kamen
+7295@aSva@23433@Zend@as4pa;
+7334@azwrA@23871@Zend@astra10;
+7514@asAkzAt@24361@SAN@aksha
+7514@asAkzAt@24362@SAN@akshi,
+7649@asTi@24860@Lat@ossis,
+7649@asTi@24860@Lat@ostis;
+7649@asTi@24861@Slav@k
+7674@asmad@24970@Goth@usna;
+7739@aham@25192@Zend@azem;
+7739@aham@25194@Cambro-brit@ym;
+7773@ahi@25302@SAN@a-phena
+8304@Atan@26943@SAN@ta1y,
+8360@Atman@27108@Them@a1tuma;
+8360@Atman@27110@Hib@adhma,
+8360@Atman@27112@SAN@va1.
+8435@Adara@27614@Hib@adharach,
+8703@Apad@28290@Hib@a10pthach,
+8824@ABA@28590@Hib@aoibe,
+8824@ABA@28590@Hib@aoibheal,
+9515@ASu@30506@Lat@acupedeus, o10cissimus:
+9515@ASu@30507@Lat@accipiter.
+9597@As@30849@Lat@a10ra; a10-nus
+9597@As@30849@Lat@a10s-nus.
+9626@Asan@30947@SAN@a1sya
+9646@Asecana@30991@SAN@a-sec4ana,
+9823@i@31479@SAN@itara, itas, iti, id, idam, ida1, iyat, iva, iha:
+9825@i@31504@Slav@i-ti,
+9932@iDma@32319@Zend@ais4ma.
+10041@iha@32745@Zend@idha,
+10143@ukta@33108@Zend@ukhta.
+10149@ukz@33173@Hib@uisge,
+10149@ukz@33173@Hib@uisgeach,
+10155@ukzan@33191@Zend@ukhshan;
+10155@ukzan@33192@Goth@auhsu;
+10167@ugra@33246@Zend@ughra.
+10516@utTa@34514@Zend@usta.
+11209@upa@36618@Germ@obdach, obliegen,
+11724@upari@38034@Zend@upara;
+11805@upohyamAna@38253@SAN@upoh,
+12319@uru@39684@Hib@ur-ard,
+12319@uru@39684@Hib@uras,
+12357@ulUka@39850@Fr@hulotte.
+12519@Urj@40349@Hib@orcaim,
+12528@UrRa@40393@Lat@vellus;
+12579@f@40697@Hib@do ria,
+12579@f@40697@Hib@ria,
+12579@f@40698@Hib@riach,
+12579@f@40698@Hib@riachtaim,
+12579@f@40699@Hib@ar,
+12579@f@40700@Germ@ki-
+12579@f@40701@Germ@erpit,
+12579@f@40701@Them@arbja,
+12579@f@40705@Hib@aor,
+12587@fkza@40746@Lith@olkys;
+12592@fGAya@40773@Zend@ereghata;
+12615@fju@40886@Zend@eÇreÇs4u.
+12628@fRa@40978@Eng@d.
+12639@fti@41136@Hib@raite,
+12642@ftu@41167@Hib@alt,
+12653@fD@41253@Goth@aurti-gards;
+12672@fzaBa@41362@Zend@arshan;
+12675@fzi@41416@Hib@arrach,
+12693@eka@41570@Hib@neach,
+12693@eka@41570@Hib@neach-
+12693@eka@41571@Hib@neachdarach,
+12693@eka@41572@Lat@e10c-ocles:
+12693@eka@41573@Goth@haihs,
+12693@eka@41573@Them@haiha,
+12693@eka@41574@Them@ha-iha,
+12693@eka@41574@Them@ha-nfs,
+12693@eka@41574@Them@ha-nfa,
+12693@eka@41575@Them@ha-lta,
+12693@eka@41575@Them@ha-lbs,
+12693@eka@41576@Them@ha-lba,
+12736@etad@42312@Zend@ais4a, aita;
+12736@etad@42312@Pers@aita;
+12736@etad@42314@Hib@isa
+12736@etad@42314@Hib@isi,
+12753@ena@42377@Lat@oinos, unus.
+12789@eva@42486@Them@aiva;
+12902@ErAvata@42864@SAN@na1ga,
+12933@oka@42958@Lith@u10kininkas:
+12933@oka@42959@SAN@vis4.
+12948@ojas@43013@SAN@amitaujas, uttamaujas,
+12948@ojas@43015@Hib@oig,
+12948@ojas@43015@Hib@oighe,
+12989@ozWa@43179@SAN@bimba:
+12989@ozWa@43180@Slav@u10stna,
+13254@kak@43973@Lat@qvacillo.
+13262@kakud@44004@Lat@culmen
+13262@kakud@44004@Lat@caculmen.
+13286@kaNk@44155@Hib@ciocair,
+13290@kaNkaRa@44195@Lith@kala-s.
+13310@kac@44248@SAN@kan3c4;
+13457@kaRW@44927@SAN@utkan2t2h;
+13466@kaRq@45017@SAN@kad2:
+13486@kaRqola@45069@SAN@kan2-
+13501@katamAla@45176@SAN@kac4ama1la
+13501@katamAla@45176@SAN@kara-
+13501@katamAla@45177@SAN@ma1la.
+13530@kad@45354@SAN@kand.
+13552@kan@45490@Lat@dela;
+13608@kanyA@45759@Zend@kaine10;
+13608@kanyA@45760@Zend@caile,
+13608@kanyA@45761@Zend@caileamhuil,
+13623@kapAla@45894@Them@haubida.
+13668@kam@46223@SAN@kan
+13668@kam@46225@Lat@amo
+13668@kam@46225@Lat@ca10-rus
+13668@kam@46226@Lat@cam-rus;
+13668@kam@46227@Hib@caomhach,
+13668@kam@46228@Hib@caomhaim,
+13694@kampila@46355@SAN@ka1mpilla
+13694@kampila@46355@SAN@s4un2d2a1-roc4ani1.
+13713@kaya@46422@Zend@kaya;
+13824@karkawu@47044@SAN@karat2u,
+13830@karkarewu@47073@SAN@karat2u,
+13850@karRa@47169@SAN@karn2a-put2a, karn2a-randhra,
+13903@karpAsa@47495@SAN@ka1rpa1sa;
+13959@karhi@47958@Germ@wor
+13959@karhi@47959@Germ@warum, woraus,
+14042@kalpa@48480@SAN@a-kalpa, anu-kalpa,
+14042@kalpa@48479@SAN@kalpa-bhava
+14042@kalpa@48479@SAN@kalpa1ti1ta
+14042@kalpa@48479@SAN@a1
+14042@kalpa@48481@SAN@upa-kalpa,
+14109@kaS@48862@SAN@ka1s4;
+14151@kas@49028@Hib@coisighim,
+14229@kANkz@49368@Goth@hungrja,
+14379@kAma@50000@SAN@ka1ma-ta1la.
+14467@kArA@50614@Lith@kaliny-s,
+14467@kArA@50614@Lith@kaline,
+14564@kAlakeya@51179@SAN@ka1lakan3ja, ka1laka1n3ja,
+14564@kAlakeya@51179@SAN@ka1leya.
+14620@kAlIka@51605@SAN@ka1lika.
+14631@kAlpaka@51626@SAN@ka1l-
+14631@kAlpaka@51627@SAN@yaka.
+14670@kASmarI@51817@SAN@ka1rs4mari1
+14670@kASmarI@51817@SAN@ka1rshmarya.
+14713@ki@52026@SAN@c4i;
+14713@ki@52027@Hib@ci-thi,
+14713@ki@52027@Hib@citear,
+14769@kiMyu@52200@SAN@pala1s4a
+14769@kiMyu@52200@SAN@su-kim2s4uka.
+14845@kIdfSa@52593@Them@ko-liko;
+14845@kIdfSa@52594@Them@hve10-leika;
+14872@ku@52696@Hib@caoidh,
+14872@ku@52696@Hib@caoidhim,
+14939@kuYc@52939@Hib@cuach,
+14939@kuYc@52939@Hib@cuachach,
+14972@kuwara@53092@SAN@kut2aka
+14972@kuwara@53092@SAN@kut2hara
+15000@kuwwIra@53188@SAN@kut2i1ra
+15000@kuwwIra@53188@SAN@kut2t2a1ra.
+15166@kup@53793@Lat@nun-cupo;
+15224@kumud@54047@SAN@kumuda-bandhu
+15233@kumb@54106@SAN@kump
+15233@kumb@54106@SAN@kumbh.
+15458@kuzWa@55214@SAN@hita1vali1
+15526@kUcI@55489@SAN@ku1c4ika1
+15526@kUcI@55489@SAN@ku1rc4ika1.
+15589@kf@55922@Hib@ceard,
+15589@kf@55923@Hib@sucridh,
+15604@kftvas@56393@SAN@kr2it
+15604@kftvas@56393@SAN@sakr2it.
+15633@kft@56502@Lith@kirsti,
+15633@kft@56505@Hib@cuirc,
+15663@kfmi@56640@Them@vaurmi
+15663@kfmi@56640@Them@hvaurmi;
+15663@kfmi@56641@Lat@quermi-s;
+15673@kfS@56707@Lat@parum, parvus, paucus;
+15674@kfSa@56713@Hib@caile,
+15767@kel@57473@SAN@ki1l = kri1d2
+15837@ko@57836@SAN@ka, kava, ka1, kim, ku.
+15908@kola@58128@SAN@kr2imi-ghna,
+15908@kola@58129@SAN@pan3jala,
+15945@kohaqa@58338@SAN@kauhad2a
+15945@kohaqa@58338@SAN@kohala.
+16146@kram@59025@Germ@laufu, loufu.
+16169@kravis@59175@SAN@kru1ra.
+16171@kravya@59180@Lat@cru10dus, caro.
+16220@kruD@59459@Lith@rus-tybe10,
+16220@kruD@59461@Hib@ruidhe,
+16220@kruD@59461@Hib@corruigh,
+16234@kruS@59521@%klykiu@kryksztauju;
+16277@klam@59752@SAN@s4ram,
+16277@klam@59757@Lat@clentus
+16309@klIba@59868@Hib@caillte,
+16309@klIba@59869@Hib@caillim,
+16309@klIba@59869@Hib@cailleadh,
+16360@kzan@60167@SAN@= kshan2ute;
+16382@kzama@60289@Hib@cama,
+16413@kzal@60444@Lith@skalbju,
+16425@kzAman@60477@SAN@ksham.
+16459@kzip@60684@sipo@xipo;
+16494@kzIra@60802@SAN@kshi1ra-
+16505@kzIv@60959@SAN@kshiv, kshev, kshi1b, sht2hiv;
+16523@kzudra@61031@Pers@ku1dak,
+16570@kzetra@61348@SAN@anya-kshetra, kuru-kshetra,
+16570@kzetra@61349@Them@haithjo;
+16632@kzvel@61697@Germ@suall.
+16663@Kawa@61896@SAN@kat2a
+16663@Kawa@61897@SAN@khad2a
+16685@Kaqga@61973@SAN@eka-c4ara
+16685@Kaqga@61973@SAN@eka-c4a1rin
+16752@Karj@62358@Hib@cartaim,
+16808@Kasa@62541@SAN@khas4a.
+16867@KASi@62689@SAN@khas4a
+16867@KASi@62689@SAN@kha1shya.
+17034@gaRqa@63606@SAN@gad2u,
+17034@gaRqa@63605@SAN@gan2d2a-gra1ma
+17034@gaRqa@63605@SAN@gan2d2a-mu1rkha
+17034@gaRqa@63605@SAN@a1
+17034@gaRqa@63607@SAN@gan2d2i, gan2d2u,
+17046@gaRqola@63684@SAN@gad2ola
+17066@ganDa@63801@SAN@tr2in2a.
+17090@gam@64259@e@kommen;
+17090@gam@64259@Lat@guemio.
+17144@garj@64646@Germ@kallari;
+17158@gardaBa@64699@SAN@gardabhika1, ja1la-gardabha, jva1la1-gardabhaka,
+17158@gardaBa@64700@SAN@pa1sha1n2a-gardabha.
+17162@gardayitnu@64724@SAN@gad2ayat
+17162@gardayitnu@64724@SAN@gad2ayitnu.
+17169@garBa@64768@SAN@garbha
+17193@gal@64973@Germ@qual,
+17193@gal@64973@Germ@quella,
+17210@galB@65064@SAN@garv;
+17216@gava@65113@SAN@go-as4va
+17216@gava@65113@SAN@go's4va.
+17244@gaveDuka@65223@SAN@gave-
+17300@gAD@65422@SAN@ga1h,
+17313@gAnDarva@65485@SAN@gandhar-
+17313@gAnDarva@65486@SAN@va-gr2ihi1ta.
+17340@gArutmata@65612@SAN@pa1c4i1
+17340@gArutmata@65612@SAN@marakata-pattri1.
+17397@giri@65823@SAN@giri-kshipa
+17397@giri@65825@Zend@gairi;
+17397@giri@65826@Afghan@ghur;
+17397@giri@65826@SAN@gari1yas, garisht2ha,
+17397@giri@65827@SAN@gariman.
+17454@guRa@66277@SAN@gun2a-ka1ra
+17454@guRa@66279@SAN@gaun2a, nir-gun2a, vi-gun2a, sa-gun2a;
+17467@guRW@66507@Pruss@kuns-t,
+17467@guRW@66508@Lat@cut-tos
+17467@guRW@66508@Lat@cud-tos.
+17588@gfdDa@67088@Hib@greadhnach,
+17588@gfdDa@67089@Hib@gradh,
+17588@gfdDa@67089@Hib@graidhneog,
+17591@gfDnu@67098@Goth@gairnja;
+17606@gfha@67164@Sax@circ.
+17619@gF@67388@Germ@Nachti-
+17619@gF@67389@Germ@gal;
+17622@gF@67401@Lat@gula;
+17624@geRqu@67406@SAN@kanduka
+17624@geRqu@67406@SAN@ginduka.
+17646@go@67697@SAN@go-da1, gola1,
+17646@go@67698@SAN@saptagoda1vara.
+17663@goda@68266@SAN@go-da,
+17663@goda@68266@SAN@gorda.
+17675@gopa@68324@SAN@ka1s4mari1
+17695@govAla@68418@SAN@goba1la.
+17705@gosaSaSa@68444@SAN@gosa
+17705@gosaSaSa@68444@SAN@s4as4a.
+17791@grah@68928@Zend@gerep, geurv;
+17791@grah@68930@Lith@gre10bju;
+17791@grah@68931@Hib@gabhaim,
+17829@grAma@69238@SAN@arisht2a-gra1ma, maha1-gº, s4u1ra-gº, san4gra1ma;
+17829@grAma@69240@Hib@gramasgar,
+17843@grIvA@69455@Russ@golova.
+17850@grIzma@69482@SAN@nava-mallika1;
+17850@grIzma@69483@Hib@griosgaim,
+17850@grIzma@69483@Hib@griosach,
+17850@grIzma@69484@Lith@karsztis.
+17908@GaRwa@69756@SAN@a-ghan2t2a, dhat2in
+17908@GaRwa@69756@SAN@ghat2in
+17908@GaRwa@69756@SAN@ghan2t2in,
+17916@Gana@69856@SAN@ghana-tola.
+17929@Garma@70004@Zend@gareÇma;
+17933@Gas@70054@SAN@jaksh
+17933@Gas@70055@SAN@gras;
+18085@ca@70729@Lat@nempe,
+18085@ca@70730@Zend@c4a;
+18085@ca@70730@Pers@c4a10.
+18125@caYc@71157@Hib@ceangastair,
+18151@caR@71248@SAN@van2
+18151@caR@71248@SAN@van
+18173@cAtana@71395@SAN@abhis4asti-c4º, ami1va-c4º, ara1ya-c4º
+18173@cAtana@71395@SAN@am
+18174@catur@71409@Zend@c4athru.
+18176@caturTa@71668@Slav@c4etvertaja;
+18183@catus@71708@Zend@c4athrus.
+18203@cand@71782@Lat@candela.
+18204@canda@71784@SAN@c4andra
+18232@cam@72178@Hib@toimhlim,
+18256@cay@72311@Lith@kettur-kojis,
+18259@car@72357@Hib@carachadh,
+18259@car@72358@Hib@carachd,
+18259@car@72360@Pers@c4artanay.
+18312@carman@72648@Lat@ceus
+18319@carv@72738@Hib@carbal,
+18319@carv@72739@Hib@creimim,
+18319@carv@72739@Hib@creim,
+18326@cal@72799@Lat@cello; calco, calc-s, calcar;
+18421@cAndra@73120@SAN@c4a1ndra
+18487@caya@73445@SAN@agni-c4aya;
+18663@cil@74474@Hib@caille,
+18736@cuR@74692@Hib@guinneach,
+18736@cuR@74693@Hib@gun-ta,
+18737@cuRw@74694@SAN@c4ut2
+18737@cuRw@74694@SAN@c4ut2t2
+18740@cuRq@74701@SAN@c4ut2
+18740@cuRq@74701@SAN@c4ut2t2
+18769@cumb@74783@Lett@ku10pstit.
+18810@cUcuka@74901@SAN@c4uc4uka;
+18810@cUcuka@74903@SAN@dhe,
+18810@cUcuka@74904@SAN@pa1.
+18827@cUrR@74981@Hib@crinim,
+18841@cUz@75057@Iceland@siuga.
+18957@cyavana@75449@SAN@c4yava1na,
+18969@cyut@75507@Hib@ciothmhar,
+18978@Caga@75531@SAN@c4ha1ga;
+18978@Caga@75533@Lat@hircus
+18986@Cad@75563@Hib@scailein,
+19036@Card@75816@SAN@c4hr2id;
+19057@CallI@75878@SAN@c4havi
+19058@Cavi@75883@SAN@kr2ishn2a-c4c4havi;
+19058@Cavi@75885@Hib@sceimheach,
+19089@CAyA@75992@SAN@c4ha1ya1-bhr2it
+19089@CAyA@75992@SAN@c4ha1ya1-mr2iga-dhara.
+19135@Cuw@76190@Hib@sgothan,
+19142@Cur@76207@SAN@kshur;
+19142@Cur@76207@Hib@sguirim,
+19142@Cur@76208@SAN@c4heda;
+19150@Cfd@76229@SAN@c4hard;
+19150@Cfd@76231@Lith@skaistus, skaistas;
+19167@ja@76276@SAN@anna-ja
+19167@ja@76276@SAN@s4akra-ja
+19210@jaNgala@76536@SAN@ja1n4gala
+19210@jaNgala@76536@SAN@jan4gula.
+19218@jaj@76563@SAN@jan3j;
+19242@jaWara@76687@Goth@qvithra;
+19252@jatuka@76769S@SAN@ja1tuka
+19252@jatuka@76769@SAN@a1
+19257@jan@76795@Lat@(g)nascor;
+19257@jan@76796@Goth@keina, kain;
+19328@jam@77244@Hib@gion,
+19328@jam@77245@Germ@gaumo,
+19380@jarAyu@77642@SAN@jyotir-jara1yu
+19380@jarAyu@77642@SAN@nir-jara1yu.
+19391@jaraRA@77674@SAN@jaran2a,
+19425@jalp@78181@Lith@kalba,
+19473@jAgf@78329@Lat@vigilo;
+19516@jAti@78549@SAN@antya-ja1ti, eka-ja1ti, dvi-ja1ti;
+19641@jit@79048@SAN@jittama.
+19699@jiri@79246@SAN@c4iri;
+19716@jihva@79329@SAN@jihma;
+19733@jIv@79421@Lith@gywas,
+19748@jIvita@79652@Slav@vot;
+19748@jIvita@79652@Lat@vivita.
+19781@juz@79760@Zend@zaosha,
+19781@juz@79762@Goth@kiusu, kaus, kusum;
+19813@jUrv@79855@SAN@jval.
+19822@jfB@79884@Germ@kluft;
+19822@jfB@79885@SAN@jabh.
+19829@jF@79920@Hib@criona,
+19829@jF@79921@Lat@ga10rnum:
+19861@jE@80032@SAN@jya1.
+19907@jYA@80178@Lat@gna10rus, (g)nosco, cognosco,
+19907@jYA@80179@Lat@ignoro;
+19907@jYA@80179@Lat@gloria
+19907@jYA@80179@Lat@gnoria:
+19907@jYA@80183@Germ@kenne:
+19907@jYA@80183@Lith@zinne, sazinne:
+19907@jYA@80184@Hib@gnic; gno,
+19907@jYA@80185@Hib@gnas,
+19951@jyezWa@80471@Hib@giostaire,
+19951@jyezWa@80471@Hib@giostai-
+19951@jyezWa@80472@Hib@reas,
+19956@jyA@80527@SAN@adhi-jya, uj-jya,
+19985@jrayas@80732@Zend@zarajo.
+19994@jval@80785@Hib@laim,
+19994@jval@80785@Hib@gual,
+20037@JalA@80935@Hib@galla,
+20037@JalA@80935@Hib@gallad,
+20096@wagara@81088@SAN@kekara
+20096@wagara@81088@SAN@t2eraka
+20244@taMs@81489@Pruss@teisi,
+20258@takman@81526@SAN@tak-
+20258@takman@81527@SAN@man
+20258@takman@81527@SAN@tak,
+20260@takz@81549@Pruss@tikinnimai, teikusna:
+20275@taNg@81606@Hib@tigim,
+20285@tawa@81633@SAN@ut-tat2a, pura-tat2i1.
+20291@taq@81656@Hib@tathog,
+20342@tad@82028@Goth@sa,
+20342@tad@82028@Goth@so10;
+20342@tad@82030@Lat@tunc;
+20342@tad@82030@Hib@se
+20342@tad@82030@Hib@si
+20348@tan@82265@SAN@c4an
+20348@tan@82265@SAN@van.
+20349@tan@82284@Hib@tanaighim,
+20361@tanu@82377@SAN@tanu1-ja
+20361@tanu@82377@SAN@tanu1dbhava.
+20369@tantu@82485@SAN@tan-
+20420@tap@82699@Russ@teplota,
+20432@tapasya@82902@SAN@tapah2-kara.
+20452@tam@82979@Lat@tabeo
+20458@tamas@83009@Lith@tamsus,
+20458@tamas@83010@Russ@temno-ta,
+20458@tamas@83011@Hib@teimhen,
+20458@tamas@83011@Hib@teimheal,
+20472@tami@83124@SAN@tama
+20472@tami@83124@SAN@tamas.
+20536@tarambuja@83323@SAN@kharvu1ja.
+20571@tarj@83529@Sax@thracian, thraec:
+20593@tarman@83594@SAN@su-tarman;
+20613@talavAraRa@83692@SAN@tarava1ri;
+20613@talavAraRa@83692@Beng@talva1r;
+20627@talla@83736@SAN@tala
+20627@talla@83736@SAN@talaka.
+20654@tas@83815@SAN@tan6s
+20698@tAta@83948@Lith@teta,
+20793@tAra@84462@Zend@s4ta1reÇ;
+20793@tAra@84463@Goth@stairno;
+20793@tAra@84463@Lat@ste-
+20793@tAra@84464@Lat@rula.
+20838@tAla@84726@SAN@apara-ta1la
+20862@tAvat@84915@Lat@tavantus;
+20874@tik@84954@SAN@tig
+20874@tik@84954@SAN@stigh.
+20883@tij@84976@Zend@tigh-ra,
+20883@tij@84977@Zend@tigh-ri,
+20883@tij@84978@Lat@in-stinc-
+20883@tij@84979@Lat@tu-s, in-sti1ga-re, stiÇ-mulu-s
+20883@tij@84979@Lat@stig-mulu-s, stiÇ-
+20883@tij@84980@Lat@lu-s
+20883@tij@84980@Lat@stig-lu-s:
+20883@tij@84981@Goth@te1ka,
+20883@tij@84981@Goth@stiggqvan, stik-s, stak-s:
+20883@tij@84982@Germ@stachila,
+20883@tij@84983@Germ@stihhil,
+20883@tij@84984@Lith@te4ke4lis,
+20925@tim@85216@SAN@ti1m
+20925@tim@85216@SAN@stim.
+20940@tiras@85295@Hib@tri,
+20940@tiras@85296@Zend@taro1.
+20960@tiryaYc@85414@SAN@arva1k-srotas, ava1k-srotas, u1rdhva-srotas.
+21021@tu@85931@Zend@tav,
+21021@tu@85931@Zend@tavan,
+21021@tu@85931@SAN@tuva10n,
+21021@tu@85932@SAN@tuva10nam,
+21021@tu@85934@Lat@mulus (?), tuber, tueri, totus:
+21021@tu@85935@Osc@tota, touta,
+21021@tu@85935@Osc@tut-icus,
+21021@tu@85937@Sax@theod,
+21021@tu@85938@Slav@tu-kuÇ,
+21021@tu@85939@Lith@tunk-u,
+21046@tuNga@86054@Hib@tonnghail, tonnta,
+21058@tuqq@86109@SAN@tu1d2
+21058@tuqq@86110@SAN@tod2.
+21083@tud@86184@SAN@tund, tottra, toda;
+21083@tud@86187@Lat@tud-i-tare, dea Pertunda, tussis;
+21083@tud@86188@Goth@an;
+21083@tud@86189@Sax@s
+21088@tund@86211@SAN@trand.
+21095@tup@86239@Germ@stumb-alon, stumph;
+21116@tur@86307@SAN@tvar;
+21136@turIya@86419@SAN@tur
+21136@turIya@86419@SAN@turan2ya.
+21151@tul@86492@SAN@dul:
+21151@tul@86493@Lat@te-tul-i:
+21151@tul@86493@Lat@tla1tus
+21151@tul@86493@Lat@tollere, toll-o,
+21151@tul@86494@Lat@tolleno, tolerare, tolu1tim:
+21151@tul@86497@Goth@us-
+21151@tul@86498@Goth@thul-ain-s,
+21151@tul@86499@Sax@dian, athylgian:
+21171@tuz@86725@SAN@tu1shn2i1m;
+21180@tuzAra@86782@SAN@tuhina;
+21180@tuzAra@86783@Sax@theostre, theosterlic.
+21185@tusta@86799@SAN@tu1sta;
+21188@tuhina@86808@SAN@tusha1ra;
+21209@tUr@86871@SAN@tur
+21209@tUr@86871@SAN@tvar
+21210@tUr@86876@SAN@tur.
+21233@tUzRIm@86974@Lith@tylu11,
+21233@tUzRIm@86975@Hib@tosdadh,
+21242@tfkz@86999@SAN@str2iksh:
+21242@tfkz@87000@Goth@treihan,
+21242@tfkz@87001@Hib@teilgin,
+21250@tfRa@87027@SAN@jval
+21263@tftIya@87184@Zend@thri-tya;
+21263@tftIya@87185@Lith@tre4tias;
+21271@tfp@87243@SAN@tr2imp, tr2iph, tr2imph:
+21271@tfp@87248@Hib@tromaighim = tar-
+21271@tfp@87249@Hib@paya1mi; tormach,
+21271@tfp@87249@Hib@torp,
+21271@tfp@87250@Hib@tormad,
+21292@tfz@87304@Zend@tarshn2a,
+21292@tfz@87305@Goth@thairsa, thars, thaursum; thaursus,
+21292@tfz@87305@Goth@thaurs-
+21292@tfz@87306@Goth@tei,
+21292@tfz@87306@Goth@thaursyan,
+21292@tfz@87306@Goth@ga-thaurs-
+21292@tfz@87307@Goth@an-s,
+21292@tfz@87312@Hib@tart-
+21292@tfz@87313@Hib@mhar,
+21311@tF@87404@SAN@trai
+21311@tF@87407@SAN@tur, tul,
+21311@tF@87408@SAN@turv; tara
+21311@tF@87408@Zend@taro1,
+21311@tF@87417@Lat@ter-o, ter-e(t)-s, ter-e-bra, trib-ula, tribulare, tri1-
+21311@tF@87418@Lat@ti-cu-m, in-tra-re, peni-tra-re, ex-tra-re, trans:
+21311@tF@87421@Sabin@tra1me(t)-s, Tras-im-enu-s,
+21311@tF@87422@Goth@thairh:
+21311@tF@87426@Germ@thearl, thearm, thirel, thirlian, thole,
+21311@tF@87427@Germ@tholian, thaelian, for-thyldian:
+21311@tF@87428@Slav@ti,
+21311@tF@87429@Lith@til-tas,
+21311@tF@87429@Lith@tolu11s,
+21311@tF@87430@Hib@toramh,
+21311@tF@87431@Hib@toras,
+21311@tF@87431@Hib@teirin,
+21311@tF@87432@Hib@tearnadh,
+21311@tF@87432@Hib@tarradh,
+21311@tF@87433@Hib@tarthadoir,
+21392@toka@87808@SAN@tvaksh, stoka, taksh;
+21392@toka@87810@Sax@thegen;
+21464@tyaj@88111@Hib@treigthe,
+21464@tyaj@88111@SAN@tyakta
+21464@tyaj@88111@Hib@treigean,
+21464@tyaj@88112@SAN@= tyajana;
+21464@tyaj@88113@Hib@treigtheoir,
+21464@tyaj@88113@SAN@= tyaktr2i.
+21480@tyad@88187@Germ@diar,
+21480@tyad@88187@Germ@diu,
+21480@tyad@88188@Germ@dia
+21480@tyad@88188@SAN@tya1m,
+21480@tyad@88188@Germ@die
+21480@tyad@88188@SAN@tye,
+21480@tyad@88188@Germ@dio
+21480@tyad@88188@SAN@tya1s,
+21480@tyad@88189@Germ@diu
+21480@tyad@88189@SAN@tya1ni
+21480@tyad@88189@Germ@sya1
+21480@tyad@88190@Germ@sia:
+21491@traNK@88211@Hib@tairgeadh,
+21495@trap@88228@Lat@trepi-
+21495@trap@88229@Lat@dus,
+21495@trap@88229@SAN@tr2ipra,
+21507@trapuwI@88267@SAN@tri-put2a1
+21507@trapuwI@88267@SAN@tri-put2i1.
+21518@tras@88362@Zend@tares4, tars-ti:
+21518@tras@88366@Lat@terseo
+21518@tras@88366@Lat@treseo
+21518@tras@88366@SAN@tra1saya1mi:
+21518@tras@88367@Goth@yan:
+21518@tras@88367@Russ@tryasu-sy,
+21533@trA@88421@SAN@tra.
+21548@tri@88459@Zend@thri,
+21548@tri@88460@Zend@thri-tya, thris:
+21548@tri@88462@Sax@thry, thri:
+21548@tri@88463@Lith@tre4-c4za-s,
+21548@tri@88463@Lith@tisras
+21548@tri@88464@Cambro-Brit.@tair,
+21548@tri@88776@SAN@trayah2-pan3c4a1s4at
+21548@tri@88776@SAN@trayas.
+21580@trup@89652@Lith@trumpas,
+21580@trup@89652@Lith@trumpinu,
+21670@tvakz@89933@SAN@taksh,
+21670@tvakz@89934@SAN@takman, toka:
+21670@tvakz@89934@Zend@thwakhsh, tash,
+21670@tvakz@89935@Zend@tasha,
+21670@tvakz@89935@Zend@tas-ta,
+21670@tvakz@89935@Zend@tuc4,
+21670@tvakz@89941@Lat@tex-o, tex-tor, tex-tura, te1-la:
+21670@tvakz@89943@Germ@deh-s-a,
+21670@tvakz@89943@Germ@deh-
+21670@tvakz@89944@Germ@sen,
+21670@tvakz@89944@Germ@dihsel,
+21670@tvakz@89949@Slav@tuÇk-a-ti,
+21670@tvakz@89949@Slav@tes-a-ti,
+21670@tvakz@89949@Slav@te†z-
+21670@tvakz@89950@Slav@a-ti,
+21672@tvakzIyas@89954@Zend@thwakhshista.
+21694@tvar@90112@SAN@tur, tr2i1:
+21745@daMS@90287@Lat@cruma,
+21745@daMS@90287@Lat@lacero;
+21745@daMS@90288@Goth@tagr;
+21771@dakza@90435@Lat@timus;
+21774@dakziRa@90553@Russ@yushnyiÇ,
+21790@daG@90763@SAN@dan4gh
+21794@daNG@90775@SAN@dagh
+21868@danta@91462@Goth@u-s;
+21886@danv@91675@SAN@du, dhanv, dha1v;
+21886@danv@91676@SAN@danvaya1mi.
+21888@daB@91684@Germ@depyan.
+21894@dam@91705@SAN@da-
+21894@dam@91706@SAN@maya1mi;
+21894@dam@91707@Goth@ga-timan;
+21894@dam@91708@Sax@yan;
+21894@dam@91709@Germ@ziemen.
+21926@day@91849@Hib@deidh,
+21926@day@91849@Hib@deide,
+21987@dal@92202@Lith@dallykas,
+21987@dal@92202@Lith@daliyu,
+21987@dal@92204@Germ@teil; ti1lo1n, ti1ligo1n
+21987@dal@92204@SAN@dalaya1mi:
+21987@dal@92205@Hib@dailim,
+21987@dal@92205@Hib@duil,
+21987@dal@92206@Hib@duillean,
+22000@dava@92292@SAN@da1va;
+22007@daSan@92313@Goth@tihun;
+22013@daSama@92580@Scot@cheamh;
+22034@das@92675@SAN@tas;
+22046@dah@92781@SAN@dagdha
+22046@dah@92781@Hib@dvighir,
+22046@dah@92782@Lith@deginu11,
+22046@dah@92782@Germ@da1h-t,
+22046@dah@92785@Lat@dig-nu-m.
+22059@dA@92927@SAN@da1.
+22059@dA@92936@SAN@da1s, ra1, la1:
+22059@dA@92937@Zend@da1,
+22059@dA@92937@Zend@da1-tar, da1-ta,
+22059@dA@92937@Zend@da1-na, da1-
+22059@dA@92938@Zend@thra,
+22059@dA@92938@SAN@= dada1mi,
+22059@dA@92940@SAN@da1payati:
+22059@dA@92941@Lat@nu-m:
+22059@dA@92942@Slav@da-niÇ,
+22059@dA@92943@Lith@ni-s,
+22059@dA@92943@Hib@dailim
+22059@dA@92943@Hib@daidim,
+22082@dAman@93073@SAN@da1man-vat
+22082@dAman@93074@SAN@da1man,
+22254@dAS@93783@SAN@da1s
+22254@dAS@93783@SAN@das
+22287@dAs@93879@SAN@d
+22287@dAs@93879@SAN@l,
+22287@dAs@93879@SAN@la1
+22287@dAs@93879@SAN@da1;
+22356@diDizAyya@94148@SAN@dadhisha1yya,
+22360@dina@94165@Lat@tio, peren = para;
+22360@dina@94166@Goth@sin = sam.
+22375@div@94293@SAN@dyu1ta,
+22375@div@94270@SAN@div,
+22375@div@94270@SAN@di1, di1p, dev,
+22375@div@94271@SAN@dyut
+22375@div@94294@Lat@jocus; Jupiter, Jovis,
+22375@div@94294@Lat@Dyupiter, Dyovis:
+22375@div@94295@Lith@yu§koyu,
+22393@diS@94628@Zend@dis4;
+22393@diS@94631@Lat@are, ju-dex, causi-dic-us, dic-ere;
+22402@dih@94831@Lat@fingere,
+22402@dih@94832@Lat@figulus;
+22402@dih@94834@Germ@zehom
+22402@dih@94834@SAN@dehaya1mi.
+22406@dI@94852@SAN@div,
+22406@dI@94853@SAN@di1p:
+22450@dIrGa@95209@Zend@dareÇgha:
+22450@dIrGa@95210@Russ@dolga = di1rgha1:
+22450@dIrGa@95211@Lith@isz-drykens, isz-dryke†lis,
+22457@du@95544@SAN@da1vaya1mi;
+22457@du@95546@Lat@doveo;
+22457@du@95548@SAN@da1vaya1mi.
+22463@duHKa@95570@Hib@doilghe,
+22463@duHKa@95571@Hib@doilgheas,
+22514@dur@96080@Zend@du1raosha.
+22514@dur@96361@SAN@dur-a1dharsha
+22514@dur@96361@SAN@dush-pradarsha.
+22514@dur@96494@Zend@dus-mananh;
+22560@dus@96941@SAN@dush;
+22560@dus@96942@SAN@dvish:
+22560@dus@96942@Zend@dush, dus-mananh, dush-i-ti:
+22560@dus@96943@Goth@tuz-veryan:
+22560@dus@96945@Hib@do-dhuine,
+22560@dus@96945@Hib@do-dheanta,
+22560@dus@96946@Hib@do-bhasuighte,
+22560@dus@97170@SAN@dus-tara.
+22560@dus@97280@SAN@dush-t2ara.
+22564@duh@97322@Them@tuh, tiuha, tauh,
+22564@duh@97323@Them@tuhum,
+22564@duh@97326@Hib@diughailfainn,
+22568@duhitf@97338@Zend@dugh-dhar;
+22568@duhitf@97340@Lith@dukter;
+22568@duhitf@97341@Lith@dhugh-atar.
+22583@dUra@97492@SAN@du1ra1pº
+22583@dUra@97492@SAN@du1reshu-pº.
+22628@dfti@97913@Germ@zelt
+22650@dfS@98005@Hib@dreach,
+22683@deva@98463@SAN@c4aitya
+22683@deva@98463@SAN@dyu-taru.
+22683@deva@98538@SAN@da1lika1
+22683@deva@98538@SAN@maha1-ka1la.
+22683@deva@99038@SAN@Deva1nam-piyatissa.
+22683@deva@99095@SAN@daiva1-
+22692@devara@99231@Lat@devir;
+22733@dE@99466@SAN@da1
+22733@dE@99466@SAN@de.
+22887@dyu@100111@SAN@didyu,
+22887@dyu@100111@SAN@div.
+22898@dyut@100236@SAN@jyut,
+22898@dyut@100236@SAN@dyut
+22898@dyut@100237@SAN@d
+22898@dyut@100237@SAN@j.
+22941@drapsa@100382@SAN@trapsya;
+22945@dram@100396@SAN@dru;
+22976@drA@100577@SAN@dru,
+22976@drA@100577@SAN@dram:
+22976@drA@100579@SAN@dra1-p-aya-ti.
+22979@drAkzA@100587@Lat@d.
+22980@drAK@100594@SAN@dhra1kh
+22980@drAK@100594@SAN@tr2ish;
+22980@drAK@100596@Iceland@thurka,
+23015@dru@100713@Goth@dra1-
+23015@dru@100714@Goth@vayati:
+23015@dru@100719@Lat@in-gruere
+23015@dru@100720@Lat@ruere.
+23019@dru@100751@SAN@da1ru;
+23019@dru@100752@Zend@dru, da1uru,
+23031@druh@100848@SAN@dru1:
+23031@druh@100849@Goth@gan, dulgs:
+23031@druh@100850@Germ@gan, drawyan:
+23031@druh@100851@Hib@droch,
+23056@drE@100922@SAN@dra1;
+23084@dvA@101161@SAN@ba1-rah
+23084@dvA@101161@SAN@d
+23084@dvA@101161@SAN@r;
+23084@dvA@101162@SAN@d
+23084@dvA@101162@SAN@l;
+23086@dvAr@101272@SAN@dur,
+23086@dvAr@101272@SAN@dura;
+23086@dvAr@101273@Zend@dvara-m,
+23086@dvAr@101275@LatLat@foras;
+23086@dvAr@101275@Umbr@dvero;
+23086@dvAr@101276@Umbr@porta, d
+23086@dvAr@101276@Umbr@v
+23086@dvAr@101277@Umbr@p,
+23086@dvAr@101277@Zend@aspa
+23086@dvAr@101277@SAN@as4va;
+23100@dvis@101904@Lat@dis-cedo
+23100@dvis@101905@Goth@missa-
+23100@dvis@101905@Goth@missa-de1ths, missa-
+23100@dvis@101906@Goth@leiks.
+23103@dviz@101950@SAN@dush, dus; dvis,
+23103@dviz@101951@Zend@d2bish,
+23103@dviz@101953@SAN@dve-
+23103@dviz@101954@SAN@shaya1mi, d
+23103@dviz@101954@SAN@v
+23103@dviz@101954@SAN@m.
+23119@dvIpa@102020@SAN@dvi1pa-sambhava.
+23119@dvIpa@102020@SAN@dvi1pa-
+23172@DaR@102220@SAN@dhan, dhvan2,
+23172@DaR@102220@SAN@dhvan,
+23172@DaR@102221@SAN@dhran2.
+23174@Dan@102226@SAN@dhvan
+23174@Dan@102226@SAN@dhan2.
+23193@Danu@102491@SAN@dhanus, dhanvan;
+23201@Danvan@102604@Germ@duene,
+23274@DA@103573@Zend@da1,
+23274@DA@103574@Zend@da1-ta-m,
+23274@DA@103574@Zend@da1-man,
+23274@DA@103578@Lat@ab-do, con-do, per-do, ven-do, pessum-do, cre-do
+23274@DA@103579@SAN@= s4rad-dadha1mi:
+23274@DA@103579@Osc@fam-
+23274@DA@103580@Osc@el = familia:
+23274@DA@103581@Goth@missa-de10ths,
+23274@DA@103581@Goth@do10m-s,
+23274@DA@103582@Sax@dema,
+23274@DA@103582@Sax@dom,
+23274@DA@103583@SAN@= dadha1mi:
+23274@DA@103584@Eng@ask-e-de =
+23274@DA@103585@Germ@such-te:
+23274@DA@103586@Lith@du,
+23274@DA@103586@Slav@de-lo,
+23274@DA@103587@Hib@dan,
+23275@DA@103596@SAN@dha1tu
+23277@DAtu@103633@SAN@upa-dhº, ka1ma-dhº, giri-dhº,
+23332@DAraRa@104066@SAN@an4ka-dhº, asu-dhº, garbha-dhº, c4hattra-dhº,
+23332@DAraRa@104067@SAN@dan2d2a-dhº, deha-dhº,
+23372@DAv@104215@SAN@dha1vaya1mi.
+23459@DU@104625@Zend@dun-man,
+23459@DU@104629@Iceland@du-s-t
+23459@DU@104630@Germ@tou-m,
+23459@DU@104633@Lith@mai,
+23472@DUpaya@104694@Lith@du11mp-les,
+23510@DUrta@104945@SAN@kitava
+23525@Df@105063@SAN@dharma, dhi1ra, dhruva, dhur, dhurya;
+23525@Df@105064@Zend@dar,
+23535@Dfz@105218@%daresh@daresh,
+23535@Dfz@105218@%daresh@darshi,
+23540@Dfzwa@105247@Swed@dristig;
+23540@Dfzwa@105247@Iceland@dreiss;
+23552@De@105313@Lat@li-a, fe1-la1-re, fe1-mina:
+23552@De@105314@Germ@tila,
+23552@De@105315@Germ@tuta, tutta
+23552@De@105316@Slav@ya,
+23552@De@105316@Slav@doilica,
+23552@De@105316@Slav@de†-te,
+23552@De@105317@Slav@de†-va,
+23598@DmA@105502@Lat@re;
+23614@DyE@105540@SAN@dhi1
+23614@DyE@105549@SAN@dhyai,
+23614@DyE@105550@SAN@vid,
+23614@DyE@105551@Zend@budh,
+23614@DyE@105551@SAN@budh,
+23632@Draj@105626@SAN@dhr2ij,
+23632@Draj@105627@SAN@dhrij, dhvaj, dhvan3j.
+23636@DraR@105636@SAN@dhan2,
+23636@DraR@105636@SAN@dhvan,
+23636@DraR@105636@SAN@dha1ra1;
+23641@DrANkz@105650@SAN@dhma1n4ksh,
+23641@DrANkz@105651@SAN@dhava1n4ksh, dra1n4ksh
+23650@Druva@105729@Germ@ga-triu, ga-triuwi, ga-triwi,
+23650@Druva@105730@Germ@treue, ge-treu,
+23661@DrE@105793@SAN@dhra1paya1mi,
+23662@DvaMs@105808@Goth@drausya
+23662@DvaMs@105809@SAN@dhvan6saya1mi:
+23702@DvANkz@106001@SAN@dhma1n4ksh
+23702@DvANkz@106002@SAN@dhra1n4ksh
+23707@Dvf@106049@Sax@dol, dweorg, for-dwilman;
+23707@Dvf@106050@Germ@ga-dwor, twar-o1n, dwerh;
+23723@nak@106150@SAN@nakta,
+23723@nak@106150@SAN@nis4, nis4a1.
+23724@nakta@106155@SAN@nis4,
+23724@nakta@106156@SAN@nis4a1;
+23724@nakta@106156@Zend@nakhturu
+23724@nakta@106156@Zend@nakhtru,
+23733@nakIm@106207@SAN@na-kim
+23733@nakIm@106207@SAN@ma1-ki1m.
+23743@nakz@106276@Lat@nactum.
+23750@naKa@106449@Hib@nionga.
+23773@nagna@106653@SAN@nagan2a1,
+23773@nagna@106653@SAN@nagna1
+23773@nagna@106655@Iceland@nakt-r;
+23773@nagna@106656@SAN@nacod, genacyan;
+23802@nad@106831@SAN@vad,
+23802@nad@106832@SAN@nard;
+23826@nanda@106993@SAN@nanda-
+23848@napAt@107282@Lat@nept-i-s:
+23848@napAt@107283@Iceland@nefi,
+23848@napAt@107283@Iceland@nift,
+23848@napAt@107284@Germ@niftila,
+23848@napAt@107285@Goth@nith-yo1,
+23848@napAt@107286@Boh@neter,
+23860@naBa@107335@Zend@nap-ta,
+23860@naBa@107337@Lat@Nep-
+23860@naBa@107338@Lat@tu1-nu-s, nimbu-s
+23860@naBa@107338@Lat@nembu-s;
+23860@naBa@107338@Iceland@nifl-
+23860@naBa@107339@Iceland@heim-r;
+23860@naBa@107340@Slav@neb-
+23860@naBa@107341@Slav@es,
+23860@naBa@107342@Lith@n
+23860@naBa@107342@Lith@d,
+23860@naBa@107342@Lith@dewyni,
+23872@nam@107481@Zend@nemanh
+23872@nam@107482@SAN@= namas, nim-ata,
+23872@nam@107486@Lat@Numerius, neÇm-us:
+23872@nam@107490@Hib@naomhachd,
+23904@naya@107618@SAN@ni1.
+23913@nara@107738@SAN@nr2i.
+23934@nard@108025@Hib@nuail,
+23975@navan@108367@SAN@nabhas
+23991@naSa@108500@SAN@na1s4a.
+23992@naS@108518@Zend@nas4u,
+23992@naS@108518@Zend@nas4-ista,
+23992@naS@108521@Lat@are, noc-e1re, noxa, per-nicies, ve-ne-nu-m
+23992@naS@108521@Lat@ve-
+23992@naS@108522@Lat@nec-nu-m:
+23992@naS@108522@Goth@nag-
+23992@naS@108523@Goth@u-s
+23992@naS@108523@Goth@nah-u-s.
+23994@naSa@108527@SAN@na1s4a.
+24014@nah@108663@Lat@tu-s, nec-t-o, nexu-s:
+24014@nah@108664@Germ@na1h-an,
+24014@nah@108664@Germ@na1-dal,
+24014@nah@108664@Germ@nah,
+24014@nah@108665@Goth@ne1hva,
+24014@nah@108666@Sax@neah, neh-st, nearra:
+24014@nah@108668@Hib@nas,
+24081@nAT@109237@SAN@na1dh;
+24081@nAT@109240@Goth@yan,
+24128@nABi@109518@SAN@na1bha,
+24128@nABi@109518@SAN@nabhya, anya-nº, ghana-nº,
+24128@nABi@109520@Lat@umbo:
+24128@nABi@109520@Germ@nabulo,
+24128@nABi@109522@Germ@bel:
+24140@nAman@109633@Zend@na1man:
+24140@nAman@109636@Lat@no1min-a1-re, nam, quis-nam, quem-nam
+24140@nAman@109637@SAN@kam2 na1ma
+24140@nAman@109637@Lat@nem-pe
+24140@nAman@109637@SAN@na1ma api:
+24140@nAman@109638@Umbr@nomn-e:
+24140@nAman@109639@Goth@namin-s, namn-yan, ga-namn-yan,
+24140@nAman@109642@Slav@imen-ova-ti,
+24237@nAsA@110135@Lat@na1ris
+24237@nAsA@110135@Lat@na1sis;
+24237@nAsA@110137@Hib@ness
+24243@nAsatya@110211@Zend@na1-
+24243@nAsatya@110212@Zend@onhaitya.
+24564@nij@111164@SAN@nin3j:
+24564@nij@111164@Zend@s4nizh,
+24564@nij@111167@Lat@ning-
+24564@nij@111168@Lat@i-t, ningu-i-t, ningu-i-s, nix,
+24564@nij@111168@Lat@niv
+24564@nij@111168@Lat@nigv:
+24564@nij@111170@Germ@sniwit,
+24564@nij@111173@Hib@nigh-te,
+24564@nij@111173@SAN@nikta.
+24603@nid@111400@SAN@nind;
+24603@nid@111402@Goth@teins,
+24603@nid@111402@Goth@neith;
+24648@niDana@111561@SAN@han;
+25211@nirgranTa@113539@SAN@grantha,
+25524@nirvacana@114439@SAN@ni-vac4ana.
+25739@nivAta@115108@SAN@nir-
+25739@nivAta@115109@SAN@va1ta
+25843@niSitA@115556@SAN@s4i1tha.
+26336@nIla@117247@Lat@nigro
+26336@nIla@117247@SAN@nis4-ra.
+26358@nu@117564@Lat@nun-c;
+26367@nud@117595@Sax@a-nydan,
+26367@nud@117595@Sax@niot-an:
+26382@nf@117644@Sabin@ner-io,
+26382@nf@117645@Hib@nerth,
+26382@nf@117810@Zend@nairya
+26382@nf@117811@Zend@s4an4gho.
+26405@nedizWa@117941@Zend@nazdista.
+26416@nema@117997@Zend@naima.
+26562@nO@118468@Lat@iu-m;
+26562@nO@118469@Bavarian@naue,
+26562@nO@118469@Iceland@nau-st,
+26562@nO@118470@Iceland@No1a-tu1n;
+26571@nyakza@118517@SAN@aksh,
+26571@nyakza@118518@SAN@ac4 = an3c4
+26648@pakz@118870@Zend@pas4,
+26648@pakz@118873@Lat@sc-or, pa1x, pac-i-o, pang-o, pig-nus, pa1-lu-s:
+26648@pakz@118874@Goth@fah-an,
+26648@pakz@118875@Germ@gafag-yan,
+26648@pakz@118876@Germ@fah,
+26648@pakz@118877@Bohem@pas-mo,
+26649@pakza@118925@Lat@paxer.
+26656@pakzin@119042@Lat@paxer.
+26678@pac@119240@Zend@pac4,
+26678@pac@119245@Lat@co-quina = pop-i1na:
+26678@pac@119245@Slav@pesh-ti,
+26687@pakva@119283@SAN@nish-pº, pari-pº,
+26715@paYcan@119382@SAN@kshiti, c4arshan2i, kr2isht2i, jana;
+26715@paYcan@119383@SAN@pan3c4a-tha
+26715@paYcan@119383@Zend@pukh-dha
+26715@paYcan@119384@Zend@pan3c4an;
+26715@paYcan@119385@Lat@quin-tu-s, Quinct-i1li-s;
+26740@paYjara@120043@SAN@pa1n3jarya;
+26747@pawa@120081@SAN@pat2t2a,
+26784@pawwana@120290@SAN@pattana;
+26784@pawwana@120290@SAN@deva-palli1-pº, dharma-pº.
+26814@paR@120364@SAN@ban2ij:
+26839@pat@120558@Lat@na, acci-pit-er:
+26839@pat@120559@Germ@fetah,
+26839@pat@120559@Germ@find-an
+26839@pat@120560@Slav@pe-ro,
+26839@pat@120561@Hib@faodh,
+26865@pattra@120699@Sax@feher;
+26879@pati@120870@SAN@an6s4u-pº, dam-pati1, dva1ra-pº, nr2i-pº, pr2ithivi1-pº,
+26879@pati@120871@SAN@praja1-pº:
+26879@pati@120876@Goth@bruth-fath-s,
+26882@patnI@120942@SAN@ji1va-pº;
+26908@pad@121069@Zend@padh-a,
+26908@pad@121077@Hib@faidh,
+26979@pamb@121816@SAN@kamp, bamb, mamb,
+26979@pamb@121817@SAN@namb, khamb, gamb, ghamb, c4amb, tamb.
+26987@para@121969@Lat@per-a-m;
+26990@parama@122458@SAN@pra;
+27001@paraSu@122649@SAN@pars4u;
+27133@pari@123149@Zend@pairi;
+27133@pari@123150@Lat@per-idoneus:
+27133@pari@123151@Iceland@fyri;
+28273@parut@126364@Goth@fairnyo1 ye1r,
+28304@parRa@126496@SAN@ac4c4hinna-pº, as4va-pº, utta1na-pº,
+28304@parRa@126498@SAN@pat,
+28304@parRa@126499@Lat@frons;
+28316@pard@126594@Lat@pe10d-or, po10dex;
+28474@parvata@127058@Serv@brdo,
+28495@pala@127210@French@paille;
+28497@palala@127236@SAN@palvala;
+28523@palita@127337@Lat@e-o, pall-idu-s, pallu-s:
+28523@palita@127338@Germ@er):
+28549@palvala@127435@Lat@u(d)-s, palus-tri-s;
+28561@pavitra@127524@Hib@fothragaim,
+28561@pavitra@127525@Hib@fothragadh,
+28577@paS@127590@SAN@spas4, spas4a:
+28577@paS@127590@SAN@s4pas4,
+28577@paS@127591@Zend@s4pas4,
+28577@paS@127594@Lat@speculum, specu-s, spec-to:
+28577@paS@127595@Germ@spa1h-i:
+28577@paS@127596@Hib@feach-aim,
+28577@paS@127597@Hib@faoch-og,
+28585@paS@127619@Zend@pas4,
+28585@paS@127622@Lat@pac-i-o(n), pang-o, pig-nus, pa10-lu-s, com-pe-sc-o,
+28585@paS@127623@Lat@dis-pe-sc-o:
+28585@paS@127623@Goth@fulla-fah-
+28585@paS@127624@Goth@jan,
+28585@paS@127624@Goth@fagr-s:
+28585@paS@127625@Germ@fuogi, gafag-jan, fah:
+28585@paS@127626@Brit@fasgiad,
+28589@paSca@127798@Lat@pos-ne,
+28589@paSca@127799@Lat@postid-ea:
+28589@paSca@127800@Lith@paskuttinis, paskiausas,
+28589@paSca@127801@Pruss@dan,
+28626@pA@128078@SAN@= nr2i-pa
+28626@pA@128082@Lith@pe4-nas,
+28636@pAMsu@128111@Lat@pulcvis;
+28808@pAda@129014@Lith@pe4nda-s,
+28808@pAda@129015@Hib@fadaidhim,
+28833@pApa@129297@Lith@paika-s,
+28833@pApa@129298@Lith@pikta-s,
+28861@pAra@129538@SAN@para, param;
+29118@pASaya@130602@SAN@pas4,
+29118@pASaya@130602@SAN@pa1s4ayati
+29135@pAzARa@130666@Heb@ba1sha1n,
+29243@pitf@131245@Zend@pa-tar:
+29243@pitf@131247@Germ@fataro,
+29243@pitf@131248@Sax@fadhu,
+29243@pitf@131249@Hib@pathair.
+29314@pil@131718@SAN@pel, vil.
+29340@piz@131866@Lat@pistri1num, pis-tura, pis-u-m, Piso, pi1-lu-m,
+29340@piz@131867@Lat@pi1-la, pi1-lu-s;
+29347@pis@131917@SAN@pes, vis, ves,
+29347@pis@131918@SAN@bis4, bes4.
+29385@pItu@132194@SAN@pu1tu-da1ru;
+29391@pIna@132206@SAN@pi1vara;
+29391@pIna@132208@Iceland@feit-r,
+29400@pIvas@132266@Zend@pivanh,
+29424@puMs@132346@Lat@mas-is, mas-
+29424@puMs@132347@Lat@culus,
+29424@puMs@132347@Lat@pu
+29424@puMs@132348@Lat@pu-sus, pu-sa, pu-bes
+29424@puMs@132349@Lat@pu-mes.
+29443@puYja@132492@Lat@pug-io, pug-il, pugillu-s, pugillaris;
+29443@puYja@132493@Slav@pe-stiÇ.
+29451@puw@132520@SAN@pat2, pat2h, put2t2, puth, mut2, mun2t2, pun2t2,
+29451@puw@132521@SAN@pun2d2.
+29457@puq@132570@SAN@put2,
+29457@puq@132570@SAN@pun6s,
+29457@puq@132571@SAN@bud2, mud2, mun2t2, mut2.
+29476@putra@132826@Pers@pusr,
+29476@putra@132828@Lat@era, pu-su-s, pusa, pu10-pu-s, pu10-pa, pu10pilla, pu-
+29476@putra@132829@Lat@tu-s;
+29512@puras@133227@SAN@pura1, puratas, pu1rva:
+29512@puras@133229@Lat@poram,
+29512@puras@133230@Lat@palam
+29512@puras@133230@Lat@param:
+29512@puras@133230@Goth@faur,
+29512@puras@133231@Germ@furi,
+29515@purA@133417@Lat@por-
+29515@purA@133418@Lat@tendere;
+29515@purA@133419@Sax@fora-, fore-.
+29550@puru@133739@Lat@plu10rimu-s, ple10ri-que:
+29550@puru@133739@Goth@filu-
+29550@puru@133740@Goth@sna,
+29550@puru@133740@Norse@flei-ri, flest-r:
+29550@puru@133743@Hib@moradh,
+29633@pU@134885@Lat@ru-s, pu-tu-s, puta-re, pœna, pu10nio, pœnitet,
+29633@pU@134886@Lat@pi-u-s, ex-pia-re, pia-culu-m, pru1-na:
+29633@pU@134890@Lith@pus-tau,
+29675@pUy@135084@Zend@pu1,
+29675@pUy@135085@Zend@pui-ti,
+29685@pUraRa@135232@SAN@a-pº, karn2a-pº, nirva1n2a-pº,
+29708@pUrva@135463@Zend@panurva;
+29732@pf@135930@Goth@far-j-an,
+29732@pf@135931@Germ@furt:
+29734@pf@135941@Lat@prec-ari;
+29741@pfc@135985@Lat@plaÇg-a:
+29741@pfc@135986@Goth@t-om,
+29741@pfc@135986@Goth@fal-th-a,
+29741@pfc@135986@Goth@flaht, flihtu,
+29741@pfc@135987@Goth@fluhtume10s:
+29741@pfc@135989@Germ@en:
+29751@pfq@136014@SAN@pr2in2
+29763@pfTak@136082@Lat@prith-vus, pri-
+29763@pfTak@136083@Lat@vare.
+29766@pfTu@136220@SAN@prath; prath-as,
+29766@pfTu@136221@Zend@frath-anh,
+29766@pfTu@136224@Lat@us
+29766@pfTu@136224@Lat@platus; Latium,
+29766@pfTu@136224@Lat@lat-er:
+29780@pfSni@136416@SAN@pr2ish
+29780@pfSni@136416@SAN@spr2is4; pr2ish-
+29780@pfSni@136417@SAN@ata, pr2ishat, pr2ishat2i1:
+29806@pF@136671@SAN@pr2i
+29806@pF@136683@SAN@pra1,
+29806@pF@136683@SAN@pur, pura, puru, pulu:
+29806@pF@136684@Zend@perena,
+29842@peSala@136783@Slav@pis-ati,
+29926@pota@137043@SAN@putra, 2. pun6s;
+29926@pota@137046@Lat@pov-er,
+29926@pota@137047@Lat@pu-era, pu-su-s, pusa, pu1-pu-s, pu1-pa, pu1pilla,
+29926@pota@137048@Lat@pu-tu-s, pu1bes, pum-ilu-s, pumil-io, prœ-pu-tiu-m,
+29926@pota@137049@Lat@po1-mu-m
+29926@pota@137049@Lat@pov-mu-m, pa-pav-er;
+29926@pota@137050@Goth@fula
+30106@pra@137656@Lat@proÇ-nepos, prœ
+30106@pra@137656@Lat@prai, pri1mu-s
+30106@pra@137656@Lat@pro-imus,
+30106@pra@137657@Lat@pri-or, pris- = prius
+30106@pra@137657@Lat@pro-ios, pris-tinu-s, pris-
+30106@pra@137658@Lat@cu-s, pran-diu-m, porro,
+30106@pra@137658@Lat@pru-i1na
+30106@pra@137659@Lat@provi1na:
+30106@pra@137660@Umbr@pernaio,
+30106@pra@137661@Goth@frum-ist,
+30106@pra@137661@Goth@fairra,
+30106@pra@137662@Germ@furisto,
+30106@pra@137663@Germ@fruo,
+30106@pra@137664@Slav@priÇ-vy,
+30106@pra@137665@Lith@pir-ma-s,
+30106@pra@137666@Lith@pirm,
+30106@pra@137666@Hib@foir,
+30106@pra@137667@Hib@fri,
+30344@pragfhIta@138667@SAN@pra-
+30344@pragfhIta@138668@SAN@gr2ihya
+30470@praC@139123@Zend@peÇreÇs,
+30470@praC@139123@Zend@fra1s4,
+30470@praC@139125@Lat@posco
+30470@praC@139125@Lat@prosco
+30470@praC@139125@Lat@rogo
+30470@praC@139125@Lat@progo, pos-
+30470@praC@139126@Lat@tulare,
+30470@praC@139126@Lat@suf-frag-ari, flag-it-are:
+30470@praC@139129@Lith@pras'au,
+30470@praC@139130@Hib@fiafraighe,
+30470@praC@139131@Hib@fiafruighim,
+30470@praC@139132@Hib@friscim,
+30470@praC@139132@Hib@friscart,
+30676@prati@140016@Zend@paiti:
+30676@prati@140016@Pers@pati-sh,
+30676@prati@140018@Lat@red-dere, red-ire; re-
+30676@prati@140018@Lat@re-ferre;
+30676@prati@140019@Lat@prœ
+30676@prati@140019@Lat@prai; por, pol, pos
+30676@prati@140020@Lat@por-rigo, pol-liceor, pol-lus, pos-sides:
+30676@prati@140022@Hib@frithbeart,
+30676@prati@140023@Hib@frithbuille,
+30676@prati@140023@Hib@frithshearc,
+30676@prati@140024@Hib@frithcuirim,
+30676@prati@140025@Hib@frithbharamhuil,
+32003@pradAna@144138@SAN@veda-pº,
+32327@praBinna@145281@SAN@da1na,
+32328@praBeda@145291@SAN@da1na,
+32497@pramodita@145994@SAN@pra-modama1na
+33098@prasaNga@147981@SAN@surata-
+33871@prI@151258@Zend@fri1,
+33871@prI@151258@Zend@fry-a,
+33871@prI@151261@Lat@prius
+33871@prI@151262@Lat@lœ-tus
+33871@prI@151262@Lat@plœ-tus
+33871@prI@151262@Lat@filius
+33871@prI@151262@SAN@priya
+33871@prI@151263@Goth@frijond-s,
+33871@prI@151263@Goth@fria-thva,
+33871@prI@151264@SAN@priya-tva
+33871@prI@151264@Goth@faihu-freiks,
+33871@prI@151266@Germ@friunt,
+33871@prI@151266@Germ@fri-du, fri-da,
+33871@prI@151266@Germ@friu-
+33871@prI@151267@Germ@dil, fri-del, fre-del,
+33871@prI@151268@Slav@pri-ja-telu
+34025@proYCana@152174@SAN@un3c4hana,
+34158@plu@152603@Lat@pluv-ia, flu-o, fle-o, plo10ra-re, linter;
+34158@plu@152604@Lat@fund-o
+34158@plu@152604@Lat@plund-o;
+34158@plu@152604@Lat@pluma;
+34158@plu@152605@Lat@lav-o
+34158@plu@152605@Lat@plav-o:
+34158@plu@152607@Germ@fliu-z-u,
+34158@plu@152608@Germ@fluz,
+34158@plu@152608@Germ@flug:
+34158@plu@152610@Iceland@flut:
+34158@plu@152610@Slav@plov-a, plou-ti,
+34158@plu@152611@Slav@plu-ti,
+34158@plu@152613@Hib@plodaim,
+34158@plu@152614@Hib@lua
+34158@plu@152614@Gaelic@lu,
+34158@plu@152614@Hib@luathaim,
+34158@plu@152615@Hib@falcaim,
+34158@plu@152615@Hib@luan,
+34158@plu@152616@Gaelic@plucas,
+34198@psur@152752@Zend@fshu.
+34237@Pal@152935@Goth@ma:
+34237@Pal@152935@Germ@blus-jan,
+34237@Pal@152936@Germ@bluot,
+34237@Pal@152936@Germ@bla10s,
+34237@Pal@152936@Germ@bla10sa,
+34237@Pal@152937@Germ@bla-tara,
+34237@Pal@152937@Germ@bluot,
+34237@Pal@152937@Germ@bloz,
+34237@Pal@152939@Brit@palad,
+34237@Pal@152940@Brit@paladu,
+34238@Pala@153142@SAN@amla-pan3c4a
+34238@Pala@153142@SAN@phala-pan3c4a1mla.
+34355@baw@153605@Zend@ba1t2, ba1.
+34368@badara@153662@SAN@ba1dara1yan2a
+34368@badara@153662@SAN@a1
+34384@banD@153775@Zend@band, banda, bas4-ta,
+34384@banD@153777@Lat@ibulum, pendo, pendeo, fi1-lum
+34384@banD@153777@Lat@fid-lum, fu1-
+34384@banD@153778@Lat@nis
+34384@banD@153778@Lat@fud-nis, fi1d-es, fi1d-o
+34384@banD@153778@Lat@feido
+34384@banD@153779@Lat@fœd-us;
+34384@banD@153780@Goth@fastan;
+34384@banD@153781@Sax@bonda, bœnd, bœst, fœst;
+34384@banD@153781@Iceland@fas-t.
+34398@banDa@153988@SAN@das4a-bº, pan3c4a-bº;
+34398@banDa@153990@Sax@bœnd, bœst;
+34428@baBru@154256@Lat@fu-scu-s;
+34454@barbura@154324@Fr@bourbe.
+34560@bAq@155608@Germ@bado10n,
+34574@bAD@155685@Zend@vad,
+34574@bAD@155686@Zend@vaday,
+34574@bAD@155690@Goth@badvja:
+34574@bAD@155691@Hib@buaidim.
+34687@bAhu@156338@Zend@ba10zu,
+34687@bAhu@156340@Norse@bo10g-r
+34723@bidala@156550@SAN@masu1ra-bº
+34766@bukka@156728@SAN@bukkan2a
+34778@buD@156799@Zend@bud,
+34778@buD@156802@Goth@biuda, bauth, budum:
+34778@buD@156803@Sax@botm, beodan, boda, bodian:
+34778@buD@156805@Slav@buÇd-eÇ-ti,
+34778@buD@156806@Lith@bu-
+34778@buD@156807@Lith@de4ti,
+34778@buD@156807@Lith@bud-ru11-s,
+34793@buDna@157095@SAN@adri-bº, as4va-bº
+34793@buDna@157100@Zend@bu-na,
+34793@buDna@157102@Iceland@bot-n;
+34793@buDna@157103@Sax@bot-m;
+34836@bfhat@157228@Sax@beorg.
+34910@brahman@157642@SAN@bra1hman2a
+34910@brahman@157695@Zend@bares4ma.
+34910@brahman@157696@SAN@brahman,
+34932@brAhmaRya@158846@SAN@brah-
+34932@brAhmaRya@158847@SAN@man2ya
+34946@brU@158910@SAN@ru:
+34946@brU@158911@Zend@mru1,
+34946@brU@158913@Hib@bruidheann,
+34946@brU@158913@Hib@bruideanaim,
+34946@brU@158915@Scot@bruidhneach,
+34946@brU@158917@Brit@brudiwr,
+34960@Bakz@158998@Zend@baz,
+34960@Bakz@158998@Zend@bagh-a-s,
+34960@Bakz@158999@Zend@bakhsh,
+34960@Bakz@159001@Lat@fag-mes, fa-ba
+34960@Bakz@159001@Lat@fag-ba, bacca
+34960@Bakz@159002@Lat@bacsa:
+34960@Bakz@159002@Goth@basya
+34960@Bakz@159002@SAN@bhakshya,
+34995@Baj@159137@Hib@fuighim,
+34995@Baj@159137@Hib@fuigheall,
+34995@Baj@159138@Hib@faghail,
+35002@Baga@159286@Zend@bagha
+35002@Baga@159286@Pers@baga,
+35002@Baga@159287@Lith@bagotas,
+35026@BaYj@159507@Hib*@faighle, faighleadh,
+35026@BaYj@159508@Hib*@faigh,
+35102@Badra@159971@Lat@fad-tus, fastigium, fastidium,
+35102@Badra@159972@Lat@festivus:
+35102@Badra@159972@Goth@bat-ista,
+35102@Badra@159974@Germ@beziro, bezisto,
+35102@Badra@159975@Goth@bot-jan:
+35102@Badra@159976@Hib@badhach,
+35102@Badra@159976@Hib@maith:
+35172@BarUjA@160616@SAN@bharuja,
+35172@BarUjA@160616@SAN@bharu1ja1;
+35172@BarUjA@160616@SAN@bha1-
+35172@BarUjA@160617@SAN@ru1jika.
+35199@Bala@160684@SAN@bal, bat2,
+35199@Bala@160684@SAN@bhalla,
+35231@Bavanti@160913@SAN@bhavanti1
+35231@Bavanti@160913@SAN@bhavat.
+35257@Bas@161050@SAN@bharts
+35257@Bas@161050@SAN@bha1, bha1s
+35275@BA@161183@Zend@ba1-nu,
+35275@BA@161184@Zend@ba1-ma,
+35275@BA@161190@Lat@eo-r, fa-c-s, faÇ-c-ie-s, faÇc-e1-tu-s, fav-illa, focus,
+35275@BA@161191@Lat@februus
+35275@BA@161192@Slav@ba-s-niÇ,
+35480@BAs@162454@Hib@mais,
+35480@BAs@162455@Lat@tra, fas-tus.
+35517@Bid@162706@Lat@fid-
+35517@Bid@162707@Lat@nis
+35517@Bid@162707@Goth@beita, bait, bitum:
+35564@BI@162974@SAN@bi1,
+35564@BI@162976@Lith@baime,
+35564@BI@162976@Lith@bai-dau,
+35564@BI@162977@Lith@baisis,
+35564@BI@162978@SAN@bhi1shaya
+35564@BI@162978@Lith@byauru11s,
+35564@BI@162978@SAN@bhi1ru
+35564@BI@162978@Lith@baj-
+35564@BI@162979@Lith@us,
+35564@BI@162979@SAN@= bhaya:
+35564@BI@162980@Goth@bia, fiangds:
+35564@BI@162983@SAN@bebheti.
+35610@Buj@163292@Lat@fugare:
+35610@Buj@163296@Slav@be†g-l-iÇ-c-iÇ,
+35610@Buj@163299@Hib@bogha,
+35610@Buj@163299@Hib@boghaighim,
+35610@Buj@163300@Hib@boghadoir,
+35613@Buja@163314@Lat@fug-nus,
+35616@Buj@163462@Lat@frug-or, fruges, fructus,
+35616@Buj@163463@Lat@frustum, frustra, frutex;
+35616@Buj@163464@Goth@biuhti, bruks, bru1kjan;
+35616@Buj@163465@Sax@bryce;
+35619@Bukti@163488@SAN@paksha-
+35640@Bur@163566@SAN@bhu1rn2i;
+35655@BU@163719@Zend@bu1,
+35655@BU@163720@SAN@= abhu1vam, abhu1s,
+35655@BU@163721@SAN@abhu1t,
+35655@BU@163724@SAN@= bhavat:
+35655@BU@163725@Lat@fo-re, fu-tu-o, -bam
+35655@BU@163725@Lat@amabam
+35655@BU@163725@SAN@abhavam,
+35655@BU@163725@Lat@-bo,
+35655@BU@163726@Lat@bimus
+35655@BU@163726@SAN@bhavishya1mi, bhavishya1mas
+35655@BU@163726@Lat@fe-tu-s, fe-
+35655@BU@163727@Lat@cundu-s, fe-nus, fe-nu-m:
+35655@BU@163730@Goth@bau-ains
+35655@BU@163730@SAN@bhavana,
+35655@BU@163731@Lith@bu11-ta-s,
+35670@BUti@164379@Slav@by-ti
+35695@BUyas@164762@Hib@ni
+35695@BUyas@164763@Hib@ni bhus airde,
+35701@BUz@164822@Hib@ghim,
+35714@Bf@164908@Lat@belli-fer, fer-cu-lu-m, fer-a1x, for-du-s,
+35714@Bf@164909@Lat@far, far-i1na, fer-ti-li-s, for(t)-s, for-tu1-na, for-
+35714@Bf@164910@Lat@tu-itu-s; pro-bru-m, op-pro-br-iu-m
+35714@Bf@164911@Lat@candela-bru-m; her-b-a, fi-b-ra, forb-ea:
+35714@Bf@164912@Goth@ga-baur,
+35714@Bf@164912@Goth@baur-ei
+35714@Bf@164913@Goth@baur-thei,
+35714@Bf@164913@Goth@ga-baur-th-s,
+35714@Bf@164913@Goth@bar-n,
+35714@Bf@164914@Goth@ber-usyo1s,
+35714@Bf@164914@Goth@barm-s,
+35714@Bf@164915@Goth@baris,
+35714@Bf@164915@Goth@brigg-an,
+35714@Bf@164916@Germ@ba1ra,
+35714@Bf@164917@Sax@bearm,
+35714@Bf@164917@Sax@bearn,
+35714@Bf@164918@Sax@byrdhen,
+35714@Bf@164918@Sax@bring-an,
+35714@Bf@164919@Slav@bre†-me,
+35714@Bf@164920@Slav@bra-kuÇ,
+35714@Bf@164920@Boh@ber-neÇ,
+35714@Bf@164922@Hib@im,
+35723@Bftya@164973@SAN@ra1ja-bhº
+35723@Bftya@164973@SAN@a1
+35757@BfRIya@165211@SAN@bhri1
+35757@BfRIya@165211@SAN@hr2in2i1ya.
+35884@BraMS@166000@Sax@arisan,
+35884@BraMS@166001@Goth@jan, af-hrisjan,
+35899@Brajj@166070@Lat@frictus, frixus;
+35899@Brajj@166071@Iceland@brugga
+35910@Bram@166133@Lat@frem-itu-s;
+35942@BrAj@166339@Lat@ra-re, flam-ma
+35942@BrAj@166339@Lat@flag-ma, fla1-men
+35942@BrAj@166339@Lat@flag-men,
+35942@BrAj@166341@Goth@bairhtei,
+35942@BrAj@166342@Sax@bla1c, blœc-an, bli1c-an:
+35942@BrAj@166345@Scot@breachad, boillsg,
+35942@BrAj@166346@Scot@boillsgeach,
+35958@BrAtf@166398@Zend@bra1tar:
+35958@BrAtf@166401@Lat@fraternu-s, fra1tr-ia,
+35958@BrAtf@166402@Umbr@ter:
+35958@BrAtf@166402@Goth@bro-thra-hans,
+35958@BrAtf@166405@Lith@brotu11-szi-s,
+35958@BrAtf@166406@Pruss@ti-s:
+35960@BrAtfvya@166439@Lat@tru1elis.
+35995@ma@166585@Goth@mi-k,
+36000@maMhanIya@166613@SAN@mah,
+36012@makara@166652@SAN@makara-kun2d2ala
+36033@makza@166759@Zend@makhshi,
+36033@makza@166762@Norse@my:
+36036@makzu@166775@Zend@mashu, moshu;
+36039@maKa@166801@Norse@mœkir.
+36080@mac@167141@SAN@man3c4,
+36080@mac@167141@SAN@muc4, mun3c4
+36089@majj@167182@Lith@mazgoju
+36089@majj@167182@SAN@majja-
+36089@majj@167183@SAN@ya1mi.
+36213@matsya@168030@Hib@measach,
+36218@maT@168169@SAN@pra-mantha-s,
+36245@mad@168333@Lat@e-sc-o, maÇde-facio, ma1-na-re
+36245@mad@168333@Lat@mad-na-re;
+36245@mad@168335@Sax@mœt-an;
+36245@mad@168336@Pers@mas-t
+36245@mad@168336@Pers@med-t.
+36293@maDu@168856@Zend@madhu,
+36293@maDu@168858@Lat@melvis = meduis
+36293@maDu@168861@Hib@meala,
+36316@maDya@169435@Zend@maidhya,
+36316@maDya@169436@Zend@madh-ema,
+36316@maDya@169437@Oscan@mef- 
+36316@maDya@169438@Oscan@ia-i
+36316@maDya@169439@Goth@mid-uma,
+36316@maDya@169440@Germ@missi, mis-:
+36316@maDya@169442@Lith@vidu11i,
+36316@maDya@169442@Lith@vidu-rys,
+36329@man@169839@Zend@upa-man =
+36329@man@169840@Zend@fra-man,
+36329@man@169840@Zend@mananh,
+36329@man@169841@Zend@mad, madh,
+36329@man@169842@Zend@madha,
+36329@man@169842@Zend@vohu-mad = 
+36329@man@169848@Lat@men-tio, men-(ti)-s, menti-o-r, mend-ax, mon-e-o,
+36329@man@169849@Lat@Mone-ta, re-min-i-sc-o-r, com-min-i-sc-or, com-
+36329@man@169850@Lat@men-tu-m, commen-ta-riu-s, med-eo-r, re-med-
+36329@man@169851@Lat@iu-m, med-icu-s, med-i-tari:
+36329@man@169852@Goth@ga-mun-an,
+36329@man@169852@Goth@mun-s =
+36329@man@169853@Goth@ga-min-thi =
+36329@man@169853@Goth@mun-d-o10-n,
+36329@man@169854@Goth@mundrei,
+36329@man@169855@Germ@man-e10-n, man-o-n,
+36329@man@169855@Germ@meina,
+36329@man@169856@Germ@munt-ar,
+36329@man@169857@Lith@pri-manus,
+36329@man@169857@Lith@min-iu,
+36329@man@169858@Lith@at-men-u, at-min-ti-s,
+36329@man@169859@Lith@mand-ru11-s,
+36329@man@169860@Slav@po-man-a-ti = 
+36329@man@169860@Slav@pa-me-ti = 
+36329@man@169861@Slav@ma-d-ruÇ = 
+36329@man@169863@Hib@smuainim,
+36331@mati@169922@Slav@pramanti.
+36380@manAk@170913@Lat@minuo:
+36380@manAk@170915@Hib@mion,
+36554@marta@172014@Lat@morta1lis.
+36571@marmara@172167@Germ@o10n:
+36571@marmara@172167@Lith@murm-len-ti,
+36594@mala@172287@Sax@rian:
+36594@mala@172287@Lith@me4lyna-s,
+36659@masana@172663@SAN@mash
+36692@mah@172798@Goth@mah-t-s,
+36692@mah@172799@Goth@magaths, magus,
+36692@mah@172799@Goth@magan,
+36692@mah@172800@Goth@magu, mavi:
+36692@mah@172801@Germ@macho10n,
+36692@mah@172803@Sax@meagn, macian:
+36692@mah@172803@Slav@po-mos-ti,
+36692@mah@172805@Hib@modh,
+36692@mah@172806@Brit@mygaw,
+36697@mahat@172871@Lat@gis, magis-ter, magistra-tus:
+36697@mahat@172872@Goth@mikil-jan =
+36697@mahat@172872@Goth@mais,
+36697@mahat@172873@Goth@maist,
+36707@mahas@172972@Zend@masas4;
+36709@mahA@173573@SAN@nis4
+36709@mahA@174029@SAN@ghana1ghana, pa-
+36709@mahA@174030@SAN@ta1pata, vada1vada.
+36720@mahiza@175156@SAN@pan3c4a-mº
+36793@mA@175493@Zend@ma1;
+36796@mA@175547@Zend@ma1,
+36796@mA@175548@Zend@ma1,
+36796@mA@175554@Hib@meadaighim,
+36809@mAtf@175639@SAN@ma1tarah2,
+36809@mAtf@175640@SAN@sapta-ma1tr2i;
+36809@mAtf@175641@SAN@ma1tr2i
+36809@mAtf@175642@SAN@vi-bhu1ti, revati1, a1khukarn2i1, in-
+36809@mAtf@175643@SAN@dra-va1run2i1, maha1-s4ra1van2i1, jat2a1-ma1n6si1:
+36809@mAtf@175646@Hib@thair.
+36960@mAtsyaka@176455@SAN@paun2d2ra-mº;
+37039@mAnava@176914@Goth@mannan,
+37039@mAnava@176915@Goth@manvan;
+37283@mAs@178102@Lat@struus;
+37283@mAs@178104@Lith@me4nesi-s,
+37362@mitra@178531@Zend@mithra-druj.
+37391@mid@178841@Lith@mie10las,
+37427@miSr@178945@Lat@tu-s, mix-tu10-ra, mis-tu10-ra, mix-ti-o, mis-ti-o,
+37427@miSr@178946@Lat@misc-ellu-s, miscell-a10neu-s:
+37427@miSr@178947@Germ@misk-iu,
+37427@miSr@178949@Lith@maisz-y-ti,
+37436@miz@179032@Lat@nico, nic-to,
+37436@miz@179032@Lat@nimic-o, nimic-to
+37436@miz@179032@SAN@nimi-
+37436@miz@179033@SAN@sha1mi:
+37436@miz@179034@Lith@me10gmi,
+37458@mI@179134@Lat@minare, e-minus, co-minus, minari.
+37531@muc@179717@Slav@moc†iti,
+37539@mucira@179892@SAN@mukta-hasta
+37539@mucira@179892@SAN@as
+37555@muj@179945@SAN@mr2ij:
+37589@mud@180119@Lith@dru11s.
+37763@mUza@181245@Lat@cip-ula;
+37776@mf@181311@Zend@mare-ta,
+37776@mf@181312@Zend@maretan,
+37776@mf@181314@Lat@i-or-r, mor-(ti)-s, mor-tuu-us, mort-a10li-s, mor-
+37776@mf@181315@Lat@bu-s, mar-c-e-o, marc-e-sc-o, marc-i-du-s:
+37776@mf@181317@Slav@mor-u,
+37776@mf@181318@Slav@s-mriÇ-tiÇ,
+37776@mf@181318@Slav@mriÇ-tvu,
+37776@mf@181321@Lith@s-mer-ti,
+37776@mf@181322@Hib@marbhan,
+37781@mfti@181403@Lat@ti-s);
+37813@mfj@181839@Zend@marez,
+37813@mfj@181844@Lat@merg-e(t)s, mulier, lac
+37813@mfj@181844@Lat@mlac
+37813@mfj@181847@Sax@ge-mearc:
+37813@mfj@181848@Hib@bleaghaim,
+37824@mfq@181899@Lat@dus:
+37824@mfq@181900@Germ@ti,
+37824@mfq@181900@Slav@mil-ovati,
+37824@mfq@181901@Slav@mil-ostiÇ,
+37824@mfq@181902@Lith@me4ile,
+37849@mfd@181982@Lat@e-o, mand-o, mol-o, mol-a, malleus
+37849@mfd@181982@Lat@mar-
+37849@mfd@181983@Lat@deus
+37849@mfd@181983@Goth@mala,
+37849@mfd@181984@Goth@malo,
+37849@mfd@181985@Sax@malt, meltan, miltan, smeortan:
+37849@mfd@181986@Germ@malz, smerzan:
+37849@mfd@181987@Lith@mald-inu, mal-inu,
+37849@mfd@181988@Lith@molj,
+37849@mfd@181989@Hib@millim,
+37858@mfdu@182052@SAN@mr2i-
+37858@mfdu@182053@SAN@dvi1ka1
+37882@mfS@182173@Lat@mulc-o:
+37882@mfS@182174@Hib@mearacht,
+37899@me@182258@Lat@tu-m, mu-ta-re, mu10-tuu-s, communis, munus:
+37899@me@182260@Sax@madhm, mane, man, ge-mœne:
+37943@medas@182600@Lat@medusla
+37943@medas@182601@Lat@medurla.
+38004@mEtra@182963@SAN@C4aitra
+38004@mEtra@182963@Lat@Caius
+38245@mlE@183918@SAN@mla1payati,
+38275@yaj@184198@Zend@yaz,
+38276@yakzya@184202@SAN@= yasht2avya.
+38357@yad@185690@Zend@ya:
+38357@yad@185690@Goth@jau,
+38357@yad@185691@Lith@ji,
+38357@yad@185691@Lith@ju,
+38378@yam@185906@Lat@sub-imo, demo
+38378@yam@185906@Lat@de-imo
+38378@yam@185908@Hib@nim,
+38378@yam@185908@Hib@iomain,
+38429@yava@186459@Zend@yava;
+38489@yA@186932@SAN@ya1-
+38489@yA@186933@SAN@paya1mi
+38489@yA@186933@SAN@= ya1sya1mi
+38533@yAc@187225@SAN@arth;
+38658@yAvat@187711@Lat@tus?
+38687@yu@187897@Lat@juro, jubere.
+38705@yuj@188009@Lat@tu-m, con-jux, jug-u-m, jugeru-m, juxta;
+38705@yuj@188011@Sax@can, geoce;
+38707@yukti@188105@SAN@taru
+38721@yuj@188284@Lat@con-jug-is.
+38739@yut@188339@Hib@an-iudh,
+38739@yut@188339@Hib@iodhna,
+38744@yuD@188370@Zend@yud:
+38744@yuD@188371@SAN@a1-yudha
+38744@yuD@188371@Hib@iodnach,
+38744@yuD@188372@Hib@iodhlan,
+38798@yuvan@188606@Slav@junosti,
+38811@yusmad@188664@Zend@yu1s;
+38814@yuzmAka@188686@SAN@yushma1ka
+38814@yuzmAka@188686@SAN@yushmad.
+38938@raMh@189629@Goth@ja.
+38955@rakza@189685@SAN@maha1-rº
+38955@rakza@189685@SAN@a1
+38982@raGu@189893@SAN@a1s4u-
+38982@raGu@189894@SAN@patvan.
+38997@rac@189957@Sax@loh.
+39009@rajju@190021@Germ@chian;
+39052@raW@190680@Germ@dino10n;
+39054@raR@190699@Hib@ranach,
+39077@raTa@191052@SAN@mano-
+39077@raTa@191261@Zend@rathœsta1.
+39105@raD@191371@SAN@ra1dh
+39136@raP@191480@SAN@riph, r2iph;
+39139@raB@191494@Sax@lybban,
+39139@raB@191494@Sax@a-refian,
+39139@raB@191494@Sax@a-rœfnan,
+39154@ram@191589@Zend@ram, ra1m-a, airi-ma;
+39154@ram@191594@Lith@ram-dy-ti;
+39225@ras@192021@Germ@rerjan;
+39232@rasa@192085@Lat@ror-is
+39232@rasa@192085@Lat@ros-is
+39255@rah@192444@Goth@lagjan:
+39255@rah@192445@Lith@leidziu.
+39301@rAj@192826@SAN@ra1jya
+39301@rAj@192826@Goth@reik-s,
+39460@ri@194513@SAN@r2i
+339468@riK@194541@SAN@rekha1;
+39480@ric@194584@Zend@ric;
+39480@ric@194587@Osc@tud = lice-to
+39480@ric@194587@Osc@lic-e-o-r;
+39480@ric@194588@Goth@af-lif-nan, leihvan;
+39480@ric@194590@Sax@lœn, lœnan;
+39480@ric@194591@Lith@laiki-s.
+39491@rij@194655@SAN@bhr2ij.
+39576@ru@194975@Lat@ru10m-i-to, ra10vi-s, rau-cu-s;
+39616@ruj@195235@Lat@lug-u-bri-s, luc-tu-s, lu-e-s;
+39622@ruw@195281@SAN@rush
+39662@roDa@195591@SAN@ava-rº, nyag-rº.
+39663@ruD@195614@Hib@rundhachd,
+39663@ruD@195615@Hib@ruindiamhar,
+39663@ruD@195615@Hib@ruine,
+39663@ruD@195617@SAN@ru.
+39680@ruDira@195689@SAN@s4on2ita-pura:
+39703@ruz@195811@Goth@jan.
+39720@ruh@195872@Lat@is:
+39720@ruh@195873@Goth@lauths,
+39720@ruh@195873@Goth@laudi-s
+39720@ruh@195874@Germ@liuti
+39720@ruh@195875@Germ@sumarlota,
+39720@ruh@195875@Germ@ruota,
+39720@ruh@195877@Slav@na-rodu,
+39720@ruh@195878@Lith@dinu,
+39720@ruh@195878@Lith@rudu,
+39720@ruh@195878@Celt@rho-
+39720@ruh@195879@Celt@dara,
+39720@ruh@195879@Celt@rod-ra,
+39720@ruh@195880@Scot@rosach,
+39720@ruh@195881@Hib@rud,
+39720@ruh@195881@Hib@ruadh,
+39720@ruh@195882@Hib@romho,
+39720@ruh@195882@Hib@rom-
+39720@ruh@195883@Hib@hoide,
+39720@ruh@195883@Hib@ruidh,
+39720@ruh@195883@Hib@roid,
+39720@ruh@195884@Hib@ruaidhneach,
+39720@ruh@195884@Hib@laidir,
+39720@ruh@195885@Hib@laidireacht, laidireas,
+39732@rUkza@195951@SAN@ruhvan,
+39732@rUkza@195951@Pra1kr2it@rukkha =
+39732@rUkza@195952@SAN@vr2iksha
+39754@rUz@196191@SAN@ru1ksh, ru1kshita
+39757@rUzita@196199@SAN@ru1ksh, ru1kshita,
+39903@roman@196781@Hib@ro-
+39903@roman@196782@Hib@machad,
+39903@roman@196782@Hib@roinfaith,
+39903@roman@196782@Hib@roin,
+39903@roman@196783@Hib@roine,
+39903@roman@196783@Hib@roineach,
+39910@romanTa@196891@Lat@rug-men
+39910@romanTa@196891@Lat@ruminare,
+39910@romanTa@196892@Lat@ructare;
+39910@romanTa@196893@Sax@cettan.
+39923@rohaka@196923@SAN@kat2i-
+39923@rohaka@196924@SAN@rº
+40051@laGu@197684@Lat@i-s, levi-ta-s, levare, lepus
+40051@laGu@197684@Lat@lephus
+40051@laGu@197687@Hib@lagudhadh,
+40051@laGu@197687@Hib@la-
+40051@laGu@197688@Hib@guighthe,
+40051@laGu@197688@Hib@laghad,
+40051@laGu@197689@Hib@lagaighim,
+40051@laGu@197689@Hib@laigidh, laigse,
+40051@laGu@197690@Hib@laigsinn,
+40051@laGu@197690@Hib@lugh,
+40051@laGu@197691@Hib@lughad,
+40070@laNG@197965@Lat@guere;
+40102@laYjikA@198071@Lat@langu-i-du-s, langu-or, laxus, lac-tes.
+40129@lap@198207@SAN@lap
+40129@lap@198208@Lat@loquax, loquela, Ajus Locu-ti-us, la-mentum;
+40129@lap@198209@Lat@labium, labrum, lambo:
+40129@lap@198210@Lith@rik-ti, rek-iu:
+40129@lap@198210@Hib@labh-
+40129@lap@198211@Hib@radh,
+40145@laB@198271@Pruss@lab-s,
+40145@laB@198271@Lith@lobis,
+40272@laz@198903@Lat@ivu-s;
+40272@laz@198904@Sax@lyst, lystan;
+40280@las@198928@Lat@lascivus, lascivire.
+40447@liNg@199478@Germ@hringjan;
+40459@lip@199638@Lat@liquidus, liqueo:
+40484@liS@199740@SAN@kr2is4, klis4
+40493@lih@199785@Hib@im-lighim,
+40512@lI@199847@Lat@liqueo,
+40512@lI@199848@Lat@liquo:
+40540@luw@200025@SAN@rut2,
+40540@luw@200025@SAN@lut2h
+40558@luRw@200078@SAN@run2t2, run2t2h,
+40558@luRw@200078@SAN@lut2h,
+40558@luRw@200079@SAN@lun2d2
+40563@luRW@200091@SAN@run2t2, lun2t2,
+40563@luRW@200091@SAN@lut2h
+40578@lunT@200117@SAN@lut2h,
+40578@lunT@200117@SAN@lut2
+40579@lup@200129@SAN@lubh,
+40579@lup@200129@SAN@lup
+40579@lup@200130@SAN@lolupa
+40579@lup@200143@Lith@rup-u-s:
+40579@lup@200144@Hib@reuban,
+40579@lup@200144@Hib@lomaim,
+40595@luB@200234@Lat@lib-er, Libentina:
+40595@luB@200234@Goth@brothra-
+40595@luB@200235@Goth@lub-o, us-laubjan:
+40595@luB@200236@Germ@lob, lob-o10-n:
+40595@luB@200237@Slav@liub-y, ljub-
+40595@luB@200238@Slav@imi, liub-y-ti, liub-jaus:
+40632@lU@200389@Lat@so-lv-o
+40632@lU@200389@Lat@se-lu-o
+40632@lU@200389@Lat@so-lu-tu-s, lu-o, lucrum;
+40691@lok@200526@Germ@e-m;
+40835@vakra@201715@Hib@fiaras,
+40835@vakra@201715@Hib@fia-
+40835@vakra@201716@Hib@raim,
+40859@vakz@201834@Zend@ukhs,
+40859@vakz@201838@Hib@fasamhuil,
+40873@vaNk@201892@Lat@vacuus:
+40873@vaNk@201893@Germ@wank, wankon:
+40873@vaNk@201894@Sax@wo, wancol:
+40900@vac@201985@Lat@in-vi1-tare, con-viciu-m;
+40900@vac@201986@Germ@wah-anian, gi-wah-t:
+40900@vac@201987@Pruss@en-wacke:
+40900@vac@201988@Hib@faigh,
+40900@vac@201989@Hib@faighle, faighleadh,
+40908@vaktra@202031@Lat@trare
+40908@vaktra@202031@Lat@vactrare.
+40937@vaj@202212@Zend@vaz,
+40937@vaj@202213@Zend@vaz-y-ant, vaz-d-vare;
+40937@vaj@202215@Lat@veg-e-tu-s, vig-or, vig-il, aug-eo, aug-men-tu-m,
+40937@vaj@202216@Lat@vagari1;
+40937@vaj@202217@Sax@wacor,
+40937@vaj@202218@Sax@wacian;
+40938@vajra@202270@Zend@vaz-ra,
+41027@vatsa@202873@Osk@(= Italia);
+41040@vad@203018@Lat@(vad-is):
+41040@vad@203020@Slva@vad-i-ti, va1da,
+41040@vad@203020@Slva@us-ta,
+41040@vad@203021@Hib@luadhaim,
+41040@vad@203022@Hib@raidim,
+41044@vadana@203035@Hib@eudan,
+41064@vaD@203104@Hib@fœthadh,
+41064@vaD@203105@Hib@fesaim,
+41064@vaD@203105@Hib@feadhm,
+41100@van@203282@Lat@nustas, veneror;
+41100@van@203283@Germ@winia, wunna;
+41100@van@203284@Sax@wenan;
+41111@vanas@203652@Lat@venus-
+41111@vanas@203653@Lat@tas.
+41142@vanya@203754@SAN@vanya
+41142@vanya@203754@SAN@c4akshur-vº, aji1ta-punarvan2ya.
+41212@vam@204076@Zend@vam,
+41212@vam@204078@Lat@i-tu-s, vom-i-tio;
+41212@vam@204079@Norse@vom-a, vœma;
+41295@varIyas@204649@Lat@v
+41295@varIyas@204650@Lat@m
+41297@varuRa@204699@Zend@Varena;
+41324@varAha@204859@Germ@kel;
+41593@vaS@206176@SAN@va1va-
+41593@vaS@206177@SAN@s4a1na
+41610@vazkaya@206291@SAN@vaskaya;
+41616@vas@206317@Zend@vanh, vas-tra;
+41616@vas@206318@SAN@vasman
+41632@vas@206404@Lat@va1s,
+41632@vas@206405@Lat@va1sum:
+41632@vas@206406@Germ@warumes,
+41632@vas@206407@Germ@weren, wonen:
+41632@vas@206408@Germ@an-wesend:
+41632@vas@206409@Sax@wunian:
+41632@vas@206409@Hib@fosra,
+41632@vas@206410@Hib@arasaim,
+41632@vas@206410@Hib@aras,
+41639@vasita@206427@SAN@ushita
+41654@vasna@206692@Lat@ven-do;
+41683@vah@206822@Lat@via, vexo, ve10lu-m
+41683@vah@206822@Lat@veh-lu-m
+41683@vah@206822@Lat@uxor,
+41683@vah@206823@Lat@bajulus;
+41683@vah@206825@Sax@wœgan, weddian;
+41710@vA@207071@SAN@= a1tman
+41710@vA@207072@Lat@vanus, vapor
+41710@vA@207074@Germ@wat, wait, waiet, wahet,
+41710@vA@207075@Lith@o-ra-s:
+41710@vA@207076@Hib@ba1d.
+41745@vANkz@207307@SAN@ka1n4ksh, va1n3c4h,
+41745@vANkz@207308@SAN@vas4
+41745@vANkz@207312@Hib@mianuighim,
+41777@vAYC@207704@Germ@wunskian,
+41895@vAr@208316@Lat@tor, urceus, urna; mare;
+41895@vAr@208317@Hib@fairge,
+41895@vAr@208318@Hib@fual,
+41895@vAr@208318@Hib@muir:
+41895@vAr@208318@Hib@mor.
+41896@vAra@208358@Hib@air uairibh,
+41896@vAra@208359@Island@tvis-var,
+41896@vAra@208360@Island@thris-var,
+41896@vAra@208360@Germ@zuir-or,
+41896@vAra@208361@Germ@zuir-o,
+41896@vAra@208361@Pers@ba1r,
+41896@vAra@208361@Pers@ba1re,
+41896@vAra@208362@Engl@ber
+42029@vAzpa@208882@Lat@vapor.
+42115@vi@209298@SAN@vi-dha1, vi-
+42115@vi@209315@Pers@bi1,
+42115@vi@209316@Lat@ve-cors, ve-sanus, vi
+42115@vi@209316@Lat@di-
+42115@vi@209317@Lat@vi-dere;
+42115@vi@209318@SAN@vahis
+42116@vi@209326@Zend@vi;
+42118@viMSati@209336@Lat@ginti;
+42416@vic@210380@Lat@vic-(i)-to,
+42416@vic@210381@Lat@vinco, vicis, invicem, vicissim;
+42416@vic@210382@Germ@wehsal;
+42495@vicCardaka@210658@SAN@c4hardis.
+42711@vid@211491@SAN@= veda
+42711@vid@211495@Umbr@to
+42711@vid@211495@Umbr@vis-o, vi-tru-m:
+42711@vid@211496@Goth@vit-an, far-veit-l, vito10th, in-veitan, veit-
+42711@vid@211497@Goth@vods:
+42711@vid@211498@Germ@go10n:
+42711@vid@211499@Sax@wisian, ge-wis, wite,
+42711@vid@211499@Sax@witnian,
+42711@vid@211500@Slav@ved-e-ti,
+42711@vid@211502@Hib@feidhim,
+42711@vid@211503@Hib@feidir,
+42711@vid@211503@Hib@aithnim,
+42711@vid@211504@Hib@aithnighim,
+42711@vid@211504@Hib@aithne,
+42711@vid@211505@Hib@fios,
+42711@vid@211505@Hib@fiosach,
+42850@viDavA@212153@Lat@duus;
+42850@viDavA@212154@Sax@duwa;
+42853@viDa@212205@Pruss@wid-s, sta-wida-s, sta-wids,
+42853@viDa@212205@Pruss@ka-
+42853@viDa@212206@Pruss@wid-s
+42853@viDa@212206@Pruss@ka-wida
+42853@viDa@212206@Pruss@kitta-
+42853@viDa@212207@Pruss@widin, kitte-widei,
+44066@viS@216763@Zend@vi1s4,
+44071@viviSvas@216772@SAN@vivis4vas
+44071@viviSvas@216772@SAN@vic4h.
+44072@viS@216779@Zend@vi1s4,
+44072@viS@216792@Zend@vis4-paiti;
+44072@viS@216793@Lith@patene;
+44072@viS@216793@Mold@hospodar;
+44338@vizRu@218592@SAN@Indra1nuja,
+44338@vizRu@218614@SAN@S4iva-ki1rtana
+44607@vIwi@219854@Lat@vi-men, vi-ti-s;
+44656@vf@220215@Lat@velare; verus, valeo, valor; velle:
+44656@vf@220216@Germ@wari, werna, warno10n, weljan,
+44656@vf@220218@Sax@wreon,
+44656@vf@220218@Sax@warian, werian,
+44656@vf@220219@Sax@wearne, warnian, wearnian, willan.
+44688@vfj@220445@Sax@wrenc,
+44700@vft@220533@Sax@ward, weard, wyrd;
+44700@vft@220534@Lith@toju, wirs-tu;
+44714@vfD@220833@Zend@vared, vareda:
+44714@vfD@220838@Hib@fridh,
+44714@vfD@220839@Hib@for-bairt,
+44787@ve@221763@Sax@weft, windan:
+44787@ve@221763@Lith@u1ti
+44787@ve@221764@Lith@au-dziu,
+44787@ve@221764@Hib@figh-
+44787@ve@221765@Hib@te,
+44787@ve@221765@Hib@fuaghaim,
+45202@vOzaw@223887@Zend@vaoshat2.
+45928@SaMs@226927@SAN@s4as4,
+45928@SaMs@226927@SAN@s4a1s
+45928@SaMs@226934@SAN@a1-s4an6s
+45928@SaMs@226941@Lat@con-cinn-us:
+45928@SaMs@226942@Sax@sœgan:
+45928@SaMs@226944@Hib@santaighim,
+45950@Sak@227031@Lat@quec-jo
+45950@Sak@227031@Lat@ne-queo, conari:
+45950@Sak@227032@Norse@hagr,
+45950@Sak@227032@Norse@hagna,
+45988@Sakuni@227439@Norse@haukr;
+45996@Sakft@227501@Slav@na, skar-edovati.
+46005@SaNk@227540@Sax@hicgan, hogian.
+46042@SaWa@227886@Hib@saith,
+46044@SaRa@227898@Lat@nabis;
+46044@SaRa@227899@Hib@naib;
+46044@SaRa@227899@Iceland@hanp;
+46054@Sata@227967@SAN@= s4ata
+46069@Satru@228366@Lat@odisse,
+46069@Satru@228367@Lat@hostis;
+46142@SaMmba@228907@SAN@s4am2va
+46153@Saya@228985@SAN@sayya1;
+46397@SARa@230354@Norse@hein;
+46434@SAda@230466@Hib@caidheach,
+46523@SArdUla@230904@Lat@pardalis;
+46605@Si@231387@Lat@ci-e-o, ci-tu-s, excito, incito;
+46705@Siras@231849@Zend@s4ara, s4a1ranh;
+46705@Siras@231851@Lat@nium,
+46705@Siras@231851@Lat@calva;
+46718@SilA@231960@Hib@cloch.
+46760@Siz@232655@Lat@cura;
+46760@Siz@232656@Goth@teins, qvistjan, fra-qvisteins, fra-qvistjan, fra-
+46760@Siz@232657@Goth@qvistnan, us-qvistjan
+46760@Siz@232657@Goth@qvist
+46760@Siz@232657@SAN@s4isht2i,
+46760@Siz@232658@Goth@us-haista.
+46769@SI@232722@SAN@= s4eshe,
+46769@SI@232722@SAN@= s4ete
+46769@SI@232725@Goth@heiva-franja:
+46769@SI@232727@Germ@hiwa,
+46769@SI@232727@Germ@hijan, hiwjan,
+46769@SI@232727@Germ@hi1ra1t:
+46769@SI@232729@Lith@kie†ma,
+46886@SuW@233586@SAN@s4un2t2h,
+46886@SuW@233586@SAN@s4at2h
+46903@SuD@233648@Lat@cad-tu-s;
+46938@SuBa@233954@Pers@khu1b.
+46957@SuB@234122@SAN@s4ubh
+46984@Suz@234240@Zend@hushka:
+46984@Suz@234241@SAN@= s4ushka
+46984@Suz@234243@Goth@sauht:
+46984@Suz@234246@Hib@sioc,
+46984@Suz@234246@Hib@sican.
+47028@SUra@234527@Zend@s4u1ra;
+47087@SF@234910@Zend@s4u1ra:
+47087@SF@234913@Lat@cornu, cervus; clava,
+47087@SF@234914@Lat@quiris,
+47087@SF@234914@Lat@in-columis:
+47087@SF@234915@Goth@haurn:
+47087@SF@234915@Norse@hior:
+47172@So@235324@Lat@aculeus, catus
+47172@So@235324@SAN@s4a1ta
+47172@So@235324@Lat@cos, cautes, citus
+47172@So@235324@SAN@s4ita
+47172@So@235325@Lat@cuneus, cacu-men,
+47172@So@235325@Lat@cio, cieo:
+47172@So@235327@Germ@jan:
+47172@So@235327@Iceland@hvetia:
+47172@So@235329@Hib@geire,
+47172@So@235329@Hib@geirim,
+47336@SraT@236018@Lat@ret-tis
+47336@SraT@236019@Germ@dan, hlast;
+47358@SrA@236117@Lat@calere, cinis; cu-
+47358@SrA@236118@Lat@li1na:
+47358@SrA@236119@Germ@herpist:
+47358@SrA@236120@Sax@hlaf, hœrefœst, hœrfest, ripe:
+47380@Sri@236291@Lat@clemens:
+47380@Sri@236295@Sax@hlidh, hlœ-dre, hlœ-der, hold, hal:
+47380@Sri@236297@Lith@tis,
+47380@Sri@236297@Lith@kle-
+47380@Sri@236298@Lith@joyu,
+47380@Sri@236298@Lith@klystu
+47380@Sri@236298@Lith@klydtu, kly-
+47380@Sri@236299@Lith@deju:
+47411@Sru@236680@SAN@= s4rudhi
+47411@Sru@236680@SAN@= s4ruta
+47411@Sru@236684@Lat@clamo,
+47411@Sru@236684@Lat@aus-cul-to, laudo
+47411@Sru@236685@Lat@claus-do:
+47411@Sru@236686@Goth@hausja
+47411@Sru@236686@Goth@hlausja:
+47411@Sru@236686@SAN@= s4ruta
+47411@Sru@236687@Germ@hlu1ti,
+47411@Sru@236687@Germ@hlu1tian,
+47411@Sru@236688@Germ@hliu-munt
+47411@Sru@236689@Germ@hlio-tar; hlo-s-en, hloson, hlosian, losen,
+47411@Sru@236690@Germ@ho1rin; hlamon:
+47411@Sru@236692@Sax@hlyrian (?), hliosa, hlyst, hlystan:
+47411@Sru@236693@Slav@slava,
+47411@Sru@236694@Lith@klau-s-au,
+47411@Sru@236694@Lith@slowiju,
+47411@Sru@236695@Lith@klabu,
+47411@Sru@236696@Russ@slav-i-tj,
+47411@Sru@236696@Russ@slovo,
+47411@Sru@236697@Hib@cluas,
+47411@Sru@236698@Hib@clos,
+47411@Sru@236698@Hib@cloisim, cluisim,
+47514@SlAG@237254@Hib@sleachd,
+47514@SlAG@237254@Hib@sleachdaim,
+47528@Sliz@237293@Slav@ci,
+47528@Sliz@237293@Slav@kljucati se,
+47565@Svan@237434@Zend@s4pa10;
+47565@Svan@237435@SAN@= s4unas
+47565@Svan@237435@Lat@cvan-
+47565@Svan@237436@Lat@i-s
+47565@Svan@237436@Lat@catulus;
+47565@Svan@237436@Lith@szu§,
+47565@Svan@237437@Lith@szuns;
+47565@Svan@237437@Hib@cu,
+47565@Svan@237438@Russ@shaka
+47577@SvaSura@237557@Zend@qas4ura;
+47577@SvaSura@237558@Lat@svecer;
+47580@SvaSrU@237566@Slav@svekry;
+47581@Svas@237582@Lat@ques-tus;
+47581@Svas@237582@Sax@hysian,
+47581@Svas@237583@Sax@hyst, gist.
+47603@Svi@237694@Lat@cavu-s, cau-li-s, cau-lœ, cœlu-m, ciliu-m, super-
+47603@Svi@237695@Lat@cili-um, cuneus, crescere; coma:
+47603@Svi@237696@Goth@on, hul-undi:
+47603@Svi@237697@Germ@wi1-t,
+47603@Svi@237697@SAN@= s4vita
+47603@Svi@237698@Hib@neas, cinneachdin,
+47614@Svit@237719@Lith@swetiu,
+47614@Svit@237719@Lith@swe†sti
+47614@Svit@237720@Lith@swe†t-ti,
+47614@Svit@237720@Lith@swe†ta-s,
+47614@Svit@237720@Lith@kaic4iu
+47614@Svit@237721@Lith@kaitiu, kaitinu,
+47614@Svit@237721@Lith@kais-tu
+47614@Svit@237722@Lith@kait-tu,
+47614@Svit@237722@Lith@kaitau:
+47614@Svit@237723@Slav@swjet,
+47625@Sveta@237776@Goth@hvaitei,
+47625@Sveta@237777@Sax@hvi1t:
+47655@zaz@237997@Zend@kshvas;
+47655@zaz@237999@Germ@sihs;
+47655@zaz@237999@Goth@sihs;
+47655@zaz@238000@Lith@szezios;
+47662@zazWa@238311@Zend@kshtva
+47662@zazWa@238312@Zend@kshvasta;
+47662@zazWa@238313@Goth@sta(n);
+47715@sa@238461@Lith@sa-darbininkas,
+47715@sa@238461@Lith@sa-
+47715@sa@238462@Lith@karawis,
+47715@sa@238464@SAN@= sodara
+47720@saMyAjya@238479@SAN@aya1jya-sº
+47927@saMvAh@239184@SAN@sam2-vah,
+48299@sakala@240545@Norse@heil;
+48423@saNkara@240984@SAN@ava-kara,
+48605@sac@241738@Lat@sec-to-r, pedis-sequa, soc-iu-s, sec-us, sacer:
+48605@sac@241740@Hib@seicin,
+48840@sat@242481@Lat@prœ-sens,
+48840@sat@242482@Lat@ab-sens;
+48840@sat@242482@Lith@esan3s,
+48840@sat@242482@Lith@esanti.
+48886@sad@243083@Lat@de-
+48886@sad@243084@Lat@sidero, sella
+48886@sad@243084@Lat@sed-la
+48886@sad@243084@Goth@satja,
+48886@sad@243085@Goth@sinths, sitan, sitls:
+48886@sad@243086@Germ@sezin,
+48886@sad@243086@Germ@senal, satul:
+48886@sad@243088@Lith@sodiun,
+48886@sad@243089@Slav@sad-i-ti:
+48886@sad@243090@Hib@saidhe, saidhiste,
+49007@sanA@243576@Goth@sin-teins.
+49074@santi@243808@SAN@sati,
+49074@santi@243808@SAN@sa1ti.
+49468@saptama@245465@Zend@haptatha;
+49468@saptama@245466@Lith@sepma-s;
+49519@saBya@245660@Germ@sibbo, ga-sibbo, ga-sibbot;
+49519@saBya@245661@Goth@ga-sibjon, un-sibja;
+49534@sam@245702@SAN@sa, sama;
+49534@sam@245703@SAN@sa
+49535@sama@245756@Zend@hama:
+49535@sama@245759@Lat@mili-s, simul, simul-tas, simul-a1-re, semel, sem-
+49535@sama@245760@Lat@per, singuli:
+49535@sama@245761@Goth@frathjis, sam-ana, samath, sums, sum:
+49535@sama@245763@Germ@zusammen
+49535@sama@245763@Germ@samet:
+49535@sama@245763@Sax@sam
+49535@sama@245764@Sax@somne, samne, sum:
+49535@sama@245765@Hib@samhladh,
+49535@sama@245765@Hib@sam-
+49535@sama@245766@Hib@hlain,
+51079@samprez@250610@SAN@presh
+51346@saras@251616@Norse@sir, sœr, sior;
+51424@sarva@252066@Osk@sol-vu-s
+51424@sarva@252068@Lat@sal-u-ber, sol-u-m, sol-i-du-s, sol-ari, sol-amen,
+51424@sarva@252069@Lat@soll-ennis,
+51424@sarva@252069@Lat@soll-ers:
+51424@sarva@252164@SAN@ta1ti
+51424@sarva@252165@SAN@tati,
+51444@salila@252638@SAN@sarira,
+51522@savya@252906@Lat@vitas, scœvola
+51522@savya@252906@Lat@scauru-s, sinister
+51639@sah@253292@SAN@sah.
+51680@sAti@253766@SAN@sati,
+51680@sAti@253766@SAN@santi
+51810@sAD@254377@Goth@sido10n,
+51810@sAD@254378@Goth@sandjan, se10lis,
+51810@sAD@254379@Goth@un-se10lis:
+51810@sAD@254380@Germ@sa10lig,
+51810@sAD@254380@Germ@sa10lida.
+51828@sADaya@254604@SAN@sa1dhisht2ha, sa1dhi1yas,
+51944@sAmi@255208@Germ@sa10mi-quek,
+51944@sAmi@255209@Sax@sa10m-boren,
+51944@sAmi@255210@Sax@sa10m-worht;
+51952@sAmudrika@255242@SAN@sa1mudraka
+51984@sAya@255343@Lat@serus
+51984@sAya@255343@SAN@sr2i.
+52167@si@256109@Zend@hi-ta,
+52167@si@256111@Germ@sai-to:
+52167@si@256113@Sax@sœlan, sieran, syrwan:
+52167@si@256114@Lett@sai-te,
+52182@sik@256247@SAN@sic4,
+52182@sik@256248@SAN@si1k.
+52191@sic@256280@Lat@stic-la
+52191@sic@256281@Germ@seihjan, seo, gi-sich:
+52191@sic@256281@Goth@saivs:
+52245@seDitvA@256837@SAN@sedhitva1
+52245@seDitvA@256837@SAN@sidh.
+52273@siv@257027@Lat@Con-sus, Con-sualia:
+52273@siv@257028@Germ@sui-la:
+52273@siv@257030@Norse@saumr:
+52273@siv@257030@Slav@si-ti
+52336@su@257272@SAN@savana, su1tya1
+52356@su@257372@Zend@hunu,
+52370@sUnu@257454@Zend@hunu;
+52373@su@257477@Hib@sucridh,
+52373@su@257477@SAN@= su-
+52373@su@257478@SAN@kr2ita.
+52373@su@257681@SAN@dur-gama.
+52373@su@257834@SAN@ju1rv,
+52532@sUpa@260794@Germ@sufan, saufjan;
+52563@sf@261129@Zend@har;
+52563@sf@261132@Lat@serere
+52616@sfp@261280@Lat@rep-o
+52616@sfp@261280@Lat@srep-o
+52616@sfp@261281@Germ@slif
+52616@sfp@261281@Germ@silf,
+52616@sfp@261283@Lith@reptoju,
+52626@sfB@261309@SAN@sibh, sribh.
+52667@sev@261452@Goth@vala,
+52691@sE@261538@SAN@sa1,
+52691@sE@261538@SAN@so
+52942@skand@262699@Lat@scateo;
+52955@skanDa@262765@Sax@dor, sculder, scoldr:
+52955@skanDa@262766@Germ@scultarra:
+52955@skanDa@262767@Hib@sguada
+52955@skanDa@262767@Hib@sguana.
+52962@skamB@262821@Lat@num;
+52962@skamB@262823@Germ@fon, scoppon,
+52969@sku@262871@Lat@cautus, causa:
+52969@sku@262872@Sax@sceo, scunian, scawian, sceawian:
+52983@stan@262950@Norse@stynija, styn:
+52983@stan@262951@Germ@thonar, donar,
+52995@stamB@263070@Lat@stipes;
+52995@stamB@263071@Norse@stofn.
+53018@stiG@263182@Lith@staigio1-s,
+53027@stu@263229@Goth@stauja,
+53078@stf@263418@Zend@s4tar, s4tair-is:
+53078@stf@263421@Lat@toru-s:
+53078@stf@263422@Germ@strewi,
+53078@stf@263423@Slav@po-stla-ti,
+53078@stf@263423@Slav@po-stel-ja,
+53097@sten@263471@Sax@stal, stalian, stalu.
+53134@sTag@263710@Lat@teg-i-men, teg-ula:
+53134@sTag@263710@Norse@thek,
+53134@sTag@263712@Lith@stoga-s,
+53147@sTala@263766@Germ@stul-
+53147@sTala@263767@Germ@lan, stelza, stolv:
+53154@sTA@263861@Zend@hi-sta1-mi
+53154@sTA@263862@SAN@ti-sht2ha1-mi:
+53154@sTA@263868@Lat@staÇ-ti-o, Sta-tor, staÇ-tu-s, staÇ-tu-o, staÇ-tua, sta1-
+53154@sTA@263869@Lat@men, staÇ-bu-lu-m, staÇ-bi-li-s;
+53154@sTA@263870@Lat@stipa-re, stipatores, stipula1ri, stapia;
+53154@sTA@263871@Lat@stup-eo, stup-idu-s:
+53154@sTA@263872@Germ@stedi, standa, stat:
+53154@sTA@263873@Goth@stath-s,
+53154@sTA@263873@Goth@stol-s,
+53154@sTA@263878@Hib@stadaim,
+53193@sTira@264255@Lat@ia, stilla, stolidus, stultus:
+53193@sTira@264257@Germ@jan,
+53193@sTira@264258@Lith@ster-va,
+53201@sTUrin@264349@Zend@staora,
+53201@sTUrin@264351@Germ@stur,
+53244@snas@264570@SAN@snus
+53245@snasA@264573@Germ@snuor.
+53246@snA@264588@SAN@sna1si
+53246@snA@264589@Lat@na-ta-re, na-su-s;
+53246@snA@264590@Sax@dre, nedre;
+53262@snAyu@264687@Lat@vu-s, nerviœ, nervosus;
+53262@snAyu@264688@Germ@ahha, snuor, narwa;
+53262@snAyu@264689@Lith@a-s, ner-u.
+53283@snehitI@264816@SAN@sni1hiti1
+53288@snu@264841@SAN@nau,
+53288@snu@264842@Goth@sniva, snau, snivum
+53288@snu@264842@Goth@snu-
+53288@snu@264843@Goth@um
+53288@snu@264843@Goth@snaivs,
+53288@snu@264844@Germ@sneo, sne10:
+53288@snu@264845@Lith@w
+53288@snu@264845@Lith@g
+53288@snu@264846@Hib@snuadh,
+53288@snu@264847@Hib@sneachd,
+53298@snuzA@264873@Lat@snusu-s
+53327@spaS@264970@Zend@s4pas4;
+53327@spaS@264972@Lat@con-spic-i-o, specula, speculum, spec-to;
+53407@sPAy@265307@Germ@nan;
+53407@sPAy@265308@Goth@nan.
+53446@sPur@265486@Zend@s4par;
+53446@sPur@265490@Lith@dy-ti.
+53457@sPurj@265545@Sax@can, springan.
+53483@smi@265643@Hib@magamhuil,
+53498@smf@265712@Lat@mor-is:
+53498@smf@265712@Goth@meritha,
+53498@smf@265713@Goth@maurnan:
+53498@smf@265713@Germ@smer-za,
+53498@smf@265714@Germ@smerzan, ma10riu,
+53498@smf@265714@Germ@ma1ri,
+53498@smf@265717@Sax@dian, ameldian, murnan, smeortan,
+53498@smf@265719@Hib@smalanach,
+53498@smf@265720@Hib@muirn,
+53599@sru@266224@Lat@mina:
+53599@sru@266225@Germ@sliumor,
+53599@sru@266226@Lith@srov-e:
+53599@sru@266227@Slav@rovu,
+53627@sva@266349@Zend@hva, qa:
+53627@sva@266351@Goth@sves,
+53627@sva@266352@Goth@svesa,
+53627@sva@266352@Goth@sei-na
+53627@sva@266352@Goth@svei-na
+53627@sva@266352@Goth@sve, svi
+53627@sva@266353@Goth@svi-kunths,
+53627@sva@266356@Slav@svo-boda,
+53631@svayam@266794@Hib@siom,
+53667@svad@266988@Lat@sua10d-vi-s
+53667@svad@266988@Lat@sua10d-e-o, sua10d-u-s, su-
+53667@svad@266989@Lat@a10d-a, sua10d-e10la;
+53679@svAdu@267020@Lat@sua10dvis
+53696@svap@267180@Zend@qap, qaf-na,
+53696@svap@267181@Lat@sop-nus
+53696@svap@267181@Lat@sop-or, sop-
+53696@svap@267182@Lat@i-o
+53696@svap@267182@SAN@sva1payati
+53696@svap@267182@Norse@svef-n,
+53696@svap@267184@Slav@suÇp-
+53696@svap@267185@Slav@a-ti,
+53696@svap@267186@Hib@suaimh-
+53696@svap@267187@Hib@neach,
+53696@svap@267187@Hib@suaimhnighim,
+53714@svapU@267251@Norse@nef.
+53719@svar@267284@Zend@hvare,
+53719@svar@267284@Zend@qaretha,
+53719@svar@267285@Zend@qarenanh,
+53719@svar@267288@Norse@so10l:
+53719@svar@267289@Hib@soir,
+53750@svasf@267541@Lith@sestu§
+53795@svid@267726@Lat@a1-re, sud-or, sud-ariu-m;
+53795@svid@267726@Norse@sveit-i;
+53806@svf@267785@Zend@gar;
+53806@svf@267787@Lat@du-s;
+53806@svf@267788@Sax@swerian;
+53830@ha@267972@Lat@hic, hœc, hoc;
+53830@ha@267972@Goth@ga-;
+53868@had@268164@ZendZend@zad;
+53872@han@268215@Hib@gail,
+53872@han@268215@Hib@gaillim,
+53917@hayana@268514@SAN@ha1yana
+53925@hari@268550@Zend@zairi,
+53925@hari@268550@Zend@zairina,
+53925@hari@268550@SAN@= ha-
+53925@hari@268551@SAN@rin2a
+53925@hari@268553@Lat@gilvus:
+53925@hari@268555@Slav@zel-enu,
+53925@hari@268556@Lith@zol-e,
+53925@hari@268556@Lith@zal-ie-s,
+53931@harit@268847@Lat@gviridis
+53954@harmya@268954@Zend@zairimya;
+53955@hary@268977@Goth@gair-uni,
+53955@hary@268977@Goth@gailjan, go10ljan:
+53955@hary@268978@Germ@geri, giri,
+53955@hary@268979@Germ@gero10n,
+54020@hasta@269260@Goth@handu;
+54031@hA@269458@SAN@ha1ha1.
+54032@hA@269470@Germ@gein-o-m;
+54032@hA@269471@Sax@ian, ganian;
+54131@hiMs@269863@Germ@la,
+54132@hiMsaka@269868@SAN@hin6sa1-karman,
+54179@hima@270115@Zend@zjao, zim,
+54179@hima@270116@Zend@zima,
+54179@hima@270118@Lat@himer-
+54179@hima@270119@Lat@nus
+54179@hima@270121@Hib@gamh,
+54227@hu@270516@Lat@nd-o, fu10-ti-li-s;
+54260@hUq@270636@SAN@hrud2, hud2, hod2, haud2,
+54260@hUq@270637@SAN@hraud2
+54269@hf@270687@Zend@zar;
+54269@hf@270691@Lat@co-hors,
+54269@hf@270692@Lat@gero;
+54306@hfd@270872@Lat@cor-culum, cordatus, ve10cors;
+54306@hfd@270875@Slav@diÇce.
+54307@hfdaya@270924@Hib@dhe, cridhe,
+54316@hfz@271008@Sax@gryre.
+54344@heQ@271144@SAN@khac4, khav
+54373@hez@271340@Lat@hisnio
+54373@hez@271340@Lat@hin-
+54373@hez@271341@Lat@nulus.
+54405@hoQa@271455@SAN@hur
+54439@hnu@271623@Lat@nuo, nuto, gnavus, navo, i-gnavis, se-gnis, niti,
+54439@hnu@271624@Lat@nicto, con-niveo;
+54465@hrAd@271733@Zend@zra1d;
+54503@hlAd@271848@Sax@glad, gladian;
+54519@hvf@271892@Sax@hwealf, hwealfa:
+54519@hvf@271892@Hib@fiaraim,
+54519@hvf@271893@Hib@fiaras,
+54525@hve@271927@Lat@voveo, vo-
+54525@hve@271928@Lat@tum;
+54525@hve@271929@Germ@ruafu;
+54525@hve@271930@Sax@wepan;
+9834@ikkavAla@31520@Arab@iqba10l,
+21021@tu@85931@Arab@tuva10n,
+21021@tu@85932@Arab@tuva10nam,
+10072@IdfSa@32842@Lat@ta10lis, qua10lis.
+37449@mih@179088@Sax@ma10h, migon:
+23092@dvi@101364@Lat@dvis; bi-
+23092@dvi@101364@Lat@bi-farius; 
+23092@dvi@101365@Lat@ve1-
+23092@dvi@101365@Lat@ve1-sanus; dis-
+23092@dvi@101365@Lat@dis-
+23092@dvi@101366@Lat@plicere; bi-ni, du-plex, du-b-ius, du-ellum, be-l-
+23092@dvi@101367@Lat@lum:
+23552@De@105310@Zend@dae1nu,
+10072@IdfSa@32840@Goth@hve10leiks,
+10072@IdfSa@32840@Goth@svaleik-s,
+22376@div@94334@Zend@dae10va,
+24255@ni@110276@Goth@thro1, un-dar;
+1103@aDara@5880@Goth@thro10;
+5560@ambA@18267@Them@ammo10n, am-
+5560@ambA@18268@Them@mu10n
+13608@kanyA@45768@Hindi@Kunnoj, Kunnouj, Kinoge,
+13608@kanyA@45769@Hindi@Kinnoge, Kinnauj, Kanoj, Kannauj, Kunowj,
+13608@kanyA@45770@Hindi@Canowj, Canoje, Canauj,
+20531@tarawa@83312@Hindi@t2a1mMMkala1;
+22376@div@94338@Lat@Ju-piter, deu-s, di1vu-s, sub-dio, Diana, die-s,
+22376@div@94339@Lat@bi-du-u-m, nu1-diu-s, inter-diu1, nun-dinœ, jam,
+22376@div@94340@Lat@dum, dudum:
+22376@div@94340@Lat@ti1var,
+39601@ruc@195047@Lat@lux, lu-men, lucidu-s, lu-na, Leucesius, di-luc-
+39601@ruc@195048@Lat@ulu-m:
+39601@ruc@195048@Goth@lauhmoni,
+39601@ruc@195049@Goth@liuhtjan:
+39601@ruc@195050@Germ@lochon:
+39601@ruc@195051@Slav@luna,
+3@a@1665@Eng@un,
+624@ati@4224@Zend@aiti
+3117@ap@11998@Germ@affa
+3117@ap@11999@Lat\@apnis;
+4063@abala@14403@Them@ubila
+6773@avAc@22127@Lat\@ava-ster
+7284@aSru@23385@Lat\@dacryma;
+7284@aSru@23385@Them@tagra;
+7728@ah@25123@Hib\@ag-aill,
+7728@ah@25124@Hib\@eigh-im,
+7728@ah@25125@Lat\@n’--ego,
+7728@ah@25125@Lat\@ajo.
+9898@idam@31873@Lat\@ea, id,
+9898@idam@31873@Lat\@idem;
+10072@IdfSa@32841@Slav\@lik,
+10072@IdfSa@32841@Slav\@tolik,
+10111@IS@32937@Germ\@eigan,
+10664@ud@34968@Hib\@os,
+10664@ud@34969@Hib\@ois,
+10664@ud@34969@Hib\@os-car,
+12631@ft@40992@Hib\@rithim,
+19246@jaqa@76718@Hib\@fuar.
+21512@trayas@88328@Lat\@tres-decem;
+21512@trayas@88328@Lith\@trydika.
+23092@dvi@101368@Goth\@tva,
+23092@dvi@101368@Goth\@tweiflyan, tvi-standan, dis-dailyan:
+23092@dvi@101369@Germ\@zar
+23963@nava@108221@Lat\@nov-i1ciu-s, nov-a1li-s, nov-ellu-s, nov-a1re, nov-er-ca,
+23963@nava@108222@Lat\@nu1-nt-iu-s, de-nuo, nu1-per:
+23963@nava@108223@Goth\@niuyi-tha,
+24255@ni@110274@Lat\@ter-ior, in-tumu-s, in-tus;
+24255@ni@110277@Sax\@nidhan.
+35027@BaYj@159521@Goth\@ga-brekum, brik-an:
+35027@BaYj@159522@Lettish@braks,
+35027@BaYj@159523@Hib\@brit,
+35027@BaYj@159523@Hib\@breadach,
+37449@mih@179088@Iceland@mig:
+37858@mfdu@182055@Lat\@molvis
+37858@mfdu@182055@Lat\@modvis
+37858@mfdu@182056@Lat\@morvis
+37858@mfdu@182056@Lat\@mollities, molli1re, blandus;
+39680@ruDira@195691@Lat\@ruthilus
+39680@ruDira@195692@Lat\@rob-igo:
+39680@ruDira@195692@Norse@riod-r,
+39680@ruDira@195692@Norse@rioda:
+39680@ruDira@195694@Sax\@roder:
+39680@ruDira@195695@Lith\@a-s, ru1di-s:
+39680@ruDira@195696@Hib\@ruaidhim,
+41385@varRa@205153@Russ\@vornoi,
+41385@varRa@205154@Russ\@voron,
+41593@vaS@206178@Lat\@in-vic-(i)-
+41593@vaS@206179@Lat\@tu-s.
+47328@Srat@235954@Lat\@cred-o.
+47643@za@237950@Eng1@sh
+48322@sakft@240618@Lat*\@se-mel, si-mul, sim-plex,
+53146@sTal@263755@Lat\@stol-o-r, stul-tu-s, stol-i-du-s (?);
+53146@sTal@263756@Germ\@stallan, stellan;
+2877@aneka@10714@Eng@x, y, z,
+3049@anvah@11826@Eng@b
+3807@apaej@13759@Eng@a
+6529@avayAj@21504@Eng@f.
+8408@Adi@27436@Eng@a
+10456@uttara@34183@Eng@a
+12974@om@43117@Eng@b
+13238@ka@43845@Eng@a
+13238@ka@43848@Eng@a
+13919@karman@47590@Eng@c
+16243@krozwu@59551@Eng@c
+17782@gras@68837@Eng@b
+22632@dfnPU@97927@Eng@c.
+22684@deva@98502@Eng@a
+26383@nf@117636@Eng@b;
+36794@mA@175431@Eng@c
+38346@yati@184919@Eng@a
+38357@yaTA@185005@Eng@h
+41713@vAta@207128@Eng@f.
+42093@vAh@209156@Eng@c
+47566@Svan@237432@Eng@a
+55130@prAYc@272868@Eng@c
+9947@iyat@32373@Lat@iens
+9947@iyat@32373@Lat@ies
+9947@iyat@32374@Lat@totiens, toties, quotiens, quoties,
+9947@iyat@32375@Lat@quinquies.
+15925@koSa@58267@Vulg@keud2a1
+15925@koSa@58267@Vulg@= keura1?
+16771@KarvUja@62413@Arab@kharbu1za
+16784@Kalu@62474@Lat@atqui.
+17106@gam@64421@Zend@zem;
+18078@ca@70647@Eng@ch
+18078@ca@70647@Eng@church
+18875@cela@75172@NonSan?@caille,
+18976@Ca@75521@Eng@chh
+18976@Ca@75521@Eng@church-hill.
+19259@jana@76808@Lat@hic homo
+21560@trita@89580@Zend@Thraetana
+21560@trita@89581@Zend?@Feridun.
+22196@dAru@93564@Zend@da1uru,
+23774@nagna@106656@Sax@nacod, genacyan;
+23849@napAt@107281@Gr@con-nepot-iu-s,
+26326@nIrAjana@117179@Lat@lustratio exercitus
+27945@parivartin@125496@Eng@abc, abc, abc.
+29800@pfzWa@136598@Eng@c
+30107@pra@137651@Zend@fra-, fra1,
+34953@Ba@158934@Eng@bh
+34953@Ba@158934@Eng@cabhorse
+36055@maGa@166896@Eng@c;
+36710@mahA@174051@Hindu@maha1wat
+37408@miyeDa@178884@Zend@myazda.
+38282@yajata@184220@Zend@yazata
+40811@va@201432@Eng@v,
+40811@va@201434@Eng@w;
+41354@varga@205002@Zend@verez;
+42116@vi@209313@Lat@dis, se,
+42116@vi@209314@Eng@a, ex, de, dis, in, un,
+47333@SradDA@235982@Lat@cred-o
+47333@SradDA@235982@Lat@cred-do
+51655@sahasra@253529@Pers@haza1r

@@ -1,0 +1,1795 @@
+input file = mw72adj1_roman2.txt
+*******************************
+207  'AS' codes follow, with instances
+Each instances shows: page,headword,line number in mw72adj1_roman2.txt
+*******************************
+# 1 --------------------------------------------------
+¦  (\u00a6) 25838 := BROKEN BAR
+Page0001-a+ 70 :: a :: 1659 :: <P>.{#a#}¦ 1. {%a,%} the first letter of the alphabet; the
+Page0001-a+ 70 :: a :: 1662 :: <P>.{#a#}¦ 2. {%a,%} ind. an interjection of pity (Ah!).
+Page0001-a+ 70 :: a :: 1663 :: <P>.{#a#}¦ 3. {%a%} (before a vowel {%an%}), a prefix cor-
+Page0001-a+ 70 :: a :: 1670 :: <P>.{#a#}¦ 4. {%a,%} the base of some pronouns and pro-
+Page0001-a+ 70 :: a :: 1672 :: <P>.{#a#}¦ 5. {%a,%} the augment prefixed to the root
+Page0001-a+ 70 :: a :: 1676 :: <P>.{#a#}¦ 6. {%a, as,%} m., N. of Vishṇu (especially as the
+Page0001-a+ 70 :: afRin :: 1679 :: <P>.{#afRin#}¦ {%a-ṛiṇin, ī, inī, i,%} free from debt.
+Page0001-a+ 70 :: aMS :: 1680 :: <P>.{#aMS#}¦ {%aṉś,%} cl. 10. P. {%aṉśayati, -yitum,%} to
+Page0001-b+ 66 :: aMs :: 1731 :: <P>.{#aMs#}¦ {%aṉs,%} cl. 10. P. {%aṉsayati,%} &c., = {%aṉś.%}
+Page0001-b+ 66 :: aMsa :: 1732 :: <P>.{#aMsa#}¦ {%aṉsa, as,%} m. (fr. rt. {%am%}), the shoulder,
+# 2 --------------------------------------------------
+§  (\u00a7)    13 := SECTION SIGN
+Page0383-c+ 78 :: tF :: 87419 :: <>Umbr. <nsi>termnu, traf = trans:</nsi> Osc. <nsi>teremenniu§:</nsi>
+Page0407-b+ 81 :: dA :: 92942 :: <><nsi>da-nĭ,</nsi> ‘tax:’ Lith. <nsi>du§-mi = dad-mi, du§-ti-s, du§-</nsi>
+Page0407-b+ 81 :: dA :: 92942 :: <><nsi>da-nĭ,</nsi> ‘tax:’ Lith. <nsi>du§-mi = dad-mi, du§-ti-s, du§-</nsi>
+Page0407-b+ 81 :: dA :: 92942 :: <><nsi>da-nĭ,</nsi> ‘tax:’ Lith. <nsi>du§-mi = dad-mi, du§-ti-s, du§-</nsi>
+Page0413-a+ 73 :: div :: 94295 :: <><nsi>yu§kas,</nsi> ‘joke;’ <nsi>yu§koyu,</nsi> ‘I joke:’ perhaps also Lith.
+Page0413-a+ 73 :: div :: 94295 :: <><nsi>yu§kas,</nsi> ‘joke;’ <nsi>yu§koyu,</nsi> ‘I joke:’ perhaps also Lith.
+Page0469-b+ 81 :: nam :: 107488 :: <>‘prey:’ Lith. <nsi>náma-s,</nsi> ‘a house;’ <nsi>nú§m-a-s,</nsi> ‘gain:’
+Page0560-b+ 80 :: pA :: 128083 :: <><nsi>mú§,</nsi> ‘a shepherd;’ <nsi>pḗ-tu-s,</nsi> ‘midday:’ Goth. <nsi>fod-</nsi>
+Page0764-c+ 81 :: mA :: 175551 :: <>Old Slav. <nsi>me-ra:</nsi> Lith. <nsi>më-ra,</nsi> ‘measure;’ <nsi>ma-tú§-</nsi>
+Page1030-a+ 74 :: Svan :: 237436 :: <><nsi>i-s</nsi>), <nsi>catulus;</nsi> Goth. <nsi>hun-d-s;</nsi> Lith. nom. <nsi>szu§,</nsi>
+# 3 --------------------------------------------------
+­  (\u00ad)     1 := SOFT HYPHEN
+Page0763-c+ 65 :: mahalla :: 175346 :: <P>.{#mahalla#}¦ {%mahalla, as,%} m. (fr. Arabic <Arabic>محل­</Arabic> {%ma-%}
+# 4 --------------------------------------------------
+¯  (\u00af)   865 := MACRON
+Page0361-c+ 81 :: Tanu, us, us, :: 82386 :: <>short syllables between four long ones (¯¯˘˘¯¯);
+Page0361-c+ 81 :: Tanu, us, us, :: 82386 :: <>short syllables between four long ones (¯¯˘˘¯¯);
+Page0361-c+ 81 :: Tanu, us, us, :: 82386 :: <>short syllables between four long ones (¯¯˘˘¯¯);
+Page0361-c+ 81 :: Tanu, us, us, :: 82386 :: <>short syllables between four long ones (¯¯˘˘¯¯);
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0578-a+ 74 :: pIna :: 132213 :: <>times ¯¯¯¯ , ¯˘˘¯¯ , ¯¯¯˘˘¯¯ .  {%--Pīna-vak-%}
+# 5 --------------------------------------------------
+°  (\u00b0)     1 := DEGREE SIGN
+Page0387-c+ 78 :: Trayas, :: 88327 :: <>[Gr. <g>τρις-καί-δεκα</g> for <g>τρεῖς-°</g> cf. Lat. <nsi>tredecim</nsi> for
+# 6 --------------------------------------------------
+µ  (\u00b5)     1 := MICRO SIGN
+Page0228-b+ 75 :: kAs :: 51961 :: <><nsi>kasµjljati;</nsi> Old Germ. <nsi>huosto;</nsi> Scot. <nsi>casad.</nsi>]
+# 7 --------------------------------------------------
+º  (\u00ba) 21113 := MASCULINE ORDINAL INDICATOR
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1572 :: <HI>º denotes that a vowel or
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1577 :: <HI>ºthat the rest of a word is
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1578 :: <>to be supplied, e. g. {%ºri-%}
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1579 :: <>{%inº%} after {%karīndra%} is for
+Page0001-a+ 70 :: Aṉśa, as, :: 1695 :: <>takes a share, a sharer. {%--Aṉśāṉśa (ºśa-aṉº), as,%} m.
+Page0001-a+ 70 :: Aṉśa, as, :: 1695 :: <>takes a share, a sharer. {%--Aṉśāṉśa (ºśa-aṉº), as,%} m.
+Page0001-a+ 70 :: Aṉśa, as, :: 1698 :: <>{%(ºśa-avº), am,%} n. descent of parts of the deities;
+Page0001-a+ 70 :: Aṉśa, as, :: 1698 :: <>{%(ºśa-avº), am,%} n. descent of parts of the deities;
+Page0001-c+ 62 :: akarman :: 1827 :: <>dom from the fruits of action. {%--Akarmānvita (ºma-%}
+Page0001-c+ 62 :: akarman :: 1828 :: <>{%anº), as, ā, am,%} unoccupied, disqualified; criminal.
+# 8 --------------------------------------------------
+Æ  (\u00c6)    65 := LATIN CAPITAL LETTER AE
+Pagexxvii-a+ 47 :: Aids and Encouragements received. :: 1372 :: <HI>Æol. = Æolic.
+Pagexxvii-a+ 47 :: Aids and Encouragements received. :: 1372 :: <HI>Æol. = Æolic.
+Page0004-b+ 72 :: agasti :: 2397 :: <>a plant, Sesbana (or Æschynomene) Grandiflora.
+Page0013-a+ 81 :: Ati :: 4357 :: <>{%ā, am,%} very auspicious; ({%as%}), m. a fruit, Ægle or
+Page0045-b+ 79 :: antra :: 11354 :: <>{%tra-pāćaka, as,%} m., N. of a plant, Æschynomene
+Page0051-c+ 72 :: aparAjita :: 12679 :: <>bania Ægyptiaca; a species of the Śarkari metre of
+Page0127-b+ 74 :: Ā-yudha, as, am, :: 29194 :: <>the plant Sesbania Ægyptiaca, commonly called
+Page0195-a+ 74 :: kajjala :: 44356 :: <>cury, Æthiop's mineral; ink. {%--Kajjala-dhvaja, as,%}
+Page0202-b+ 79 :: Kapītana, as, :: 46054 :: <>Ægle Marmelos.
+Page0206-c+ 76 :: Karkaṭa, as, :: 47028 :: <>the plant Ægle Marmelos; ({%ā%}), f. the plant Karkaṭa-
+# 9 --------------------------------------------------
+Ç  (\u00c7)     1 := LATIN CAPITAL LETTER C WITH CEDILLA
+Page0733-c+ 79 :: maT :: 168170 :: <><nsi>eźÇ,</nsi> ‘tumult;’ Lith. <nsi>met-uri-s, ment-ure,</nsi> ‘a churn-
+# 10 --------------------------------------------------
+É  (\u00c9)     2 := LATIN CAPITAL LETTER E WITH ACUTE
+Pagexxi-c+ 18 :: Principal Sources drawn upon in the Process of Compilation. :: 1044 :: <HI>Burnouf's (Émile) Sanskṛit-French
+Pagexxii-b+ 39 :: Principal Sources drawn upon in the Process of Compilation. :: 1118 :: <HI>Regnier's Étude sur l'diome des Védas.
+# 11 --------------------------------------------------
+×  (\u00d7)    21 := MULTIPLICATION SIGN
+Page0162-b+ 73 :: upacitra :: 37030 :: <>of Mātrāsamaka, containing 4×16 syllabic instants;
+Page0212-b+ 76 :: kalikA :: 48339 :: <>taining 4 × 8 + 16 syllabic instants; a metre of four
+Page0272-b+ 75 :: Khaṅja, as, ā, am, :: 61868 :: <>f. a metre consisting of 2 × 28 short syllables and
+Page0272-b+ 75 :: Khaṅja, as, ā, am, :: 61872 :: <>2 × 36 short syllables and 1 Amphimacer. {%--Khaṅja-%}
+Page0321-c+ 79 :: cAru :: 73362 :: <>metre containing 4 × 14 syllabic instants. {%--Ćārv-%}
+Page0323-c+ 81 :: Ćitra, as, ā, am, :: 73813 :: <>Mātrāsamaka, containing 4 × 16 syllabic instants;
+Page0335-a+ 78 :: jagat :: 76332 :: <>containing 4 × 12 syllables; a sacrificial brick named
+Page0341-b+ 81 :: jala, as, ā, am :: 77851 :: <>metre containing 4 × 32 syllabic instants. {%--Jala-%}
+Page0342-b+ 81 :: jala, as, ā, am :: 78040 :: <>n. a metre consisting of 4 × 32 syllabic instants. {%--Jala-%}
+Page0390-b+ 81 :: tri :: 88984 :: <>4 × 32 syllabic instants. {%--Tribha-jīvā,%} f. and {%tri-%}
+# 12 --------------------------------------------------
+ß  (\u00df)     3 := LATIN SMALL LETTER SHARP S
+Page0149-a+ 72 :: Ut-tāna, as, ā, am, :: 34097 :: <>{%--Uttāna-pāda, as,%} m. the star ß in the little bear,
+Page0150-b+ 75 :: ut-tara, as, ā, am :: 34356 :: <>one of which is ß in Sagittarius. {%--Uttarāsańga%}
+Page0461-c+ 81 :: Dhruva, as, ā, am, :: 105695 :: <>lunar asterism (supposed to = ß Leonis?); a knot (?);
+# 13 --------------------------------------------------
+à  (\u00e0)    18 := LATIN SMALL LETTER A WITH GRAVE
+Page0115-c+ 69 :: āji, is, :: 26622 :: <>abuse, invective; an instant; [cf. Scot. <nsi>àgh,</nsi> ‘fight;’
+Page0200-a+ 74 :: kadA :: 45459 :: <>Lat. <nsi>quando;</nsi> Lith. <nsi>kadà;</nsi> Slav. <nsi>kogda.</nsi>] {%--Kadā-%}
+Page0305-a+ 78 :: grIvA :: 69455 :: <>Lith. <nsi>galwà;</nsi> Russ. <nsi>glava</nsi> and <nsi>golova.</nsi>] {%--Grīvā-%}
+Page0381-c+ 73 :: tUzRIm :: 86973 :: <><nsi>tishina,</nsi> ‘silence, tranquillity:’ Lith. <nsi>tylà,</nsi> ‘silence;’
+Page0383-a+ 74 :: tfp :: 87246 :: <><nsi>tarpà,</nsi> ‘increase:’ Goth. <nsi>tharf,</nsi> ‘to satisfy, to be
+Page0396-a+ 73 :: daMS :: 90290 :: <>Hib. <nsi>dan-t,</nsi> ‘a morsel, portion, share;’ Russ. <nsi>desnà,</nsi>
+Page0410-a+ 81 :: dāru, us, us :: 93568 :: <><nsi>dérevo, drova;</nsi> Lith. <nsi>dervà;</nsi> Hib. <nsi>doireach,</nsi>
+Page0413-b+ 81 :: div, dyaus, :: 94341 :: <>Old Germ. <nsi>Zio:</nsi> Lith. <nsi>deva-s,</nsi> ‘god;’ <nsi>dënà,</nsi> ‘day:’
+Page0440-b+ 76 :: dru :: 100716 :: <>ble;’ <nsi>drimba,</nsi> ‘it drops;’ <nsi>pa-dribbà,</nsi> ‘running of the
+Page0457-a+ 77 :: DU :: 104633 :: <><nsi>mai,</nsi> ‘smoke;’ <nsi>du-ma-s, dū-mà,</nsi> ‘thought, mind.’]
+# 14 --------------------------------------------------
+á  (\u00e1)    21 := LATIN SMALL LETTER A WITH ACUTE
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 662 :: <>little work called the Durga-puja [sic] by Pratápachandra Ghosha
+Page0017-b+ 74 :: Atharya, :: 5324 :: <>stántly.
+Page0198-a+ 75 :: kaRq :: 45017 :: <>protect; [cf. {%kaḍ:%} cf. also Lith. <nsi>kándu,</nsi> ‘to bite;’
+Page0317-b+ 77 :: car :: 72360 :: <><nsi>kieláuju, kielias, kielione:</nsi> Old Pers. <nsi>ćartanay.</nsi>]
+Page0358-b+ 72 :: taNk :: 81598 :: <>Lith. <nsi>tekù,</nsi> ‘I run;’ <nsi>tákas,</nsi> ‘a path;’ <nsi>tekûnas,</nsi> ‘a
+Page0414-c+ 81 :: diS :: 94633 :: <><nsi>taecan, tácn, tácen, tier</nsi> for <nsi>tihher, tiid, tíd;</nsi> Old
+Page0414-c+ 81 :: diS :: 94633 :: <><nsi>taecan, tácn, tácen, tier</nsi> for <nsi>tihher, tiid, tíd;</nsi> Old
+Page0469-b+ 81 :: nam :: 107488 :: <>‘prey:’ Lith. <nsi>náma-s,</nsi> ‘a house;’ <nsi>nú§m-a-s,</nsi> ‘gain:’
+Page0520-b+ 81 :: pakz :: 118876 :: <>satisfy;’ <nsi>fah,</nsi> ‘a shelf:’ Bohem. <nsi>pás,</nsi> ‘a girdle;’
+Page0529-b+ 80 :: pad :: 121076 :: <>Lith. <nsi>pád-a-s,</nsi> ‘a sole;’ <nsi>ped-à,</nsi> ‘a foot-mark:’
+# 15 --------------------------------------------------
+â  (\u00e2)    76 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 406 :: <>roots containing dentals have been cerebralized or vice versâ, and
+Pagexxvii-b+ 44 :: Aids and Encouragements received. :: 1424 :: <HI>e. g. = exempli gratiâ.
+Page0098-c+ 71 :: avyaNga :: 22856 :: <><nsi>aiwyâṉhanem</nsi>]. {%--Avyańgāńga (ºga-ańga), as, ī,%}
+Page0103-a+ 77 :: azwrA :: 23871 :: <>Brāhman); [cf. Zend <nsi>astrâ;</nsi> Lith. <nsi>akstinas.</nsi>]. {%--Ash-%}
+Page0123-a+ 75 :: ā-pad, t, :: 28290 :: <><nsi>âpadh,</nsi> ‘death;’ <nsi>âpthach,</nsi> ‘mortal.’] {%--Āpat-kāla,%}
+Page0123-a+ 75 :: ā-pad, t, :: 28290 :: <><nsi>âpadh,</nsi> ‘death;’ <nsi>âpthach,</nsi> ‘mortal.’] {%--Āpat-kāla,%}
+Page0134-c+ 74 :: As :: 30849 :: <><g>ται</g> Lat. <nsi>âsa</nsi> changed to <nsi>âra; â-nus</nsi> for <nsi>âs-nus.</nsi>]
+Page0134-c+ 74 :: As :: 30849 :: <><g>ται</g> Lat. <nsi>âsa</nsi> changed to <nsi>âra; â-nus</nsi> for <nsi>âs-nus.</nsi>]
+Page0134-c+ 74 :: As :: 30849 :: <><g>ται</g> Lat. <nsi>âsa</nsi> changed to <nsi>âra; â-nus</nsi> for <nsi>âs-nus.</nsi>]
+Page0134-c+ 74 :: As :: 30849 :: <><g>ται</g> Lat. <nsi>âsa</nsi> changed to <nsi>âra; â-nus</nsi> for <nsi>âs-nus.</nsi>]
+# 16 --------------------------------------------------
+ä  (\u00e4)    13 := LATIN SMALL LETTER A WITH DIAERESIS
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1167 :: <HI>Zeitschrift der Deutschen morgenländ-
+Page0101-a+ 71 :: aSru :: 23386 :: <>Mod. Germ. <nsi>Zähre;</nsi> Lith. <nsi>aszara</nsi>]. {%--Aśru-kalā,%}
+Page0178-c+ 75 :: Uh :: 40658 :: <>Lat. <nsi>äugeo;</nsi> Goth. <nsi>auka;</nsi> Hib. <nsi>ugtar,</nsi> ‘augmentation.’]
+Page0257-a+ 71 :: Kaukkuṭi-kandala, as, :: 58362 :: <>the Boä or Bor.
+Page0273-c+ 77 :: Kan :: 62182 :: <>Mod. Germ. <nsi>gähne;</nsi> Angl. Sax. <nsi>cina, cinan;</nsi> Lat.
+Page0334-c+ 65 :: Cfd :: 76231 :: <><nsi>skaistus, skaistas;</nsi> Germ. <nsi>glänzen ?</nsi>].
+Page0350-b+ 74 :: Jūshaṇa, am, :: 79869 :: <>commonly Dhäiphula.
+Page0474-b+ 78 :: nah :: 108667 :: <>Mod. Germ. <nsi>näh-en, nad-el, nah, nach, ge-nug:</nsi>
+Page0529-a+ 72 :: Patha, as, :: 120992 :: <>Sax. <nsi>padh, päd;</nsi> Hib. <nsi>fath,</nsi> ‘a district, field.’]
+Page0558-b+ 80 :: paS :: 127595 :: <><nsi>spāh-i:</nsi> Mod. Germ. <nsi>späh-en:</nsi> Lith. <nsi>spega-s,</nsi> ‘a
+# 17 --------------------------------------------------
+æ  (\u00e6)   299 := LATIN SMALL LETTER AE
+Pagevii+ 61 :: NO HW :: 171 :: <>of a previous Lexicon, but rather a many-volumed Encyclopædia of Sanskṛit learning, which no one
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 463 :: <>Indische Studien, Wilson's Vishṇu-Purāṇa, some Oriental Articles in Chambers'Encyclopædia--written,
+Pagexxi-a+ 50 :: Principal Sources drawn upon in the Process of Compilation. :: 966 :: <>those of Professor Benfey and Westergard and the eight-volumed Encyclopædia of Rādhākānta- [Pagexxi-a+ 50]
+Pagexxi-c+ 18 :: Principal Sources drawn upon in the Process of Compilation. :: 1046 :: <HI>Chambers' Encyclopædia.
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1148 :: <HI>Westergaard's Radices Linguæ San-
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1149 :: <>scritæ.
+Page0012-c+ 81 :: Ati :: 4255 :: <>sulphur; lemon-grass (Andropogon Schænunthes); [Page0012-c+ 81]
+Page0013-a+ 81 :: Ati :: 4358 :: <>Cratæva Marmelos. {%--Ati-mati, is,%} f. haughtiness.
+Page0013-a+ 81 :: Ati :: 4367 :: <>creeper, Gærtnera Racemosa. {%--Ati-muktaka, as,%} m.
+Page0028-c+ 68 :: A-nāmaka, as, ā, am, :: 7775 :: <>m. the intercalary month; ({%am%}), n. piles, hæmorrhoids.
+# 18 --------------------------------------------------
+ç  (\u00e7)     2 := LATIN SMALL LETTER C WITH CEDILLA
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 288 :: <>and Provençal; and includes some old Italian diatlects, such as
+Page1030-c+ 75 :: Śvaśrū, ūs, :: 237566 :: <>Cambro-Brit. <nsi>çwegyr;</nsi> Slav. <nsi>svekruvi</nsi> or <nsi>svekry;</nsi>
+# 19 --------------------------------------------------
+è  (\u00e8)     3 := LATIN SMALL LETTER E WITH GRAVE
+Pagexxi-c+ 18 :: Principal Sources drawn upon in the Process of Compilation. :: 1041 :: <HI>Burnouf's (Eugène) Bhāgavata-Purāṇa
+Page0373-c+ 77 :: tittiri :: 85126 :: <>kind of hen;’ Lith. <nsi>tetèrva,</nsi> ‘black grouse;’ Boh.
+Page0790-a+ 81 :: Mṛiti, is, :: 181403 :: <><nsi>ti-s);</nsi> Slav. <nsi>s-mrĭ-tĭ;</nsi> Lith. <nsi>s-mèr-ti-s.</nsi>]
+# 20 --------------------------------------------------
+é  (\u00e9)    51 := LATIN SMALL LETTER E WITH ACUTE
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 217 :: <>only, and the spoken dialects called Tigré, Tigriṅa, for the
+Pagexxii-b+ 39 :: Principal Sources drawn upon in the Process of Compilation. :: 1118 :: <HI>Regnier's Étude sur l'diome des Védas.
+Page0082-a+ 75 :: aruRa :: 19225 :: <>commonly Téori; a black kind of the same; Colo-
+Page0125-a+ 71 :: ABIla :: 28667 :: <>bodily pain; [cf. Hib. <nsi>abhéil,</nsi> ‘terrible, dreadful.’]
+Page0169-a+ 76 :: Upa-saṃhāra, as, :: 38480 :: <>brevity, conciseness, résumé; perfection; subduing,
+Page0169-a+ 76 :: Upa-saṃhāra, as, :: 38480 :: <>brevity, conciseness, résumé; perfection; subduing,
+Page0182-c+ 81 :: Eka :: 41569 :: <>{%ekā-kshīram%}); [cf. Lith. <nsi>ni-ékas,</nsi> ‘no:’ Hib. <nsi>each,</nsi>
+Page0293-b+ 79 :: guru :: 66725 :: <>Lat. <nsi>gravis;</nsi> Goth. <nsi>kauriths;</nsi> Lith. <nsi>giéras.</nsi>]
+Page0345-a+ 76 :: jAnu :: 78698 :: <>Lith. <nsi>kiélis.</nsi>] {%--Jānu-jańgha, as,%} m., N. of a king.
+Page0348-b+ 78 :: jIv :: 79421 :: <>(with inst.); [cf. Lith. <nsi>gywénu,</nsi> ‘to live;’ <nsi>gywas,</nsi>
+# 21 --------------------------------------------------
+ê  (\u00ea)    72 := LATIN SMALL LETTER E WITH CIRCUMFLEX
+Page0048-b+ 73 :: ap :: 11998 :: <>and <nsi>affa</nsi> at the end of compounds; Lith. <nsi>uppê,</nsi> ‘a
+Page0079-a+ 75 :: ayas :: 18566 :: <>Old Germ. <nsi>êr,</nsi> ‘iron;’ Goth. <nsi>eisarn;</nsi> Mod. Germ.
+Page0129-c+ 79 :: Arya :: 29692 :: <>Germ. <nsi>êra</nsi> and Mod. Germ. <nsi>Ehre.</nsi>] {%--Ārya-gṛihya,%}
+Page0143-b+ 73 :: Īdṛiśa, as, ī, am, :: 32840 :: <>in <nsi>hvêleiks,</nsi> ‘welcher,’ <nsi>svaleik-s,</nsi> ‘such;’ Mod.
+Page0182-c+ 81 :: Eka :: 41572 :: <><g>ἕκα-τος</g> Lat. <nsi>œquus, c-ocles</nsi> fr. <nsi>êc-ocles:</nsi>
+Page0186-b+ 75 :: Eva :: 42488 :: <>Goth. <nsi>ibus;</nsi> Old Germ. <nsi>ebanêr;</nsi> Mod. Germ.
+Page0201-b+ 81 :: Kanyā, :: 45759 :: <>Kāśmīra; large cardamoms; [cf. Zend <nsi>kainê;</nsi> Hib.
+Page0231-b+ 74 :: Kīdṛiśa, as, ī, am, :: 52594 :: <>Goth. <nsi>hvê-leiks,</nsi> Them. <nsi>hvê-leika;</nsi> Mod. Germ.
+Page0231-b+ 74 :: Kīdṛiśa, as, ī, am, :: 52594 :: <>Goth. <nsi>hvê-leiks,</nsi> Them. <nsi>hvê-leika;</nsi> Mod. Germ.
+Page0259-c+ 78 :: krand :: 58982 :: <>shake; to creak; [cf. Goth. <nsi>grêta,</nsi> ‘to lament.’]
+# 22 --------------------------------------------------
+ë  (\u00eb)    19 := LATIN SMALL LETTER E WITH DIAERESIS
+Pagexxvii-b+ 44 :: Aids and Encouragements received. :: 1436 :: <HI>Gaël. = Gaëlic.
+Pagexxvii-b+ 44 :: Aids and Encouragements received. :: 1436 :: <HI>Gaël. = Gaëlic.
+Page0045-a+ 75 :: Antarikshya, as, ā, am, :: 11204 :: <P>{%Antarikshya, as, ā, am,%} atmospheric, aërial. [Page0045-a+ 75]
+Page0163-b+ 74 :: upadI :: 37275 :: <>or Aërides Tesselata.
+Page0177-c+ 78 :: UrDva :: 40445 :: <><nsi>arduus;</nsi> Gaël. <nsi>ard.</nsi>] {%--Ūrdhva-kaća, as,%} m. an
+Page0248-b+ 73 :: kfkaRa :: 56415 :: <>commonly Kaër, Perdix Sylvatica [cf. {%kṛikara%} and
+Page0248-b+ 73 :: kfkara :: 56423 :: <>commonly Kaër, Perdix Sylvatica [cf. {%kṛikaṇa%} and
+Page0387-a+ 80 :: tyad :: 88187 :: <>didst help Kutsa); [cf. Old Germ. <nsi>dër</nsi> fr. <nsi>diar,</nsi> f. <nsi>diu,</nsi>
+Page0391-b+ 81 :: tri :: 89162 :: <>called Tëori, and distinguished into two species,
+Page0413-b+ 81 :: div, dyaus, :: 94341 :: <>Old Germ. <nsi>Zio:</nsi> Lith. <nsi>deva-s,</nsi> ‘god;’ <nsi>dënà,</nsi> ‘day:’
+# 23 --------------------------------------------------
+í  (\u00ed)     5 := LATIN SMALL LETTER I WITH ACUTE
+Page0336-a+ 72 :: jaYj :: 76576 :: <>to fight; [cf. Lith. <nsi>ẓinczíju.</nsi>]
+Page0373-a+ 79 :: tij :: 84985 :: <>whetstone:’ Russ. <nsi>toćù,</nsi> ‘I whet;’ <nsi>toćílo,</nsi> ‘a whet-
+Page0414-c+ 81 :: diS :: 94633 :: <><nsi>taecan, tácn, tácen, tier</nsi> for <nsi>tihher, tiid, tíd;</nsi> Old
+Page0415-b+ 78 :: dih :: 94833 :: <>Sax. <nsi>díc, deag, tigel, tigul;</nsi> Old Germ. <nsi>ziagal,</nsi>
+Page0559-b+ 75 :: Pasas, as, :: 127874 :: <>‘penis:’ Lith. <nsi>pis-á,</nsi> ‘cunnus;’ <nsi>pís-ti,</nsi> ‘coire cum
+# 24 --------------------------------------------------
+î  (\u00ee)    25 := LATIN SMALL LETTER I WITH CIRCUMFLEX
+Page0137-c+ 74 :: i :: 31503 :: <>Lat. <nsi>eo, îmus;</nsi> Lith. <nsi>ei-mi,</nsi> ‘I go;’ Slav. <nsi>i-dû,</nsi>
+Page0141-c+ 73 :: il :: 32462 :: <>has the form {%iḷ:%} cf. Old Germ. <nsi>îllu, îllo,</nsi> for <nsi>îlju;</nsi>
+Page0141-c+ 73 :: il :: 32462 :: <>has the form {%iḷ:%} cf. Old Germ. <nsi>îllu, îllo,</nsi> for <nsi>îlju;</nsi>
+Page0141-c+ 73 :: il :: 32462 :: <>has the form {%iḷ:%} cf. Old Germ. <nsi>îllu, îllo,</nsi> for <nsi>îlju;</nsi>
+Page0295-a+ 75 :: Gṛidhra, as, ā, am, :: 67106 :: <>Old Germ. <nsi>gîr;</nsi> Mod. Germ. <nsi>geier.</nsi>] {%--Gṛidhra-%}
+Page0333-c+ 76 :: Cid :: 76046 :: <>Old Germ. <nsi>schîte; splitar:</nsi> Mod. Germ. <nsi>splitter:</nsi>
+Page0571-c+ 72 :: pika :: 130708 :: <><g></g> Lat. <nsi>pîcus, pîca;</nsi> Old
+Page0571-c+ 72 :: pika :: 130708 :: <><g></g> Lat. <nsi>pîcus, pîca;</nsi> Old
+Page0593-c+ 74 :: pf :: 135929 :: <><nsi>perî-culu-m, par-a-re (?), parere, partus, portare:</nsi>
+Page0780-a+ 76 :: mih :: 179087 :: <>Goth. <nsi>maihstu-s,</nsi> ‘dung:’ Angl. Sax. <nsi>mig, mîge,</nsi>
+# 25 --------------------------------------------------
+ï  (\u00ef)    35 := LATIN SMALL LETTER I WITH DIAERESIS
+Page0088-a+ 72 :: avakokila :: 20584 :: <>down to by the koïl (singing in a tree above?).
+Page0228-c+ 70 :: Kińkirin, ī, :: 52072 :: <P>{%Kińkirin, ī,%} m., N. of a plant, commonly Buïnchi,
+Page0254-c+ 74 :: kokila :: 57867 :: <>Kokila or Koïl, the black or Indian cuckoo, Cuculus
+Page0254-c+ 74 :: kokila :: 57871 :: <>or Koïl is frequently alluded to in Hindū poetry, and
+Page0254-c+ 74 :: kokila :: 57882 :: <>eyes like those of the Koïl,’ the plant Asteracantha
+Page0277-c+ 78 :: gaNgA :: 63081 :: <>{%mādhava, as,%} m., N. of the father of Dādābhaï.
+Page0282-a+ 79 :: ganDarva :: 64081 :: <>a singer; the Koïl or black cuckoo; the soul after
+Page0284-a+ 78 :: gara :: 64542 :: <>monly Garaï, the young of the Ophiocephalus Lata.
+Page0287-c+ 74 :: gAtu :: 65387 :: <>Koïl or Indian cuckoo; a bee; N. of a descendant of
+Page0287-c+ 74 :: Gātṛi, tā, trī, tṛi, :: 65391 :: <>Gandharva; the male Koïl or Indian cuckoo; a bee.
+# 26 --------------------------------------------------
+ñ  (\u00f1)     2 := LATIN SMALL LETTER N WITH TILDE
+Page0394-c+ 79 :: tvakz :: 89948 :: <>timber;’ <nsi>taisy-ti,</nsi> ‘to prepare:’ Slav. <nsi>tŭk-ña-ti,</nsi> ‘to
+Page0401-a+ 78 :: danta :: 91460 :: <><nsi>dañt-an,</nsi> ‘tooth;’ Gr. <g></g> Æol. pl.
+# 27 --------------------------------------------------
+ò  (\u00f2)     5 := LATIN SMALL LETTER O WITH GRAVE
+Page0003-b+ 76 :: akza :: 2151 :: <>for <g>ὄξο</g> Lat. <nsi>oculus;</nsi> Germ. <nsi>Auge;</nsi> Russ. <nsi>òko</nsi>].
+Page0177-b+ 79 :: UrRa :: 40394 :: <><nsi>Wolle;</nsi> Eng. <nsi>wool;</nsi> Lith. <nsi>wilna;</nsi> Russ. <nsi>vòlna;</nsi> Gr.
+Page0228-b+ 75 :: kAs :: 51960 :: <>{%ćākāsyate, ćākāsti;%} [cf. Lith. <nsi>kòstu, kòseti;</nsi> Slav.
+Page0228-b+ 75 :: kAs :: 51960 :: <>{%ćākāsyate, ćākāsti;%} [cf. Lith. <nsi>kòstu, kòseti;</nsi> Slav.
+Page0608-a+ 81 :: Pra-ja, as, ā, am, :: 139205 :: <>sixty years' cycle of Jupiter; a particular star, ò Aurigæ;
+# 28 --------------------------------------------------
+ó  (\u00f3)    15 := LATIN SMALL LETTER O WITH ACUTE
+Page0203-c+ 74 :: kamp :: 46325 :: <><g>πέμπω;</g> Hib. <nsi>cabhóg,</nsi> ‘hastening.’]
+Page0383-b+ 77 :: tfz :: 87311 :: <><nsi>torrens:</nsi> Lith. <nsi>tróksztu,</nsi> ‘to thirst;’ <nsi>trószkulis,</nsi>
+Page0383-b+ 77 :: tfz :: 87311 :: <><nsi>torrens:</nsi> Lith. <nsi>tróksztu,</nsi> ‘to thirst;’ <nsi>trószkulis,</nsi>
+Page0387-b+ 73 :: trap :: 88229 :: <><nsi>dus,</nsi> = Ved. {%tṛipra,%} ‘hastening;’ Lith. <nsi>trópiyu,</nsi> ‘to
+Page0472-b+ 79 :: nava :: 108225 :: <><nsi>nauyó-ka-s,</nsi> ‘a novice:’ Slav. <nsi>nov-ŭ,</nsi> ‘new:’ Hib.
+Page0667-b+ 81 :: plu :: 152609 :: <><nsi>fleogan, fliogan, fleón, flión, aet-flowan, fleotan;</nsi>
+Page0667-b+ 81 :: plu :: 152609 :: <><nsi>fleogan, fliogan, fleón, flión, aet-flowan, fleotan;</nsi>
+Page0673-b+ 81 :: Bandha, as, :: 153990 :: <><nsi>bœnd, bœst;</nsi> Hib. <nsi>bad</nsi> = Armor. <nsi>bód,</nsi> ‘a bunch,
+Page0698-c+ 81 :: Bhadra, as, ā, am, :: 159975 :: <><nsi>bot-jan:</nsi> Angl. Sax. <nsi>bót:</nsi> Hib. <nsi>feodhas,</nsi> ‘better;’
+Page0726-a+ 78 :: BrAtf :: 166403 :: <>Angl. Sax. <nsi>bródhor:</nsi> Old Germ. <nsi>bruodar:</nsi> Slav.
+# 29 --------------------------------------------------
+ô  (\u00f4)    74 := LATIN SMALL LETTER O WITH CIRCUMFLEX
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0004-b+ 72 :: agADa :: 2413 :: <>fr. the crude form <nsi>gôda</nsi>]. {%--Agādha-jala, as, ā, am,%}
+Page0020-a+ 76 :: aDara :: 5880 :: <><nsi>thrô;</nsi> Lat. <nsi>inferus</nsi>]. {%--Adhara-tas%} or {%adhara-%}
+Page0046-c+ 81 :: Anya-tra, :: 11630 :: <>to another place; except, without [cf. Goth. <nsi>aljathrô</nsi>].
+Page0077-c+ 78 :: ambA :: 18267 :: <>‘a nurse;’ Old Germ. <nsi>amma,</nsi> Them. <nsi>ammôn, am-</nsi>
+Page0109-b+ 75 :: ahi :: 25271 :: <>Lith. <nsi>ungury-s;</nsi> Russ. <nsi>ûgorj;</nsi> Armen. <nsi>ôz;</nsi> Germ.
+Page0133-b+ 76 :: ASu :: 30506 :: <><nsi>acupedeus, ôcissimus:</nsi> of the same origin may be
+Page0142-c+ 80 :: iz :: 32615 :: <>Germ. <nsi>eiscôm,</nsi> ‘I ask;’ Mod. Germ. <nsi>heische:</nsi> cf. [Page0142-c+ 80]
+Page0176-b+ 75 :: Ushas, ās, :: 40127 :: <><nsi>auszra;</nsi> Goth. <nsi>uh-tvô;</nsi> Old Germ. <nsi>uohta.</nsi>] {%--Ushar-%}
+Page0189-b+ 75 :: oza :: 43148 :: <>combustion; [cf. Goth. <nsi>azgô;</nsi> Angl. Sax. <nsi>asca;</nsi>
+# 30 --------------------------------------------------
+ö  (\u00f6)    26 := LATIN SMALL LETTER O WITH DIAERESIS
+Pagevii+ 61 :: NO HW :: 173 :: <>Sanskṛit-German Wörterbuch of Professors Böhtlingk and Roth, though conducted by two of the
+Pagevii+ 61 :: NO HW :: 173 :: <>Sanskṛit-German Wörterbuch of Professors Böhtlingk and Roth, though conducted by two of the
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 586 :: <>yet published (excepting of course the great Thesaurus of Professors Böhtlingk and Roth, and that of
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 605 :: <>and my gratitude for the aid received from the interpretations of Professors Böhtlingk and Roth.
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 632 :: <>Böhtlingk and Roth, the completion of which may be looked for in a few years, will provide
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 638 :: <>the great German Wörterbuch.
+Pagexx+ 60 :: Principal Sources drawn upon in the Process of Compilation. :: 964 :: <>me to express adequately my sense of obligation to the great work of Professors Böhtlingk and
+Pagexxi-a+ 50 :: Principal Sources drawn upon in the Process of Compilation. :: 972 :: <>considered an appeal to the St. Petersburg Wörterbuch as the most satisfactory available means
+Pagexxi-b+ 20 :: Principal Sources drawn upon in the Process of Compilation. :: 1024 :: <HI>Böhtlingk's (and Roth's) Sanskṛit-
+Pagexxi-b+ 20 :: Principal Sources drawn upon in the Process of Compilation. :: 1025 :: <>Wörterbuch.
+# 31 --------------------------------------------------
+ù  (\u00f9)    47 := LATIN SMALL LETTER U WITH GRAVE
+Page0173-b+ 69 :: uBa :: 39502 :: <>Gr. <g>ἄμφω</g> Lat. <nsi>ambo;</nsi> Slav. <nsi>oba;</nsi> Lith. <nsi>abbù;</nsi>
+Page0178-c+ 75 :: f :: 40703 :: <><nsi>erru;</nsi> Lith. <nsi>arù;</nsi> Lith. <nsi>orjû;</nsi> Gr. <g>αἴρω</g> Hib. <nsi>ar,</nsi>
+Page0194-a+ 77 :: kaNk :: 44156 :: <>way, a road:’ Lith. <nsi>kankù; ifs-kankù,</nsi> ‘to come to.’]
+Page0194-a+ 77 :: kaNk :: 44156 :: <>way, a road:’ Lith. <nsi>kankù; ifs-kankù,</nsi> ‘to come to.’]
+Page0276-b+ 68 :: Kuj :: 62772 :: <>[cf. Lith. <nsi>wagiù ?</nsi>].
+Page0295-a+ 75 :: Gṛidhnu, us, us, u, :: 67098 :: <><nsi>gairnja;</nsi> Lith. <nsi>godùs.</nsi>] {%--Gṛidhnu-tā,%} f. covetous-
+Page0337-a+ 79 :: jan :: 76796 :: <><nsi>gemù;</nsi> Goth. <nsi>kin</nsi> in <nsi>keina, kain;</nsi> Germ. <nsi>Kind,</nsi> &c.]
+Page0351-c+ 74 :: jYA :: 80183 :: <><nsi>kenne:</nsi> Lith. <nsi>zinnaù,</nsi> ‘I know;’ <nsi>zinne, sazinne:</nsi>
+Page0354-b+ 80 :: jval :: 80787 :: <><nsi>swelù:</nsi> Old Germ. <nsi>wallu, walm, wâli.</nsi>]
+Page0358-b+ 72 :: taNk :: 81598 :: <>Lith. <nsi>tekù,</nsi> ‘I run;’ <nsi>tákas,</nsi> ‘a path;’ <nsi>tekûnas,</nsi> ‘a
+# 32 --------------------------------------------------
+ú  (\u00fa)    14 := LATIN SMALL LETTER U WITH ACUTE
+Page0457-a+ 77 :: DU :: 104632 :: <>‘smoke;’ <nsi>du-chŭ,</nsi> ‘breath;’ <nsi>du-sha,</nsi> ‘soul:’ Lith. <nsi>dú-</nsi>
+Page0469-b+ 81 :: nam :: 107488 :: <>‘prey:’ Lith. <nsi>náma-s,</nsi> ‘a house;’ <nsi>nú§m-a-s,</nsi> ‘gain:’
+Page0472-b+ 79 :: nava :: 108224 :: <>Sax. <nsi>niwe, neow, niwa:</nsi> Lith. <nsi>naú-ye-s,</nsi> ‘new;’
+Page0560-b+ 80 :: pA :: 128083 :: <><nsi>mú§,</nsi> ‘a shepherd;’ <nsi>pḗ-tu-s,</nsi> ‘midday:’ Goth. <nsi>fod-</nsi>
+Page0589-b+ 78 :: pU :: 134890 :: <><nsi>pus-tau,</nsi> ‘I sharpen:’ Bohem. <nsi>púr,</nsi> ‘glowing
+Page0590-b+ 80 :: pUy :: 135090 :: <><nsi>fūl</nsi> = Eng. <nsi>foul</nsi> = Mod. Germ. <nsi>faul:</nsi> Lith. <nsi>pú-ti,</nsi>
+Page0590-b+ 80 :: pUy :: 135091 :: <>‘to putrefy;’ <nsi>pú-d-au,</nsi> ‘I cause to putrefy;’ <nsi>pú-lei,</nsi>
+Page0590-b+ 80 :: pUy :: 135091 :: <>‘to putrefy;’ <nsi>pú-d-au,</nsi> ‘I cause to putrefy;’ <nsi>pú-lei,</nsi>
+Page0667-b+ 81 :: plu :: 152612 :: <><nsi>pláu-j-u, plau-ti,</nsi> ‘to wash off;’ <nsi>plaú-t-is; plú-sti,</nsi>
+Page0667-b+ 81 :: plu :: 152612 :: <><nsi>pláu-j-u, plau-ti,</nsi> ‘to wash off;’ <nsi>plaú-t-is; plú-sti,</nsi>
+# 33 --------------------------------------------------
+û  (\u00fb)    53 := LATIN SMALL LETTER U WITH CIRCUMFLEX
+Page0077-c+ 78 :: ambA :: 18268 :: <><nsi>mûn</nsi>]. {%--Ambā-gańgā,%} f. a river in Ceylon. {%--Ambā-%}
+Page0109-b+ 75 :: ahi :: 25271 :: <>Lith. <nsi>ungury-s;</nsi> Russ. <nsi>ûgorj;</nsi> Armen. <nsi>ôz;</nsi> Germ.
+Page0137-c+ 74 :: i :: 31503 :: <>Lat. <nsi>eo, îmus;</nsi> Lith. <nsi>ei-mi,</nsi> ‘I go;’ Slav. <nsi>i-dû,</nsi>
+Page0145-a+ 77 :: ukz :: 33172 :: <>(as sparks); to clean; [cf. Lith. <nsi>ûkana:</nsi> Hib. <nsi>uisg,</nsi>
+Page0175-a+ 71 :: ulUka :: 39849 :: <><nsi>ulula;</nsi> Germ. <nsi>Eule;</nsi> Old Germ. <nsi>uwila, ûla;</nsi> Eng.
+Page0177-a+ 74 :: UDas :: 40279 :: <>Lat. <nsi>uber;</nsi> Germ. <nsi>ûtar, euter;</nsi> Angl. Sax. <nsi>uder;</nsi>
+Page0178-c+ 75 :: f :: 40703 :: <><nsi>erru;</nsi> Lith. <nsi>arù;</nsi> Lith. <nsi>orjû;</nsi> Gr. <g>αἴρω</g> Hib. <nsi>ar,</nsi>
+Page0188-c+ 68 :: oka :: 42958 :: <><nsi>ûkis,</nsi> ‘a dwelling;’ <nsi>ûkininkas:</nsi> Gr. <g>οἶκος</g> belongs
+Page0188-c+ 68 :: oka :: 42958 :: <><nsi>ûkis,</nsi> ‘a dwelling;’ <nsi>ûkininkas:</nsi> Gr. <g>οἶκος</g> belongs
+Page0189-c+ 73 :: ozWa :: 43180 :: <>cf. also Slav. <nsi>ûsta,</nsi> neut. pl.; <nsi>ûstna,</nsi> f.: Lat. <nsi>ostium.</nsi>]
+# 34 --------------------------------------------------
+ü  (\u00fc)    43 := LATIN SMALL LETTER U WITH DIAERESIS
+Pagevi+ 55 :: NO HW :: 83 :: <>Müller for having first introduced us to this science by his well-
+Pagevii+ 61 :: NO HW :: 135 :: <>of Professor Goldstücker's Dictionary has made Orientalists aware that Professor Wilson entrusted
+Pagevii+ 61 :: NO HW :: 138 :: <F>*) It is stated in a notice of the late Professor Goldstücker's
+Pagevii+ 61 :: NO HW :: 143 :: <>House &c., are left behind by Professor Goldstücker. With refer-
+Pagevii+ 61 :: NO HW :: 151 :: <>Goldstücker, aiding him day by day in the elaboration of his
+Pagevii+ 61 :: NO HW :: 156 :: <>Goldstücker's labours, when I had the use of the Wilsonian Col-
+Pagevii+ 61 :: NO HW :: 170 :: <>Goldstücker's editorship, almost interminable proportions, so as to become no longer a new edition
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 462 :: <>writings, Dr. Muir's Sanskṛit Texts, Professor M. Müller's Ancient Sanskṛit Literature, Dr. Weber's
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 464 :: <>I believe, by the late Professor Goldstücker,--and my own collection of notes, I have been able to
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 607 :: <>to give, in addition, the renderings of Sāyaṇa (according to Professor Max Müller's edition
+# 35 --------------------------------------------------
+ý  (\u00fd)     8 := LATIN SMALL LETTER Y WITH ACUTE
+Page0388-b+ 77 :: tri :: 88462 :: <><nsi>thry, thri:</nsi> Slav. <nsi>triye, tre-tii,</nsi> ‘third:’ Lith. <nsi>trýs,</nsi>
+Page0394-c+ 79 :: tvakz :: 89945 :: <><nsi>ý-s,</nsi> ‘a ram;’ <nsi>tenk-ù,</nsi> ‘to fall to one's share;’ <nsi>tink-ù,</nsi>
+Page0394-c+ 79 :: tvakz :: 89947 :: <>orderly;’ <nsi>tiký-ti,</nsi> ‘to take aim;’ <nsi>taszý-ti,</nsi> ‘to cut
+Page0394-c+ 79 :: tvakz :: 89947 :: <>orderly;’ <nsi>tiký-ti,</nsi> ‘to take aim;’ <nsi>taszý-ti,</nsi> ‘to cut
+Page0559-c+ 81 :: pA :: 127924 :: <><nsi>pḗ-na-s,</nsi> ‘milk;’ <nsi>pý-va-s,</nsi> ‘beer:’ Angl. Sax. <nsi>beor:</nsi>
+Page0576-b+ 80 :: Piśuna, as, ā, am, :: 131842 :: <><g></g> Lith. <nsi>pī1k-ta-s,</nsi> ‘bad;’ <nsi>pýk-ti,</nsi> ‘to be
+Page0793-c+ 77 :: me :: 182261 :: <>‘change:’ Lith. <nsi>mai-na-s,</nsi> ‘exchange;’ <nsi>mainý-ti,</nsi>
+Page1145-c+ 79 :: sTA :: 263876 :: <>ing;’ <nsi>statý-ti,</nsi> ‘to place;’ <nsi>sto-na-s,</nsi> ‘a stand, sta-
+# 36 --------------------------------------------------
+Ā  (\u0100)  2380 := LATIN CAPITAL LETTER A WITH MACRON
+Pagev+ 45 :: NO HW :: 53 :: <>to each other and to the other members of the Āryan family.
+Pagevi+ 55 :: NO HW :: 66 :: <>Eastern languages too, both Semitic and Āryan, are pressing peremptorily on the attention of
+Pagevi+ 55 :: NO HW :: 68 :: <F>*) See the notes on the Semitic and Āryan languages at pp. viii,
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 191 :: <>peculiarity of the Āryan dialects which the arrangement of the present Dictionary is intended to
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 197 :: <>of the descendants of Shem, then ‘Japhetic’ (instead of ‘Āryan’)
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 199 :: <>ever, give up the epithet Āryan (from the Sanskṛit {%ārya,%} ‘noble’)
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 237 :: <>family, I here append a brief account of the Āryan cognate
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 269 :: <>Celtic (of the <g></g> Herod. II. 33) is the oldest of the Āryan
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 321 :: <>Sanskṛit in some of its forms than any other member of the Āryan
+Pageix+ 27 :: Plan and Arrangement of the Present Work. :: 329 :: <>their roots or radical sounds; for although both Āryan and Semitic forms of speech are called
+# 37 --------------------------------------------------
+ā  (\u0101) 157769 := LATIN SMALL LETTER A WITH MACRON
+Pagevi+ 55 :: NO HW :: 110 :: <>unequalled in their examination into the constitution of speech. The name Vyākaraṇ, which they
+Pagevi+ 55 :: NO HW :: 113 :: <>Every single word in their classical language is referred to a Dhātu or Root, which is also a name
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 199 :: <>ever, give up the epithet Āryan (from the Sanskṛit {%ārya,%} ‘noble’)
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 226 :: <>though the locality may conjecturally be placed somewhere in the region of Bokhāra, near the
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 228 :: <>Asiatic lines, 1. Indian, 2. Īrānian, (the former eventually comprising Sanskṛit, Pāli, Prākṛit, and the
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 228 :: <>Asiatic lines, 1. Indian, 2. Īrānian, (the former eventually comprising Sanskṛit, Pāli, Prākṛit, and the
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 228 :: <>Asiatic lines, 1. Indian, 2. Īrānian, (the former eventually comprising Sanskṛit, Pāli, Prākṛit, and the
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+# 38 --------------------------------------------------
+ă  (\u0103)    27 := LATIN SMALL LETTER A WITH BREVE
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 768 :: <>of the fourteen vowels (except {%ă%}) has two symbols, according as it is initial or non-initial, and the
+Page0114-b+ 73 :: ANga :: 26373 :: <>cate form or body; ({%as, ī, am,%} pl. {%ăńgās%}), produced or
+Page0144-c+ 77 :: Uktha, am, :: 33129 :: <>verses forming a subdivision of the Śăstras. They
+Page0407-b+ 81 :: dA :: 92940 :: <>the Caus. {%dāpayati:%} Lat. <nsi>dă-re, dă-tor, dō-s, dō-</nsi>
+Page0407-b+ 81 :: dA :: 92940 :: <>the Caus. {%dāpayati:%} Lat. <nsi>dă-re, dă-tor, dō-s, dō-</nsi>
+Page0413-b+ 81 :: div, dyaus, :: 94342 :: <>Slav. <nsi>dĭ-nă,</nsi> ‘day.’] {%--Divaḥ-śyenī,%} f. epithet of par-
+Page0452-c+ 81 :: DA :: 103577 :: <><g></g> Lat. <nsi>fămulus, familia, -do</nsi> in
+Page0556-c+ 73 :: Palala, as, :: 127237 :: <><g></g> Lat. <nsi>păl-ū(d)s, palus-tri-s;</nsi> Hib. <nsi>poll,</nsi> ‘mire,
+Page0560-b+ 80 :: pA :: 128079 :: <><nsi>pa-bulum, pa-sc-or, pas-tor, Pă-le-s, pā-nis, pe-</nsi>
+Page0594-a+ 76 :: pfc :: 135985 :: <><nsi>plăg-a:</nsi> Umbr. <nsi>tribricu,</nsi> ‘triplicity:’ Goth. <nsi>flah-</nsi>
+# 39 --------------------------------------------------
+Ć  (\u0106)  2602 := LATIN CAPITAL LETTER C WITH ACUTE
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1226 :: <>I may yet request leave to inform any mere {%Ćhidrānveshin,%} of whom it may be said {%ćhidraṃ%}
+Page0001-b+ 66 :: Aṉśula, as, ā, am, :: 1729 :: <>sage Ćāṇakya.
+Page0005-b+ 81 :: agni :: 2651 :: <>of the sixth Manu, Ćākshusha, by Naḍvalā; see the
+Page0007-a+ 77 :: aNka :: 3000 :: <>root, ginger, Ćiṅćoḍa or Ćiṅćoṭaka. {%--Ańka-%}
+Page0007-a+ 77 :: aNka :: 3000 :: <>root, ginger, Ćiṅćoḍa or Ćiṅćoṭaka. {%--Ańka-%}
+Page0007-c+ 75 :: aNgAra :: 3176 :: <>m. an epith. of Ćitraratha, the chief of the Gandhar-
+Page0007-c+ 75 :: Ańgāraka, as, :: 3194 :: <>of the latter half of Ćaitra. {%--Ańgāraka-maṇi, is,%} m.
+Page0008-a+ 77 :: aNgula :: 3260 :: <>Ćāṇakya. {%--Ańgula-pramāṇa%} or {%ańgula-māna,%}
+Page0010-a+ 72 :: ajita :: 3721 :: <>epithet of king Ćandragupta the second. {%--Ajitātman%}
+Page0013-a+ 81 :: Ati :: 4390 :: <>{%jagatī,%} the other also called {%Ćuḍikā%} or {%Ćulikā.%}
+# 40 --------------------------------------------------
+ć  (\u0107) 18091 := LATIN SMALL LETTER C WITH ACUTE
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 598 :: <>and Āćārya, Sāyaṇa, lived about five hundred years ago at Vijaya-nagara, an ancient Indian
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 885 :: <>to me so great that in the third edition of my Sanskṛit Grammar, I ventured to adopt {%ć%} for {#c,#} the
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 886 :: <>pronunciation, however, being the same as {%ch%} in {%church,%} which might therefore be written {%ćurć.%}
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 886 :: <>pronunciation, however, being the same as {%ch%} in {%church,%} which might therefore be written {%ćurć.%}
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexxi-b+ 20 :: Principal Sources drawn upon in the Process of Compilation. :: 1029 :: <HI>--(and Rieu's) Hemaćandra's Glossary.
+Pagexxii-a+ 38 :: Principal Sources drawn upon in the Process of Compilation. :: 1076 :: <HI>--Sāńkhya-pravaćana-bhāshya.
+Pagexxii-b+ 39 :: Principal Sources drawn upon in the Process of Compilation. :: 1120 :: <HI>Rieu's (and Böhtlingk's) Hemaćandra.
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1134 :: <HI>Tāranātha Tarkavāćaspati's Dhātu-
+# 41 --------------------------------------------------
+ē  (\u0113)    26 := LATIN SMALL LETTER E WITH MACRON
+Page0373-a+ 79 :: tij :: 84981 :: <><nsi>tēka,</nsi> ‘to touch;’ <nsi>stiggqvan, stik-s, stak-s:</nsi> Old
+Page0394-c+ 79 :: tvakz :: 89940 :: <><g>τύκ-ο-ς, Τεῦκ-ρο-ς:</g> Lat. <nsi>tig-nu-m, tē-lu-m, tē-mo,</nsi>
+Page0394-c+ 79 :: tvakz :: 89940 :: <><g>τύκ-ο-ς, Τεῦκ-ρο-ς:</g> Lat. <nsi>tig-nu-m, tē-lu-m, tē-mo,</nsi>
+Page0394-c+ 79 :: tvakz :: 89941 :: <><nsi>tex-o, tex-tor, tex-tura, tē-la:</nsi> Goth. <nsi>theik-an,</nsi>
+Page0442-c+ 80 :: dvAr :: 101274 :: <><g></g> Lat. <nsi>for-ē-s, foris,</nsi>
+Page0443-b+ 81 :: dvi :: 101365 :: <><nsi>vē-</nsi> in comp., e. g. <nsi>vē-sanus; dis-</nsi> in comp., e. g. <nsi>dis-</nsi>
+Page0443-b+ 81 :: dvi :: 101365 :: <><nsi>vē-</nsi> in comp., e. g. <nsi>vē-sanus; dis-</nsi> in comp., e. g. <nsi>dis-</nsi>
+Page0445-b+ 81 :: Dvis, :: 101905 :: <>prefix <nsi>mis-</nsi> and <nsi>missa-</nsi> in <nsi>missa-dēths, missa-</nsi>
+Page0459-a+ 81 :: Df :: 105066 :: <><nsi>frē-tu-s, frē-nu-m, fir-mu-s, for-ma;</nsi> Angl. Sax.
+Page0459-a+ 81 :: Df :: 105066 :: <><nsi>frē-tu-s, frē-nu-m, fir-mu-s, for-ma;</nsi> Angl. Sax.
+# 42 --------------------------------------------------
+ĕ  (\u0115)    14 := LATIN SMALL LETTER E WITH BREVE
+Page0043-c+ 79 :: antar :: 10897 :: <>Zend <nsi>antarĕ;</nsi> Lat. <nsi>inter;</nsi> Goth. <nsi>undar</nsi>].
+Page0179-c+ 74 :: fjipya :: 40865 :: <>going quick, striving upwards; [cf. Zend. <nsi>ĕrĕzifja.</nsi>]
+Page0179-c+ 74 :: fjipya :: 40865 :: <>going quick, striving upwards; [cf. Zend. <nsi>ĕrĕzifja.</nsi>]
+Page0179-c+ 74 :: fju :: 40886 :: <>Zend <nsi>ĕrĕśu.</nsi>] {%--Ṛiju-kāya, as, ā, am,%} having a
+Page0179-c+ 74 :: fju :: 40886 :: <>Zend <nsi>ĕrĕśu.</nsi>] {%--Ṛiju-kāya, as, ā, am,%} having a
+Page0307-b+ 76 :: Garma :: 70004 :: <>Zend <nsi>garĕma;</nsi> Goth. <nsi>varmja;</nsi> Germ. <nsi>warm.</nsi>]
+Page0370-c+ 78 :: tAra :: 84462 :: <>n. f. a pearl; [cf. Zend <nsi>śtārĕ;</nsi> Gr. <g>ἀστήρ, ἄστρον;</g>
+Page0417-a+ 80 :: dIrGa :: 95209 :: <><nsi>darĕgha:</nsi> Gr. <g></g> Russ. <nsi>dolog,</nsi>
+Page0469-b+ 81 :: nam :: 107486 :: <><nsi>Numerius, nĕm-us:</nsi> Goth. and Angl. Sax. <nsi>nim-an,</nsi>
+Page0607-c+ 78 :: praC :: 139123 :: <>{%pṛiććhyate;%} [cf. Zend <nsi>pĕrĕs,</nsi> ‘to inquire;’ <nsi>frāś,</nsi>
+# 43 --------------------------------------------------
+Ī  (\u012a)   137 := LATIN CAPITAL LETTER I WITH MACRON
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 228 :: <>Asiatic lines, 1. Indian, 2. Īrānian, (the former eventually comprising Sanskṛit, Pāli, Prākṛit, and the
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 249 :: <>as to the Īrānian: ({%a%}) Zand or Zend (old Bactrian) is to old
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 257 :: <>Pehlevī) is a later Īrānian dialect, which once possessed an exten-
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 258 :: <>sive literature. A more recent Īrānian dialect is Pārsī or Pāzand,
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1650 :: <>WITHOUT THEIR NĀGARĪ EQUIVALENTS.
+Page0102-c+ 81 :: azwan :: 23742 :: <>Kuvera of the North, and Īśa or Śiva of the N. E.
+Page0143-b+ 73 :: Īkshaka, as, :: 32783 :: <P>{%Īkshaka, as,%} m. a spectator, a beholder.
+Page0143-b+ 73 :: Īkshaṇa, am, :: 32784 :: <P>{%Īkshaṇa, am,%} n. a look, view, aspect, sight; re-
+Page0143-b+ 73 :: Īkshaṇika, as, ā, :: 32786 :: <P>{%Īkshaṇika, as, ā,%} m. f. a looker into the future,
+Page0143-b+ 73 :: Īkshamāṇa, as, ā, am, :: 32788 :: <P>{%Īkshamāṇa, as, ā, am,%} looking at, surveying.
+# 44 --------------------------------------------------
+ī  (\u012b) 47980 := LATIN SMALL LETTER I WITH MACRON
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 230 :: <>the latter comprising ({%a%}) Zand, old Persian, Pahlavī, modern Persian, and Pushtū; ({%b%}) Armenian);
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 238 :: <>languages beginning with the Indian. 1. By Pāli or Pālī is meant
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 239 :: <>one of the oldest forms of the ancient provincial Hindū-ī lan-
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 247 :: <>of the present Hindū dialects, Hindī, Marāṭhī, &c., see note,
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 247 :: <>of the present Hindū dialects, Hindī, Marāṭhī, &c., see note,
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 250 :: <>Persian and Pahlavī what Sanskṛit is to Pāli and Prākṛit. It
+# 45 --------------------------------------------------
+ĭ  (\u012d)    39 := LATIN SMALL LETTER I WITH BREVE
+Page0373-a+ 79 :: tij :: 84979 :: <><nsi>tu-s, in-stīga-re, stĭ-mulu-s</nsi> for <nsi>stig-mulu-s, stĭ-</nsi>
+Page0373-a+ 79 :: tij :: 84979 :: <><nsi>tu-s, in-stīga-re, stĭ-mulu-s</nsi> for <nsi>stig-mulu-s, stĭ-</nsi>
+Page0377-c+ 77 :: Tuńga, as, ā, am, :: 86053 :: <>‘to grow fat:’ Russ. <nsi>tućnyĭ,</nsi> ‘fat:’ Hib. <nsi>tonngo,</nsi> ‘a
+Page0382-c+ 75 :: tftIya :: 87186 :: <>Goth. <nsi>thri-dya;</nsi> Slav. <nsi>tre-tiĭ;</nsi> Scot. <nsi>tri-teamh;</nsi>
+Page0397-a+ 81 :: Dakshiṇa, as, ā, am :: 90553 :: <>‘south;’ <nsi>yushnyĭ,</nsi> ‘southern.’] {%--Dakshiṇa-kālikā,%}
+Page0407-b+ 81 :: dA :: 92941 :: <><nsi>nu-m:</nsi> Slav. <nsi>da-mĭ = dad-mi; da-rŭ,</nsi> ‘present;’
+Page0407-b+ 81 :: dA :: 92942 :: <><nsi>da-nĭ,</nsi> ‘tax:’ Lith. <nsi>du§-mi = dad-mi, du§-ti-s, du§-</nsi>
+Page0413-b+ 81 :: div, dyaus, :: 94342 :: <>Slav. <nsi>dĭ-nă,</nsi> ‘day.’] {%--Divaḥ-śyenī,%} f. epithet of par-
+Page0442-c+ 80 :: dvAr :: 101279 :: <><nsi>tor;</nsi> Slav. <nsi>dverĭ,</nsi> ‘gate, door;’ Lith. <nsi>dùr-ys,</nsi> ‘door;’
+Page0459-c+ 81 :: Dfz :: 105221 :: <><nsi>ga-daurs-an,</nsi> ‘to dare:’ Slav. <nsi>drĭz-a-ti, drĭz-na-ti,</nsi>
+# 46 --------------------------------------------------
+Ń  (\u0143)     1 := LATIN CAPITAL LETTER N WITH ACUTE
+Page0310-a+ 73 :: Na :: 70637 :: <>that of {%ng%} in <nsi>song</nsi>. {%--Ńa-kāra, as,%} m. the letter or
+# 47 --------------------------------------------------
+ń  (\u0144)  7608 := LATIN SMALL LETTER N WITH ACUTE
+Pagexii+ 45 :: Plan and Arrangement of the Present Work. :: 467 :: <>Manas, Sāman, Soma, Sāńkhya, Sauptika-parvan. It will be doubtless said that too many names
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 554 :: <>the Hindū system of logic; 2. the Sāńkhya by Kapila, which is
+Pagexxii-a+ 38 :: Principal Sources drawn upon in the Process of Compilation. :: 1076 :: <HI>--Sāńkhya-pravaćana-bhāshya.
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1139 :: <HI>Troyer's Rāja-tarańgiṇī.
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1159 :: <HI>--Sāńkhya-kārikā.
+Pagexxviii-b+ 20 :: Aids and Encouragements received. :: 1613 :: <HI>{#N#} ń {%in%} sing, king, sink (sińk).
+Pagexxviii-b+ 20 :: Aids and Encouragements received. :: 1613 :: <HI>{#N#} ń {%in%} sing, king, sink (sińk).
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1651 :: <P>a, ā; i, ī; u, ū; ṛi, ṛī; lṛi, lṛī; e, ai; o, au;--ṉ or ṃ, ḥ;--k, kh; g, gh; ń;--ć, ćh; j, jh;
+Page0001-b+ 66 :: aMha :: 1747 :: <P>.{#aMha#}¦ {%aṉh%} (allied to {%ańgh%}), cl. 1. A. {%aṉhate,%}
+Page0001-b+ 66 :: Aṉhri, is, :: 1774 :: <>{%ańghri%}]. {%--Aṉhri-pa, as,%} m. a tree (foot-drinker).
+# 48 --------------------------------------------------
+ō  (\u014d)    39 := LATIN SMALL LETTER O WITH MACRON
+Page0374-b+ 76 :: tiras :: 85296 :: <>Lith. <nsi>tiês:</nsi> Zend <nsi>tarō.</nsi>] {%--Tiras-kara, as, ī, am,%}
+Page0383-c+ 78 :: tF :: 87408 :: <>{%turv; tara%} at p. 365: Zend <nsi>tarō,</nsi> ‘over:’ Gr. <g>τερ-</g>
+Page0404-a+ 80 :: dal :: 92204 :: <><nsi>teil; tīlōn, tīligōn</nsi> = Caus. {%dalayāmi:%} Lat. <nsi>dolo:</nsi>
+Page0404-a+ 80 :: dal :: 92204 :: <><nsi>teil; tīlōn, tīligōn</nsi> = Caus. {%dalayāmi:%} Lat. <nsi>dolo:</nsi>
+Page0407-b+ 81 :: dA :: 92940 :: <>the Caus. {%dāpayati:%} Lat. <nsi>dă-re, dă-tor, dō-s, dō-</nsi>
+Page0407-b+ 81 :: dA :: 92940 :: <>the Caus. {%dāpayati:%} Lat. <nsi>dă-re, dă-tor, dō-s, dō-</nsi>
+Page0414-c+ 81 :: diS :: 94634 :: <>Germ. <nsi>zeig-ōn, zīt</nsi> for <nsi>zig-ti, zeinyan;</nsi> probably also
+Page0443-b+ 81 :: dvi :: 101367 :: <><nsi>lum:</nsi> Umbr. <nsi>du-r,</nsi> ‘two:’ Goth. <nsi>tvai, tvōs,</nsi> f.,
+Page0452-c+ 81 :: DA :: 103583 :: <>ment:’ Old Sax. <nsi>dō-m,</nsi> ‘I do,’ {%= dadhāmi:%} Old
+Page0452-c+ 81 :: DA :: 103584 :: <>Germ. <nsi>tō-m,</nsi> ‘I do:’ Old Eng. <nsi>-de</nsi> in <nsi>ask-e-de =</nsi> ‘ask-
+# 49 --------------------------------------------------
+ŏ  (\u014f)     5 := LATIN SMALL LETTER O WITH BREVE
+Page0597-a+ 74 :: pF :: 136686 :: <><g></g> Lat. <nsi>im-ple-o, plē-nu-s, plē-be-s, pŏ-pul-u-s,</nsi>
+Page0601-b+ 77 :: Pra :: 137655 :: <><g></g> Lat. <nsi>prō-d, prō, prŏ-</nsi> in
+Page0601-b+ 77 :: Pra :: 137656 :: <><nsi>prŏ-nepos, prœ</nsi> for <nsi>prai, prīmu-s</nsi> for <nsi>pro-imus,</nsi>
+Page0680-b+ 78 :: bAD :: 155687 :: <><g></g> Lat. <nsi>ôd-i, ŏ-d-i-um:</nsi>
+Page0877-c+ 81 :: vac :: 201984 :: <><g></g> Lat. <nsi>vŏc-are, vox, vôc-is,</nsi>
+# 50 --------------------------------------------------
+Œ  (\u0152)     1 := LATIN CAPITAL LIGATURE OE
+Page0300-a+ 75 :: gopa :: 68314 :: <>sort of jujube, Zizyphus Nepeca or Zizyphus Œnoplia.
+# 51 --------------------------------------------------
+œ  (\u0153)   372 := LATIN SMALL LIGATURE OE
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 295 :: <>to settle in the province of Mœsia, near the mouth of the Danube,
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 299 :: <>sometimes called Mœso-Gothic, would have been lost, and with
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 680 :: <>the end swallowed up and lost in its successor, is well known to have been Phœnicia. The great
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 682 :: <>the intercommunion of national as well as individual life. By the very necessities of trade Phœnicia
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 686 :: <P>Probably the first Phœnician graphic signs were, like the Chinese, of an ideographic character,
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 688 :: <>the first Phœnician graphic system, about which we know anything, had not advanced beyond [Pagexvi+ 55]
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 700 :: <>Phœnicia than they began to remedy its defects, and forthwith invented a system by which the
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 702 :: <>--not as mere appendages, but as close companions. The Greek expansion of the Phœnician
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 710 :: <>their first idea of symbolizing language by written marks indirectly from Phœnicia through some
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 714 :: <>sought to establish a Phœnician origin for the Indian alphabets
+# 52 --------------------------------------------------
+Ś  (\u015a)  8090 := LATIN CAPITAL LETTER S WITH ACUTE
+Pagexii+ 45 :: Plan and Arrangement of the Present Work. :: 466 :: <>Dictionary. Let him observe, for instance, what is written under the words Vishṇu, Śiva, Veda,
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 844 :: <>And will any one examine the pages of this Dictionary, and then compare those of the Śabda-kalpa-
+Pagexxi-a+ 50 :: Principal Sources drawn upon in the Process of Compilation. :: 967 :: <>deva, commonly called the Śabda-kalpa-druma
+Pagexxii-b+ 39 :: Principal Sources drawn upon in the Process of Compilation. :: 1114 :: <HI>Rādhākānta-deva's Śabda-kalpa-
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1144 :: <HI>--Śatapatha-Brāhmaṇa.
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1537 :: <HI>Śabda-k. = Śabda-kalpa-
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1537 :: <HI>Śabda-k. = Śabda-kalpa-
+Page0001-a+ 70 :: a :: 1678 :: <>of Brahmā, Śiva, and Vaiśvānara; ({%am%}), n. Brahma.
+Page0002-a+ 70 :: akutas :: 1921 :: <>a title of Śiva. {%--A-kuto-bhaya, as, ā, am,%} not afraid
+Page0002-b+ 68 :: akula :: 1933 :: <>family, low; ({%as%}), m., N. of Śiva; ({%ā%}), f., N. of
+# 53 --------------------------------------------------
+ś  (\u015b) 25896 := LATIN SMALL LETTER S WITH ACUTE
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 366 :: <>1. {%bhū,%} p. 714; 1. {%śru,%} p. 1026; 1. {%sthā,%} p. 1145 of this volume.
+Pagexii+ 45 :: Plan and Arrangement of the Present Work. :: 480 :: <>in doubt whether to translate compounds like {%Indra-śatru%} as Bahuvrīhis or Tatpurushas, the
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 558 :: <>viz. ({%a%}) the Vaiśeshika by Kaṇāda; ({%b%}) the Yoga by Pataṅjali;
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 568 :: <>the Nīti-śāstras, moral tales and apothegms, the dramas, the various treatises on mathematics, rhetoric,
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 654 :: <>{%śva-dṛitau dhṛitam;%} cf. Muir's Sanskṛit Texts, vol. ii. p. 53, note
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 789 :: <>Kaśmīrī, the Singhalese of Ceylon; the Pushtū of Afghānistān; the five Drāviḍian languages, Tamil, Malayālam, Telugu, Kanarese,
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 834 :: <>Will any student say that such an example as {%sādhu-mitrāṇy akuśalād vārayanti%} does not gain in
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 854 :: <>even the simplest compounds like {%sad-asad-viveka, sv-alpa-keśin,%} would have required without its
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 859 :: <>{%titvāt, karma-phala-rūpa-śarīra-dhāri-jīva-nirmitatvābhāva-mātreṇa,%}
+Pagexxii-a+ 38 :: Principal Sources drawn upon in the Process of Compilation. :: 1056 :: <>kramorvaśī.
+# 54 --------------------------------------------------
+Ū  (\u016a)   193 := LATIN CAPITAL LETTER U WITH MACRON
+Page0090-a+ 74 :: Ava-tāra, as, :: 21031 :: <>‘Ūrdhvāmnāya-saṃhitā.’ {%--Avatāra-mantra, as,%}
+Page0114-a+ 76 :: Āgneya, as, ī, am, :: 26252 :: <>Ūru and daughter of Agni (?); the south-east quarter,
+Page0176-c+ 71 :: U :: 40235 :: <>that letter in the word {%rule%}. {%--Ū-kāra, as,%} m. the
+Page0177-a+ 74 :: Ūma, as, :: 40249 :: <P>{%Ūma, as,%} m., Ved. a good friend, an affectionate
+Page0177-a+ 74 :: UQa :: 40257 :: <>to the ritual. {%--Ūḍha-kańkaṭa, as, ā, am,%} armed,
+Page0177-a+ 74 :: UQa :: 40258 :: <>mailed. {%--Ūḍha-bhārya, as, ā, am,%} one who has
+Page0177-a+ 74 :: UQa :: 40259 :: <>married a wife. {%--Ūḍha-vayas, ās,%} m. a young man.
+Page0177-a+ 74 :: Ūḍhaya, :: 40260 :: <P>{%Ūḍhaya,%} nom. (fr. {%ūḍha%} or {%ūḍhi%}) P. {%ūḍhayati,%}
+Page0177-a+ 74 :: Ūḍhi, is, :: 40262 :: <P>{%Ūḍhi, is,%} f. carrying, bearing.
+Page0177-a+ 74 :: UDas :: 40280 :: <>Eng. <nsi>udder;</nsi> Hib. <nsi>uit, uitche.</nsi>] {%--Ūdhas-vatī,%} f.
+# 55 --------------------------------------------------
+ū  (\u016b) 14413 := LATIN SMALL LETTER U WITH MACRON
+Pagev+ 45 :: NO HW :: 40 :: <>India. Its relationship to some of our own languages is as close as to some of the Hindū dialects.
+Pagevi+ 55 :: NO HW :: 77 :: <>must be mastered by all who have communication with the tens of millions of our Hindū brethren.
+Pagevi+ 55 :: NO HW :: 107 :: <P>In point of fact the Hindūs may be said to be the original inventors of the ‘science of language.’
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 230 :: <>the latter comprising ({%a%}) Zand, old Persian, Pahlavī, modern Persian, and Pushtū; ({%b%}) Armenian);
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 239 :: <>one of the oldest forms of the ancient provincial Hindū-ī lan-
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 247 :: <>of the present Hindū dialects, Hindī, Marāṭhī, &c., see note,
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 262 :: <>little admixture of Arbic, while the later is flooded with it. Pushtū
+Pageix+ 27 :: Plan and Arrangement of the Present Work. :: 335 :: <>called by some Tūrānian (from Tūr, eldest, son of Farīdūn, to
+Pageix+ 27 :: Plan and Arrangement of the Present Work. :: 335 :: <>called by some Tūrānian (from Tūr, eldest, son of Farīdūn, to
+# 56 --------------------------------------------------
+ŭ  (\u016d)    41 := LATIN SMALL LETTER U WITH BREVE
+Page0046-c+ 81 :: Anya-dā, :: 11661 :: <><nsi>inŭda</nsi>].
+Page0377-a+ 77 :: tu :: 85938 :: <>‘the thumb:’ Slav. <nsi>ty-ti,</nsi> ‘to grow fat;’ <nsi>tu-kŭ,</nsi> ‘fat:’
+Page0379-c+ 79 :: tul :: 86500 :: <><nsi>duld-en:</nsi> Slav. <nsi>tul-ŭ,</nsi> ‘a quiver.’]
+Page0394-c+ 79 :: tvakz :: 89948 :: <>timber;’ <nsi>taisy-ti,</nsi> ‘to prepare:’ Slav. <nsi>tŭk-ña-ti,</nsi> ‘to
+Page0394-c+ 79 :: tvakz :: 89949 :: <>fix;’ <nsi>tŭk-a-ti,</nsi> ‘to weave;’ <nsi>tes-a-ti,</nsi> ‘to cut;’ <nsi>te†z-</nsi>
+Page0407-b+ 81 :: dA :: 92941 :: <><nsi>nu-m:</nsi> Slav. <nsi>da-mĭ = dad-mi; da-rŭ,</nsi> ‘present;’
+Page0443-b+ 81 :: dvi :: 101370 :: <>comp.: Slav. <nsi>dŭva:</nsi> Lith. <nsi>dù, dvi,</nsi> f. ‘two:’ Hib.
+Page0453-c+ 79 :: Dhāman, a, :: 103848 :: <>affix of abstract nouns; Slav. <nsi>do-mŭ.</nsi>] {%--Dhāma-%}
+Page0457-a+ 77 :: DU :: 104631 :: <>‘smoke:’ Slav. <nsi>du-na-ti,</nsi> ‘to breathe;’ <nsi>dy-mŭ,</nsi>
+Page0457-a+ 77 :: DU :: 104632 :: <>‘smoke;’ <nsi>du-chŭ,</nsi> ‘breath;’ <nsi>du-sha,</nsi> ‘soul:’ Lith. <nsi>dú-</nsi>
+# 57 --------------------------------------------------
+ŷ  (\u0177)     1 := LATIN SMALL LETTER Y WITH CIRCUMFLEX
+Page0869-c+ 78 :: lup :: 200142 :: <><nsi>reaf, reafian:</nsi> Old Norse <nsi>rŷf:</nsi> Lith. <nsi>rup-e-ti,</nsi>
+# 58 --------------------------------------------------
+ź  (\u017a)     6 := LATIN SMALL LETTER Z WITH ACUTE
+Page0413-b+ 81 :: div :: 94296 :: <><nsi>źibu,</nsi> ‘I shine.’] [Page0413-b+ 81]
+Page0414-c+ 81 :: diS :: 94635 :: <>Lith. <nsi>źénklas,</nsi> ‘a sign.’]
+Page0416-a+ 75 :: dIp :: 95008 :: <>{%dīdhī;%} Lith. <nsi>źibbu,</nsi> ‘to shine;’ Lat. <nsi>limpidus?</nsi>].
+Page0733-c+ 79 :: maT :: 168170 :: <><nsi>eźÇ,</nsi> ‘tumult;’ Lith. <nsi>met-uri-s, ment-ure,</nsi> ‘a churn-
+Page1015-a+ 79 :: SuB :: 233921 :: <><nsi>źibbu.</nsi>]
+Page1043-c+ 70 :: sakala :: 240544 :: <><nsi>cźiela-s;</nsi> Russ. <nsi>zielyï;</nsi> Slav. <nsi>ziel;</nsi> Pol. <nsi>saly, salki;</nsi>
+# 59 --------------------------------------------------
+ž  (\u017e)     1 := LATIN SMALL LETTER Z WITH CARON
+Page0009-b+ 81 :: aja, as, :: 3507 :: <><g>αἰγος</g> Lith. ožys]; the sign Aries; the vehicle of
+# 60 --------------------------------------------------
+ǵ  (\u01f5)     3 := LATIN SMALL LETTER G WITH ACUTE
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Page0179-a+ 73 :: fkza :: 40747 :: <><nsi>arǵ.</nsi>] {%--Ṛiksha-gandhā,%} f. the plant Argyreia Ar-
+# 61 --------------------------------------------------
+˘  (\u02d8)   990 := BREVE
+Page0361-c+ 81 :: Tanu, us, us, :: 82386 :: <>short syllables between four long ones (¯¯˘˘¯¯);
+Page0361-c+ 81 :: Tanu, us, us, :: 82386 :: <>short syllables between four long ones (¯¯˘˘¯¯);
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0571-a+ 78 :: Pāvitra, as :: 130540 :: <>of a metre, four times ¯¯¯¯˘˘˘˘¯ (perhaps
+Page0578-a+ 74 :: pIna :: 132213 :: <>times ¯¯¯¯ , ¯˘˘¯¯ , ¯¯¯˘˘¯¯ .  {%--Pīna-vak-%}
+Page0578-a+ 74 :: pIna :: 132213 :: <>times ¯¯¯¯ , ¯˘˘¯¯ , ¯¯¯˘˘¯¯ .  {%--Pīna-vak-%}
+Page0578-a+ 74 :: pIna :: 132213 :: <>times ¯¯¯¯ , ¯˘˘¯¯ , ¯¯¯˘˘¯¯ .  {%--Pīna-vak-%}
+Page0578-a+ 74 :: pIna :: 132213 :: <>times ¯¯¯¯ , ¯˘˘¯¯ , ¯¯¯˘˘¯¯ .  {%--Pīna-vak-%}
+# 62 --------------------------------------------------
+́  (\u0301)     7 := COMBINING ACUTE ACCENT
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 749 :: <>should be written {%ṕala,%} and {%dhana, d́ana;%} or perhaps according to the Anglo-Saxon method with
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 887 :: <>Had I dared to innovate further, I should have written {%ḱ%} for {%kh, t́%} for {%th, ṕ%} for {%ph;%} and so with
+Page0153-a+ 78 :: ud :: 34976 :: <>Lit. <nsi>wandū́.</nsi>]
+Page0485-b+ 72 :: nij :: 111171 :: <>snow;’ <nsi>snḗg-a-s,</nsi> ‘snow;’ <nsi>snaig-alà,</nsi> ‘a flake of
+Page0528-c+ 81 :: pati :: 120874 :: <><nsi>tā(t)-s:</nsi> Lith. <nsi>pat-s,</nsi> ‘husband;’ <nsi>vḗsz-pat-s,</nsi> ‘lord,
+Page0559-c+ 81 :: pA :: 127924 :: <><nsi>pḗ-na-s,</nsi> ‘milk;’ <nsi>pý-va-s,</nsi> ‘beer:’ Angl. Sax. <nsi>beor:</nsi>
+Page0560-b+ 80 :: pA :: 128083 :: <><nsi>mú§,</nsi> ‘a shepherd;’ <nsi>pḗ-tu-s,</nsi> ‘midday:’ Goth. <nsi>fod-</nsi>
+# 63 --------------------------------------------------
+ΐ  (\u0390)     3 := GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+# 64 --------------------------------------------------
+Α  (\u0391)     2 := GREEK CAPITAL LETTER ALPHA
+Page0112-a+ 76 :: Akokera :: 25821 :: <>Capricornus (<g>Αἰγόκερως</g>).
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+# 65 --------------------------------------------------
+Γ  (\u0393)     1 := GREEK CAPITAL LETTER GAMMA
+Page0305-c+ 71 :: glOcukAyanaka :: 69591 :: <>per of Glućukāyani; [cf. the Gr. <g>Γλαυκανῖκαι.</g>]
+# 66 --------------------------------------------------
+Ζ  (\u0396)     1 := GREEK CAPITAL LETTER ZETA
+Page0354-a+ 75 :: jyO :: 80727 :: <>Gr. <g>Ζεύς</g>), the planet Jupiter.
+# 67 --------------------------------------------------
+Ο  (\u039f)     1 := GREEK CAPITAL LETTER OMICRON
+Page0147-a+ 73 :: Uj-jayana, as, :: 33612 :: <>or Oujein, the Gr. <g>Οζήνη</g> a city so called in Avanti
+# 68 --------------------------------------------------
+Σ  (\u03a3)     2 := GREEK CAPITAL LETTER SIGMA
+Page0315-b+ 81 :: Ćandra, as, ā, am :: 71878 :: <><g>Σανδο-κυπτος</g> or <g>Σανδρο-κοττος</g> of the Greeks, who
+Page0315-b+ 81 :: Ćandra, as, ā, am :: 71878 :: <><g>Σανδο-κυπτος</g> or <g>Σανδρο-κοττος</g> of the Greeks, who
+# 69 --------------------------------------------------
+Τ  (\u03a4)    18 := GREEK CAPITAL LETTER TAU
+Page0319-c+ 74 :: cazwAna :: 72885 :: <>(= <g>Τιαστανος</g> ?).
+Page0358-a+ 75 :: Takshan, ā, :: 81575 :: <>the Gandhāras, the <g>Τάξιλα</g> of Ptolemy in the Paṅjāb;
+Page0378-b+ 74 :: tud :: 86185 :: <>Gr. <g>Τυδ-εύ-ς, Τύδ-α-ς, Τυνδ-άρη-ς, Τυνδ-άρεο-ς,</g>
+Page0378-b+ 74 :: tud :: 86185 :: <>Gr. <g>Τυδ-εύ-ς, Τύδ-α-ς, Τυνδ-άρη-ς, Τυνδ-άρεο-ς,</g>
+Page0378-b+ 74 :: tud :: 86185 :: <>Gr. <g>Τυδ-εύ-ς, Τύδ-α-ς, Τυνδ-άρη-ς, Τυνδ-άρεο-ς,</g>
+Page0378-b+ 74 :: tud :: 86185 :: <>Gr. <g>Τυδ-εύ-ς, Τύδ-α-ς, Τυνδ-άρη-ς, Τυνδ-άρεο-ς,</g>
+Page0378-b+ 74 :: tud :: 86186 :: <><g>Τυνδ-άρεω-ς, Τυνδάρ-ιχο-ς;</g> Lat. <nsi>tund-o, tud-es,</nsi>
+Page0378-b+ 74 :: tud :: 86186 :: <><g>Τυνδ-άρεω-ς, Τυνδάρ-ιχο-ς;</g> Lat. <nsi>tund-o, tud-es,</nsi>
+Page0378-c+ 73 :: tur :: 86308 :: <><g>Τυρ-μ-ίδαι;</g> Lat. <nsi>turba, turbare, turb-idu-s, turma;</nsi>
+Page0379-c+ 79 :: tul :: 86497 :: <><g>Τάν-ταλο-ς:</g> Goth. <nsi>thul-an,</nsi> ‘to tolerate;’ <nsi>us-</nsi>
+# 70 --------------------------------------------------
+ά  (\u03ac)    85 := GREEK SMALL LETTER ALPHA WITH TONOS
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0092-b+ 73 :: avara :: 21533 :: <>compared Gr. <g>οὐρά, οὖρος, οὖρον, ὅρος, ὄρρος;</g> Lat.
+Page0100-a+ 70 :: aSiras :: 23144 :: <>{%as, ā, am,%} headless. [cf. <g>ἀκάρηνος</g>]. {%--A-śiraḥ-snāna,%}
+Page0100-c+ 77 :: aSmanta :: 23327 :: <>N. of a Marut; [with this word compare Gr. <g>κάμινος</g>
+Page0101-a+ 71 :: aSru :: 23384 :: <>for {%daśru%} fr. rt. {%daṉś;%} cf. Gr. <g>δάκρυ</g> Lat. <nsi>lacryma</nsi>
+Page0106-a+ 77 :: asu :: 24504 :: <>spirits; water ?; [cf. <g>ἀάζω, ἄσθμα</g>]; ({%asavas%}),
+Page0142-a+ 71 :: il :: 32464 :: <>tion;’ Gr. <g>ἐλάω</g>] [Page0142-a+ 71]
+Page0167-b+ 75 :: upalaB :: 38143 :: <>hear, understand; [cf. Gr. <g>ὑπολαμβάνω</g>]
+Page0177-b+ 79 :: Urj :: 40347 :: <>‘may they obtain food and strength’); [cf. Gr. <g>ὀργάω</g>
+Page0177-b+ 79 :: Urj :: 40348 :: <>and <g>ὀργάς</g> Lat. <nsi>urgeo;</nsi> Hib. <nsi>orc,</nsi> ‘a prince, a hero;’
+# 71 --------------------------------------------------
+έ  (\u03ad)    89 := GREEK SMALL LETTER EPSILON WITH TONOS
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0107-c+ 77 :: asTi :: 24860 :: <><nsi>ossis,</nsi> assimilated fr. <nsi>ostis;</nsi> Gr. <g>ὀστέον</g> Slav. <nsi>kosti,</nsi>
+Page0109-b+ 75 :: ahi :: 25272 :: <><nsi>unc;</nsi> Mod. Gr. <g>ἀχέλι</g>] {%--Ahi-kānta, as,%} m. air,
+Page0111-a+ 73 :: Akal :: 25567 :: <>into consideration; to consider [cf. Gr. <g>ὀκέλλω</g>].
+Page0127-a+ 78 :: Āyus, :: 29122 :: <>Abhi-plava ceremony; food; [cf. Dor. <g>αἰές</g> perhaps
+Page0128-a+ 72 :: Ā-rāma, as, :: 29334 :: <>a garden, a grove; [with this word cf. <g>ἠμέρα</g> and
+Page0141-b+ 74 :: iBa :: 32343 :: <><g>ἐλ-έφας</g> and the Lat. <nsi>ebur.</nsi>] {%--Ibha-kaṇā,%} f. a plant
+Page0166-c+ 76 :: upari :: 38035 :: <><nsi>obar;</nsi> Mod. Germ. <nsi>über;</nsi> Eng. <nsi>over;</nsi> Gr. <g>ὑπέρ</g>
+Page0169-c+ 74 :: upasfp :: 38680 :: <>move onward, attack; [cf. <g>ὑφέρπω</g>]
+Page0177-b+ 79 :: UrRa :: 40395 :: <><g>ἔρος, ἐρέα, εἶρος, εἴριον;</g> Hib. <nsi>olaun.</nsi>] {%--Ūrṇa-%}
+# 72 --------------------------------------------------
+ή  (\u03ae)    37 := GREEK SMALL LETTER ETA WITH TONOS
+Page0001-b+ 66 :: ak :: 1778 :: <>tortuously, like a snake [cf. Gr. <g>ἀγκή</g>
+Page0026-b+ 65 :: anaPA :: 7236 :: <>of the planets. [Gr. <g>ἀναφή</g>]
+Page0107-b+ 73 :: astra :: 24798 :: <>sword; [with {%astra%} cf. Gr. <g>ἄστρον</g> and <g>ἀστήρ</g> per-
+Page0110-b+ 71 :: ahorAtra :: 25438 :: <>q. v. {%+ rātri,%} q. v.), a day and night, <g>νυχθήμερον</g> a
+Page0117-c+ 75 :: Atman :: 27111 :: <>Gr. <g>ἀϋτμήν, ἀϋτμή (?); ἀτμός, ἀτμή (?):</g> cf. also
+Page0117-c+ 75 :: Atman :: 27111 :: <>Gr. <g>ἀϋτμήν, ἀϋτμή (?); ἀτμός, ἀτμή (?):</g> cf. also
+Page0117-c+ 75 :: Atman :: 27111 :: <>Gr. <g>ἀϋτμήν, ἀϋτμή (?); ἀτμός, ἀτμή (?):</g> cf. also
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0143-a+ 74 :: iha :: 32746 :: <>‘here;’ Gr. <g>ἰθᾱ</g> or <g>ἰθαι</g> in <g>ἰθα-γενής</g> and <g>ἰθαι-γενής</g>;
+Page0143-a+ 74 :: iha :: 32746 :: <>‘here;’ Gr. <g>ἰθᾱ</g> or <g>ἰθαι</g> in <g>ἰθα-γενής</g> and <g>ἰθαι-γενής</g>;
+# 73 --------------------------------------------------
+ί  (\u03af)    77 := GREEK SMALL LETTER IOTA WITH TONOS
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0043-b+ 79 :: anta :: 10827 :: <>with {%anta%} are also compared the Greek <g>ἄντα, ἀντί</g>
+Page0045-a+ 75 :: anti :: 11268 :: <>[cf. Lat. <nsi>ante,</nsi> Gr. <g>ἀντί</g>]. {%--Anti-gṛiha, am,%} n., Ved.
+Page0055-a+ 72 :: api :: 13454 :: <>to, proximity, &c. [cf. Gr. <g>ἐπί</g> Zend <nsi>api</nsi>; Germ.
+Page0060-c+ 75 :: aBi :: 14638 :: <>Gr. <g>ἀμφί</g> Lat. <nsi>ob</nsi>; Zend <nsi>aibi</nsi>; Goth. <nsi>bi;</nsi> Old
+Page0103-a+ 77 :: as :: 23891 :: <><g>ἐσ-τί</g> Lat. <nsi>es-t;</nsi> Goth. <nsi>is-t;</nsi> Lith. <nsi>es-ti;</nsi> Slav.
+Page0136-b+ 73 :: AsPujit :: 31182 :: <P>.{#AsPujit#}¦ {%āsphujit%} = <g>Ἀφροδίτη</g> N. of the
+Page0143-b+ 73 :: Īdṛiśa, as, ī, am, :: 32839 :: <><g>λικ</g> in <g>δμῆλιξ, λικο</g> in <g>τηλίκο-ς,</g> &c.; Goth. <nsi>leika</nsi>
+# 74 --------------------------------------------------
+ΰ  (\u03b0)     1 := GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+Page0377-a+ 77 :: tu :: 85933 :: <><g>τυλόω, ταΰς:</g> Lat. <nsi>tumor, tumere, tumidus, tu-</nsi>
+# 75 --------------------------------------------------
+α  (\u03b1)   205 := GREEK SMALL LETTER ALPHA
+Page0001-b+ 66 :: aMsa :: 1735 :: <>[cf. Goth. <nsi>amsa;</nsi> Gr. <g>ἄσιλλα</g> Lat. <nsi>humerus,</nsi>
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0009-b+ 81 :: aja, as, :: 3506 :: <>the leader of a flock; a he-goat or ram [cf. Gr. <g>αἴξ</g> [Page0009-b+ 81]
+Page0009-b+ 81 :: aja, as, :: 3507 :: <><g>αἰγος</g> Lith. ožys]; the sign Aries; the vehicle of
+Page0026-b+ 65 :: anaPA :: 7236 :: <>of the planets. [Gr. <g>ἀναφή</g>]
+Page0043-b+ 79 :: anta :: 10827 :: <>with {%anta%} are also compared the Greek <g>ἄντα, ἀντί</g>
+# 76 --------------------------------------------------
+β  (\u03b2)    29 := GREEK SMALL LETTER BETA
+Page0074-a+ 71 :: aBra :: 17468 :: <>cypher; [cf. Gr. <g>ὄμβρος</g> and Lat. <nsi>imber.</nsi>] {%--Abhraṃ-%}
+Page0077-c+ 78 :: ambu :: 18289 :: <>watery element of the blood [cf. <g>ὄμβρος</g> <nsi>imber</nsi>];
+Page0078-a+ 79 :: amBas :: 18366 :: <>mystical name of the letter {%v%} [cf. <g>ὄμβρος</g> <nsi>imber</nsi>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+Page0167-b+ 75 :: upalaB :: 38143 :: <>hear, understand; [cf. Gr. <g>ὑπολαμβάνω</g>]
+Page0180-b+ 81 :: fta :: 41067 :: <>{%--Ṛita-bhāga, as,%} m., N. of a man, <g>Ἀρταβάζης</g>
+Page0219-b+ 75 :: Kāpishṭhala, as, :: 49896 :: <>{%(ās),%} m. pl., N. of a people; [cf. <g>καμβισθολοι</g>]
+Page0238-b+ 78 :: kumBa :: 54148 :: <>plant which bears it; [cf. Gr. <g>κύμβη</g> Lat. <nsi>cymba.</nsi>]
+Page0287-a+ 77 :: gA :: 65266 :: <>{%jigīshati%} (?): Intens. {%jegīyate:%} [cf. Gr. <g>βίβημι, ἔβην;</g>
+# 77 --------------------------------------------------
+γ  (\u03b3)    93 := GREEK SMALL LETTER GAMMA
+Page0001-b+ 66 :: aMha :: 1752 :: <>Gr. <g>ἄγχω</g>]
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0001-b+ 66 :: Aṉhu, us, us, u, :: 1766 :: <>Muliebre [cf. Gr. <g>ἐγγύς</g> Goth. <nsi>aggvus;</nsi> Lat.
+Page0001-b+ 66 :: Aṉhu, us, us, u, :: 1766 :: <>Muliebre [cf. Gr. <g>ἐγγύς</g> Goth. <nsi>aggvus;</nsi> Lat.
+Page0001-b+ 66 :: ak :: 1778 :: <>tortuously, like a snake [cf. Gr. <g>ἀγκή</g>
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+# 78 --------------------------------------------------
+δ  (\u03b4)    49 := GREEK SMALL LETTER DELTA
+Page0017-c+ 76 :: ad :: 5375 :: <>Slav. <nsi>jamj</nsi> for <nsi>jadmj;</nsi> Gr. <g>ἔδω</g> Lat. <nsi>edo;</nsi> Goth.
+Page0048-b+ 73 :: ap :: 11993 :: <>f. water; air, the intermediate region; the star <g>δ</g> Virigi-
+Page0101-a+ 71 :: aSru :: 23384 :: <>for {%daśru%} fr. rt. {%daṉś;%} cf. Gr. <g>δάκρυ</g> Lat. <nsi>lacryma</nsi>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0136-b+ 73 :: AsPujit :: 31182 :: <P>.{#AsPujit#}¦ {%āsphujit%} = <g>Ἀφροδίτη</g> N. of the
+Page0143-b+ 73 :: Īdṛiśa, as, ī, am, :: 32839 :: <><g>λικ</g> in <g>δμῆλιξ, λικο</g> in <g>τηλίκο-ς,</g> &c.; Goth. <nsi>leika</nsi>
+Page0153-a+ 78 :: ud :: 34975 :: <>{%dishati;%} [cf. Gr. <g>ὕδωρ</g> Lat. <nsi>unda;</nsi> Goth. <nsi>vato;</nsi>
+Page0181-b+ 77 :: fD :: 41254 :: <><g>ἀλδαίνω</g> Goth. <nsi>alja;</nsi> Hib. <nsi>alt,</nsi> ‘nursing.’]
+Page0185-c+ 78 :: eD :: 42349 :: <>{%edidhishate;%} [said to be related to Gr. <g>οἶδος, οἰδἀω;</g>
+Page0185-c+ 78 :: eD :: 42349 :: <>{%edidhishate;%} [said to be related to Gr. <g>οἶδος, οἰδἀω;</g>
+# 79 --------------------------------------------------
+ε  (\u03b5)   111 := GREEK SMALL LETTER EPSILON
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0024-b+ 73 :: an :: 6835 :: <>gasp, move, go, live [cf. Gr. <g>ἄνεμος</g> Lat. <nsi>animus</nsi>]:
+Page0045-b+ 79 :: antra :: 11348 :: <>or fr. rt. {%am?:%} Gr. <g>ἔντερον</g>), entrail, intestine; ({%ī%}),
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0108-a+ 73 :: asmad :: 24969 :: <>compounds [cf. Gr. <g>ἄμμες</g> fr. <g>ἄσμες</g> Goth. <nsi>unsa</nsi>
+Page0108-a+ 73 :: asmad :: 24969 :: <>compounds [cf. Gr. <g>ἄμμες</g> fr. <g>ἄσμες</g> Goth. <nsi>unsa</nsi>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0110-b+ 71 :: ahorAtra :: 25438 :: <>q. v. {%+ rātri,%} q. v.), a day and night, <g>νυχθήμερον</g> a
+Page0112-a+ 76 :: Akokera :: 25821 :: <>Capricornus (<g>Αἰγόκερως</g>).
+# 80 --------------------------------------------------
+ζ  (\u03b6)    27 := GREEK SMALL LETTER ZETA
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0106-a+ 77 :: asu :: 24504 :: <>spirits; water ?; [cf. <g>ἀάζω, ἄσθμα</g>]; ({%asavas%}),
+Page0147-a+ 73 :: Uj-jayana, as, :: 33612 :: <>or Oujein, the Gr. <g>Οζήνη</g> a city so called in Avanti
+Page0180-b+ 81 :: fta :: 41067 :: <>{%--Ṛita-bhāga, as,%} m., N. of a man, <g>Ἀρταβάζης</g>
+Page0194-a+ 77 :: kaK :: 44149 :: <><nsi>cachinnare;</nsi> Gr. <g>καχάζω, καγχάζω.</g>]
+Page0194-a+ 77 :: kaK :: 44149 :: <><nsi>cachinnare;</nsi> Gr. <g>καχάζω, καγχάζω.</g>]
+Page0262-a+ 78 :: kruS :: 59523 :: <>Gr. <g>κρώζω, κράζω, κραγγή;</g> Goth. <nsi>krukya.</nsi>]
+Page0262-a+ 78 :: kruS :: 59523 :: <>Gr. <g>κρώζω, κράζω, κραγγή;</g> Goth. <nsi>krukya.</nsi>]
+Page0263-a+ 73 :: kland :: 59746 :: <>bawl, roar, shout;’ Gr. <g>κλάζω.</g>]
+Page0263-b+ 78 :: klid :: 59783 :: <>{%sati:%} Intens. {%ćeklidyate, ćekletti;%} [cf. Gr. <g>κλύζω.</g>]
+# 81 --------------------------------------------------
+η  (\u03b7)    54 := GREEK SMALL LETTER ETA
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0100-a+ 70 :: aSiras :: 23144 :: <>{%as, ā, am,%} headless. [cf. <g>ἀκάρηνος</g>]. {%--A-śiraḥ-snāna,%}
+Page0127-b+ 74 :: āra, as, am, :: 29221 :: <>iron; ({%as%}), m. the planet Mars, <g>Ἄρης</g> the planet
+Page0128-a+ 72 :: Ā-rāma, as, :: 29335 :: <><g>ἔρημος</g>] {%--Ārāma-śītalā,%} f., N. of a fragrant plant.
+Page0129-a+ 72 :: ArtnI :: 29604 :: <>place where the string or sinew is fastened; (<g>κορώνη</g>)
+Page0136-b+ 73 :: AsPujit :: 31182 :: <P>.{#AsPujit#}¦ {%āsphujit%} = <g>Ἀφροδίτη</g> N. of the
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0142-c+ 80 :: iz :: 32617 :: <>haps Gr. <g>ἰό-της</g> and <g>ἵ-μερος</g>]
+# 82 --------------------------------------------------
+θ  (\u03b8)    44 := GREEK SMALL LETTER THETA
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0045-c+ 76 :: anDas :: 11426 :: <>Gr. <g>ἄνθος</g>), food, Soma, ghee, boiled rice; herb in
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0106-a+ 77 :: asu :: 24504 :: <>spirits; water ?; [cf. <g>ἀάζω, ἄσθμα</g>]; ({%asavas%}),
+Page0110-b+ 71 :: ahorAtra :: 25438 :: <>q. v. {%+ rātri,%} q. v.), a day and night, <g>νυχθήμερον</g> a
+Page0139-a+ 75 :: itTa :: 31833 :: <P>.{#itTa#}¦ {%ittha, am,%} n. in astronomy = <g>ἰχθύς</g>
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+# 83 --------------------------------------------------
+ι  (\u03b9)   123 := GREEK SMALL LETTER IOTA
+Page0001-b+ 66 :: aMsa :: 1735 :: <>[cf. Goth. <nsi>amsa;</nsi> Gr. <g>ἄσιλλα</g> Lat. <nsi>humerus,</nsi>
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0007-b+ 80 :: aNga :: 3060 :: <>assent, promise; see under {%ańgī%} [cf. <g>ἄγχι</g>].
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0046-b+ 80 :: anya :: 11529 :: <><g>ἔνιοι</g>]. {%--Anya-kāma, as, ā, am,%} loving another.
+Page0046-b+ 80 :: anya :: 11529 :: <><g>ἔνιοι</g>]. {%--Anya-kāma, as, ā, am,%} loving another.
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+# 84 --------------------------------------------------
+κ  (\u03ba)   193 := GREEK SMALL LETTER KAPPA
+Page0001-b+ 66 :: ak :: 1778 :: <>tortuously, like a snake [cf. Gr. <g>ἀγκή</g>
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0006-a+ 79 :: agra :: 2775 :: <>[cf. Gr. <g>ἄκρον</g>]. {%--Agra-kara, as,%} m. the fore part
+Page0007-a+ 77 :: aNka :: 2980 :: <>Gr. <g>ὄγκος</g> and Lat. <nsi>uncus</nsi>]. {%--Ańka-karaṇa, am,%}
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0100-a+ 70 :: aSiras :: 23144 :: <>{%as, ā, am,%} headless. [cf. <g>ἀκάρηνος</g>]. {%--A-śiraḥ-snāna,%}
+Page0100-c+ 77 :: aSmanta :: 23327 :: <>N. of a Marut; [with this word compare Gr. <g>κάμινος</g>
+# 85 --------------------------------------------------
+λ  (\u03bb)   109 := GREEK SMALL LETTER LAMDA
+Page0001-b+ 66 :: aMsa :: 1735 :: <>[cf. Goth. <nsi>amsa;</nsi> Gr. <g>ἄσιλλα</g> Lat. <nsi>humerus,</nsi>
+Page0001-b+ 66 :: aMsa :: 1735 :: <>[cf. Goth. <nsi>amsa;</nsi> Gr. <g>ἄσιλλα</g> Lat. <nsi>humerus,</nsi>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0046-b+ 80 :: anya :: 11528 :: <><nsi>aljis,</nsi> Them. <nsi>alja;</nsi> Gr. <g>ἄλλος</g> for <g>ἄλ-ϳος</g> cf. also
+Page0046-b+ 80 :: anya :: 11528 :: <><nsi>aljis,</nsi> Them. <nsi>alja;</nsi> Gr. <g>ἄλλος</g> for <g>ἄλ-ϳος</g> cf. also
+Page0046-b+ 80 :: anya :: 11528 :: <><nsi>aljis,</nsi> Them. <nsi>alja;</nsi> Gr. <g>ἄλλος</g> for <g>ἄλ-ϳος</g> cf. also
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0109-b+ 75 :: ahi :: 25272 :: <><nsi>unc;</nsi> Mod. Gr. <g>ἀχέλι</g>] {%--Ahi-kānta, as,%} m. air,
+# 86 --------------------------------------------------
+μ  (\u03bc)   106 := GREEK SMALL LETTER MU
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0010-c+ 75 :: ajma :: 3848 :: <>march, battle [cf. <g>ὄγμος</g>].
+Page0024-b+ 73 :: an :: 6835 :: <>gasp, move, go, live [cf. Gr. <g>ἄνεμος</g> Lat. <nsi>animus</nsi>]:
+Page0060-c+ 75 :: aBi :: 14638 :: <>Gr. <g>ἀμφί</g> Lat. <nsi>ob</nsi>; Zend <nsi>aibi</nsi>; Goth. <nsi>bi;</nsi> Old
+Page0074-a+ 71 :: aBra :: 17468 :: <>cypher; [cf. Gr. <g>ὄμβρος</g> and Lat. <nsi>imber.</nsi>] {%--Abhraṃ-%}
+Page0077-c+ 78 :: ambu :: 18289 :: <>watery element of the blood [cf. <g>ὄμβρος</g> <nsi>imber</nsi>];
+Page0078-a+ 79 :: amBas :: 18366 :: <>mystical name of the letter {%v%} [cf. <g>ὄμβρος</g> <nsi>imber</nsi>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+# 87 --------------------------------------------------
+ν  (\u03bd)   195 := GREEK SMALL LETTER NU
+Page0001-a+ 70 :: a :: 1664 :: <>responding to Gr. <g>ἀ, ἀν</g> Lat. <nsi>in,</nsi> Goth. and Germ. <nsi>un,</nsi>
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0003-a+ 79 :: akza :: 2067 :: <>[cf. Lat. <nsi>axis;</nsi> Gr. <g>ἄξων</g> Old Germ. <nsi>ahsa;</nsi> Mod.
+Page0006-a+ 79 :: agra :: 2775 :: <>[cf. Gr. <g>ἄκρον</g>]. {%--Agra-kara, as,%} m. the fore part
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0024-b+ 73 :: an :: 6835 :: <>gasp, move, go, live [cf. Gr. <g>ἄνεμος</g> Lat. <nsi>animus</nsi>]:
+Page0026-b+ 65 :: anaPA :: 7236 :: <>of the planets. [Gr. <g>ἀναφή</g>]
+Page0043-b+ 79 :: anta :: 10827 :: <>with {%anta%} are also compared the Greek <g>ἄντα, ἀντί</g>
+# 88 --------------------------------------------------
+ξ  (\u03be)    32 := GREEK SMALL LETTER XI
+Page0003-a+ 79 :: akza :: 2067 :: <>[cf. Lat. <nsi>axis;</nsi> Gr. <g>ἄξων</g> Old Germ. <nsi>ahsa;</nsi> Mod.
+Page0003-b+ 76 :: akza :: 2151 :: <>for <g>ὄξο</g> Lat. <nsi>oculus;</nsi> Germ. <nsi>Auge;</nsi> Russ. <nsi>òko</nsi>].
+Page0009-b+ 81 :: aja, as, :: 3506 :: <>the leader of a flock; a he-goat or ram [cf. Gr. <g>αἴξ</g> [Page0009-b+ 81]
+Page0131-c+ 74 :: Avis :: 30188 :: <>{%ā-vid:%} cf. Gr. <g>ἐξ</g> Lat. <nsi>ex?</nsi>), before the eyes,
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0143-b+ 73 :: Īdṛiśa, as, ī, am, :: 32839 :: <><g>λικ</g> in <g>δμῆλιξ, λικο</g> in <g>τηλίκο-ς,</g> &c.; Goth. <nsi>leika</nsi>
+Page0211-b+ 72 :: kalaSa :: 48118 :: <>Gr. <g>κάλιξ</g> Lat. <nsi>calix.</nsi>] {%--Kalaśa-dir, īr,%} m., Ved.
+Page0222-b+ 69 :: kArava :: 50592 :: <><g>κόραξ, κορώνη</g> Germ. <nsi>Rabe;</nsi> Eng. <nsi>crow.</nsi>]
+Page0228-a+ 79 :: kAzWa :: 51882 :: <><nsi>coed;</nsi> Brit. <nsi>coat;</nsi> Gr. <g>ξύ-λον.</g>] {%--Kāshṭha-kadalī,%}
+Page0237-c+ 78 :: kumAra :: 53965 :: <><g>μεῖραξ, μειράκιον</g> ?]. {%--Kumāra-gupta, as,%} m., N.
+# 89 --------------------------------------------------
+ο  (\u03bf)   228 := GREEK SMALL LETTER OMICRON
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0003-b+ 76 :: akza :: 2151 :: <>for <g>ὄξο</g> Lat. <nsi>oculus;</nsi> Germ. <nsi>Auge;</nsi> Russ. <nsi>òko</nsi>].
+Page0006-a+ 79 :: agra :: 2775 :: <>[cf. Gr. <g>ἄκρον</g>]. {%--Agra-kara, as,%} m. the fore part
+Page0007-a+ 77 :: aNka :: 2980 :: <>Gr. <g>ὄγκος</g> and Lat. <nsi>uncus</nsi>]. {%--Ańka-karaṇa, am,%}
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+# 90 --------------------------------------------------
+π  (\u03c0)    62 := GREEK SMALL LETTER PI
+Page0048-b+ 73 :: apa :: 12030 :: <><g>ἀπό</g> Lat. <nsi>ab;</nsi> Goth. <nsi>af;</nsi> Eng. <nsi>of</nsi>].
+Page0055-a+ 72 :: api :: 13454 :: <>to, proximity, &c. [cf. Gr. <g>ἐπί</g> Zend <nsi>api</nsi>; Germ.
+Page0101-b+ 80 :: aSva :: 23433 :: <>a mare [cf. Zend <nsi>aśpa;</nsi> Lat. <nsi>equus;</nsi> Gr. <g>ἵππος</g>
+Page0101-b+ 80 :: aSva :: 23433 :: <>a mare [cf. Zend <nsi>aśpa;</nsi> Lat. <nsi>equus;</nsi> Gr. <g>ἵππος</g>
+Page0108-c+ 72 :: asvapna :: 25081 :: <>god, a deity [cf. <g>ἄϋπνος</g>].
+Page0123-c+ 69 :: Apoklima :: 28413 :: <>= Gr. <g>ἀπόκλιμα</g>
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0142-c+ 80 :: iz :: 32616 :: <>also Gr. <g>προΐσσομαι, πρα-ΐκτης, προ-ΐξ;</g> and per-
+Page0160-b+ 73 :: upa :: 36616 :: <>power; effort; resemblance, &c.; [cf. Gr. <g>ὑπό</g> Lat.
+# 91 --------------------------------------------------
+ρ  (\u03c1)   255 := GREEK SMALL LETTER RHO
+Page0006-a+ 79 :: agra :: 2775 :: <>[cf. Gr. <g>ἄκρον</g>]. {%--Agra-kara, as,%} m. the fore part
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0010-c+ 75 :: ajra :: 3859 :: <>({%as, ā, am%}), Ved. agile, quick [Lat. <nsi>ager;</nsi> Gr. <g>ἀγρός</g>
+Page0045-b+ 79 :: antra :: 11348 :: <>or fr. rt. {%am?:%} Gr. <g>ἔντερον</g>), entrail, intestine; ({%ī%}),
+Page0048-b+ 73 :: ap :: 12000 :: <>also <g>ἀφρός</g>]. {%--Apa-vat, ān, atī, at,%} Ved. watery.
+Page0074-a+ 71 :: aBra :: 17468 :: <>cypher; [cf. Gr. <g>ὄμβρος</g> and Lat. <nsi>imber.</nsi>] {%--Abhraṃ-%}
+Page0077-c+ 78 :: ambu :: 18289 :: <>watery element of the blood [cf. <g>ὄμβρος</g> <nsi>imber</nsi>];
+Page0078-a+ 79 :: amBas :: 18366 :: <>mystical name of the letter {%v%} [cf. <g>ὄμβρος</g> <nsi>imber</nsi>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+# 92 --------------------------------------------------
+ς  (\u03c2)   255 := GREEK SMALL LETTER FINAL SIGMA
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0001-b+ 66 :: Aṉhu, us, us, u, :: 1766 :: <>Muliebre [cf. Gr. <g>ἐγγύς</g> Goth. <nsi>aggvus;</nsi> Lat.
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0007-a+ 77 :: aNka :: 2980 :: <>Gr. <g>ὄγκος</g> and Lat. <nsi>uncus</nsi>]. {%--Ańka-karaṇa, am,%}
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0008-a+ 77 :: Ańgira, as, :: 3215 :: <><g>ἄγγελος</g> or <g>ἄγγαρος</g> ?), a celebrated mythological name,
+Page0009-b+ 81 :: aja, as, :: 3507 :: <><g>αἰγος</g> Lith. ožys]; the sign Aries; the vehicle of
+# 93 --------------------------------------------------
+σ  (\u03c3)    93 := GREEK SMALL LETTER SIGMA
+Page0001-b+ 66 :: aMsa :: 1735 :: <>[cf. Goth. <nsi>amsa;</nsi> Gr. <g>ἄσιλλα</g> Lat. <nsi>humerus,</nsi>
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0103-a+ 77 :: as :: 23891 :: <><g>ἐσ-τί</g> Lat. <nsi>es-t;</nsi> Goth. <nsi>is-t;</nsi> Lith. <nsi>es-ti;</nsi> Slav.
+Page0106-a+ 77 :: asu :: 24504 :: <>spirits; water ?; [cf. <g>ἀάζω, ἄσθμα</g>]; ({%asavas%}),
+Page0107-b+ 73 :: astra :: 24798 :: <>sword; [with {%astra%} cf. Gr. <g>ἄστρον</g> and <g>ἀστήρ</g> per-
+Page0107-b+ 73 :: astra :: 24798 :: <>sword; [with {%astra%} cf. Gr. <g>ἄστρον</g> and <g>ἀστήρ</g> per-
+Page0107-c+ 77 :: asTi :: 24860 :: <><nsi>ossis,</nsi> assimilated fr. <nsi>ostis;</nsi> Gr. <g>ὀστέον</g> Slav. <nsi>kosti,</nsi>
+Page0108-a+ 73 :: asmad :: 24969 :: <>compounds [cf. Gr. <g>ἄμμες</g> fr. <g>ἄσμες</g> Goth. <nsi>unsa</nsi>
+# 94 --------------------------------------------------
+τ  (\u03c4)   297 := GREEK SMALL LETTER TAU
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0043-b+ 79 :: anta :: 10827 :: <>with {%anta%} are also compared the Greek <g>ἄντα, ἀντί</g>
+Page0043-b+ 79 :: anta :: 10827 :: <>with {%anta%} are also compared the Greek <g>ἄντα, ἀντί</g>
+Page0045-a+ 75 :: anti :: 11268 :: <>[cf. Lat. <nsi>ante,</nsi> Gr. <g>ἀντί</g>]. {%--Anti-gṛiha, am,%} n., Ved.
+Page0045-b+ 79 :: antra :: 11348 :: <>or fr. rt. {%am?:%} Gr. <g>ἔντερον</g>), entrail, intestine; ({%ī%}),
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+# 95 --------------------------------------------------
+υ  (\u03c5)    46 := GREEK SMALL LETTER UPSILON
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0101-a+ 71 :: aSru :: 23384 :: <>for {%daśru%} fr. rt. {%daṉś;%} cf. Gr. <g>δάκρυ</g> Lat. <nsi>lacryma</nsi>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0110-b+ 71 :: ahorAtra :: 25438 :: <>q. v. {%+ rātri,%} q. v.), a day and night, <g>νυχθήμερον</g> a
+Page0237-b+ 73 :: kubja :: 53888 :: <>{%kubja;%} cf. also Lith. <nsi>kupra, kupotas;</nsi> Gr. <g>κυφός,</g>
+Page0245-b+ 73 :: kUrma :: 55715 :: <><g>κλέμμυς, χέλυς, χέλώνη.</g>] {%--Kūrma-ćakra, am,%}
+Page0245-b+ 73 :: kUrma :: 55715 :: <><g>κλέμμυς, χέλυς, χέλώνη.</g>] {%--Kūrma-ćakra, am,%}
+Page0251-c+ 77 :: kF :: 57207 :: <>{%ćākarti;%} [cf. Gr. <g>κεράω, κεράννυμι, κίρνημι.</g>]
+Page0265-a+ 78 :: kzan :: 60167 :: <>{%shanti;%} [cf. Gr. <g>καίνω, κανῶ; καίνυται</g> {%= kshaṇute;%}
+# 96 --------------------------------------------------
+φ  (\u03c6)    31 := GREEK SMALL LETTER PHI
+Page0026-b+ 65 :: anaPA :: 7236 :: <>of the planets. [Gr. <g>ἀναφή</g>]
+Page0048-b+ 73 :: ap :: 12000 :: <>also <g>ἀφρός</g>]. {%--Apa-vat, ān, atī, at,%} Ved. watery.
+Page0060-c+ 75 :: aBi :: 14638 :: <>Gr. <g>ἀμφί</g> Lat. <nsi>ob</nsi>; Zend <nsi>aibi</nsi>; Goth. <nsi>bi;</nsi> Old
+Page0085-a+ 75 :: arBa :: 19915 :: <>Lat. <nsi>orbus;</nsi> Gr. <g>ὀρφανός</g>].
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0136-b+ 73 :: AsPujit :: 31182 :: <P>.{#AsPujit#}¦ {%āsphujit%} = <g>Ἀφροδίτη</g> N. of the
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0141-b+ 74 :: iBa :: 32343 :: <><g>ἐλ-έφας</g> and the Lat. <nsi>ebur.</nsi>] {%--Ibha-kaṇā,%} f. a plant
+Page0169-c+ 74 :: upasfp :: 38680 :: <>move onward, attack; [cf. <g>ὑφέρπω</g>]
+Page0173-b+ 69 :: uBa :: 39502 :: <>Gr. <g>ἄμφω</g> Lat. <nsi>ambo;</nsi> Slav. <nsi>oba;</nsi> Lith. <nsi>abbù;</nsi>
+# 97 --------------------------------------------------
+χ  (\u03c7)    55 := GREEK SMALL LETTER CHI
+Page0001-b+ 66 :: aMha :: 1752 :: <>Gr. <g>ἄγχω</g>]
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0007-b+ 80 :: aNga :: 3060 :: <>assent, promise; see under {%ańgī%} [cf. <g>ἄγχι</g>].
+Page0085-b+ 77 :: arh :: 20026 :: <>{%-yitum,%} to honour: Desid. {%arjihishati%} [cf. Gr. <g>ἄρχω</g>].
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0109-b+ 75 :: ahi :: 25272 :: <><nsi>unc;</nsi> Mod. Gr. <g>ἀχέλι</g>] {%--Ahi-kānta, as,%} m. air,
+Page0110-b+ 71 :: ahorAtra :: 25438 :: <>q. v. {%+ rātri,%} q. v.), a day and night, <g>νυχθήμερον</g> a
+# 98 --------------------------------------------------
+ψ  (\u03c8)     1 := GREEK SMALL LETTER PSI
+Page0167-b+ 75 :: Upa-labdhi, is, :: 38154 :: <>perceptibility; [cf. Gr. <g>ὑπόληψις</g>] {%--Upalabdhi-%}
+# 99 --------------------------------------------------
+ω  (\u03c9)   156 := GREEK SMALL LETTER OMEGA
+Page0001-b+ 66 :: aMha :: 1752 :: <>Gr. <g>ἄγχω</g>]
+Page0003-a+ 79 :: akza :: 2067 :: <>[cf. Lat. <nsi>axis;</nsi> Gr. <g>ἄξων</g> Old Germ. <nsi>ahsa;</nsi> Mod.
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0009-a+ 78 :: aj :: 3501 :: <>be desirous of driving [cf. Gr. <g>ἄγω</g> Lat. <nsi>ago</nsi>].
+Page0017-c+ 76 :: ad :: 5375 :: <>Slav. <nsi>jamj</nsi> for <nsi>jadmj;</nsi> Gr. <g>ἔδω</g> Lat. <nsi>edo;</nsi> Goth.
+Page0085-b+ 77 :: arh :: 20026 :: <>{%-yitum,%} to honour: Desid. {%arjihishati%} [cf. Gr. <g>ἄρχω</g>].
+Page0087-b+ 79 :: av :: 20470 :: <>consume, devour [cf. Lat. <nsi>aveo;</nsi> Gr. <g>ἄω</g>].
+Page0106-a+ 77 :: asu :: 24504 :: <>spirits; water ?; [cf. <g>ἀάζω, ἄσθμα</g>]; ({%asavas%}),
+Page0111-a+ 73 :: Akal :: 25567 :: <>into consideration; to consider [cf. Gr. <g>ὀκέλλω</g>].
+Page0112-a+ 76 :: Akokera :: 25821 :: <>Capricornus (<g>Αἰγόκερως</g>).
+# 100 --------------------------------------------------
+ϊ  (\u03ca)     1 := GREEK SMALL LETTER IOTA WITH DIALYTIKA
+Page0095-c+ 70 :: avi :: 22249 :: <>Gr. <g>ὄϊς</g> Goth. <nsi>avistr</nsi>]. {%--Avi-kaṭoraṇa, as,%} m. a
+# 101 --------------------------------------------------
+ϋ  (\u03cb)     3 := GREEK SMALL LETTER UPSILON WITH DIALYTIKA
+Page0108-c+ 72 :: asvapna :: 25081 :: <>god, a deity [cf. <g>ἄϋπνος</g>].
+Page0117-c+ 75 :: Atman :: 27111 :: <>Gr. <g>ἀϋτμήν, ἀϋτμή (?); ἀτμός, ἀτμή (?):</g> cf. also
+Page0117-c+ 75 :: Atman :: 27111 :: <>Gr. <g>ἀϋτμήν, ἀϋτμή (?); ἀτμός, ἀτμή (?):</g> cf. also
+# 102 --------------------------------------------------
+ό  (\u03cc)    89 := GREEK SMALL LETTER OMICRON WITH TONOS
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0010-c+ 75 :: ajra :: 3859 :: <>({%as, ā, am%}), Ved. agile, quick [Lat. <nsi>ager;</nsi> Gr. <g>ἀγρός</g>
+Page0048-b+ 73 :: ap :: 12000 :: <>also <g>ἀφρός</g>]. {%--Apa-vat, ān, atī, at,%} Ved. watery.
+Page0048-b+ 73 :: apa :: 12030 :: <><g>ἀπό</g> Lat. <nsi>ab;</nsi> Goth. <nsi>af;</nsi> Eng. <nsi>of</nsi>].
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0085-a+ 75 :: arBa :: 19915 :: <>Lat. <nsi>orbus;</nsi> Gr. <g>ὀρφανός</g>].
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+Page0112-a+ 76 :: Akokera :: 25821 :: <>Capricornus (<g>Αἰγόκερως</g>).
+Page0117-c+ 75 :: Atman :: 27111 :: <>Gr. <g>ἀϋτμήν, ἀϋτμή (?); ἀτμός, ἀτμή (?):</g> cf. also
+# 103 --------------------------------------------------
+ύ  (\u03cd)    56 := GREEK SMALL LETTER UPSILON WITH TONOS
+Page0001-b+ 66 :: Aṉhu, us, us, u, :: 1766 :: <>Muliebre [cf. Gr. <g>ἐγγύς</g> Goth. <nsi>aggvus;</nsi> Lat.
+Page0133-b+ 76 :: ASu :: 30505 :: <>rainy season; [cf. Gr. <g>ὠκύς, ὤκιστος</g> Lat. <nsi>acu</nsi> in
+Page0139-a+ 75 :: itTa :: 31833 :: <P>.{#itTa#}¦ {%ittha, am,%} n. in astronomy = <g>ἰχθύς</g>
+Page0174-b+ 78 :: uru :: 39683 :: <>lative {%varishṭha;%} [cf. Gr. <g>εὐρύς</g> Hib. <nsi>ur,</nsi> ‘very;’
+Page0181-b+ 77 :: fBu :: 41305 :: <>a deity, a divinity in general; [cf. <g>Ὀρφεύς.</g>] {%--Ṛibhu-%}
+Page0228-a+ 79 :: kAzWa :: 51882 :: <><nsi>coed;</nsi> Brit. <nsi>coat;</nsi> Gr. <g>ξύ-λον.</g>] {%--Kāshṭha-kadalī,%}
+Page0237-b+ 73 :: kubja :: 53889 :: <><g>κύπτω</g> Lat. <nsi>gibbus, gibba, gibber;</nsi> Germ. <nsi>Höcker?</nsi>].
+Page0238-b+ 78 :: kumBa :: 54148 :: <>plant which bears it; [cf. Gr. <g>κύμβη</g> Lat. <nsi>cymba.</nsi>]
+Page0244-b+ 66 :: kuhU :: 55455 :: <>Kokila or Indian cuckoo, <g>κοκκύ</g> {%--Kuhū-pāla, as,%}
+Page0244-b+ 66 :: kU :: 55469 :: <>or {%kokūyate,%} to cry aloud; [cf. Gr. <g>κωκύω.</g>]
+# 104 --------------------------------------------------
+ώ  (\u03ce)    19 := GREEK SMALL LETTER OMEGA WITH TONOS
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0102-b+ 77 :: azwan :: 23712 :: <>[cf. Lat. <nsi>octo;</nsi> Gr. <g>ὀκτώ</g> Goth. <nsi>ahtau;</nsi> Mod. Germ.
+Page0109-a+ 78 :: aham :: 25192 :: <>Zend <nsi>azem;</nsi> Gr. <g>ἐγών, ἐγώ, ἱών;</g> Lat. <nsi>ego;</nsi> Goth.
+Page0109-a+ 78 :: aham :: 25192 :: <>Zend <nsi>azem;</nsi> Gr. <g>ἐγών, ἐγώ, ἱών;</g> Lat. <nsi>ego;</nsi> Goth.
+Page0109-a+ 78 :: aham :: 25192 :: <>Zend <nsi>azem;</nsi> Gr. <g>ἐγών, ἐγώ, ἱών;</g> Lat. <nsi>ego;</nsi> Goth.
+Page0127-a+ 78 :: Āyus, :: 29123 :: <>also <g>αἰών</g>]; ({%us%}), m. the son of Purūravas and Urvaśī.
+Page0129-a+ 72 :: ArtnI :: 29604 :: <>place where the string or sinew is fastened; (<g>κορώνη</g>)
+Page0176-b+ 75 :: Ushas, ās, :: 40126 :: <>the day, twilight; [cf. Gr. <g>ἠώς</g> Lat. <nsi>aurora;</nsi> Lith.
+Page0194-b+ 73 :: kaNkAla :: 44219 :: <>[cf. Mod. Gr. <g>κώκαλον.</g>] {%--Kańkāla-ketu, us,%} m.,
+Page0222-b+ 69 :: kArava :: 50592 :: <><g>κόραξ, κορώνη</g> Germ. <nsi>Rabe;</nsi> Eng. <nsi>crow.</nsi>]
+# 105 --------------------------------------------------
+ϳ  (\u03f3)     1 := GREEK LETTER YOT
+Page0046-b+ 80 :: anya :: 11528 :: <><nsi>aljis,</nsi> Them. <nsi>alja;</nsi> Gr. <g>ἄλλος</g> for <g>ἄλ-ϳος</g> cf. also
+# 106 --------------------------------------------------
+أ  (\u0623)     1 := ARABIC LETTER ALEF WITH HAMZA ABOVE
+Page0080-a+ 75 :: ara :: 18815 :: <>water from a well (Hind. <Arabic>أرهٿ</Arabic>); a deep well.
+# 107 --------------------------------------------------
+إ  (\u0625)     3 := ARABIC LETTER ALEF WITH HAMZA BELOW
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+# 108 --------------------------------------------------
+ا  (\u0627)    20 := ARABIC LETTER ALEF
+Page0092-b+ 73 :: avaraNgasAha :: 21567 :: <>= the Persian <Arabic>شاه</Arabic>).
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+Page0367-b+ 69 :: talavAraRa :: 83692 :: <>{%taravāri;%} Beng. <nsi>talvār;</nsi> Hind. <Arabic>تلوار</Arabic>]
+Page0377-a+ 77 :: tu :: 85931 :: <><nsi>tav,</nsi> ‘to be able;’ <nsi>tavan,</nsi> ‘powerful:’ Pers. <Arabic>توان</Arabic> <nsi>tuvân,</nsi>
+Page0377-a+ 77 :: tu :: 85932 :: <>‘power;’ <Arabic>توانم</Arabic> <nsi>tuvânam,</nsi> ‘I can:’ Gr. <g>τύλος, τύλη,</g>
+Page0410-b+ 70 :: dArvawa :: 93694 :: <P>.{#dArvawa#}¦ {%dārvaṭa, am,%} n. (fr. the Pers. <Arabic>دربار</Arabic>),
+Page0564-a+ 72 :: pAtasAha :: 128940 :: <P>.{#pAtasAha#}¦ {%pātasāha, as,%} m. = <Arabic>پادشاه</Arabic> a king.
+Page0564-a+ 72 :: pAtasAha :: 128940 :: <P>.{#pAtasAha#}¦ {%pātasāha, as,%} m. = <Arabic>پادشاه</Arabic> a king.
+# 109 --------------------------------------------------
+ب  (\u0628)    17 := ARABIC LETTER BEH
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+Page0193-a+ 76 :: kaMvUla :: 43924 :: <>the eighth Yoga, = Arabic <Arabic>قبول</Arabic>
+Page0214-c+ 73 :: kavUla :: 48857 :: <P>.{#kavUla#}¦ {%kavūla%} (in astrol.) = Arabic <Arabic>قبول</Arabic>
+Page0274-c+ 76 :: KarvUja :: 62413 :: <>(fr. the Pers. <Arabic>خربوزه</Arabic> <nsi>kharbūza</nsi>).
+Page0365-c+ 70 :: tarambuja :: 83322 :: <>(most probably borrowed from the Persian <Arabic>تربز</Arabic>);
+Page0365-c+ 70 :: taravI :: 83329 :: <P>.{#taravI#}¦ {%taravī,%} in astrology = <Arabic>تربيع</Arabic> quadra-
+Page0410-b+ 70 :: dArvawa :: 93694 :: <P>.{#dArvawa#}¦ {%dārvaṭa, am,%} n. (fr. the Pers. <Arabic>دربار</Arabic>),
+Page0680-a+ 72 :: bahrAmaKAna :: 155594 :: <P>.{#bahrAmaKAna#}¦ {%bahrāmakhāna, as,%} m. = <Arabic>بهرام</Arabic>
+Page0682-c+ 70 :: Bāliśa, as, ā, am, :: 156175 :: <>Pers. <Arabic>بالش</Arabic>). {%--Bāliśa-tā,%} f. or {%bāliśa-tva, am,%} n.
+# 110 --------------------------------------------------
+ت  (\u062a)    15 := ARABIC LETTER TEH
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+Page0364-c+ 68 :: tambIra :: 83138 :: <><Arabic>تمْوير</Arabic> the fourteenth Yoga.
+Page0365-c+ 70 :: tarambuja :: 83322 :: <>(most probably borrowed from the Persian <Arabic>تربز</Arabic>);
+Page0365-c+ 70 :: taravI :: 83329 :: <P>.{#taravI#}¦ {%taravī,%} in astrology = <Arabic>تربيع</Arabic> quadra-
+Page0367-b+ 69 :: talavAraRa :: 83692 :: <>{%taravāri;%} Beng. <nsi>talvār;</nsi> Hind. <Arabic>تلوار</Arabic>]
+Page0367-c+ 74 :: taSlI :: 83805 :: <P>.{#taSlI#}¦ {%taślī,%} f. in astron., trigon. = <Arabic>تثليث</Arabic>
+Page0367-c+ 74 :: tasIra :: 83818 :: <P>.{#tasIra#}¦ {%tasīra,%} in astron. {%= tāsīra,%} = <Arabic>تسيير</Arabic>
+Page0368-a+ 72 :: tasdI :: 83836 :: <P>.{#tasdI#}¦ {%tasdī,%} in astron., hexagon, = <Arabic>تسْديس</Arabic>
+Page0376-b+ 74 :: tIra :: 85741 :: <>a sort of arrow [cf. the Pers. <Arabic>تير</Arabic>]; ({%as%}), m. tin
+Page0377-a+ 77 :: tu :: 85931 :: <><nsi>tav,</nsi> ‘to be able;’ <nsi>tavan,</nsi> ‘powerful:’ Pers. <Arabic>توان</Arabic> <nsi>tuvân,</nsi>
+# 111 --------------------------------------------------
+ث  (\u062b)     2 := ARABIC LETTER THEH
+Page0367-c+ 74 :: taSlI :: 83805 :: <P>.{#taSlI#}¦ {%taślī,%} f. in astron., trigon. = <Arabic>تثليث</Arabic>
+Page0367-c+ 74 :: taSlI :: 83805 :: <P>.{#taSlI#}¦ {%taślī,%} f. in astron., trigon. = <Arabic>تثليث</Arabic>
+# 112 --------------------------------------------------
+ج  (\u062c)     2 := ARABIC LETTER JEEM
+Page0278-c+ 74 :: gaYja :: 63282 :: <P>.{#gaYja#}¦ {%gaṅja, as, am,%} m. n. = <Arabic>گنج</Arabic> a
+Page0278-c+ 74 :: Gaṅjavara, as, :: 63294 :: <P>{%Gaṅjavara, as,%} m. a treasurer, = <Arabic>گنجور</Arabic> a royal
+# 113 --------------------------------------------------
+ح  (\u062d)     1 := ARABIC LETTER HAH
+Page0763-c+ 65 :: mahalla :: 175346 :: <P>.{#mahalla#}¦ {%mahalla, as,%} m. (fr. Arabic <Arabic>محل­</Arabic> {%ma-%}
+# 114 --------------------------------------------------
+خ  (\u062e)     3 := ARABIC LETTER KHAH
+Page0274-c+ 76 :: KarvUja :: 62413 :: <>(fr. the Pers. <Arabic>خربوزه</Arabic> <nsi>kharbūza</nsi>).
+Page0680-a+ 72 :: bahrAmaKAna :: 155595 :: <><Arabic>خان</Arabic>
+Page1015-a+ 79 :: Śubha, as, ā, am, :: 233954 :: <>{%kāshṭha%}); [cf. Pers. <Arabic>خوب</Arabic> <nsi>khūb.</nsi>] {%--Śubha-kara,%}
+# 115 --------------------------------------------------
+د  (\u062f)    11 := ARABIC LETTER DAL
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+Page0268-c+ 80 :: Kshudra, as, ā, am :: 61030 :: <>meal; [cf. Lith. <nsi>kûdikis,</nsi> ‘an infant;’ Pers. <Arabic>كودك</Arabic>
+Page0368-a+ 72 :: tasdI :: 83836 :: <P>.{#tasdI#}¦ {%tasdī,%} in astron., hexagon, = <Arabic>تسْديس</Arabic>
+Page0410-b+ 70 :: dArvawa :: 93694 :: <P>.{#dArvawa#}¦ {%dārvaṭa, am,%} n. (fr. the Pers. <Arabic>دربار</Arabic>),
+Page0564-a+ 72 :: pAtasAha :: 128940 :: <P>.{#pAtasAha#}¦ {%pātasāha, as,%} m. = <Arabic>پادشاه</Arabic> a king.
+Page0670-c+ 69 :: Phāṇita, am, :: 153406 :: <>Pers. <Arabic>پانيد</Arabic> medieval Lat. <nsi>penidium.</nsi>] {%--Phā-%}
+Page0683-a+ 71 :: bAhAdura :: 156300 :: <>knighthood (= Pers. <Arabic>بهادر</Arabic>).
+Page0882-b+ 76 :: vadAma :: 203078 :: <><Arabic>بادام</Arabic>), an almond.
+Page0885-c+ 75 :: vandi :: 203873 :: <>with rt. {%bandh,%} cf. the Persian <Arabic>بنده</Arabic> for 1. {%vandi%}
+Page1172-b+ 76 :: hindu :: 270074 :: <P>.{#hindu#}¦ {%hindu, us,%} m. (fr. the Persian <Arabic>هندو</Arabic>),
+# 116 --------------------------------------------------
+ذ  (\u0630)     1 := ARABIC LETTER THAL
+Page0670-c+ 69 :: Phāṇita, am, :: 153405 :: <>inspissated juice of other plants; [cf. Arab. <Arabic>فانيذ</Arabic>
+# 117 --------------------------------------------------
+ر  (\u0631)    19 := ARABIC LETTER REH
+Page0080-a+ 75 :: ara :: 18815 :: <>water from a well (Hind. <Arabic>أرهٿ</Arabic>); a deep well.
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+Page0274-c+ 76 :: KarvUja :: 62413 :: <>(fr. the Pers. <Arabic>خربوزه</Arabic> <nsi>kharbūza</nsi>).
+Page0278-c+ 74 :: Gaṅjavara, as, :: 63294 :: <P>{%Gaṅjavara, as,%} m. a treasurer, = <Arabic>گنجور</Arabic> a royal
+Page0364-c+ 68 :: tambIra :: 83138 :: <><Arabic>تمْوير</Arabic> the fourteenth Yoga.
+Page0365-c+ 70 :: tarambuja :: 83322 :: <>(most probably borrowed from the Persian <Arabic>تربز</Arabic>);
+Page0365-c+ 70 :: taravI :: 83329 :: <P>.{#taravI#}¦ {%taravī,%} in astrology = <Arabic>تربيع</Arabic> quadra-
+Page0367-b+ 69 :: talavAraRa :: 83692 :: <>{%taravāri;%} Beng. <nsi>talvār;</nsi> Hind. <Arabic>تلوار</Arabic>]
+Page0367-c+ 74 :: tasIra :: 83818 :: <P>.{#tasIra#}¦ {%tasīra,%} in astron. {%= tāsīra,%} = <Arabic>تسيير</Arabic>
+Page0376-b+ 74 :: tIra :: 85741 :: <>a sort of arrow [cf. the Pers. <Arabic>تير</Arabic>]; ({%as%}), m. tin
+# 118 --------------------------------------------------
+ز  (\u0632)     4 := ARABIC LETTER ZAIN
+Page0274-c+ 76 :: KarvUja :: 62413 :: <>(fr. the Pers. <Arabic>خربوزه</Arabic> <nsi>kharbūza</nsi>).
+Page0278-c+ 74 :: gajanavI :: 63279 :: <P>.{#gajanavI#}¦ {%gajanavī%} = <Arabic>غزنوى</Arabic>
+Page0365-c+ 70 :: tarambuja :: 83322 :: <>(most probably borrowed from the Persian <Arabic>تربز</Arabic>);
+Page0597-b+ 75 :: peraja :: 136748 :: <>(= Pers. <Arabic>فيروزه</Arabic>).
+# 119 --------------------------------------------------
+س  (\u0633)     4 := ARABIC LETTER SEEN
+Page0367-c+ 74 :: tasIra :: 83818 :: <P>.{#tasIra#}¦ {%tasīra,%} in astron. {%= tāsīra,%} = <Arabic>تسيير</Arabic>
+Page0368-a+ 72 :: tasdI :: 83836 :: <P>.{#tasdI#}¦ {%tasdī,%} in astron., hexagon, = <Arabic>تسْديس</Arabic>
+Page0368-a+ 72 :: tasdI :: 83836 :: <P>.{#tasdI#}¦ {%tasdī,%} in astron., hexagon, = <Arabic>تسْديس</Arabic>
+Page0734-b+ 81 :: mad :: 168336 :: <>Pers. <Arabic>مست</Arabic> <nsi>mas-t</nsi> from <nsi>med-t.</nsi>]
+# 120 --------------------------------------------------
+ش  (\u0634)     3 := ARABIC LETTER SHEEN
+Page0092-b+ 73 :: avaraNgasAha :: 21567 :: <>= the Persian <Arabic>شاه</Arabic>).
+Page0564-a+ 72 :: pAtasAha :: 128940 :: <P>.{#pAtasAha#}¦ {%pātasāha, as,%} m. = <Arabic>پادشاه</Arabic> a king.
+Page0682-c+ 70 :: Bāliśa, as, ā, am, :: 156175 :: <>Pers. <Arabic>بالش</Arabic>). {%--Bāliśa-tā,%} f. or {%bāliśa-tva, am,%} n.
+# 121 --------------------------------------------------
+ص  (\u0635)     1 := ARABIC LETTER SAD
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+# 122 --------------------------------------------------
+ع  (\u0639)     2 := ARABIC LETTER AIN
+Page0365-c+ 70 :: taravI :: 83329 :: <P>.{#taravI#}¦ {%taravī,%} in astrology = <Arabic>تربيع</Arabic> quadra-
+Page0731-b+ 78 :: maRaU :: 167683 :: <P>.{#maRaU#}¦ {%maṇaū%} (fr. Arabic <Arabic>منع</Arabic>), N. of the
+# 123 --------------------------------------------------
+غ  (\u063a)     1 := ARABIC LETTER GHAIN
+Page0278-c+ 74 :: gajanavI :: 63279 :: <P>.{#gajanavI#}¦ {%gajanavī%} = <Arabic>غزنوى</Arabic>
+# 124 --------------------------------------------------
+ف  (\u0641)     3 := ARABIC LETTER FEH
+Page0578-b+ 75 :: Pīlu, us, :: 132310 :: <>an insect; an elephant (Arabic <Arabic>فيل</Arabic> Persian <Arabic>پيل</Arabic>);
+Page0597-b+ 75 :: peraja :: 136748 :: <>(= Pers. <Arabic>فيروزه</Arabic>).
+Page0670-c+ 69 :: Phāṇita, am, :: 153405 :: <>inspissated juice of other plants; [cf. Arab. <Arabic>فانيذ</Arabic>
+# 125 --------------------------------------------------
+ق  (\u0642)     4 := ARABIC LETTER QAF
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0193-a+ 76 :: kaMvUla :: 43924 :: <>the eighth Yoga, = Arabic <Arabic>قبول</Arabic>
+Page0211-b+ 72 :: kalama :: 48090 :: <>and Arab. <Arabic>قلم</Arabic>]
+Page0214-c+ 73 :: kavUla :: 48857 :: <P>.{#kavUla#}¦ {%kavūla%} (in astrol.) = Arabic <Arabic>قبول</Arabic>
+# 126 --------------------------------------------------
+ك  (\u0643)     3 := ARABIC LETTER KAF
+Page0268-c+ 80 :: Kshudra, as, ā, am :: 61030 :: <>meal; [cf. Lith. <nsi>kûdikis,</nsi> ‘an infant;’ Pers. <Arabic>كودك</Arabic>
+Page0268-c+ 80 :: Kshudra, as, ā, am :: 61030 :: <>meal; [cf. Lith. <nsi>kûdikis,</nsi> ‘an infant;’ Pers. <Arabic>كودك</Arabic>
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+# 127 --------------------------------------------------
+ل  (\u0644)    12 := ARABIC LETTER LAM
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+Page0193-a+ 76 :: kaMvUla :: 43924 :: <>the eighth Yoga, = Arabic <Arabic>قبول</Arabic>
+Page0211-b+ 72 :: kalama :: 48090 :: <>and Arab. <Arabic>قلم</Arabic>]
+Page0214-c+ 73 :: kavUla :: 48857 :: <P>.{#kavUla#}¦ {%kavūla%} (in astrol.) = Arabic <Arabic>قبول</Arabic>
+Page0367-b+ 69 :: talavAraRa :: 83692 :: <>{%taravāri;%} Beng. <nsi>talvār;</nsi> Hind. <Arabic>تلوار</Arabic>]
+Page0367-c+ 74 :: taSlI :: 83805 :: <P>.{#taSlI#}¦ {%taślī,%} f. in astron., trigon. = <Arabic>تثليث</Arabic>
+Page0578-b+ 75 :: Pīlu, us, :: 132310 :: <>an insect; an elephant (Arabic <Arabic>فيل</Arabic> Persian <Arabic>پيل</Arabic>);
+Page0578-b+ 75 :: Pīlu, us, :: 132310 :: <>an insect; an elephant (Arabic <Arabic>فيل</Arabic> Persian <Arabic>پيل</Arabic>);
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+# 128 --------------------------------------------------
+م  (\u0645)    11 := ARABIC LETTER MEEM
+Page0211-b+ 72 :: kalama :: 48090 :: <>and Arab. <Arabic>قلم</Arabic>]
+Page0364-c+ 68 :: tambIra :: 83138 :: <><Arabic>تمْوير</Arabic> the fourteenth Yoga.
+Page0377-a+ 77 :: tu :: 85932 :: <>‘power;’ <Arabic>توانم</Arabic> <nsi>tuvânam,</nsi> ‘I can:’ Gr. <g>τύλος, τύλη,</g>
+Page0680-a+ 72 :: bahrAmaKAna :: 155594 :: <P>.{#bahrAmaKAna#}¦ {%bahrāmakhāna, as,%} m. = <Arabic>بهرام</Arabic>
+Page0731-b+ 78 :: maRa :: 167679 :: <P>.{#maRa#}¦ {%maṇa%} (fr. Arabic <Arabic>من</Arabic> a particular
+Page0731-b+ 78 :: maRaU :: 167683 :: <P>.{#maRaU#}¦ {%maṇaū%} (fr. Arabic <Arabic>منع</Arabic>), N. of the
+Page0734-b+ 81 :: mad :: 168336 :: <>Pers. <Arabic>مست</Arabic> <nsi>mas-t</nsi> from <nsi>med-t.</nsi>]
+Page0763-c+ 65 :: mahalla :: 175346 :: <P>.{#mahalla#}¦ {%mahalla, as,%} m. (fr. Arabic <Arabic>محل­</Arabic> {%ma-%}
+Page0780-a+ 76 :: Mihira, as, :: 179094 :: <>rt. 1. {%mih%} above), the sun (= the Persian <Arabic>مهر</Arabic>); a
+Page0798-a+ 76 :: mocika :: 183290 :: <>facturer, shoe-maker, &c.; [cf. Hindī <Arabic>موچي</Arabic>]
+# 129 --------------------------------------------------
+ن  (\u0646)    13 := ARABIC LETTER NOON
+Page0278-c+ 74 :: gajanavI :: 63279 :: <P>.{#gajanavI#}¦ {%gajanavī%} = <Arabic>غزنوى</Arabic>
+Page0278-c+ 74 :: gaYja :: 63282 :: <P>.{#gaYja#}¦ {%gaṅja, as, am,%} m. n. = <Arabic>گنج</Arabic> a
+Page0278-c+ 74 :: Gaṅjavara, as, :: 63294 :: <P>{%Gaṅjavara, as,%} m. a treasurer, = <Arabic>گنجور</Arabic> a royal
+Page0377-a+ 77 :: tu :: 85931 :: <><nsi>tav,</nsi> ‘to be able;’ <nsi>tavan,</nsi> ‘powerful:’ Pers. <Arabic>توان</Arabic> <nsi>tuvân,</nsi>
+Page0377-a+ 77 :: tu :: 85932 :: <>‘power;’ <Arabic>توانم</Arabic> <nsi>tuvânam,</nsi> ‘I can:’ Gr. <g>τύλος, τύλη,</g>
+Page0670-c+ 69 :: Phāṇita, am, :: 153405 :: <>inspissated juice of other plants; [cf. Arab. <Arabic>فانيذ</Arabic>
+Page0670-c+ 69 :: Phāṇita, am, :: 153406 :: <>Pers. <Arabic>پانيد</Arabic> medieval Lat. <nsi>penidium.</nsi>] {%--Phā-%}
+Page0680-a+ 72 :: bahrAmaKAna :: 155595 :: <><Arabic>خان</Arabic>
+Page0731-b+ 78 :: maRa :: 167679 :: <P>.{#maRa#}¦ {%maṇa%} (fr. Arabic <Arabic>من</Arabic> a particular
+Page0731-b+ 78 :: maRaU :: 167683 :: <P>.{#maRaU#}¦ {%maṇaū%} (fr. Arabic <Arabic>منع</Arabic>), N. of the
+# 130 --------------------------------------------------
+ه  (\u0647)    13 := ARABIC LETTER HEH
+Page0080-a+ 75 :: ara :: 18815 :: <>water from a well (Hind. <Arabic>أرهٿ</Arabic>); a deep well.
+Page0092-b+ 73 :: avaraNgasAha :: 21567 :: <>= the Persian <Arabic>شاه</Arabic>).
+Page0274-c+ 76 :: KarvUja :: 62413 :: <>(fr. the Pers. <Arabic>خربوزه</Arabic> <nsi>kharbūza</nsi>).
+Page0564-a+ 72 :: pAtasAha :: 128940 :: <P>.{#pAtasAha#}¦ {%pātasāha, as,%} m. = <Arabic>پادشاه</Arabic> a king.
+Page0597-b+ 75 :: peraja :: 136748 :: <>(= Pers. <Arabic>فيروزه</Arabic>).
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+Page0680-a+ 72 :: bahrAmaKAna :: 155594 :: <P>.{#bahrAmaKAna#}¦ {%bahrāmakhāna, as,%} m. = <Arabic>بهرام</Arabic>
+Page0683-a+ 71 :: bAhAdura :: 156300 :: <>knighthood (= Pers. <Arabic>بهادر</Arabic>).
+Page0780-a+ 76 :: Mihira, as, :: 179094 :: <>rt. 1. {%mih%} above), the sun (= the Persian <Arabic>مهر</Arabic>); a
+# 131 --------------------------------------------------
+و  (\u0648)    16 := ARABIC LETTER WAW
+Page0193-a+ 76 :: kaMvUla :: 43924 :: <>the eighth Yoga, = Arabic <Arabic>قبول</Arabic>
+Page0214-c+ 73 :: kavUla :: 48857 :: <P>.{#kavUla#}¦ {%kavūla%} (in astrol.) = Arabic <Arabic>قبول</Arabic>
+Page0268-c+ 80 :: Kshudra, as, ā, am :: 61030 :: <>meal; [cf. Lith. <nsi>kûdikis,</nsi> ‘an infant;’ Pers. <Arabic>كودك</Arabic>
+Page0274-c+ 76 :: KarvUja :: 62413 :: <>(fr. the Pers. <Arabic>خربوزه</Arabic> <nsi>kharbūza</nsi>).
+Page0278-c+ 74 :: gajanavI :: 63279 :: <P>.{#gajanavI#}¦ {%gajanavī%} = <Arabic>غزنوى</Arabic>
+Page0278-c+ 74 :: Gaṅjavara, as, :: 63294 :: <P>{%Gaṅjavara, as,%} m. a treasurer, = <Arabic>گنجور</Arabic> a royal
+Page0364-c+ 68 :: tambIra :: 83138 :: <><Arabic>تمْوير</Arabic> the fourteenth Yoga.
+Page0367-b+ 69 :: talavAraRa :: 83692 :: <>{%taravāri;%} Beng. <nsi>talvār;</nsi> Hind. <Arabic>تلوار</Arabic>]
+Page0377-a+ 77 :: tu :: 85931 :: <><nsi>tav,</nsi> ‘to be able;’ <nsi>tavan,</nsi> ‘powerful:’ Pers. <Arabic>توان</Arabic> <nsi>tuvân,</nsi>
+Page0377-a+ 77 :: tu :: 85932 :: <>‘power;’ <Arabic>توانم</Arabic> <nsi>tuvânam,</nsi> ‘I can:’ Gr. <g>τύλος, τύλη,</g>
+# 132 --------------------------------------------------
+ى  (\u0649)     4 := ARABIC LETTER ALEF MAKSURA
+Page0278-c+ 74 :: gajanavI :: 63279 :: <P>.{#gajanavI#}¦ {%gajanavī%} = <Arabic>غزنوى</Arabic>
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+Page0904-c+ 79 :: vāra, as, :: 208361 :: <><nsi>zuir-o,</nsi> twice:’ Pers. <Arabic>بار</Arabic> <nsi>bār,</nsi> ‘time;’ <Arabic>بارى</Arabic> <nsi>bāre,</nsi>
+Page0908-c+ 79 :: vi :: 209315 :: <><nsi>wi-dar,</nsi> ‘against;’ Pers. <Arabic>بى</Arabic> <nsi>bī,</nsi> ‘without;’ perhaps
+# 133 --------------------------------------------------
+ي  (\u064a)    14 := ARABIC LETTER YEH
+Page0364-c+ 68 :: tambIra :: 83138 :: <><Arabic>تمْوير</Arabic> the fourteenth Yoga.
+Page0365-c+ 70 :: taravI :: 83329 :: <P>.{#taravI#}¦ {%taravī,%} in astrology = <Arabic>تربيع</Arabic> quadra-
+Page0367-c+ 74 :: taSlI :: 83805 :: <P>.{#taSlI#}¦ {%taślī,%} f. in astron., trigon. = <Arabic>تثليث</Arabic>
+Page0367-c+ 74 :: tasIra :: 83818 :: <P>.{#tasIra#}¦ {%tasīra,%} in astron. {%= tāsīra,%} = <Arabic>تسيير</Arabic>
+Page0367-c+ 74 :: tasIra :: 83818 :: <P>.{#tasIra#}¦ {%tasīra,%} in astron. {%= tāsīra,%} = <Arabic>تسيير</Arabic>
+Page0368-a+ 72 :: tasdI :: 83836 :: <P>.{#tasdI#}¦ {%tasdī,%} in astron., hexagon, = <Arabic>تسْديس</Arabic>
+Page0376-b+ 74 :: tIra :: 85741 :: <>a sort of arrow [cf. the Pers. <Arabic>تير</Arabic>]; ({%as%}), m. tin
+Page0578-b+ 75 :: Pīlu, us, :: 132310 :: <>an insect; an elephant (Arabic <Arabic>فيل</Arabic> Persian <Arabic>پيل</Arabic>);
+Page0578-b+ 75 :: Pīlu, us, :: 132310 :: <>an insect; an elephant (Arabic <Arabic>فيل</Arabic> Persian <Arabic>پيل</Arabic>);
+Page0597-b+ 75 :: peraja :: 136748 :: <>(= Pers. <Arabic>فيروزه</Arabic>).
+# 134 --------------------------------------------------
+ِ  (\u0650)     4 := ARABIC KASRA
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+# 135 --------------------------------------------------
+ّ  (\u0651)     1 := ARABIC SHADDA
+Page0139-a+ 75 :: itTaSAla :: 31842 :: <>third Yoga, = Arabic <Arabic>إِتِّصال</Arabic>
+# 136 --------------------------------------------------
+ْ  (\u0652)     4 := ARABIC SUKUN
+Page0137-c+ 74 :: ikkavAla :: 31519 :: <P>.{#ikkavAla#}¦ {%ikkavāla%} in astrology = <Arabic>إِقْبال</Arabic>
+Page0140-a+ 79 :: indu :: 32016 :: <>= the Arabic <Arabic>إِدْبار</Arabic> {%--Indu-vrata, am,%} n. a reli-
+Page0364-c+ 68 :: tambIra :: 83138 :: <><Arabic>تمْوير</Arabic> the fourteenth Yoga.
+Page0368-a+ 72 :: tasdI :: 83836 :: <P>.{#tasdI#}¦ {%tasdī,%} in astron., hexagon, = <Arabic>تسْديس</Arabic>
+# 137 --------------------------------------------------
+پ  (\u067e)     5 := ARABIC LETTER PEH
+Page0564-a+ 72 :: pAtasAha :: 128940 :: <P>.{#pAtasAha#}¦ {%pātasāha, as,%} m. = <Arabic>پادشاه</Arabic> a king.
+Page0578-b+ 75 :: Pīlu, us, :: 132310 :: <>an insect; an elephant (Arabic <Arabic>فيل</Arabic> Persian <Arabic>پيل</Arabic>);
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+Page0661-c+ 80 :: Priya, as, ā, am, :: 151363 :: <><Arabic>پتهركى پهول</Arabic>); N. of a prince of the Gandharvas;
+Page0670-c+ 69 :: Phāṇita, am, :: 153406 :: <>Pers. <Arabic>پانيد</Arabic> medieval Lat. <nsi>penidium.</nsi>] {%--Phā-%}
+# 138 --------------------------------------------------
+ٿ  (\u067f)     1 := ARABIC LETTER TEHEH
+Page0080-a+ 75 :: ara :: 18815 :: <>water from a well (Hind. <Arabic>أرهٿ</Arabic>); a deep well.
+# 139 --------------------------------------------------
+چ  (\u0686)     1 := ARABIC LETTER TCHEH
+Page0798-a+ 76 :: mocika :: 183290 :: <>facturer, shoe-maker, &c.; [cf. Hindī <Arabic>موچي</Arabic>]
+# 140 --------------------------------------------------
+گ  (\u06af)     2 := ARABIC LETTER GAF
+Page0278-c+ 74 :: gaYja :: 63282 :: <P>.{#gaYja#}¦ {%gaṅja, as, am,%} m. n. = <Arabic>گنج</Arabic> a
+Page0278-c+ 74 :: Gaṅjavara, as, :: 63294 :: <P>{%Gaṅjavara, as,%} m. a treasurer, = <Arabic>گنجور</Arabic> a royal
+# 141 --------------------------------------------------
+Ḍ  (\u1e0c)    37 := LATIN CAPITAL LETTER D WITH DOT BELOW
+Page0324-c+ 81 :: Ćitra, as, ā, am, :: 74064 :: <>who is also called Ḍimbhaka; ({%ā%}), f., N. of an
+Page0356-b+ 62 :: qa :: 81238 :: <>hard {%r%}. {%--Ḍa-kāra, as,%} m. the letter or sound {%ḍ.%}
+Page0356-b+ 62 :: qa :: 81241 :: <>({%ā%}), f. a Ḍākinī, i. e. a kind of female imp or goblin;
+Page0356-c+ 66 :: qama :: 81250 :: <>(commonly Ḍom), the son of a Ćāṇḍālī and a Leṭa,
+Page0356-c+ 66 :: Ḍamaru, us, :: 81260 :: <P>{%Ḍamaru, us,%} m. a musical instrument, a sort of
+Page0356-c+ 66 :: Ḍamaruka, am, :: 81263 :: <P>{%Ḍamaruka, am,%} n. a kind of drum.
+Page0356-c+ 66 :: qAkinI :: 81287 :: <>flesh; N. of a place; [cf. {%śākinī.%}] {%--Ḍākinī-tva,%}
+Page0356-c+ 66 :: qAmara :: 81301 :: <>{%--Ḍāmara-tva, am,%} n. the state of one who excites
+Page0357-a+ 70 :: qiRqima :: 81322 :: <>a small fruit, Carissa Carandas. {%--Ḍiṇḍimeśvara-%}
+Page0357-a+ 70 :: qiRqira :: 81326 :: <>and {%ḍiṇḍīra.%}] {%--Ḍiṇḍira-modaka, am,%} n. garlic.
+# 142 --------------------------------------------------
+ḍ  (\u1e0d)  8217 := LATIN SMALL LETTER D WITH DOT BELOW
+Pageix+ 27 :: Plan and Arrangement of the Present Work. :: 332 :: <>and ‘agglutinative,’ like the Drāviḍian, Turkish, and other mem-
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 531 :: <>other nations was regarded only as a means to an end, came to be treated by Indian Paṇḍits as
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 614 :: <>eighth Maṇḍala. For the remainder I have been obliged to
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 643 :: <P>I fear the great Indian Paṇḍits, if they deem this Dictionary worthy of their notice, will be
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 650 :: <>volume falls into the hands of any great Paṇḍit, to whom one
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 722 :: <>the Drāviḍians of the South.</F>. They appear also, like
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 789 :: <>Kaśmīrī, the Singhalese of Ceylon; the Pushtū of Afghānistān; the five Drāviḍian languages, Tamil, Malayālam, Telugu, Kanarese,
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 790 :: <>Tulu; the half Drāviḍian Brahū-ī; the composite Urdū or Hindūstānī current throughout India; and lastly Burmese.</F> of India into one common [Pagexviii+ 55]
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 793 :: <>ancestors? If our great Indian Paṇḍits are made familiar with our graphic systems, will they not
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 829 :: <P>If after what I have thus advanced, our great Indian Paṇḍits remain, as I fear some of them
+# 143 --------------------------------------------------
+ḥ  (\u1e25)  2529 := LATIN SMALL LETTER H WITH DOT BELOW
+Pagexxviii-a+ 26 :: Aids and Encouragements received. :: 1605 :: <HI>{#H#} ḥ {symbol for the sibi-
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1651 :: <P>a, ā; i, ī; u, ū; ṛi, ṛī; lṛi, lṛī; e, ai; o, au;--ṉ or ṃ, ḥ;--k, kh; g, gh; ń;--ć, ćh; j, jh;
+Page0001-a+ 70 :: Aids and Encouragements received. :: 1657 :: <>as a substitute for final {%s%} is a distinctly audible aspirate, so that the {%ḥ%} at the end of {%devaḥ%} must be clearly heard. [Page0001-a+ 70]
+Page0001-a+ 70 :: Aids and Encouragements received. :: 1657 :: <>as a substitute for final {%s%} is a distinctly audible aspirate, so that the {%ḥ%} at the end of {%devaḥ%} must be clearly heard. [Page0001-a+ 70]
+Page0006-b+ 78 :: Agratas, :: 2844 :: <>of; at the head, first. {%--Agrataḥ-kṛi,%} cl. 8. P. A.
+Page0006-b+ 78 :: Agratas, :: 2846 :: <>the head, to consider most important. {%--Agrataḥ-%}
+Page0010-b+ 73 :: ajIgarta :: 3764 :: <>to swallow), N. of a Ṛishi, Śunaḥśepha's father.
+Page0011-a+ 79 :: Aṅjas, as, :: 3936 :: <>preparation. {%--Aṅjaḥ-sava, as,%} m. rapid preparation
+Page0012-b+ 75 :: atas :: 4208 :: <>reason; therefore. {%--Ataḥ-param,%} ind. henceforth, fur-
+Page0012-c+ 81 :: Ati :: 4297 :: <>{%--Ati-duḥkhita%} or {%ati-dushkhita, as, ā, am,%}
+# 144 --------------------------------------------------
+ḱ  (\u1e31)     3 := LATIN SMALL LETTER K WITH ACUTE
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 887 :: <>Had I dared to innovate further, I should have written {%ḱ%} for {%kh, t́%} for {%th, ṕ%} for {%ph;%} and so with
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 907 :: <>{%ḱ, ḱh%} for {%ć, ćh,%} and {%ǵ, ǵh%} for {%j, jh,%} the philological advantage gained by thus exhibiting the phonetic
+# 145 --------------------------------------------------
+ḳ  (\u1e33)     4 := LATIN SMALL LETTER K WITH DOT BELOW
+Page0317-a+ 77 :: Ćampaka, as, :: 72292 :: <>{%as,%} m. the Jāḳa or bread-fruit tree.
+Page0457-b+ 81 :: Dhūpya, am, :: 104708 :: <>[cf. Pers. <nsi>nāḳhuni ḳhwush.</nsi>]
+Page0457-b+ 81 :: Dhūpya, am, :: 104708 :: <>[cf. Pers. <nsi>nāḳhuni ḳhwush.</nsi>]
+Page0764-a+ 66 :: mahmadaKAna :: 175419 :: <>man (<nsi>= muhammad ḳhān</nsi>).
+# 146 --------------------------------------------------
+ḷ  (\u1e37)   125 := LATIN SMALL LETTER L WITH DOT BELOW
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1639 :: <HI>{#L#} ḷ {%in%} (sometimes for {#q#} {%ḍ%} in Veda).
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1640 :: <HI>{#Lah#} ḷh {%in%} (sometimes for {#Q#} {%ḍh%} in Veda).
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1652 :: <>ṅ;--ṭ, ṭh; ḍ, ḍh; ṇ;--t, th; d, dh; n;--p, ph; b, bh; m;--y, r, l, ḷ, ḷh, v;--ś, sh, s;--h.
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1652 :: <>ṅ;--ṭ, ṭh; ḍ, ḍh; ṇ;--t, th; d, dh; n;--p, ph; b, bh; m;--y, r, l, ḷ, ḷh, v;--ś, sh, s;--h.
+Page0009-b+ 81 :: aja, as, :: 3543 :: <>prince. {%--Aja-mīḍha%} or {%aja-mīḷha, as,%} m., N. of a
+Page0031-c+ 73 :: anILa :: 8361 :: <P>.{#anILa#}¦ {%a-nīḷa,%} Ved. See {%a-nīḍa.%}
+Page0082-a+ 75 :: arI|a :: 19198 :: <P>.{#arI|a#}¦ {%a-rīḷha, as, ā, am%} (for {%a-rīḍha,%}
+Page0092-b+ 73 :: Avayāta-heḷas, ās, :: 21518 :: <P>{%Avayāta-heḷas, ās,%} m., Ved. one whose anger is
+Page0102-b+ 77 :: azAQa :: 23698 :: <P>.{#azAQa#}¦ {%a-shāḍha,%} or Ved. {%a-shāḷha, as, ā, am,%}
+Page0110-a+ 70 :: aheLat :: 25423 :: <P>.{#aheLat#}¦ {%a-heḷat, an, antī, at,%} or {%a-heḷamāna,%}
+# 147 --------------------------------------------------
+ṁ  (\u1e41)    11 := LATIN SMALL LETTER M WITH DOT ABOVE
+Page0003-b+ 76 :: akzara :: 2211 :: <>{%saṁsthāna, am,%} n. scripture, writing. {%--Aksharāńga%}
+Page0044-c+ 78 :: antarikza :: 11194 :: <>world. {%--Antariksha-saṁśita, as, ā, am,%} sharpened
+Page0155-a+ 76 :: Ud-īraṇa, aṁ, :: 35466 :: <P>{%Ud-īraṇa, aṁ,%} n. throwing, casting, discharging
+Page0481-b+ 70 :: niHSaMsaya :: 110304 :: <>{%niḥ-saṁśaya.%}
+Page0486-b+ 75 :: nitya :: 111366 :: <>sense {%saṁhṛishṭa = sańghṛishṭa.%}) {%--Nitya-sama,%}
+Page0745-a+ 71 :: mantr :: 170951 :: <>{%yadhvaṁ hitam mama,%} give me friendly advice;
+Page0776-b+ 79 :: Māhendra, as, ī, am :: 178274 :: <>or belonging to great Indra (e. g. {%māhendraṁ dha-%}
+Page0783-a+ 81 :: Mukta, as, ā, am, :: 179772 :: <>signed an office or occupation. {%--Mukta-saṁśaya,%}
+Page1055-c+ 76 :: sadA :: 243299 :: <>Śiva; a proper N. {%--Sadāśiva-saṁhitā,%} f., N. of
+Page1101-a+ 75 :: sahasra :: 253538 :: <>{%kaṁ sahasram%} or {%vinśaṃ sahasram,%} a thousand
+# 148 --------------------------------------------------
+ṃ  (\u1e43)  2662 := LATIN SMALL LETTER M WITH DOT BELOW
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 653 :: <>milk by putting it into a dog's skin. {%Nahi pūtaṃ syād go-kshīraṃ%}
+Pagexxi-a+ 50 :: Principal Sources drawn upon in the Process of Compilation. :: 1009 :: <HI>--Ṛig-veda-saṃhitā.
+Pagexxii-b+ 39 :: Principal Sources drawn upon in the Process of Compilation. :: 1106 :: <HI>--Ṛig-veda-saṃhitā.
+Pagexxii-b+ 39 :: Principal Sources drawn upon in the Process of Compilation. :: 1128 :: <>saṃhitā.
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1142 :: <HI>Weber's (Albrecht) Vājasaneyi-saṃ-
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1152 :: <HI>--(and Roth's) Atharva-veda-saṃhitā.
+Pagexxiv+ 46 :: Aids and Encouragements received. :: 1226 :: <>I may yet request leave to inform any mere {%Ćhidrānveshin,%} of whom it may be said {%ćhidraṃ%}
+Pagexxvii-e+ 44 :: Aids and Encouragements received. :: 1562 :: <>saṃhitā.
+Pagexxviii-a+ 26 :: Aids and Encouragements received. :: 1601 :: <HI>{#M#} ṉ or ṃ {either the true Anu-
+# 149 --------------------------------------------------
+ṅ  (\u1e45)  5566 := LATIN SMALL LETTER N WITH DOT ABOVE
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 217 :: <>only, and the spoken dialects called Tigré, Tigriṅa, for the
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 558 :: <>viz. ({%a%}) the Vaiśeshika by Kaṇāda; ({%b%}) the Yoga by Pataṅjali;
+Pagexxi-c+ 18 :: Principal Sources drawn upon in the Process of Compilation. :: 1053 :: <HI>Cowell's (E. B.) Kusumāṅjali (with
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1133 :: <HI>--Yājṅavalkya.
+Pagexxviii-b+ 20 :: Aids and Encouragements received. :: 1619 :: <HI>{#Y#} ṅ {%in%} single (siṅj).
+Pagexxviii-b+ 20 :: Aids and Encouragements received. :: 1619 :: <HI>{#Y#} ṅ {%in%} single (siṅj).
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1652 :: <>ṅ;--ṭ, ṭh; ḍ, ḍh; ṇ;--t, th; d, dh; n;--p, ph; b, bh; m;--y, r, l, ḷ, ḷh, v;--ś, sh, s;--h.
+Page0001-a+ 70 :: Aṉśu, us, :: 1719 :: <>of a prince of the solar race, son of A-samaṅjas, grand-
+Page0002-a+ 70 :: akiYcana :: 1903 :: <P>.{#akiYcana#}¦ {%a-kiṅćana, as, ā, am,%} without
+Page0002-a+ 70 :: akiYcana :: 1906 :: <>{%kiṅćana-tā,%} f. voluntary poverty (as the duty of a
+# 150 --------------------------------------------------
+Ṇ  (\u1e46)     1 := LATIN CAPITAL LETTER N WITH DOT BELOW
+Page0357-c+ 70 :: Ra :: 81452 :: <>third or cerebral class of consonants. {%--Ṇa-kāra, as,%}
+# 151 --------------------------------------------------
+ṇ  (\u1e47) 29012 := LATIN SMALL LETTER N WITH DOT BELOW
+Pagevi+ 55 :: NO HW :: 110 :: <>unequalled in their examination into the constitution of speech. The name Vyākaraṇ, which they
+Pagevi+ 55 :: NO HW :: 112 :: <>Saṉskaraṇa implies the re-composition or re-construction of the same decomposed elements.
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 407 :: <>both forms are allowed to co-exist, as {%bhan%} and {%bhaṇ, dhan%} and
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 408 :: <>{%dhaṇ;%} others whose initials are aspirated consonants have passed
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 463 :: <>Indische Studien, Wilson's Vishṇu-Purāṇa, some Oriental Articles in Chambers'Encyclopædia--written,
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 463 :: <>Indische Studien, Wilson's Vishṇu-Purāṇa, some Oriental Articles in Chambers'Encyclopædia--written,
+Pagexii+ 45 :: Plan and Arrangement of the Present Work. :: 466 :: <>Dictionary. Let him observe, for instance, what is written under the words Vishṇu, Śiva, Veda,
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 521 :: <>forms like Intensives). Pāṇini, in distinguishing between the com-
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 531 :: <>other nations was regarded only as a means to an end, came to be treated by Indian Paṇḍits as
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 546 :: <>(viz. the Yajur-veda, Sāma-veda, and Atharva-veda), with their Brāhmaṇas, Upanishads, and Sūtras,
+# 152 --------------------------------------------------
+ṉ  (\u1e49)  3199 := LATIN SMALL LETTER N WITH LINE BELOW
+Pagevi+ 55 :: NO HW :: 112 :: <>Saṉskaraṇa implies the re-composition or re-construction of the same decomposed elements.
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 559 :: <>({%c%}) the Pūrva-mīmāṉsā by Jaimini.</F>, the vast grammatical literature, the immense epics
+Pagexxii-c+ 49 :: Principal Sources drawn upon in the Process of Compilation. :: 1132 :: <HI>Stenzler's edition of the Raghu-vaṉśa.
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1327 :: <>be readily supplied; this applies especially to participles, and occasionally to verbal nouns, e. g. under {%vi-hiṉs%} at the head
+Pagexxvi+ 51 :: Aids and Encouragements received. :: 1328 :: <>of a group, p. 952, it is easy to supply {%vi-hiṉsana, am,%} n. the act of injuring.
+Pagexxvii-d+ 44 :: Aids and Encouragements received. :: 1531 :: <HI>Raghu-v. = Raghu-vaṉśa.
+Pagexxviii-a+ 26 :: Aids and Encouragements received. :: 1601 :: <HI>{#M#} ṉ or ṃ {either the true Anu-
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1651 :: <P>a, ā; i, ī; u, ū; ṛi, ṛī; lṛi, lṛī; e, ai; o, au;--ṉ or ṃ, ḥ;--k, kh; g, gh; ń;--ć, ćh; j, jh;
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1653 :: <P>Observe--{%ṉ%} represents the true Anusvāra in the body of a word before the sibilants and {%h,%} as in {%aṉśa, aṉsa, aṉhati: ṃ%} as
+# 153 --------------------------------------------------
+ṕ  (\u1e55)     2 := LATIN SMALL LETTER P WITH ACUTE
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 749 :: <>should be written {%ṕala,%} and {%dhana, d́ana;%} or perhaps according to the Anglo-Saxon method with
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 887 :: <>Had I dared to innovate further, I should have written {%ḱ%} for {%kh, t́%} for {%th, ṕ%} for {%ph;%} and so with
+# 154 --------------------------------------------------
+Ṛ  (\u1e5a)  2312 := LATIN CAPITAL LETTER R WITH DOT BELOW
+Pageiv+ 17 :: NO HW :: 1 :: <H>{|A SANSKṚIT-ENGLISH [Pageiv+ 17]
+Pageiv+ 17 :: NO HW :: 9 :: <>BODEN PROFESSOR OF SANSKṚIT IN THE UNIVERSITY OF OXFORD.
+Pagevi+ 55 :: NO HW :: 104 :: <>name implies ‘Synthesis,’ and whose literature, commencing with the Ṛig-veda about 1500 B.C.,
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 545 :: <>Vedic. The former, beginning with the Ṛig-veda, and extending through the other three Vedas
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 609 :: <>the Ṛig-veda I have not had the advantage of Professor Max
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 617 :: <>is the only Ṛig-veda MS. of any value that I have had it in my
+Pagexiv+ 55 :: Plan and Arrangement of the Present Work. :: 621 :: <>of the Ṛig-veda is about to appear.</F>),
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 647 :: <>Ṛig-veda--printed in the Roman character are much used by
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 933 :: <F>†) Amongst other publications the Ṛig-veda itself, edited by
+Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 941 :: <>which the Ṛig-veda will extend, now being edited in the native
+# 155 --------------------------------------------------
+ṛ  (\u1e5b) 19644 := LATIN SMALL LETTER R WITH DOT BELOW
+Pagev+ 45 :: NO HW :: 19 :: <P>A WORK of the kind here submitted to the students of Sanskṛit must be left to prove
+Pagev+ 45 :: NO HW :: 24 :: <P>1. Reasons for undertaking a New Sanskṛit Dictionary.
+Pagev+ 45 :: NO HW :: 26 :: <P>3. Extent of Sanskṛit Literature comprehended.
+Pagev+ 45 :: NO HW :: 32 :: <>{%Reasons for undertaking a New Sanskṛit Dictionary.%}
+Pagev+ 45 :: NO HW :: 39 :: <>Be it remembered, however, that Sanskṛit is, in one sense, the property of Europe as well as of
+Pagev+ 45 :: NO HW :: 54 :: <>To this end Sanskṛit is indispensable. French again will never
+Pagevi+ 55 :: NO HW :: 87 :: <>Sanskṛti in Yale College, are quite so well known in this country.
+Pagevi+ 55 :: NO HW :: 102 :: <P>Will it be denied, then, that Sanskṛit is destined to increasing cultivation, as the one typical
+Pagevii+ 61 :: NO HW :: 118 :: <P>Having said so much in support of an effort to facilitate and generlize the study of Sanskṛit,
+Pagevii+ 61 :: NO HW :: 122 :: <>the students of Sanskṛit and its cognate languages. This I have heard from himself was what he
+# 156 --------------------------------------------------
+ṝ  (\u1e5d)     1 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 882 :: <>by many German scholars--though {%ṛ, ṝ%} seem to me somewhat unsuitable for vowel sounds. So
+# 157 --------------------------------------------------
+ṣ  (\u1e63)     3 := LATIN SMALL LETTER S WITH DOT BELOW
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 902 :: <P>I also prefer the symbol {%ṣ%} for the cerebral sibilant. Should a second edition of this Dictionary
+Page0145-a+ 77 :: Ukshan, ā, :: 33192 :: <><nsi>auhsu;</nsi> Armen. <nsi>eṣn.</nsi>] {%--Uksha-tara, as,%} m. a small
+Page0189-a+ 74 :: ojas :: 43014 :: <>Gr. <g>ὑγιής</g> Zend <nsi>auṣo;</nsi> Hib. <nsi>og,</nsi> ‘young, juvenile,
+# 158 --------------------------------------------------
+Ṭ  (\u1e6c)    30 := LATIN CAPITAL LETTER T WITH DOT BELOW
+Page0355-c+ 66 :: wa :: 81068 :: <>slightly turning it upwards. {%--Ṭa-kāra, as,%} m. the
+Page0355-c+ 66 :: wa :: 81069 :: <>letter or sound {%ṭ%}. {%--Ṭa-varga, as,%} m. the cerebral
+Page0355-c+ 66 :: wa :: 81070 :: <>consonants collectively. {%--Ṭavargīya, as, ā, am,%}
+Page0355-c+ 66 :: wakkadeSa :: 81078 :: <>the Ṭakkas; [cf. {%ṭakva.%}]
+Page0355-c+ 66 :: Ṭakkadeśīya, as, :: 81079 :: <P>{%Ṭakkadeśīya, as,%} m. a kind of pot-herb, Cheno-
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81093 :: <P>{%Ṭańka, as, am,%} m. n. (according to some only
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81104 :: <>({%as, ā, am%}), m. f. n. the leg. {%--Ṭańka-ṭīka, as,%} m.
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81105 :: <>an epithet of Śiva. {%--Ṭańka-pati, is,%} m. the master
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81106 :: <>of the mint. {%--Ṭańka-vat, ān, atī, at,%} having crags
+Page0355-c+ 66 :: Ṭańka, as, am, :: 81107 :: <>or declivities. {%--Ṭańka-śālā,%} f. a mint.
+# 159 --------------------------------------------------
+ṭ  (\u1e6d) 14890 := LATIN SMALL LETTER T WITH DOT BELOW
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 245 :: <>Tri-piṭaka. Prākṛit is the name given to other and later pro-
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 247 :: <>of the present Hindū dialects, Hindī, Marāṭhī, &c., see note,
+Pagexvii+ 47 :: Plan and Arrangement of the Present Work. :: 788 :: <F>*)Viz. Sanskṛit, with its kindred Hindī, Marāṭhī, Gujarātī, Bengālī, Uriya, Asamese, Panjābī, Gurumukhī, Sindhī, Nepalese,
+Pagexxii-a+ 38 :: Principal Sources drawn upon in the Process of Compilation. :: 1073 :: <HI>--translation of Nīlakaṇṭha's Rational
+Pagexxvii-a+ 47 :: Aids and Encouragements received. :: 1392 :: <HI>Bhaṭṭi-k. = Bhaṭṭi-kāvya,
+Pagexxvii-a+ 47 :: Aids and Encouragements received. :: 1392 :: <HI>Bhaṭṭi-k. = Bhaṭṭi-kāvya,
+Pagexxvii-a+ 47 :: Aids and Encouragements received. :: 1392 :: <HI>Bhaṭṭi-k. = Bhaṭṭi-kāvya,
+Pagexxvii-a+ 47 :: Aids and Encouragements received. :: 1392 :: <HI>Bhaṭṭi-k. = Bhaṭṭi-kāvya,
+Pagexxvii-d+ 44 :: Aids and Encouragements received. :: 1494 :: <HI>Naigh. = Naighaṇṭuka.
+# 160 --------------------------------------------------
+ẓ  (\u1e93)     3 := LATIN SMALL LETTER Z WITH DOT BELOW
+Page0334-c+ 65 :: Cfd :: 76230 :: <>also Lat. <nsi>splendeo;</nsi> Lith. <nsi>spindẓiu, spindulys,</nsi>
+Page0336-a+ 72 :: jaYj :: 76576 :: <>to fight; [cf. Lith. <nsi>ẓinczíju.</nsi>]
+Page0341-a+ 75 :: jala, as, ā, am :: 77733 :: <><nsi>gelu;</nsi> Goth. <nsi>kalds;</nsi> Lith. <nsi>sẓala, szattas;</nsi> Russ.
+# 161 --------------------------------------------------
+ἀ  (\u1f00)    29 := GREEK SMALL LETTER ALPHA WITH PSILI
+Page0001-a+ 70 :: a :: 1664 :: <>responding to Gr. <g>ἀ, ἀν</g> Lat. <nsi>in,</nsi> Goth. and Germ. <nsi>un,</nsi>
+Page0001-a+ 70 :: a :: 1664 :: <>responding to Gr. <g>ἀ, ἀν</g> Lat. <nsi>in,</nsi> Goth. and Germ. <nsi>un,</nsi>
+Page0001-b+ 66 :: ak :: 1778 :: <>tortuously, like a snake [cf. Gr. <g>ἀγκή</g>
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0001-b+ 66 :: ak :: 1779 :: <><g>ἀγκαί, ἀγκών</g> Lat. <nsi>angulus</nsi>]. Compare rt. {%ag.%}
+Page0004-b+ 72 :: agADa :: 2412 :: <>at the Svāhākāra [cf. Gr. <g>ἀγαθός</g> and Goth. <nsi>gôths,</nsi>
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0010-c+ 75 :: ajra :: 3859 :: <>({%as, ā, am%}), Ved. agile, quick [Lat. <nsi>ager;</nsi> Gr. <g>ἀγρός</g>
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0026-b+ 65 :: anaPA :: 7236 :: <>of the planets. [Gr. <g>ἀναφή</g>]
+# 162 --------------------------------------------------
+ἄ  (\u1f04)    34 := GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
+Page0001-b+ 66 :: aMsa :: 1735 :: <>[cf. Goth. <nsi>amsa;</nsi> Gr. <g>ἄσιλλα</g> Lat. <nsi>humerus,</nsi>
+Page0001-b+ 66 :: aMha :: 1752 :: <>Gr. <g>ἄγχω</g>]
+Page0001-b+ 66 :: Aṉhas, :: 1758 :: <>anxiety, trouble; sin [cf. {%agha, āgas;%} Gr. <g>ἄχνυμαι</g>
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0001-b+ 66 :: Aṉhas, :: 1759 :: <><g>ἄχος, ἄγος</g>]. {%--Aṉhasas-pati, is,%} m., Ved. lord of
+Page0003-a+ 79 :: akza :: 2067 :: <>[cf. Lat. <nsi>axis;</nsi> Gr. <g>ἄξων</g> Old Germ. <nsi>ahsa;</nsi> Mod.
+Page0004-c+ 73 :: agni :: 2477 :: <><nsi>auhn'-s;</nsi> <g>ἄιγλη</g> and <g>ἀγλαός</g> may be related to {%agni%}].
+Page0006-a+ 79 :: agra :: 2775 :: <>[cf. Gr. <g>ἄκρον</g>]. {%--Agra-kara, as,%} m. the fore part
+Page0007-a+ 77 :: Ańkuśa, as, am, :: 3024 :: <>twenty-four Jaina goddesses [cf. Gr. <g>ἄγκσιτρον</g> Germ.
+Page0007-b+ 80 :: aNga :: 3060 :: <>assent, promise; see under {%ańgī%} [cf. <g>ἄγχι</g>].
+# 163 --------------------------------------------------
+Ἀ  (\u1f08)     2 := GREEK CAPITAL LETTER ALPHA WITH PSILI
+Page0136-b+ 73 :: AsPujit :: 31182 :: <P>.{#AsPujit#}¦ {%āsphujit%} = <g>Ἀφροδίτη</g> N. of the
+Page0180-b+ 81 :: fta :: 41067 :: <>{%--Ṛita-bhāga, as,%} m., N. of a man, <g>Ἀρταβάζης</g>
+# 164 --------------------------------------------------
+Ἄ  (\u1f0c)     2 := GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+Page0127-b+ 74 :: āra, as, am, :: 29221 :: <>iron; ({%as%}), m. the planet Mars, <g>Ἄρης</g> the planet
+Page0179-a+ 73 :: fkza :: 40736 :: <>Pleiades, <g>Ἄρκτος</g> Ursa; in later times the seven
+# 165 --------------------------------------------------
+ἐ  (\u1f10)    19 := GREEK SMALL LETTER EPSILON WITH PSILI
+Page0001-b+ 66 :: Aṉhu, us, us, u, :: 1766 :: <>Muliebre [cf. Gr. <g>ἐγγύς</g> Goth. <nsi>aggvus;</nsi> Lat.
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0007-b+ 80 :: aNg :: 3052 :: <>rt. {%ańk%}); [cf. Gr. <g>ἐγγυς, ἐγγίζω</g>?]. [Page0007-b+ 80]
+Page0055-a+ 72 :: api :: 13454 :: <>to, proximity, &c. [cf. Gr. <g>ἐπί</g> Zend <nsi>api</nsi>; Germ.
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0081-c+ 76 :: aritf :: 19141 :: <>rower; a helmsman [cf. Gr. <g>ἐρέτης, ἐρετμόν,</g> &c.;
+Page0103-a+ 77 :: as :: 23891 :: <><g>ἐσ-τί</g> Lat. <nsi>es-t;</nsi> Goth. <nsi>is-t;</nsi> Lith. <nsi>es-ti;</nsi> Slav.
+Page0109-a+ 78 :: aham :: 25192 :: <>Zend <nsi>azem;</nsi> Gr. <g>ἐγών, ἐγώ, ἱών;</g> Lat. <nsi>ego;</nsi> Goth.
+Page0109-a+ 78 :: aham :: 25192 :: <>Zend <nsi>azem;</nsi> Gr. <g>ἐγών, ἐγώ, ἱών;</g> Lat. <nsi>ego;</nsi> Goth.
+Page0131-c+ 74 :: Avis :: 30188 :: <>{%ā-vid:%} cf. Gr. <g>ἐξ</g> Lat. <nsi>ex?</nsi>), before the eyes,
+# 166 --------------------------------------------------
+ἑ  (\u1f11)     2 := GREEK SMALL LETTER EPSILON WITH DASIA
+Page0182-c+ 81 :: Eka :: 41571 :: <><nsi>tar,</nsi> ‘neither;’ <nsi>neachdarach,</nsi> ‘neutral:’ Gr. <g>ἑκάτερος</g>
+Page0183-a+ 81 :: Eka :: 41648 :: <>one of many; [Gr. <g>ἑκάτερος</g> Hib. <nsi>n'-eachtar,</nsi>
+# 167 --------------------------------------------------
+ἔ  (\u1f14)    15 := GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
+Page0012-b+ 75 :: ati :: 4223 :: <><nsi>and;</nsi> Germ. <nsi>und;</nsi> Gr. <g>ἔτι, ἀντί</g> Lat. <nsi>ante;</nsi> Lith.
+Page0017-c+ 76 :: ad :: 5375 :: <>Slav. <nsi>jamj</nsi> for <nsi>jadmj;</nsi> Gr. <g>ἔδω</g> Lat. <nsi>edo;</nsi> Goth.
+Page0045-b+ 79 :: antra :: 11348 :: <>or fr. rt. {%am?:%} Gr. <g>ἔντερον</g>), entrail, intestine; ({%ī%}),
+Page0046-b+ 80 :: anya :: 11529 :: <><g>ἔνιοι</g>]. {%--Anya-kāma, as, ā, am,%} loving another.
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0109-b+ 75 :: ahi :: 25270 :: <><nsi>anguis;</nsi> Gr. <g>ἔχι-ς, ἔχιδνα, ἔγχε-λυς</g> and <g>ὄφις</g>
+Page0128-a+ 72 :: Ā-rāma, as, :: 29335 :: <><g>ἔρημος</g>] {%--Ārāma-śītalā,%} f., N. of a fragrant plant.
+Page0177-b+ 79 :: UrRa :: 40395 :: <><g>ἔρος, ἐρέα, εἶρος, εἴριον;</g> Hib. <nsi>olaun.</nsi>] {%--Ūrṇa-%}
+Page0249-a+ 75 :: kfp :: 56570 :: <>[cf. Gr. <g>ἔλπω</g>]
+# 168 --------------------------------------------------
+ἕ  (\u1f15)     5 := GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
+Page0182-c+ 81 :: Eka :: 41572 :: <><g>ἕκα-τος</g> Lat. <nsi>œquus, c-ocles</nsi> fr. <nsi>êc-ocles:</nsi>
+Page0186-a+ 71 :: ena :: 42376 :: <>of a sentence; see Gram. 836; [cf. Gr. <g>ἕν, οἶος</g>
+Page0249-b+ 79 :: kfmi :: 56641 :: <><nsi>quermi-s;</nsi> perhaps Gr. <g>ἕλμινς</g> for <g>ἕρμινς.</g>] {%--Kṛi-%}
+Page0249-b+ 79 :: kfmi :: 56641 :: <><nsi>quermi-s;</nsi> perhaps Gr. <g>ἕλμινς</g> for <g>ἕρμινς.</g>] {%--Kṛi-%}
+Page0250-a+ 78 :: kfz :: 56770 :: <>Lat. <nsi>verro, vello;</nsi> Gr. <g>κόρος, ἕλκω</g> ? Goth. <nsi>falh.</nsi>]
+# 169 --------------------------------------------------
+ἠ  (\u1f20)     2 := GREEK SMALL LETTER ETA WITH PSILI
+Page0128-a+ 72 :: Ā-rāma, as, :: 29334 :: <>a garden, a grove; [with this word cf. <g>ἠμέρα</g> and
+Page0176-b+ 75 :: Ushas, ās, :: 40126 :: <>the day, twilight; [cf. Gr. <g>ἠώς</g> Lat. <nsi>aurora;</nsi> Lith.
+# 170 --------------------------------------------------
+ἡ  (\u1f21)     1 := GREEK SMALL LETTER ETA WITH DASIA
+Page0360-a+ 80 :: Tad, :: 82028 :: <>the article), masc. <nsi>sa,</nsi> fem. <nsi>sô;</nsi> Gr. <g>ὁ, ἡ, τό;</g>
+# 171 --------------------------------------------------
+ἧ  (\u1f27)     2 := GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI
+Page0134-c+ 74 :: As :: 30848 :: <>sit down: Desid. {%āsisishate;%} [cf. Gr. <g>ἧ(σ)-μαι, ἧσ-</g>
+Page0134-c+ 74 :: As :: 30848 :: <>sit down: Desid. {%āsisishate;%} [cf. Gr. <g>ἧ(σ)-μαι, ἧσ-</g>
+# 172 --------------------------------------------------
+Ἥ  (\u1f2d)     1 := GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+# 173 --------------------------------------------------
+ἰ  (\u1f30)    14 := GREEK SMALL LETTER IOTA WITH PSILI
+Page0009-b+ 81 :: aja, as, :: 3507 :: <><g>αἰγος</g> Lith. ožys]; the sign Aries; the vehicle of
+Page0112-a+ 76 :: Akokera :: 25821 :: <>Capricornus (<g>Αἰγόκερως</g>).
+Page0127-a+ 78 :: Āyus, :: 29122 :: <>Abhi-plava ceremony; food; [cf. Dor. <g>αἰές</g> perhaps
+Page0127-a+ 78 :: Āyus, :: 29123 :: <>also <g>αἰών</g>]; ({%us%}), m. the son of Purūravas and Urvaśī.
+Page0139-a+ 75 :: itTa :: 31833 :: <P>.{#itTa#}¦ {%ittha, am,%} n. in astronomy = <g>ἰχθύς</g>
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0142-c+ 80 :: iz :: 32617 :: <>haps Gr. <g>ἰό-της</g> and <g>ἵ-μερος</g>]
+Page0143-a+ 74 :: iha :: 32746 :: <>‘here;’ Gr. <g>ἰθᾱ</g> or <g>ἰθαι</g> in <g>ἰθα-γενής</g> and <g>ἰθαι-γενής</g>;
+Page0143-a+ 74 :: iha :: 32746 :: <>‘here;’ Gr. <g>ἰθᾱ</g> or <g>ἰθαι</g> in <g>ἰθα-γενής</g> and <g>ἰθαι-γενής</g>;
+# 174 --------------------------------------------------
+ἱ  (\u1f31)     2 := GREEK SMALL LETTER IOTA WITH DASIA
+Page0109-a+ 78 :: aham :: 25192 :: <>Zend <nsi>azem;</nsi> Gr. <g>ἐγών, ἐγώ, ἱών;</g> Lat. <nsi>ego;</nsi> Goth.
+Page0143-a+ 74 :: Ishira, as, ā, am, :: 32704 :: <>flourishing; vigorous, active, quick; [cf. Gr. <g>ἱερός</g>];
+# 175 --------------------------------------------------
+ἴ  (\u1f34)     8 := GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
+Page0009-b+ 81 :: aja, as, :: 3506 :: <>the leader of a flock; a he-goat or ram [cf. Gr. <g>αἴξ</g> [Page0009-b+ 81]
+Page0137-c+ 74 :: i :: 31502 :: <>{%yitum,%} to cause to come; [cf. Gr. <g>εἶ-μι, ἴ-μεν;</g>
+Page0138-a+ 78 :: iK :: 31589 :: <>{%yati, ekhitum,%} to go, move; [cf. Gr. <g>εἴκω</g>
+Page0138-a+ 78 :: iK :: 31590 :: <><g>οἴχομαι</g> ?].
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0141-a+ 80 :: inD :: 32307 :: <><g>αἴθω, ἰθαρός; αἰθήρ, Αἴτνη; Ἥφ-αισ-τας</g> Lat.
+Page0177-b+ 79 :: UrRa :: 40395 :: <><g>ἔρος, ἐρέα, εἶρος, εἴριον;</g> Hib. <nsi>olaun.</nsi>] {%--Ūrṇa-%}
+Page0178-c+ 75 :: f :: 40703 :: <><nsi>erru;</nsi> Lith. <nsi>arù;</nsi> Lith. <nsi>orjû;</nsi> Gr. <g>αἴρω</g> Hib. <nsi>ar,</nsi>
+# 176 --------------------------------------------------
+ἵ  (\u1f35)     2 := GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
+Page0101-b+ 80 :: aSva :: 23433 :: <>a mare [cf. Zend <nsi>aśpa;</nsi> Lat. <nsi>equus;</nsi> Gr. <g>ἵππος</g>
+Page0142-c+ 80 :: iz :: 32617 :: <>haps Gr. <g>ἰό-της</g> and <g>ἵ-μερος</g>]
+# 177 --------------------------------------------------
+ἶ  (\u1f36)     5 := GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI
+Page0137-c+ 74 :: i :: 31502 :: <>{%yitum,%} to cause to come; [cf. Gr. <g>εἶ-μι, ἴ-μεν;</g>
+Page0177-b+ 79 :: UrRa :: 40395 :: <><g>ἔρος, ἐρέα, εἶρος, εἴριον;</g> Hib. <nsi>olaun.</nsi>] {%--Ūrṇa-%}
+Page0185-c+ 78 :: eD :: 42349 :: <>{%edidhishate;%} [said to be related to Gr. <g>οἶδος, οἰδἀω;</g>
+Page0186-a+ 71 :: ena :: 42376 :: <>of a sentence; see Gram. 836; [cf. Gr. <g>ἕν, οἶος</g>
+Page0188-c+ 68 :: oka :: 42958 :: <><nsi>ûkis,</nsi> ‘a dwelling;’ <nsi>ûkininkas:</nsi> Gr. <g>οἶκος</g> belongs
+# 178 --------------------------------------------------
+ὀ  (\u1f40)    15 := GREEK SMALL LETTER OMICRON WITH PSILI
+Page0085-a+ 75 :: arBa :: 19915 :: <>Lat. <nsi>orbus;</nsi> Gr. <g>ὀρφανός</g>].
+Page0102-b+ 77 :: azwan :: 23712 :: <>[cf. Lat. <nsi>octo;</nsi> Gr. <g>ὀκτώ</g> Goth. <nsi>ahtau;</nsi> Mod. Germ.
+Page0107-c+ 77 :: asTi :: 24860 :: <><nsi>ossis,</nsi> assimilated fr. <nsi>ostis;</nsi> Gr. <g>ὀστέον</g> Slav. <nsi>kosti,</nsi>
+Page0111-a+ 73 :: Akal :: 25567 :: <>into consideration; to consider [cf. Gr. <g>ὀκέλλω</g>].
+Page0177-b+ 79 :: Urj :: 40347 :: <>‘may they obtain food and strength’); [cf. Gr. <g>ὀργάω</g>
+Page0177-b+ 79 :: Urj :: 40348 :: <>and <g>ὀργάς</g> Lat. <nsi>urgeo;</nsi> Hib. <nsi>orc,</nsi> ‘a prince, a hero;’
+Page0177-c+ 78 :: UrDva :: 40444 :: <>{%gam,%} to go upwards, to die; [cf. Gr. <g>ὀρθός;</g> Lat.
+Page0179-c+ 74 :: fj :: 40862 :: <><nsi>raihts;</nsi> Mod. Germ. <nsi>recht;</nsi> Gr. <g>ὀρέγω</g> Hib. <nsi>righim,</nsi>
+Page0319-b+ 80 :: cal :: 72797 :: <>or {%ćāćalyate, ćāćalti;%} [cf. Gr. <g>κέλω, κέλλω, ὀ-</g>
+Page0388-a+ 79 :: tras :: 88364 :: <><g>πων, τρέ-μ, τάρβος, ταράσσω, θάλασσα, ὀ-τρηρός,</g>
+# 179 --------------------------------------------------
+ὁ  (\u1f41)     1 := GREEK SMALL LETTER OMICRON WITH DASIA
+Page0360-a+ 80 :: Tad, :: 82028 :: <>the article), masc. <nsi>sa,</nsi> fem. <nsi>sô;</nsi> Gr. <g>ὁ, ἡ, τό;</g>
+# 180 --------------------------------------------------
+ὄ  (\u1f44)    14 := GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0003-b+ 76 :: akza :: 2150 :: <>pounds, the fem. being {%akshī%} [cf. Gr. <g>ὄσσο, ὄκκο</g>
+Page0003-b+ 76 :: akza :: 2151 :: <>for <g>ὄξο</g> Lat. <nsi>oculus;</nsi> Germ. <nsi>Auge;</nsi> Russ. <nsi>òko</nsi>].
+Page0007-a+ 77 :: aNka :: 2980 :: <>Gr. <g>ὄγκος</g> and Lat. <nsi>uncus</nsi>]. {%--Ańka-karaṇa, am,%}
+Page0010-c+ 75 :: ajma :: 3848 :: <>march, battle [cf. <g>ὄγμος</g>].
+Page0074-a+ 71 :: aBra :: 17468 :: <>cypher; [cf. Gr. <g>ὄμβρος</g> and Lat. <nsi>imber.</nsi>] {%--Abhraṃ-%}
+Page0077-c+ 78 :: ambu :: 18289 :: <>watery element of the blood [cf. <g>ὄμβρος</g> <nsi>imber</nsi>];
+Page0078-a+ 79 :: amBas :: 18366 :: <>mystical name of the letter {%v%} [cf. <g>ὄμβρος</g> <nsi>imber</nsi>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+Page0078-b+ 76 :: amBfRa :: 18391 :: <><g>ὄβριμος, ὄμβριμος</g>].
+# 181 --------------------------------------------------
+ὅ  (\u1f45)     1 := GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+Page0092-b+ 73 :: avara :: 21533 :: <>compared Gr. <g>οὐρά, οὖρος, οὖρον, ὅρος, ὄρρος;</g> Lat.
+# 182 --------------------------------------------------
+Ὀ  (\u1f48)     2 := GREEK CAPITAL LETTER OMICRON WITH PSILI
+Page0181-b+ 77 :: fBu :: 41305 :: <>a deity, a divinity in general; [cf. <g>Ὀρφεύς.</g>] {%--Ṛibhu-%}
+Page0269-a+ 81 :: Kshudraka, as, ikā, am, :: 61153 :: <>people living by warfare, the <g>Ὀξυδρακοι.</g>
+# 183 --------------------------------------------------
+ὐ  (\u1f50)     5 := GREEK SMALL LETTER UPSILON WITH PSILI
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0092-b+ 73 :: avara :: 21533 :: <>compared Gr. <g>οὐρά, οὖρος, οὖρον, ὅρος, ὄρρος;</g> Lat.
+Page0174-b+ 78 :: uru :: 39683 :: <>lative {%varishṭha;%} [cf. Gr. <g>εὐρύς</g> Hib. <nsi>ur,</nsi> ‘very;’
+# 184 --------------------------------------------------
+ὑ  (\u1f51)     6 := GREEK SMALL LETTER UPSILON WITH DASIA
+Page0160-b+ 73 :: upa :: 36616 :: <>power; effort; resemblance, &c.; [cf. Gr. <g>ὑπό</g> Lat.
+Page0166-c+ 76 :: upari :: 38035 :: <><nsi>obar;</nsi> Mod. Germ. <nsi>über;</nsi> Eng. <nsi>over;</nsi> Gr. <g>ὑπέρ</g>
+Page0167-b+ 75 :: upalaB :: 38143 :: <>hear, understand; [cf. Gr. <g>ὑπολαμβάνω</g>]
+Page0167-b+ 75 :: Upa-labdhi, is, :: 38154 :: <>perceptibility; [cf. Gr. <g>ὑπόληψις</g>] {%--Upalabdhi-%}
+Page0169-c+ 74 :: upasfp :: 38680 :: <>move onward, attack; [cf. <g>ὑφέρπω</g>]
+Page0189-a+ 74 :: ojas :: 43014 :: <>Gr. <g>ὑγιής</g> Zend <nsi>auṣo;</nsi> Hib. <nsi>og,</nsi> ‘young, juvenile,
+# 185 --------------------------------------------------
+ὔ  (\u1f54)     1 := GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+Page0176-a+ 78 :: uz :: 40047 :: <>Lat. <nsi>uro, ustus;</nsi> Gr. <g>αὔω, αὖος</g> Hib. <nsi>usga,</nsi> ‘incense.’]
+# 186 --------------------------------------------------
+ὕ  (\u1f55)     2 := GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
+Page0149-c+ 81 :: ut-tara, as, ā, am :: 34216 :: <>with a glance ending in tears; [cf. Gr. <g>ὕστερος</g>.]
+Page0153-a+ 78 :: ud :: 34975 :: <>{%dishati;%} [cf. Gr. <g>ὕδωρ</g> Lat. <nsi>unda;</nsi> Goth. <nsi>vato;</nsi>
+# 187 --------------------------------------------------
+ὖ  (\u1f56)     9 := GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+Page0087-b+ 79 :: ava :: 20480 :: <>that:’ cf. also the syllable <g>αὐ</g> in <g>αὐ-τός, αὖ, αὖθι,</g>
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0087-c+ 72 :: ava :: 20481 :: <><g>αὖθις, αὖτις, αὖτε, αὐτάρ;</g> Lat. <nsi>au-t, au-tem,</nsi> &c.]. [Page0087-c+ 72]
+Page0092-b+ 73 :: avara :: 21533 :: <>compared Gr. <g>οὐρά, οὖρος, οὖρον, ὅρος, ὄρρος;</g> Lat.
+Page0092-b+ 73 :: avara :: 21533 :: <>compared Gr. <g>οὐρά, οὖρος, οὖρον, ὅρος, ὄρρος;</g> Lat.
+Page0176-a+ 78 :: uz :: 40047 :: <>Lat. <nsi>uro, ustus;</nsi> Gr. <g>αὔω, αὖος</g> Hib. <nsi>usga,</nsi> ‘incense.’]
+Page0177-a+ 74 :: UDas :: 40278 :: <>{%kuṇḍodhnī, ghaṭodhnī, pīnodhnī;%} [cf. Gr. <g>οὖθαρ</g>
+# 188 --------------------------------------------------
+ὠ  (\u1f60)     2 := GREEK SMALL LETTER OMEGA WITH PSILI
+Page0125-b+ 75 :: Ama :: 28736 :: <>chaff; [cf. Gr. <g>ὠμό-ς</g> Hib. <nsi>amh,</nsi> ‘raw, unsodden,
+Page0133-b+ 76 :: ASu :: 30505 :: <>rainy season; [cf. Gr. <g>ὠκύς, ὤκιστος</g> Lat. <nsi>acu</nsi> in
+# 189 --------------------------------------------------
+ὤ  (\u1f64)     2 := GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
+Page0133-b+ 76 :: ASu :: 30505 :: <>rainy season; [cf. Gr. <g>ὠκύς, ὤκιστος</g> Lat. <nsi>acu</nsi> in
+Page0167-a+ 77 :: upala :: 38113 :: <><g>ὤπαλος</g> Lat. <nsi>opalus.</nsi>] {%--Upala-prakshin, ī, iṇī, i,%}
+# 190 --------------------------------------------------
+ὥ  (\u1f65)     1 := GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
+Page0225-b+ 81 :: kAla :: 51283 :: <><g>ὥρα</g> (?); Lat. <nsi>hora, calen-dœ:</nsi> cf. also Gr. <g></g>
+# 191 --------------------------------------------------
+ᾱ  (\u1fb1)     3 := GREEK SMALL LETTER ALPHA WITH MACRON
+Page0143-a+ 74 :: iha :: 32746 :: <>‘here;’ Gr. <g>ἰθᾱ</g> or <g>ἰθαι</g> in <g>ἰθα-γενής</g> and <g>ἰθαι-γενής</g>;
+Page0379-c+ 79 :: tul :: 86495 :: <><g>πολύ-τλᾱ-ς, ταλα-ό-ς, τλή-μων, τάλ-αντο-ν, ἀ-τά-</g>
+Page0383-c+ 78 :: tF :: 87414 :: <><g>τρῡτάνη;</g> perphaps also <g>Τάρᾱς, Τρο-ία, Τροιζήν,</g>
+# 192 --------------------------------------------------
+ᾶ  (\u1fb6)     2 := GREEK SMALL LETTER ALPHA WITH PERISPOMENI
+Page0265-c+ 77 :: Kshamā :: 60310 :: <>with {%svar, divā,%} &c.); [cf. Gr. <g>χαμαί, χαμᾶ-ζε,</g>
+Page0383-c+ 78 :: tF :: 87415 :: <><g>τελέω, τέλειος, τελευτή, τᾶλις, θραύ-ω, τραῦ-μα</g>
+# 193 --------------------------------------------------
+᾽  (\u1fbd)     3 := GREEK KORONIS
+Page0240-c+ 81 :: kula :: 54682 :: <>m. the chief of a family or race; the lord <g>κατ᾽ ἐξοχήν,</g>
+Page0298-a+ 81 :: go :: 67769 :: <>the cowherd <g>κατ᾽ ἐξοχήν,</g> i. e. Kṛishṇa; an epithet [Page0298-a+ 81]
+Page0394-c+ 79 :: Tvashṭṛi, ṭā, :: 89961 :: <>karman, (he is the builder and architect <g>κατ᾽ ἐξοχήν</g>
+# 194 --------------------------------------------------
+ῆ  (\u1fc6)    13 := GREEK SMALL LETTER ETA WITH PERISPOMENI
+Page0143-b+ 73 :: Īdṛiśa, as, ī, am, :: 32839 :: <><g>λικ</g> in <g>δμῆλιξ, λικο</g> in <g>τηλίκο-ς,</g> &c.; Goth. <nsi>leika</nsi>
+Page0188-b+ 68 :: Ezamas :: 42919 :: <>during this year, in the present year; [cf. Gr. <g>σῆτες</g>
+Page0199-b+ 79 :: kad :: 45353 :: <>destruction; [cf. Gr. <g>κῆδας;</g> Goth. <nsi>hatan:</nsi> cf. also
+Page0202-a+ 80 :: kapi :: 45925 :: <>monkey; [cf. Gr. <g>κῆπος, κεῖπος;</g> Old Germ. <nsi>affo;</nsi>
+Page0276-a+ 72 :: Kid :: 62716 :: <>{%khidyate, ćekhetti;%} [cf. Lith. <nsi>zeidziu;</nsi> Gr. <g>κῆδος?</g>].
+Page0283-b+ 81 :: gam :: 64421 :: <>the earth; [cf. {%ksham:%} cf. also Gr. <g>γῆ;</g> Zend <nsi>zem;</nsi>
+Page0289-b+ 78 :: gir :: 65776 :: <>[cf. Hib. <nsi>gair,</nsi> ‘an outcry, a shout;’ Gr. <g>γῆρυς.</g>]
+Page0296-c+ 79 :: go :: 67495 :: <>Lett. <nsi>gohw;</nsi> cf. also Gr. <g>γαῖα, γῆ;</g> Goth. <nsi>gavi;</nsi>
+Page0340-c+ 76 :: Jaras, ā, :: 77629 :: <>the hunter who wounded Kṛishṇa; [cf. Gr. <g>γῆρας.</g>]
+Page0350-c+ 78 :: jF :: 79921 :: <><g>γῆρας:</g> Lat. <nsi>grânum</nsi> for <nsi>gârnum:</nsi> Goth. <nsi>kaurn:</nsi>
+# 195 --------------------------------------------------
+ῖ  (\u1fd6)    12 := GREEK SMALL LETTER IOTA WITH PERISPOMENI
+Page0198-c+ 75 :: Katipaya, as, ā :: 45172 :: <>affix {%paya%} has been compared with Gr. <g>ποῖος</g>]
+Page0202-a+ 80 :: kapi :: 45925 :: <>monkey; [cf. Gr. <g>κῆπος, κεῖπος;</g> Old Germ. <nsi>affo;</nsi>
+Page0206-c+ 76 :: Karkaṭa, as, :: 47016 :: <>{%kaśa;%} cf. also Gr. <g>καρκῖνος;</g> Lat. <nsi>cancer.</nsi>] {%--Karkaṭa-%}
+Page0237-c+ 78 :: kumAra :: 53965 :: <><g>μεῖραξ, μειράκιον</g> ?]. {%--Kumāra-gupta, as,%} m., N.
+Page0256-a+ 71 :: kola :: 58127 :: <><g>χοῖρος.</g>] {%--Kola-kanda, as,%} m. a sort of bulbous
+Page0296-c+ 79 :: go :: 67495 :: <>Lett. <nsi>gohw;</nsi> cf. also Gr. <g>γαῖα, γῆ;</g> Goth. <nsi>gavi;</nsi>
+Page0303-a+ 81 :: grah :: 68932 :: <>conceive;’ Gr. <g>γρῖφος, γρῖπος:</g> cf. also Lat. <nsi>gero;</nsi>
+Page0303-a+ 81 :: grah :: 68932 :: <>conceive;’ Gr. <g>γρῖφος, γρῖπος:</g> cf. also Lat. <nsi>gero;</nsi>
+Page0305-c+ 71 :: glOcukAyanaka :: 69591 :: <>per of Glućukāyani; [cf. the Gr. <g>Γλαυκανῖκαι.</g>]
+Page0351-a+ 71 :: jenya :: 80013 :: <>noble origin (<g>γενναῖος</g>); genuine, true. {%--Jenyā-%}
+# 196 --------------------------------------------------
+ῡ  (\u1fe1)     1 := GREEK SMALL LETTER UPSILON WITH MACRON
+Page0383-c+ 78 :: tF :: 87414 :: <><g>τρῡτάνη;</g> perphaps also <g>Τάρᾱς, Τρο-ία, Τροιζήν,</g>
+# 197 --------------------------------------------------
+ῤ  (\u1fe4)     1 := GREEK SMALL LETTER RHO WITH PSILI
+Page0230-b+ 71 :: kirmIra :: 52412 :: <>by Bhīma-sena; [cf. Gr. <g>κιῤῥός</g>] {%--Kirmīra-jit, t,%} m.
+# 198 --------------------------------------------------
+ῥ  (\u1fe5)     4 := GREEK SMALL LETTER RHO WITH DASIA
+Page0230-b+ 71 :: kirmIra :: 52412 :: <>by Bhīma-sena; [cf. Gr. <g>κιῤῥός</g>] {%--Kirmīra-jit, t,%} m.
+Page0267-a+ 79 :: kzip :: 60685 :: <>Gr. <g>ῥίπτω</g> for <g>κρίπτω</g> Cambro-Brit. <nsi>hipiaw,</nsi> ‘to
+Page0310-a+ 73 :: GrA :: 70605 :: <><nsi>kwepju, kwapas;</nsi> Gr. <g>ἄρωμα; ῥίς, ῥιν-ος.</g>]
+Page0310-a+ 73 :: GrA :: 70605 :: <><nsi>kwepju, kwapas;</nsi> Gr. <g>ἄρωμα; ῥίς, ῥιν-ος.</g>]
+# 199 --------------------------------------------------
+ῦ  (\u1fe6)    12 := GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+Page0237-c+ 78 :: kumAra :: 53964 :: <>{%dāksha%}); ({%am%}), n. pure gold; [Gr. <g>κόρος, κοῦρος;</g>
+Page0249-c+ 76 :: kfS :: 56707 :: <><nsi>parum, parvus, paucus;</nsi> Gr. <g>παῦρος</g> Goth.
+Page0269-c+ 78 :: kzuB :: 61241 :: <>make a sudden push;’ Gr. <g>κοῦφος;</g> Mod. Germ.
+Page0296-c+ 79 :: go :: 67493 :: <>{%vratam,%} N. of a Sāman; [cf. Gr. <g>βοῦς;</g> Lat. <nsi>bos;</nsi>
+Page0327-b+ 68 :: cIv :: 74615 :: <><g>σκεῦος.</g>]
+Page0350-c+ 78 :: jF :: 79920 :: <><nsi>criona,</nsi> ‘old, ancient:’ Gr. <g>γέρων, γεραιός, γραῦς,</g>
+Page0351-c+ 74 :: jYA :: 80180 :: <><g>γνῶθι, ἔγνων, γνῶσις; (γ)νοέω, (γ)νοῦς; γιγνώ-</g>
+Page0372-c+ 74 :: tAvuri :: 84944 :: <>Gr. <g>ταῦρος</g>), the sign of the Zodiac Taurus.
+Page0383-c+ 78 :: tF :: 87412 :: <><g>ο-ς, τόρ-νο-ς, τορ-ύνη, τορ-εύ-ω, τρῦ-μα, τρῶ-μα,</g>
+Page0383-c+ 78 :: tF :: 87415 :: <><g>τελέω, τέλειος, τελευτή, τᾶλις, θραύ-ω, τραῦ-μα</g>
+# 200 --------------------------------------------------
+ῶ  (\u1ff6)     6 := GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+Page0265-a+ 78 :: kzan :: 60167 :: <>{%shanti;%} [cf. Gr. <g>καίνω, κανῶ; καίνυται</g> {%= kshaṇute;%}
+Page0273-c+ 77 :: Kan :: 62181 :: <>[cf. Gr. <g>χαίνω, χανῶ;</g> Old Germ. <nsi>ginêm, ginôm;</nsi>
+Page0351-c+ 74 :: jYA :: 80180 :: <><g>γνῶθι, ἔγνων, γνῶσις; (γ)νοέω, (γ)νοῦς; γιγνώ-</g>
+Page0351-c+ 74 :: jYA :: 80180 :: <><g>γνῶθι, ἔγνων, γνῶσις; (γ)νοέω, (γ)νοῦς; γιγνώ-</g>
+Page0353-b+ 79 :: Jyotis, is, :: 80602 :: <><g>φάος, φῶς</g>]; N. of the Jyotishṭoma as applied to
+Page0383-c+ 78 :: tF :: 87412 :: <><g>ο-ς, τόρ-νο-ς, τορ-ύνη, τορ-εύ-ω, τρῦ-μα, τρῶ-μα,</g>
+# 201 --------------------------------------------------
+‘  (\u2018) 12414 := LEFT SINGLE QUOTATION MARK
+Pagev+ 45 :: NO HW :: 57 :: <>structure. I hail such an excellent work as the ‘Historical
+Pagevi+ 55 :: NO HW :: 71 :: <>our system of ‘Schools’ at Oxford is somewhat different, yet,
+Pagevi+ 55 :: NO HW :: 93 :: <>trench not only on Ethnology, but even on Biology. This ‘science of language’ might with more
+Pagevi+ 55 :: NO HW :: 94 :: <>propriety be called ‘Glossology’ than Philology. In its method of investigation it has much in
+Pagevi+ 55 :: NO HW :: 98 :: <>the natural sciences properly so called. With the ‘Glossologist’ every spoken word is like a plant
+Pagevi+ 55 :: NO HW :: 104 :: <>name implies ‘Synthesis,’ and whose literature, commencing with the Ṛig-veda about 1500 B.C.,
+Pagevi+ 55 :: NO HW :: 107 :: <P>In point of fact the Hindūs may be said to be the original inventors of the ‘science of language.’
+Pagevi+ 55 :: NO HW :: 111 :: <>give to their grammar, implies ‘decomposition’ or ‘resolution of a compound into its parts,’ just as
+Pagevi+ 55 :: NO HW :: 111 :: <>give to their grammar, implies ‘decomposition’ or ‘resolution of a compound into its parts,’ just as
+Pagevii+ 61 :: NO HW :: 124 :: <>would be his wish as Boden Professor to offer to the cultivators of Sanskṛit ‘other and better
+# 202 --------------------------------------------------
+’  (\u2019) 12252 := RIGHT SINGLE QUOTATION MARK
+Pagev+ 45 :: NO HW :: 58 :: <>Grammar of the French Tongue by Auguste Brachet,’ trans-
+Pagevi+ 55 :: NO HW :: 71 :: <>our system of ‘Schools’ at Oxford is somewhat different, yet,
+Pagevi+ 55 :: NO HW :: 93 :: <>trench not only on Ethnology, but even on Biology. This ‘science of language’ might with more
+Pagevi+ 55 :: NO HW :: 94 :: <>propriety be called ‘Glossology’ than Philology. In its method of investigation it has much in
+Pagevi+ 55 :: NO HW :: 98 :: <>the natural sciences properly so called. With the ‘Glossologist’ every spoken word is like a plant
+Pagevi+ 55 :: NO HW :: 104 :: <>name implies ‘Synthesis,’ and whose literature, commencing with the Ṛig-veda about 1500 B.C.,
+Pagevi+ 55 :: NO HW :: 107 :: <P>In point of fact the Hindūs may be said to be the original inventors of the ‘science of language.’
+Pagevi+ 55 :: NO HW :: 111 :: <>give to their grammar, implies ‘decomposition’ or ‘resolution of a compound into its parts,’ just as
+Pagevi+ 55 :: NO HW :: 111 :: <>give to their grammar, implies ‘decomposition’ or ‘resolution of a compound into its parts,’ just as
+Pagevii+ 61 :: NO HW :: 125 :: <>assistance.’
+# 203 --------------------------------------------------
+“  (\u201c)    10 := LEFT DOUBLE QUOTATION MARK
+Page0010-a+ 72 :: ajahat :: 3667 :: <>is not dropped, as “white ones” for “white horses,”
+Page0010-a+ 72 :: ajahat :: 3667 :: <>is not dropped, as “white ones” for “white horses,”
+Page0010-a+ 72 :: ajahat :: 3668 :: <>“lances” for “men with lances.” {%--Ajahal-lińga,%}
+Page0010-a+ 72 :: ajahat :: 3668 :: <>“lances” for “men with lances.” {%--Ajahal-lińga,%}
+Page0019-b+ 76 :: adButa :: 5695 :: <>Catechu); title of a book on the “Essence of Prodi-
+Page0024-b+ 73 :: Adhvaryu, us, :: 6808 :: <>vas “had to measure the ground, to build the altar,
+Page0024-c+ 75 :: anati- :: 6938 :: <>the sense of “not exceedingly,” sense of diminutive
+Page0027-a+ 68 :: anavakASa :: 7392 :: <>no opportunity; uncalled for (there being no “occa-
+Page0032-b+ 68 :: Anu-kalpa, as, :: 8499 :: <>native or substitute, as “instead of Kuśa grass you
+Page0481-a+ 75 :: nAsti :: 110224 :: <>non-existence. {%--Nāsti-vāda, as,%} m. “assertion of ‘it
+# 204 --------------------------------------------------
+”  (\u201d)    10 := RIGHT DOUBLE QUOTATION MARK
+Page0010-a+ 72 :: ajahat :: 3667 :: <>is not dropped, as “white ones” for “white horses,”
+Page0010-a+ 72 :: ajahat :: 3667 :: <>is not dropped, as “white ones” for “white horses,”
+Page0010-a+ 72 :: ajahat :: 3668 :: <>“lances” for “men with lances.” {%--Ajahal-lińga,%}
+Page0010-a+ 72 :: ajahat :: 3668 :: <>“lances” for “men with lances.” {%--Ajahal-lińga,%}
+Page0019-b+ 76 :: adButa :: 5696 :: <>gies.” {%--Adbhuta-svana, as,%} m. (having a wonderful
+Page0024-b+ 73 :: Adhvaryu, us, :: 6811 :: <>immolate it.” Whilst engaged in these duties, they
+Page0024-c+ 75 :: anati- :: 6938 :: <>the sense of “not exceedingly,” sense of diminutive
+Page0027-a+ 68 :: anavakASa :: 7393 :: <>sion” for it), inapplicable.
+Page0032-b+ 68 :: Anu-kalpa, as, :: 8500 :: <>may use Dūrbā.”
+Page0481-a+ 75 :: nAsti :: 110225 :: <>is not’ or of non-existence,” infidelity.
+# 205 --------------------------------------------------
+†  (\u2020)    42 := DAGGER
+Pagevi+ 55 :: NO HW :: 82 :: <F>†) The debt which we English scholars owe to Professor Max
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 224 :: <F>†) Though the younger sisters sometimes preserve older forms.</F>, and English one of the youngest) proceeded from
+Pageix+ 27 :: Plan and Arrangement of the Present Work. :: 352 :: <F>†) For a further insight into these Arabic formations, the student
+Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 400 :: <F>†) The number of distinct radical forms in Wilkins' collection
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 425 :: <F>†) Even in English this might advantageously be done, as, for
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 525 :: <F>†) Of course the provincialized Prākṛits, though not, as I
+Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 646 :: <F>†) Though some Sanskṛit books--such as Profiessor Aufrecht's
+Pagexvi+ 55 :: Plan and Arrangement of the Present Work. :: 712 :: <F>†) According to Mr. Edward Thomas (Prinsep's Indian Anti-
+Pagexviii+ 55 :: Plan and Arrangement of the Present Work. :: 836 :: <F>†) What should we think of an English Dictionary which, dis-
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 856 :: <F>†) At any rate, it is to be hoped that the hyphen will not be
+# 206 --------------------------------------------------
+‡  (\u2021)     4 := DOUBLE DAGGER
+Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 234 :: <F>‡) As this is the first Oriental Dictionary put forth by any
+Pagexi+ 52 :: Plan and Arrangement of the Present Work. :: 437 :: <F>‡) See, for example, the roots 1. {%su,%} 2. {%su,%} 3. {%su,%} 4. {%su,%} at p. 1117,
+Pagexiii+ 64 :: Plan and Arrangement of the Present Work. :: 552 :: <F>‡) The systems of philosophy are properly only three: 1. the
+Pagexix+ 61 :: Plan and Arrangement of the Present Work. :: 893 :: <F>‡) A hint might be taken from Anglo-Saxon d{??}, as before
+# 207 --------------------------------------------------
+′  (\u2032)     2 := PRIME
+Page0739-b+ 81 :: maDya :: 169529 :: <>in lat. 23º 10′ , long. 75º 47′  E.) {%--Madhya-lagna,%}
+Page0739-b+ 81 :: maDya :: 169529 :: <>in lat. 23º 10′ , long. 75º 47′  E.) {%--Madhya-lagna,%}
+*******************************

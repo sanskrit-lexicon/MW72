@@ -1,0 +1,63 @@
+Unexpected headword 1 @ linenum 4007 line= <P>.{#awani, awavi, awAwyA,#}¦ &c., see under
+Unexpected headword 1 @ linenum 5871 line= <P>.{#aDamarRA, aDamarRika,#}¦ &c. See above, under
+Unexpected headword 1 @ linenum 11704 line= <P>.{#anyacca, anyatas, anyaTA, anyadA, anyonya.#}¦
+Unexpected headword 1 @ linenum 20492 line= <P>.{#avakawa, avakuwAra.#}¦ See above.
+Unexpected headword 1 @ linenum 31283 line= <P>.{#Ahava, Ahavana, Ahva,#}¦ &c. See under
+Unexpected headword 1 @ linenum 45602 line= <P>.{#kanizWa, kanI, kanIna, kanIyas.#}¦ See under
+Unexpected headword 1 @ linenum 206765 line= <P>.{#vasu#}¦ vasu See p. 896, col. 3.
+244036 lines written to italics.txt
+Osc* 1
+Boh* 1
+Lit 1
+Pra1k* 1
+Gae7l 1
+Lett* 1
+Scot* 1
+Osset 1
+Armen* 1
+Bret 1
+Zend 1
+Icel 1
+Dor* 1
+Umbr* 2
+Armor* 2
+Bohem* 2
+Arm 2
+Engl* 3
+Sabin 3
+Boh 4
+Pol 5
+Brit* 5
+Osk 5
+Armen 6
+Bohem 6
+Engl 7
+Armor 8
+Russ* 8
+Osc 8
+Scot 10
+Lett 11
+Island 12
+Eng* 12
+Umbr 14
+Pruss 19
+Slav* 31
+Lith* 40
+Hib* 43
+Sax* 44
+Brit 51
+Russ 54
+Goth* 55
+Germ* 76
+Eng 91
+Lat* 101
+Slav 191
+Sax 317
+Lith 338
+Hib 358
+Goth 375
+Germ 563
+Lat 723
+hw1 25827
+hw2 29547
+ 185044

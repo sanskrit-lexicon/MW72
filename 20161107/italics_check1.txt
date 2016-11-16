@@ -1,0 +1,368 @@
+; 3@a@1665@Eng@un,
+3@a@1666@Eng-IMP@eka
+; 3@a@1665@Eng@un,
+3@a@1666@Eng-IMP@an-eka
+; 3@a@1665@Eng@un,
+3@a@1667@Eng-IMP@anta
+; 3@a@1665@Eng@un,
+3@a@1667@Eng-IMP@an-anta
+; 3@a@1665@Eng@un,
+3@a@1667@Eng-IMP@pas4yat
+; 3@a@1665@Eng@un,
+3@a@1667@Eng-IMP@a-pas4yat
+; 26@aMhati@1755@Lat@ango
+26@aMhati@1756@Lat-IMP@an6hati1,
+; 34@ak@1779@Lat@angulus
+34@ak@1779@Lat-IMP@ag.
+; 462@ajira@3742@Lat@ager?
+462@ajira@3743@Lat-IMP@am
+; 505@ajra@3859@Lat@ager;
+505@ajra@3860@Lat-IMP@ajira
+; 624@ati@4224@Zend@aiti
+624@ati@4225@Zend-IMP@ati-
+; 624@ati@4224@Zend@aiti
+624@ati@4226@Zend-IMP@kramitum,
+; 1401@an@6835@Lat@animus
+1401@an@6836@Lat-IMP@a1nayati, -yitum:
+; 1401@an@6835@Lat@animus
+1401@an@6836@Lat-IMP@aninishati.
+; 2877@aneka@10714@Eng@x, y, z,
+2877@aneka@10715@Eng-IMP@aneka-varn2a-gun2ana,
+; 2877@aneka@10714@Eng@x, y, z,
+2877@aneka@10716@Eng-IMP@gun2ana
+; 2921@antar@10897@Goth@undar
+2921@antar@10898@Goth-IMP@antar
+; 2923@antara@11121@Lat@alter
+2923@antara@11121@Lat-IMP@Antaram
+; 2923@antara@11121@Lat@alter
+2923@antara@11121@Lat-IMP@antara-tas,
+; 3686@api@13455@Germ*@be
+3686@api@13456@Germ*-IMP@abhi.
+; 5567@ambu@18289@Lat@imber
+5567@ambu@18291@Lat-IMP@= amba1
+; 5619@ayas@18567@Germ*@Eisen
+5619@ayas@18567@Germ*-IMP@a1s
+; 5921@arDa@19748@Osset@ardag
+5921@arDa@19748@Osset-IMP@ardha ardha,
+; 5921@arDa@19748@Osset@ardag
+5921@arDa@19749@Osset-IMP@as, am
+; 7324@azwan@23713@Slav@osmj
+7324@azwan@23714@Slav-IMP@asht2a1,
+; 7324@azwan@23713@Slav@osmj
+7324@azwan@23714@Slav-IMP@asht2a1-
+; 7324@azwan@23713@Slav@osmj
+7324@azwan@23715@Slav-IMP@das4an,
+; 7324@azwan@23713@Slav@osmj
+7324@azwan@23715@Slav-IMP@asht2a1das4a, as, i1, am,
+; 7729@ah@25125@Lat@nego
+7729@ah@25125@Lat-IMP@n'--ego,
+; 7737@ahan@25147@Eng@day,
+7737@ahan@25148@Eng-IMP@dahan
+; 7737@ahan@25147@Eng@day,
+7737@ahan@25148@Eng-IMP@dah;
+; 7737@ahan@25147@Eng@day,
+7737@ahan@25149@Eng-IMP@ahas,
+; 7737@ahan@25147@Eng@day,
+7737@ahan@25149@Eng-IMP@ahan;
+; 9402@Avis@30188@Lat@ex?
+9402@Avis@30190@Lat-IMP@as, bhu1,
+; 9402@Avis@30188@Lat@ex?
+9402@Avis@30190@Lat-IMP@kr2i.
+; 9597@As@30823@Lat@os
+9597@As@30824@Lat-IMP@a1sas,
+; 9899@idam@31873@Lat\@idem;
+9899@idam@31874@Lat\-IMP@a;
+; 10456@uttara@34183@Eng@a
+10456@uttara@34184@Eng-IMP@uttare danta1s,
+; 10665@ud@34969@Hib\@os-car,
+10665@ud@34969@Hib\-IMP@ut-
+; 10665@ud@34969@Hib\@os-car,
+10665@ud@34970@Hib\-IMP@tama,
+; 10665@ud@34969@Hib\@os-car,
+10665@ud@34970@Hib\-IMP@ut-tara,
+; 12520@Urj@40344@Eng@work
+12520@Urj@40346@Eng-IMP@ish
+; 12520@Urj@40344@Eng@work
+12520@Urj@40346@Eng-IMP@isham u1rjam as4yuh2,
+; 12629@fRa@40930@Lat@reus
+12629@fRa@40930@Lat-IMP@am
+; 12629@fRa@40930@Lat@reus
+12629@fRa@40931@Lat-IMP@dhana
+; 12629@fRa@40930@Lat@reus
+12629@fRa@40931@Lat-IMP@r2iktha,
+; 12990@ozWa@43180@Lat@ostium.
+12990@ozWa@43181@Lat-IMP@a
+; 12990@ozWa@43180@Lat@ostium.
+12990@ozWa@43181@Lat-IMP@a1
+; 12990@ozWa@43180@Lat@ostium.
+12990@ozWa@43181@Lat-IMP@osht2ha
+; 12990@ozWa@43180@Lat@ostium.
+12990@ozWa@43182@Lat-IMP@bimba + osht2ha
+; 13237@ka@43819@Eng1@keep
+13237@ka@43819@Eng1-IMP@king
+; 13238@ka@43845@Eng@a
+13238@ka@43847@Eng-IMP@kesha1m2 kim2 s4a1stram adhyayani1yam,
+; 13238@ka@43848@Eng@a
+13238@ka@43849@Eng-IMP@kim
+; 13919@karman@47590@Eng@c
+13919@karman@47590@Eng-IMP@karma-karta1rau,
+; 14768@kim@52145@Lat@num, an,
+14768@kim@52147@Lat-IMP@kim2 vya1dha1 vane
+; 15319@kula@54504@Hib@gaol,
+15319@kula@54505@Hib-IMP@Kuli
+; 15319@kula@54504@Hib@gaol,
+15319@kula@54505@Hib-IMP@kuli1,
+; 15381@kulva@54891@Lat@calvus
+15381@kulva@54891@Lat-IMP@ati-kulva,
+; 16243@krozwu@59551@Eng@c
+16243@krozwu@59553@Eng-IMP@krosht2a1
+; 16243@krozwu@59551@Eng@c
+16243@krozwu@59553@Eng-IMP@krosht2us
+; 17142@gargara@64632@Lat@gurges
+17142@gargara@64634@Lat-IMP@as, i1
+; 17822@grAhaka@69188@Germ@greif
+17822@grAhaka@69189@Germ-IMP@= sita1vara;
+; 19259@jana@76808@Lat@hic homo
+19259@jana@76810@Lat-IMP@jana-
+; 20087@Ya@81057@Eng1@inch;
+20087@Ya@81058@Eng1-IMP@j, jh,
+; 20087@Ya@81057@Eng1@inch;
+20087@Ya@81058@Eng1-IMP@n
+; 20087@Ya@81057@Eng1@inch;
+20087@Ya@81058@Eng1-IMP@singe
+; 20156@qa@81235@Eng1@drum,
+20156@qa@81237@Eng1-IMP@d2
+; 20339@tad@81987@Lat@ille
+20339@tad@81987@Lat-IMP@so'ham,
+; 20339@tad@81987@Lat@ille
+20339@tad@81988@Lat-IMP@te vayam,
+; 20339@tad@81987@Lat@ille
+20339@tad@81988@Lat-IMP@ta1v imau,
+; 20339@tad@81987@Lat@ille
+20339@tad@81989@Lat-IMP@tad etad,
+; 20339@tad@81987@Lat@ille
+20339@tad@81989@Lat-IMP@yat tat ka1-
+; 20532@tarawa@83312@Hindi@t2a1mMMkala1;
+20532@tarawa@83312@Hindi-IMP@taradi1.
+; 21023@tu@85948@Lat@dum,
+21023@tu@85949@Lat-IMP@a1 tveta,
+; 21549@tri@88733@Lat@triplex
+21549@tri@88735@Lat-IMP@us
+; 21560@trita@89581@Zend?@Feridun.
+21560@trita@89583@Zend?-IMP@Trita
+; 21897@dama@91721@Sax*@timber, timbrian
+21897@dama@91721@Sax*-IMP@as, a1, am
+; 21897@dama@91721@Sax*@timber, timbrian
+21897@dama@91722@Sax*-IMP@arin-dama; (as),
+; 22022@daSasya@92615@Lat@decus;
+22022@daSasya@92615@Lat-IMP@da1s4
+; 22022@daSasya@92615@Lat@decus;
+22022@daSasya@92616@Lat-IMP@das4asyati,
+; 22035@das@92676@Eng@toss
+22035@das@92676@Eng-IMP@dan6sati, dan6sayati,
+; 22035@das@92676@Eng@toss
+22035@das@92677@Eng-IMP@dan6s
+; 22035@das@92676@Eng@toss
+22035@das@92678@Eng-IMP@dasayati, da1sayati, -yitum,
+; 22071@dAna@92986@Lat@donum
+22071@dAna@92987@Lat-IMP@udaka-dº,
+; 22377@div@94334@Zend@dae10va,
+22377@div@94335@Zend-IMP@= dyaus;
+; 22377@div@94334@Zend@dae10va,
+22377@div@94335@Zend-IMP@= divas;
+; 22561@dus@96946@Hib@do-bhasuighte,
+22561@dus@96946@Hib-IMP@Dus
+; 22561@dus@96946@Hib@do-bhasuighte,
+22561@dus@96947@Hib-IMP@dur,
+; 22561@dus@96946@Hib@do-bhasuighte,
+22561@dus@96948@Hib-IMP@du1,
+; 22561@dus@96946@Hib@do-bhasuighte,
+22561@dus@96948@Hib-IMP@r;
+; 22561@dus@96946@Hib@do-bhasuighte,
+22561@dus@96948@Hib-IMP@t, th
+; 23093@dvi@101601@Lat@bi-pes;
+23093@dvi@101602@Lat-IMP@dvi-pada1
+; 23093@dvi@101601@Lat@bi-pes;
+23093@dvi@101603@Lat-IMP@r2ic4,
+; 23093@dvi@101601@Lat@bi-pes;
+23093@dvi@101603@Lat-IMP@dvi-pada1 r2ik,
+; 23733@nakis@106203@Lat@quis
+23733@nakis@106204@Lat-IMP@na
+; 23733@nakis@106203@Lat@quis
+23733@nakis@106205@Lat-IMP@na-kir.
+; 24034@nAga@108775@Eng@snake;
+24034@nAga@108776@Eng-IMP@naga,
+; 24034@nAga@108775@Eng@snake;
+24034@nAga@108776@Eng-IMP@nagna,
+; 24034@nAga@108775@Eng@snake;
+24034@nAga@108777@Eng-IMP@dah
+; 24034@nAga@108775@Eng@snake;
+24034@nAga@108777@Eng-IMP@d
+; 24034@nAga@108775@Eng@snake;
+24034@nAga@108777@Eng-IMP@n
+; 26383@nf@117636@Eng@b;
+26383@nf@117636@Eng-IMP@nara1m
+; 26383@nf@117636@Eng@b;
+26383@nf@117637@Eng-IMP@nr2in2a1m
+; 26383@nf@117636@Eng@b;
+26383@nf@117637@Eng-IMP@nr2i1n2a1m
+; 26988@para@121920@Lat@summus,
+26988@para@121921@Lat-IMP@param Brahman,
+; 26988@para@121920@Lat@summus,
+26988@para@121922@Lat-IMP@parah2 ka1lah2,
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127635@Lat-IMP@bandh;
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127636@Lat-IMP@pas4;
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127636@Lat-IMP@pas4va1,
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127636@Lat-IMP@pas4vas,
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127637@Lat-IMP@pas4va1,
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127637@Lat-IMP@pas4ve,
+; 28588@paSu@127635@Lat@bestia
+28588@paSu@127637@Lat-IMP@pas4vas
+; 29621@puzya@134807@Lat@flos
+29621@puzya@134808@Lat-IMP@as
+; 29800@pfzWa@136598@Eng@c
+29800@pfzWa@136599@Eng-IMP@prasht2ha-va1h
+; 29800@pfzWa@136598@Eng@c
+29800@pfzWa@136599@Eng-IMP@pasht2ha-va1h
+; 35677@BUman@164436@Lat@humus
+35677@BUman@164437@Lat-IMP@a1
+; 35715@Bf@164881@Lat@ferri
+35715@Bf@164883@Lat-IMP@bhr2i
+; 36055@maGa@166896@Eng@c;
+36055@maGa@166896@Eng-IMP@magha-vat
+; 36578@marya@172186@Lat@mas, maritus
+36578@marya@172187@Lat-IMP@a1s
+; 36710@mahA@174051@Hindu@maha1wat
+36710@mahA@174051@Hindu-IMP@i1
+; 36794@mA@175435@Lat@ne.
+36794@mA@175435@Lat-IMP@Ma1
+; 36794@mA@175435@Lat@ne.
+36794@mA@175437@Lat-IMP@ma1
+; 36839@mAkis@176071@Lat@ne,
+36839@mAkis@176072@Lat-IMP@ma1-kir
+; 36839@mAkis@176071@Lat@ne,
+36839@mAkis@176072@Lat-IMP@durita1ya dha1yi1h2,
+; 36839@mAkis@176073@Lat@ne-quis,
+36839@mAkis@176074@Lat-IMP@ma1-kir ena1 patha1 ga1t,
+; 36839@mAkis@176073@Lat@ne-quis,
+36839@mAkis@176075@Lat-IMP@anena
+; 38005@mEtra@182963@Lat@Caius
+38005@mEtra@182964@Lat-IMP@i1
+; 38005@mEtra@182963@Lat@Caius
+38005@mEtra@182964@Lat-IMP@maitrya
+; 38346@yati@184920@Lat@quot
+38346@yati@184921@Lat-IMP@yati
+; 38461@yavizWa@186653@Germ@jungisto.
+38461@yavizWa@186653@Germ-IMP@ya-
+; 38461@yavizWa@186653@Germ@jungisto.
+38461@yavizWa@186654@Germ-IMP@visht2ha-vat, a1n, ati1, at,
+; 38461@yavizWa@186653@Germ@jungisto.
+38461@yavizWa@186654@Germ-IMP@ya-
+; 38461@yavizWa@186653@Germ@jungisto.
+38461@yavizWa@186655@Germ-IMP@visht2ha
+; 38470@yaSas@186676@Lat@decus,
+38470@yaSas@186676@Lat-IMP@das4
+; 38659@yAvat@187676@Lat@quot
+38659@yAvat@187678@Lat-IMP@ta1vat
+; 38659@yAvat@187676@Lat@quot
+38659@yAvat@187678@Lat-IMP@ya1vat-ta1vat,
+; 39275@rAta@192546@Lat@ratum esto
+39275@rAta@192547@Lat-IMP@asmad-rº,
+; 39275@rAta@192546@Lat@ratum esto
+39275@rAta@192548@Lat-IMP@ki1rtti-rº, deva-rº, brahma-rº); (as),
+; 39733@rUkza@195951@Pra1kr2it@rukkha =
+39733@rUkza@195952@Pra1kr2it-IMP@a1
+; 39831@rE@196446@Lat@rem;
+39831@rE@196447@Lat-IMP@rai
+; 40811@va@201434@Eng@w;
+40811@va@201435@Eng-IMP@b,
+; 41354@varga@205002@Zend@verez;
+41354@varga@205003@Zend-IMP@a1
+; 41743@vAGat@207301@Lat*@va1gire,
+41743@vAGat@207302@Lat*-IMP@= r2itvij
+; 41743@vAGat@207301@Lat*@va1gire,
+41743@vAGat@207302@Lat*-IMP@= medha1vin
+; 41743@vAGat@207301@Lat*@va1gire,
+41743@vAGat@207303@Lat*-IMP@= va1haka = as4va
+; 42117@vi@209328@Sax@œg.
+42117@vi@209328@Sax-IMP@vi-gata, am,
+; 42117@vi@209328@Sax@œg.
+42117@vi@209328@Sax-IMP@vi-
+; 42117@vi@209328@Sax@œg.
+42117@vi@209329@Sax-IMP@gam
+; 43111@vinistap@213019@Eng1@repeated
+43111@vinistap@213020@Eng1-IMP@sh
+; 44834@veda@222004@Lat@video
+44834@veda@222004@Lat-IMP@vid,
+; 47333@SradDA@235982@Lat@cred-do
+47333@SradDA@235983@Lat-IMP@-dadha1ti, -dhatte, -dha1tum,
+; 47333@SradDA@235982@Lat@cred-do
+47333@SradDA@235984@Lat-IMP@s4raddha1tum
+; 47566@Svan@237432@Eng@a
+47566@Svan@237432@Eng-IMP@s4uni1
+; 47566@Svan@237432@Eng@a
+47566@Svan@237433@Eng-IMP@S4van
+; 47566@Svan@237432@Eng@a
+47566@Svan@237433@Eng-IMP@s4va1
+; 47566@Svan@237432@Eng@a
+47566@Svan@237433@Eng-IMP@s4va
+; 47594@Svastana@237648@Lat@crastinus
+47594@Svastana@237648@Lat-IMP@i1
+; 47594@Svastana@237648@Lat@crastinus
+47594@Svastana@237648@Lat-IMP@vibhakti,
+; 47644@za@237950@Eng1@shun.
+47644@za@237951@Eng1-IMP@s
+; 47644@za@237950@Eng1@shun.
+47644@za@237952@Eng1-IMP@sh,
+; 49535@sam@245705@Lat@con,
+49535@sam@245706@Lat-IMP@sam2-yuj,
+; 49535@sam@245705@Lat@con,
+49535@sam@245707@Lat-IMP@san3-c4i,
+; 49535@sam@245705@Lat@con,
+49535@sam@245707@Lat-IMP@san-
+; 51325@sara@251496@Slav@syru
+51325@sara@251497@Slav-IMP@sala, sarira, sa-
+; 51325@sara@251496@Slav@syru
+51325@sara@251498@Slav-IMP@lila
+; 51325@sara@251496@Slav@syru
+51325@sara@251498@Slav-IMP@a1
+; 51641@saha@253303@Lat@soda-lis.
+51641@saha@253303@Lat-IMP@saha-ka1ra, as,
+; 51641@saha@253303@Lat@soda-lis.
+51641@saha@253303@Lat-IMP@sa-
+; 51641@saha@253303@Lat@soda-lis.
+51641@saha@253304@Lat-IMP@haka1ra
+; 51655@sahasra@253529@Pers@haza1r
+51655@sahasra@253530@Pers-IMP@sahasram pitarah2
+; 51655@sahasra@253529@Pers@haza1r
+51655@sahasra@253531@Pers-IMP@sahasram pitr2i1n2a1m,
+; 51922@sAman@255041@Lat@sic
+51922@sAman@255043@Lat-IMP@c4handoga-bra1hman2a, bra1h-
+; 52374@su@258269@Eng1@external
+52374@su@258269@Eng1-IMP@su-
+; 52374@su@258269@Eng1@external
+52374@su@258270@Eng1-IMP@ta1ra1, su-netra1, su-mari1c4ika1,
+; 52374@su@258269@Eng1@external
+52374@su@258270@Eng1-IMP@anuttama1
+; 52374@su@258269@Eng1@external
+52374@su@258271@Eng1-IMP@sa1ttviki1;
+; 52374@su@258269@Eng1@external
+52374@su@258271@Eng1-IMP@salila
+; 53388@sPaw@265229@Eng@split
+53388@sPaw@265230@Eng-IMP@sphat2ati,
+; 53388@sPaw@265229@Eng@split
+53388@sPaw@265231@Eng-IMP@sphut2,
+; 53388@sPaw@265229@Eng@split
+53388@sPaw@265231@Eng-IMP@spha1t2ayati,
+; 53480@smat@265609@Germ@mit
+53480@smat@265610@Germ-IMP@= nityam.
+; 53955@harmya@268954@Lat@formus
+53955@harmya@268956@Lat-IMP@as, 
+; 55067@nistap@272761@Eng1@repeated
+55067@nistap@272762@Eng1-IMP@nish-t2ap.

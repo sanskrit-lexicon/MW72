@@ -1,0 +1,631 @@
+Case 001. key=de7na11, 2 subcases
+
+Subcase 001.01: hw=div, L=22377, lnum=94341: txt=de7na11,
+# 22377@div@94341@@de7na11,
+094340 <>{%%dum, dudum:%} Old Iceland. {%ti1var,%} ‘gods, heroes:’
+094341 <>Old Germ. {%Zio:%} Lith. {%deva-s,%} ‘god;’ {%de7na11,%} ‘day:’
+094342 <>Slav. {%diÇ-naÇ,%} ‘day.’] {%--Divah2-s4yeni1,%} f. epithet of par-
+
+Subcase 001.02: hw=div, L=22377, lnum=94341: txt=de7na11,
+# 22377@div@94341@@de7na11,
+094340 <>{%%dum, dudum:%} Old Iceland. {%ti1var,%} ‘gods, heroes:’
+094341 <>Old Germ. {%Zio:%} Lith. {%deva-s,%} ‘god;’ {%de7na11,%} ‘day:’
+094342 <>Slav. {%diÇ-naÇ,%} ‘day.’] {%--Divah2-s4yeni1,%} f. epithet of par-
+
+------------------------------------------------------------
+Case 002. key=fleogan fliogan fleo4n flio4n aet-flowan fleotan, 2 subcases
+
+Subcase 002.01: hw=plu, L=34159, lnum=152609: txt=fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;
+# 34159@plu@152609@@fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;
+152608 <>{%fluz,%} perhaps {%flug:%} Angl. Sax. {%fleot, fleowan, flod,%%}
+152609 <>{%%fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;%}
+152610 <>Iceland. {%flut:%} Old Slav. {%plov-a, plou-ti,%} ‘to sail;’
+
+Subcase 002.02: hw=plu, L=34159, lnum=152609: txt=fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;
+# 34159@plu@152609@@fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;
+152608 <>{%fluz,%} perhaps {%flug:%} Angl. Sax. {%fleot, fleowan, flod,%%}
+152609 <>{%%fleogan, fliogan, fleo4n, flio4n, aet-flowan, fleotan;%}
+152610 <>Iceland. {%flut:%} Old Slav. {%plov-a, plou-ti,%} ‘to sail;’
+
+------------------------------------------------------------
+Case 003. key=na1k2huni k2hwush, 2 subcases
+
+Subcase 003.01: hw=DUpya, L=23479, lnum=104708: txt=na1k2huni k2hwush.
+# 23479@DUpya@104708@@na1k2huni k2hwush.
+104707 <>mal which when burned emits a fragrant perfume;
+104708 <>[cf. Pers. {%na1k2huni k2hwush.%}]
+104709 <P>{%Dhu1ma, as,%} m. (connected by some with rt. 1. {%dhma1%}),
+
+Subcase 003.02: hw=DUpya, L=23479, lnum=104708: txt=na1k2huni k2hwush.
+# 23479@DUpya@104708@@na1k2huni k2hwush.
+104707 <>mal which when burned emits a fragrant perfume;
+104708 <>[cf. Pers. {%na1k2huni k2hwush.%}]
+104709 <P>{%Dhu1ma, as,%} m. (connected by some with rt. 1. {%dhma1%}),
+
+------------------------------------------------------------
+Case 004. key=plau4-t-is plu4-sti, 2 subcases
+
+Subcase 004.01: hw=plu, L=34159, lnum=152612: txt=plau4-t-is; plu4-sti,
+# 34159@plu@152612@@plau4-t-is; plu4-sti,
+152611 <>{%plu-ti,%} ‘to swim:’ Russ. {%plavaju,%} ‘I swim:’ Lith.
+152612 <>{%pla4u-j-u, plau-ti,%} ‘to wash off;’ {%plau4-t-is; plu4-sti,%}
+152613 <>‘to swim:’ Hib. {%plod,%} ‘a fleet;’ {%plodaim,%} ‘I float;’
+
+Subcase 004.02: hw=plu, L=34159, lnum=152612: txt=plau4-t-is; plu4-sti,
+# 34159@plu@152612@@plau4-t-is; plu4-sti,
+152611 <>{%plu-ti,%} ‘to swim:’ Russ. {%plavaju,%} ‘I swim:’ Lith.
+152612 <>{%pla4u-j-u, plau-ti,%} ‘to wash off;’ {%plau4-t-is; plu4-sti,%}
+152613 <>‘to swim:’ Hib. {%plod,%} ‘a fleet;’ {%plodaim,%} ‘I float;’
+
+------------------------------------------------------------
+Case 005. key=taecan ta4cn ta4cen tier, 2 subcases
+
+Subcase 005.01: hw=diS, L=22394, lnum=94633: txt=taecan, ta4cn, ta4cen, tier
+# 22394@diS@94633@@taecan, ta4cn, ta4cen, tier
+094632 <>{%%taikns, taiknyan;%} Angl. Sax. {%tihian, tihhan,%%}
+094633 <>{%%taecan, ta4cn, ta4cen, tier%} for {%tihher, tiid, ti4d;%} Old
+094634 <>Germ. {%zeig-o1n, zi1t%} for {%zig-ti, zeinyan;%} probably also
+
+Subcase 005.02: hw=diS, L=22394, lnum=94633: txt=taecan, ta4cn, ta4cen, tier
+# 22394@diS@94633@@taecan, ta4cn, ta4cen, tier
+094632 <>{%%taikns, taiknyan;%} Angl. Sax. {%tihian, tihhan,%%}
+094633 <>{%%taecan, ta4cn, ta4cen, tier%} for {%tihher, tiid, ti4d;%} Old
+094634 <>Germ. {%zeig-o1n, zi1t%} for {%zig-ti, zeinyan;%} probably also
+
+------------------------------------------------------------
+Case 006. key=--Hiran2ya-prau7ga, 1 subcases
+
+Subcase 006.01: hw=hiraRya, L=54198, lnum=270352: txt=--Hiran2ya-prau7ga,
+# 54198@hiraRya@270352@@--Hiran2ya-prau7ga,
+270351 <>of a town of the Asuras. {%--Hiran2ya-pes4as, a1s, a1s,%%}
+270352 <>{%%as,%} Ved. having golden lustre. {%--Hiran2ya-prau7ga,%%}
+270353 <>{%%am,%} n., Ved. a golden fore-part of a chariot-pole,
+
+------------------------------------------------------------
+Case 007. key=--N2a-ka1ra as, 1 subcases
+
+Subcase 007.01: hw=Ra, L=20238, lnum=81452: txt=--N2a-ka1ra, as,
+# 20238@Ra@81452@@--N2a-ka1ra, as,
+081451 <P>.{#Ra#}¦ 1. {%n2a,%} the nasal {%n2%} belonging to the
+081452 <>third or cerebral class of consonants. {%--N2a-ka1ra, as,%}
+081453 <>m. the letter or sound {%n2.%}
+
+------------------------------------------------------------
+Case 008. key=--N4a-ka1ra as, 1 subcases
+
+Subcase 008.01: hw=Na, L=18075, lnum=70637: txt=--N4a-ka1ra, as,
+# 18075@Na@70637@@--N4a-ka1ra, as,
+070636 <>preceded by a vowel; the sound of {%n4%} corresponds to
+070637 <>that of {%ng%} in {%song%}. {%--N4a-ka1ra, as,%} m. the letter or
+070638 <>sound {%n4a.%} [Page0310-b+ 76]
+
+------------------------------------------------------------
+Case 009. key=--Prau7ga-c4it t t t, 1 subcases
+
+Subcase 009.01: hw=prauga, L=30109, lnum=137678: txt=--Prau7ga-c4it, t, t, t,
+# 30109@prauga@137678@@--Prau7ga-c4it, t, t, t,
+137677 <>{%%am%}), m. n., N. of the second S4astra or hymn at
+137678 <>the morning libation. {%--Prau7ga-c4it, t, t, t,%} Ved.
+137679 <>arranged in the form of the forepart of a chariot-pole.
+
+------------------------------------------------------------
+Case 010. key=aus2o, 1 subcases
+
+Subcase 010.01: hw=ojas, L=12949, lnum=43014: txt=aus2o;
+# 12949@ojas@43014@@aus2o;
+043013 <>getically); [cf. {%amitaujas, uttamaujas,%} &c.: cf. also
+043014 <>Gr. <g>ὑγιής</g> Zend {%aus2o;%} Hib. {%og,%} ‘young, juvenile,
+043015 <>fresh;’ {%oig,%} ‘a champion;’ {%oighe,%} ‘entireness, virginity.’]
+
+------------------------------------------------------------
+Case 011. key=bodru7i, 1 subcases
+
+Subcase 011.01: hw=buD, L=34779, lnum=156806: txt=bodru7iÇ,
+# 34779@buD@156806@@bodru7iÇ,
+156805 <>awakens;’ {%buÇd-eÇ-ti,%} ‘to wake:’ Russ. {%bdju,%} ‘I
+156806 <>wake;’ {%bodru7iÇ,%} ‘wakeful:’ Lith. {%bund-u11,%} Inf. {%bu-%%}
+156807 <>{%%de4ti,%} ‘to wake;’ {%bud-ru11-s,%} ‘wakeful.’]
+
+------------------------------------------------------------
+Case 012. key=bro4-li-s, 1 subcases
+
+Subcase 012.01: hw=BrAtf, L=35959, lnum=166404: txt=bro4-li-s,
+# 35959@BrAtf@166404@@bro4-li-s,
+166403 <>Angl. Sax. {%bro4dhor:%} Old Germ. {%bruodar:%} Slav.
+166404 <>{%bra1truÇ:%} Lith. {%broter-eli-s,%} a diminutive; {%bro4-li-s,%}
+166405 <>‘brother;’ {%brotu11-szi-s,%} ‘a cousin:’ Old Pruss. {%bra-%%}
+
+------------------------------------------------------------
+Case 013. key=bug-an bea4g beagrian boga eln-boga el-, 1 subcases
+
+Subcase 013.01: hw=Buj, L=35611, lnum=163293: txt=bug-an, bea4g, beagrian, boga, eln-boga, el-
+# 35611@Buj@163293@@bug-an, bea4g, beagrian, boga, eln-boga, el-
+163292 <>{%%fugare:%} Goth. {%biug-an:%} Angl. Sax. {%big-an,%%}
+163293 <>{%%bug-an, bea4g, beagrian, boga, eln-boga, el-%%}
+163294 <>{%%boga:%} Old Germ. {%baug, bogo, elin-bogo, buoc,%%}
+
+------------------------------------------------------------
+Case 014. key=dan5t-an, 1 subcases
+
+Subcase 014.01: hw=danta, L=21869, lnum=91460: txt=dan5t-an,
+# 21869@danta@91460@@dan5t-an,
+091459 <>{%%kud2mala-danti1, kru1ra-danti1,%} &c.: cf. also Zend
+091460 <>{%dan5t-an,%} ‘tooth;’ Gr. <g></g> Æol. pl.
+091461 <><g></g> Lat. {%dens;%} Lith. {%dant-i-s;%} Goth. {%tunth-%%}
+
+------------------------------------------------------------
+Case 015. key=devi11n-ta-s, 1 subcases
+
+Subcase 015.01: hw=navan, L=23976, lnum=108367: txt=devi11n-ta-s,
+# 23976@navan@108367@@devi11n-ta-s,
+108366 <>changed into {%d%} as in {%debes-i-s,%} ‘a cloud,’ from Sanskr2it
+108367 <>{%nabhas%}; {%devi11n-ta-s,%} ‘the ninth:’ Hib. {%naoi,%} ‘nine:’
+108368 <>Cambro-Brit. {%naw,%} ‘nine.’] {%--Navaka1n2d2ika1-bha1-%%}
+
+------------------------------------------------------------
+Case 016. key=dras-a11, 1 subcases
+
+Subcase 016.01: hw=Dfz, L=23536, lnum=105222: txt=dras-a11,
+# 23536@Dfz@105222@@dras-a11,
+105221 <>{%ga-daurs-an,%} ‘to dare:’ Slav. {%driÇz-a-ti, driÇz-na-ti,%}
+105222 <>‘to dare:’ Lith. {%dras-u11-s,%} ‘courageous;’ {%dras-a11,%}
+105223 <>‘courage:’ Hib. {%das-ached,%} ‘fierceness.’]
+
+------------------------------------------------------------
+Case 017. key=du-ma-s du1-ma11, 1 subcases
+
+Subcase 017.01: hw=DU, L=23460, lnum=104633: txt=du-ma-s, du1-ma11,
+# 23460@DU@104633@@du-ma-s, du1-ma11,
+104632 <>‘smoke;’ {%du-chuÇ,%} ‘breath;’ {%du-sha,%} ‘soul:’ Lith. {%du4-%%}
+104633 <>{%%mai,%} ‘smoke;’ {%du-ma-s, du1-ma11,%} ‘thought, mind.’]
+104634 <P>2. {%dhu1, u1s,%} f. shaking, agitating.
+
+------------------------------------------------------------
+Case 018. key=ez4, 1 subcases
+
+Subcase 018.01: hw=maT, L=36219, lnum=168170: txt=ez4Ç,
+# 36219@maT@168170@@ez4Ç,
+168169 <>{%pra-mantha-s,%} q. v.; Lat. {%ment-ula;%} Slav. {%met-%%}
+168170 <>{%%ez4Ç,%} ‘tumult;’ Lith. {%met-uri-s, ment-ure,%} ‘a churn-
+168171 <>ing-stick;’ Hib. {%muidhe, meadar,%} ‘a churn, milk-
+
+------------------------------------------------------------
+Case 019. key=fora-hline10n hli10ta, 1 subcases
+
+Subcase 019.01: hw=Sri, L=47381, lnum=236293: txt=fora-hline10n; hli10ta,
+# 47381@Sri@236293@@fora-hline10n; hli10ta,
+236292 <>{%%hlino10n, hlinen,%} ‘to lean upon;’ {%obahline10n,%} ‘to
+236293 <>excel;’ {%fora-hline10n; hli10ta,%} ‘a declivity;’ {%scri10tan,%}
+236294 <>‘to step;’ {%ga-scri10tan, scrit:%} Angl. Sax. {%hlynian,%%}
+
+------------------------------------------------------------
+Case 020. key=ga-scri10tan scrit, 1 subcases
+
+Subcase 020.01: hw=Sri, L=47381, lnum=236294: txt=ga-scri10tan, scrit:
+# 47381@Sri@236294@@ga-scri10tan, scrit:
+236293 <>excel;’ {%fora-hline10n; hli10ta,%} ‘a declivity;’ {%scri10tan,%}
+236294 <>‘to step;’ {%ga-scri10tan, scrit:%} Angl. Sax. {%hlynian,%%}
+236295 <>{%%hlidh, hlœ-dre, hlœ-der, hold, hal:%} Goth. {%hlains,%%}
+
+------------------------------------------------------------
+Case 021. key=ghola1i7te, 1 subcases
+
+Subcase 021.01: hw=Gol, L=18054, lnum=70571: txt=ghola1i7te.
+# 18054@Gol@70571@@ghola1i7te.
+070570 <>{%%yitum,%} to mix, to stir together into a semi-fluid
+070571 <>substance; Benga1li1 {%ghola1i7te.%}
+070572 <P>{%Ghola, am,%} n. buttermilk; ({%i1%}), f. a kind of plant
+
+------------------------------------------------------------
+Case 022. key=i10lju, 1 subcases
+
+Subcase 022.01: hw=il, L=9971, lnum=32462: txt=i10lju;
+# 9971@il@32462@@i10lju;
+032461 <>cast; to sleep; to move, to go; [a various reading
+032462 <>has the form {%il2:%} cf. Old Germ. {%i10llu, i10llo,%} for {%i10lju;%}
+032463 <>Mod. Germ. {%Eile;%} Cambro-Brit. {%il,%} ‘progress, mo-
+
+------------------------------------------------------------
+Case 023. key=ma-tu4 -, 1 subcases
+
+Subcase 023.01: hw=mA, L=36797, lnum=175551: txt=ma-tu4§-
+# 36797@mA@175551@@ma-tu4§-
+175550 <>{%me10-ta10-re, me10-ta10-ri, me10-ti-or, mensa, mensu10ra:%}
+175551 <>Old Slav. {%me-ra:%} Lith. {%me7-ra,%} ‘measure;’ {%ma-tu4§-%%}
+175552 <>{%%ti,%} ‘to measure;’ {%me4ta-s,%} ‘time, a year:’ Russ.
+
+------------------------------------------------------------
+Case 024. key=ma1u7n2atha, 1 subcases
+
+Subcase 024.01: hw=mAuTa, L=36819, lnum=175909: txt=ma1u7n2atha.
+# 36819@mAuTa@175909@@ma1u7n2atha.
+175908 <P>.{#mAuTa#}¦ {%ma1u7tha,%} N. of a place; (also read
+175909 <>{%ma1u7n2atha.%})
+175910 <P>.{#mAMScatu#}¦ {%ma1n6s4c4atu, us, us, u,%} Ved. (probably
+
+------------------------------------------------------------
+Case 025. key=ma4r-a-s, 1 subcases
+
+Subcase 025.01: hw=mf, L=37777, lnum=181321: txt=ma4r-a-s,
+# 37777@mf@181321@@ma4r-a-s,
+181320 <>‘dead;’ {%s-mer-tj,%} ‘death:’ Lith. {%mir-ti,%} ‘to die;’
+181321 <>{%ma4r-a-s,%} ‘plague;’ {%mo4rai,%} ‘bier;’ {%s-mer-ti,%} ‘death:’
+181322 <>Hib. {%marbhaim,%} ‘I kill, slay;’ {%marbhan,%} ‘a corpse,
+
+------------------------------------------------------------
+Case 026. key=mainy4-ti, 1 subcases
+
+Subcase 026.01: hw=me, L=37900, lnum=182261: txt=mainy4-ti,
+# 37900@me@182261@@mainy4-ti,
+182260 <>{%madhm, mane, man, ge-mœne:%} Slav. {%me-na,%}
+182261 <>‘change:’ Lith. {%mai-na-s,%} ‘exchange;’ {%mainy4-ti,%}
+182262 <>‘to change, exchange.’]
+
+------------------------------------------------------------
+Case 027. key=mo4rai, 1 subcases
+
+Subcase 027.01: hw=mf, L=37777, lnum=181321: txt=mo4rai,
+# 37777@mf@181321@@mo4rai,
+181320 <>‘dead;’ {%s-mer-tj,%} ‘death:’ Lith. {%mir-ti,%} ‘to die;’
+181321 <>{%ma4r-a-s,%} ‘plague;’ {%mo4rai,%} ‘bier;’ {%s-mer-ti,%} ‘death:’
+181322 <>Hib. {%marbhaim,%} ‘I kill, slay;’ {%marbhan,%} ‘a corpse,
+
+------------------------------------------------------------
+Case 028. key=mu4, 1 subcases
+
+Subcase 028.01: hw=pA, L=28627, lnum=128083: txt=mu4§,
+# 28627@pA@128083@@mu4§,
+128082 <>lord;’ {%pe4-nas,%} ‘fodder, food;’ {%pe4nu11,%} ‘I feed;’ {%pe7-%%}
+128083 <>{%%mu4§,%} ‘a shepherd;’ {%pe14-tu-s,%} ‘midday:’ Goth. {%fod-%%}
+128084 <>{%%yan,%} ‘to feed;’ {%fo10d-ein-s,%} ‘food:’ Angl. Sax. {%fod-a:%}
+
+------------------------------------------------------------
+Case 029. key=muhammad k2ha1n, 1 subcases
+
+Subcase 029.01: hw=mahmadaKAna, L=36788, lnum=175419: txt== muhammad k2ha1n
+# 36788@mahmadaKAna@175419@@= muhammad k2ha1n
+175418 <P>.{#mahmadaKAna#}¦ {%mahmada-kha1na, as,%} m., N. of a
+175419 <>man ({%= muhammad k2ha1n%}).
+175420 <P>.{#mahman#}¦ {%mahman,%} see Atharva-veda X. 2, 6.
+
+------------------------------------------------------------
+Case 030. key=nauyo4-ka-s, 1 subcases
+
+Subcase 030.01: hw=nava, L=23964, lnum=108225: txt=nauyo4-ka-s,
+# 23964@nava@108225@@nauyo4-ka-s,
+108224 <>Sax. {%niwe, neow, niwa:%} Lith. {%nau4-ye-s,%} ‘new;’
+108225 <>{%nauyo4-ka-s,%} ‘a novice:’ Slav. {%nov-uÇ,%} ‘new:’ Hib.
+108226 <>{%nua, nuadh.%}] {%--Nava-ka1rika1,%} f. a bride, a woman
+
+------------------------------------------------------------
+Case 031. key=nu4 m-a-s, 1 subcases
+
+Subcase 031.01: hw=nam, L=23873, lnum=107488: txt=nu4§m-a-s,
+# 23873@nam@107488@@nu4§m-a-s,
+107487 <>‘to take,’ originally ‘to subdue:’ Old Germ. {%na1m-a,%}
+107488 <>‘prey:’ Lith. {%na4ma-s,%} ‘a house;’ {%nu4§m-a-s,%} ‘gain:’
+107489 <>Lett. {%nom-a,%} ‘interest:’ probably Hib. {%naomh,%} ‘a
+
+------------------------------------------------------------
+Case 032. key=pa-dribba11, 1 subcases
+
+Subcase 032.01: hw=dru, L=23016, lnum=100716: txt=pa-dribba11,
+# 23016@dru@100716@@pa-dribba11,
+100715 <>{%trofo, trauf, traufi, triufan:%} Lith. {%drebo,%} ‘I trem-
+100716 <>ble;’ {%drimba,%} ‘it drops;’ {%pa-dribba11,%} ‘running of the
+100717 <>eyes:’ Hib. {%driogaim,%} ‘I trickle;’ {%drabh,%} ‘a chariot:’
+
+------------------------------------------------------------
+Case 033. key=pe14-na-s, 1 subcases
+
+Subcase 033.01: hw=pA, L=28603, lnum=127924: txt=pe14-na-s,
+# 28603@pA@127924@@pe14-na-s,
+127923 <>Pruss. {%pou-ton,%} ‘to drink:’ Lith. {%po-ta,%} ‘tippling;’
+127924 <>{%pe14-na-s,%} ‘milk;’ {%py4-va-s,%} ‘beer:’ Angl. Sax. {%beor:%}
+127925 <>Old and Mod. Germ. {%bier.%}]
+
+------------------------------------------------------------
+Case 034. key=pe14-tu-s, 1 subcases
+
+Subcase 034.01: hw=pA, L=28627, lnum=128083: txt=pe14-tu-s,
+# 28627@pA@128083@@pe14-tu-s,
+128082 <>lord;’ {%pe4-nas,%} ‘fodder, food;’ {%pe4nu11,%} ‘I feed;’ {%pe7-%%}
+128083 <>{%%mu4§,%} ‘a shepherd;’ {%pe14-tu-s,%} ‘midday:’ Goth. {%fod-%%}
+128084 <>{%%yan,%} ‘to feed;’ {%fo10d-ein-s,%} ‘food:’ Angl. Sax. {%fod-a:%}
+
+------------------------------------------------------------
+Case 035. key=pe7-, 1 subcases
+
+Subcase 035.01: hw=pA, L=28627, lnum=128082: txt=pe7-
+# 28627@pA@128082@@pe7-
+128081 <>nourish:’ Russ. {%pita4yu,%} ‘I feed:’ Lith. {%po1-nas,%} ‘a
+128082 <>lord;’ {%pe4-nas,%} ‘fodder, food;’ {%pe4nu11,%} ‘I feed;’ {%pe7-%%}
+128083 <>{%%mu4§,%} ‘a shepherd;’ {%pe14-tu-s,%} ‘midday:’ Goth. {%fod-%%}
+
+------------------------------------------------------------
+Case 036. key=ped-a11, 1 subcases
+
+Subcase 036.01: hw=pad, L=26909, lnum=121076: txt=ped-a11,
+# 26909@pad@121076@@ped-a11,
+121075 <>‘fetter;’ {%fuoz,%} ‘foot:’ Mod. Germ. {%fuss:%} Eng. {%foot:%}
+121076 <>Lith. {%pa4d-a-s,%} ‘a sole;’ {%ped-a11,%} ‘a foot-mark:’
+121077 <>Hib. {%faoidh-im,%}  ‘I go;’ {%faidh,%} ‘departure.’]
+
+------------------------------------------------------------
+Case 037. key=peri10-culu-m par-a-re parere partus portare, 1 subcases
+
+Subcase 037.01: hw=pf, L=29733, lnum=135929: txt=peri10-culu-m, par-a-re (?), parere, partus, portare:
+# 29733@pf@135929@@peri10-culu-m, par-a-re (?), parere, partus, portare:
+135928 <><g></g> Lat. {%por-ta, por-tu-s, ex-per-i-o-r, peritus,%%}
+135929 <>{%%peri10-culu-m, par-a-re (?), parere, partus, portare:%}
+135930 <>Goth. {%far-an,%} ‘to go;’ {%far-j-an,%} ‘to carry:’ Old
+
+------------------------------------------------------------
+Case 038. key=pi11l-ka-s, 1 subcases
+
+Subcase 038.01: hw=palita, L=28524, lnum=127339: txt=pi11l-ka-s,
+# 28524@palita@127339@@pi11l-ka-s,
+127338 <>{%%er):%} Angl. Sax. {%fealo, falu, fealwe, falewe:%} Slav.
+127339 <>{%plavuÇ,%} ‘white:’ Lith. {%pa11l-va-s,%} ‘fallow;’ {%pi11l-ka-s,%}
+127340 <>‘ash-coloured.’] {%--Palitan4-karan2a, as, i1, am,%} ren-
+
+------------------------------------------------------------
+Case 039. key=pi11l-na-s, 1 subcases
+
+Subcase 039.01: hw=pF, L=29807, lnum=136692: txt=pi11l-na-s,
+# 29807@pF@136692@@pi11l-na-s,
+136691 <>{%%kuÇ,%} ‘people;’ {%ple-me,%} ‘a tribe:’ Lith. {%pil-ti,%} ‘to
+136692 <>fill;’ {%pi11l-na-s,%} ‘full;’ {%pu11l-ka-s,%} ‘crowd:’ Hib. {%pailt,%}
+136693 <>‘abundant, plentiful, copious.’]
+
+------------------------------------------------------------
+Case 040. key=pi4s-ti, 1 subcases
+
+Subcase 040.01: hw=pasas, L=28598, lnum=127874: txt=pi4s-ti,
+# 28598@pasas@127874@@pi4s-ti,
+127873 <><g></g> Lat. {%pe10n-is:%} Old Germ. {%visellin,%}
+127874 <>‘penis:’ Lith. {%pis-a4,%} ‘cunnus;’ {%pi4s-ti,%} ‘coire cum
+127875 <>muliere.’]
+
+------------------------------------------------------------
+Case 041. key=prau7ga, 1 subcases
+
+Subcase 041.01: hw=prayuga, L=32605, lnum=146332: txt=prau7ga,
+# 32605@prayuga@146332@@prau7ga,
+146331 <P>{%Pra-yuga, am,%} n. regarded as the original form
+146332 <>of {%prau7ga,%} q. v.
+146333 <P>2. {%pra-yuj, k, k, k,%} joining, connected with (literally
+
+------------------------------------------------------------
+Case 042. key=prau7ga s4astra, 1 subcases
+
+Subcase 042.01: hw=prAtar, L=33554, lnum=150044: txt=prau7ga s4astra
+# 33554@prAtar@150044@@prau7ga s4astra
+150043 <>{%%devatya-graha1h2, dvi-devatya-bhaksha, r2itu-ya1-%%}
+150044 <>{%%ja1h2, a1jya%} or {%prau7ga s4astra%}). {%--Pra1tah2savanika%}
+150045 <>or {%pra1tah2savani1ya, as, a1, am,%} Ved. belonging or
+
+------------------------------------------------------------
+Case 043. key=protivnu7i, 1 subcases
+
+Subcase 043.01: hw=pratIpa, L=31565, lnum=142696: txt=protivnu7i,
+# 31565@pratIpa@142696@@protivnu7i,
+142695 <>against the stream, backwards; against; in inverted
+142696 <>order; [cf. Russ. {%protiv,%} ‘against;’ {%protivnu7i,%} ‘con-
+142697 <>trary.’] {%--Prati1pa-ga, as, a1, am,%} going against, flow-
+
+------------------------------------------------------------
+Case 044. key=pu4-d-au, 1 subcases
+
+Subcase 044.01: hw=pUy, L=29676, lnum=135091: txt=pu4-d-au,
+# 29676@pUy@135091@@pu4-d-au,
+135090 <>{%fu1l%} = Eng. {%foul%} = Mod. Germ. {%faul:%} Lith. {%pu4-ti,%}
+135091 <>‘to putrefy;’ {%pu4-d-au,%} ‘I cause to putrefy;’ {%pu4-lei,%}
+135092 <>‘pus:’ Hib. {%putar,%} ‘putrid, stinking.’]
+
+------------------------------------------------------------
+Case 045. key=pu4-lei, 1 subcases
+
+Subcase 045.01: hw=pUy, L=29676, lnum=135091: txt=pu4-lei,
+# 29676@pUy@135091@@pu4-lei,
+135090 <>{%fu1l%} = Eng. {%foul%} = Mod. Germ. {%faul:%} Lith. {%pu4-ti,%}
+135091 <>‘to putrefy;’ {%pu4-d-au,%} ‘I cause to putrefy;’ {%pu4-lei,%}
+135092 <>‘pus:’ Hib. {%putar,%} ‘putrid, stinking.’]
+
+------------------------------------------------------------
+Case 046. key=py4-va-s, 1 subcases
+
+Subcase 046.01: hw=pA, L=28603, lnum=127924: txt=py4-va-s,
+# 28603@pA@127924@@py4-va-s,
+127923 <>Pruss. {%pou-ton,%} ‘to drink:’ Lith. {%po-ta,%} ‘tippling;’
+127924 <>{%pe14-na-s,%} ‘milk;’ {%py4-va-s,%} ‘beer:’ Angl. Sax. {%beor:%}
+127925 <>Old and Mod. Germ. {%bier.%}]
+
+------------------------------------------------------------
+Case 047. key=py4k-ti, 1 subcases
+
+Subcase 047.01: hw=piSuna, L=29336, lnum=131842: txt=py4k-ti,
+# 29336@piSuna@131842@@py4k-ti,
+131841 <>lover); [cf. Gr. <g></g>
+131842 <><g></g> Lith. {%pi11k-ta-s,%} ‘bad;’ {%py4k-ti,%} ‘to be
+131843 <>angry;’ {%pei1k-ti,%} ‘to despise, to blame.’] {%--Pis4una-%%}
+
+------------------------------------------------------------
+Case 048. key=ry10f, 1 subcases
+
+Subcase 048.01: hw=lup, L=40580, lnum=200142: txt=ry10f:
+# 40580@lup@200142@@ry10f:
+200141 <>(probably) Goth. {%raupjan,%} ‘to pull out:’ Angl. Sax.
+200142 <>{%reaf, reafian:%} Old Norse {%ry10f:%} Lith. {%rup-e-ti,%%}
+200143 <>{%%rup-u-s:%} Slav. {%lom-i-ti:%} Hib. {%reubaim,%} ‘I tear,
+
+------------------------------------------------------------
+Case 049. key=scri10tan, 1 subcases
+
+Subcase 049.01: hw=Sri, L=47381, lnum=236293: txt=scri10tan,
+# 47381@Sri@236293@@scri10tan,
+236292 <>{%%hlino10n, hlinen,%} ‘to lean upon;’ {%obahline10n,%} ‘to
+236293 <>excel;’ {%fora-hline10n; hli10ta,%} ‘a declivity;’ {%scri10tan,%}
+236294 <>‘to step;’ {%ga-scri10tan, scrit:%} Angl. Sax. {%hlynian,%%}
+
+------------------------------------------------------------
+Case 050. key=siu4-ta-s, 1 subcases
+
+Subcase 050.01: hw=siv, L=52274, lnum=257031: txt=siu4-ta-s.
+# 52274@siv@257031@@siu4-ta-s.
+257030 <>Norse {%saumr:%} Slav. {%siv-a%} (Inf. {%si-ti%}): Lith. {%siuv-u11%}
+257031 <>(Inf. {%siu4-ti%}), {%siu4-ta-s.%}]
+257032 <P>{%Si1vana, am,%} n. sewing, stitching; a seam, suture;
+
+------------------------------------------------------------
+Case 051. key=siu4-ti, 1 subcases
+
+Subcase 051.01: hw=siv, L=52274, lnum=257031: txt=siu4-ti
+# 52274@siv@257031@@siu4-ti
+257030 <>Norse {%saumr:%} Slav. {%siv-a%} (Inf. {%si-ti%}): Lith. {%siuv-u11%}
+257031 <>(Inf. {%siu4-ti%}), {%siu4-ta-s.%}]
+257032 <P>{%Si1vana, am,%} n. sewing, stitching; a seam, suture;
+
+------------------------------------------------------------
+Case 052. key=snaig-ala11, 1 subcases
+
+Subcase 052.01: hw=nij, L=24565, lnum=111171: txt=snaig-ala11,
+# 24565@nij@111171@@snaig-ala11,
+111170 <>{%sniwit,%} ‘it snows:’ Lith. {%snig-ti, sning-ti,%} ‘to
+111171 <>snow;’ {%sne14g-a-s,%} ‘snow;’ {%snaig-ala11,%} ‘a flake of
+111172 <>snow:’ Slav. {%sne†g-uÇ,%} ‘snow:’ Hib. {%nigh-im,%} ‘I
+
+------------------------------------------------------------
+Case 053. key=sne14g-a-s, 1 subcases
+
+Subcase 053.01: hw=nij, L=24565, lnum=111171: txt=sne14g-a-s,
+# 24565@nij@111171@@sne14g-a-s,
+111170 <>{%sniwit,%} ‘it snows:’ Lith. {%snig-ti, sning-ti,%} ‘to
+111171 <>snow;’ {%sne14g-a-s,%} ‘snow;’ {%snaig-ala11,%} ‘a flake of
+111172 <>snow:’ Slav. {%sne†g-uÇ,%} ‘snow:’ Hib. {%nigh-im,%} ‘I
+
+------------------------------------------------------------
+Case 054. key=spe7hu, 1 subcases
+
+Subcase 054.01: hw=spaSa, L=53330, lnum=264984: txt=spe7hu,
+# 53330@spaSa@264984@@spe7hu,
+264983 <P>{%Spas4a, as,%} m. a spy [cf. Old Germ. {%spe7hon,%} ‘to
+264984 <>look;’ {%spe7hu,%} ‘a spy’]; any secret messenger or
+264985 <>emissary; a fight, war, battle; a kind of gladiator
+
+------------------------------------------------------------
+Case 055. key=sta4-kle-s, 1 subcases
+
+Subcase 055.01: hw=sTA, L=53155, lnum=263877: txt=sta4-kle-s,
+# 53155@sTA@263877@@sta4-kle-s,
+263876 <>ing;’ {%staty4-ti,%} ‘to place;’ {%sto-na-s,%} ‘a stand, sta-
+263877 <>tion;’ {%sta4-kle-s,%} ‘a loom:’ Hib. {%sta-d,%} ‘stop, delay,
+263878 <>state, condition;’ {%stadaim,%} ‘I stand, stop.’]
+
+------------------------------------------------------------
+Case 056. key=staty4-ti, 1 subcases
+
+Subcase 056.01: hw=sTA, L=53155, lnum=263876: txt=staty4-ti,
+# 53155@sTA@263876@@staty4-ti,
+263875 <>‘to stand:’ Lith. {%sto4-ti,%} ‘to stand;’ {%sta-tu11-s,%} ‘stand-
+263876 <>ing;’ {%staty4-ti,%} ‘to place;’ {%sto-na-s,%} ‘a stand, sta-
+263877 <>tion;’ {%sta4-kle-s,%} ‘a loom:’ Hib. {%sta-d,%} ‘stop, delay,
+
+------------------------------------------------------------
+Case 057. key=ta4kas, 1 subcases
+
+Subcase 057.01: hw=taNk, L=20273, lnum=81598: txt=ta4kas,
+# 20273@taNk@81598@@ta4kas,
+081597 <>causeway, pavement;’ {%toichim,%} ‘going, departing:’
+081598 <>Lith. {%teku11,%} ‘I run;’ {%ta4kas,%} ‘a path;’ {%teku10nas,%} ‘a
+081599 <>runner:’ Slav. {%taku10,%} ‘I run.’]
+
+------------------------------------------------------------
+Case 058. key=tarpa11, 1 subcases
+
+Subcase 058.01: hw=tfp, L=21272, lnum=87246: txt=tarpa11,
+# 21272@tfp@87246@@tarpa11,
+087245 <>useful:’ Lith. {%tarpstu,%} ‘to increase, to prosper;’
+087246 <>{%tarpa11,%} ‘increase:’ Goth. {%tharf,%} ‘to satisfy, to be
+087247 <>useful:’ Old Germ. {%tro10styan:%} Angl. Sax. {%thearf:%}
+
+------------------------------------------------------------
+Case 059. key=taszy4-ti, 1 subcases
+
+Subcase 059.01: hw=tvakz, L=21671, lnum=89947: txt=taszy4-ti,
+# 21671@tvakz@89947@@taszy4-ti,
+089946 <>‘to be fit;’ {%tinka-s,%} ‘it happens;’ {%tik-ra-s,%} ‘right,
+089947 <>orderly;’ {%tiky4-ti,%} ‘to take aim;’ {%taszy4-ti,%} ‘to cut
+089948 <>timber;’ {%taisy-ti,%} ‘to prepare:’ Slav. {%tuÇk-n5a-ti,%} ‘to
+
+------------------------------------------------------------
+Case 060. key=tihher tiid ti4d, 1 subcases
+
+Subcase 060.01: hw=diS, L=22394, lnum=94633: txt=tihher, tiid, ti4d;
+# 22394@diS@94633@@tihher, tiid, ti4d;
+094632 <>{%%taikns, taiknyan;%} Angl. Sax. {%tihian, tihhan,%%}
+094633 <>{%%taecan, ta4cn, ta4cen, tier%} for {%tihher, tiid, ti4d;%} Old
+094634 <>Germ. {%zeig-o1n, zi1t%} for {%zig-ti, zeinyan;%} probably also
+
+------------------------------------------------------------
+Case 061. key=tiky4-ti, 1 subcases
+
+Subcase 061.01: hw=tvakz, L=21671, lnum=89947: txt=tiky4-ti,
+# 21671@tvakz@89947@@tiky4-ti,
+089946 <>‘to be fit;’ {%tinka-s,%} ‘it happens;’ {%tik-ra-s,%} ‘right,
+089947 <>orderly;’ {%tiky4-ti,%} ‘to take aim;’ {%taszy4-ti,%} ‘to cut
+089948 <>timber;’ {%taisy-ti,%} ‘to prepare:’ Slav. {%tuÇk-n5a-ti,%} ‘to
+
+------------------------------------------------------------
+Case 062. key=toc4i4lo, 1 subcases
+
+Subcase 062.01: hw=tij, L=20884, lnum=84985: txt=toc4i4lo,
+# 20884@tij@84985@@toc4i4lo,
+084984 <>‘to sting:’ Lith. {%te4kinu,%} ‘I whet;’ {%te4ke4lis,%} ‘a large
+084985 <>whetstone:’ Russ. {%toc4u11,%} ‘I whet;’ {%toc4i4lo,%} ‘a whet-
+084986 <>stone:’ Cambro-Brit. {%teg,%} ‘clear, fair, beautiful, pretty,
+
+------------------------------------------------------------
+Case 063. key=tro4szkulis, 1 subcases
+
+Subcase 063.01: hw=tfz, L=21293, lnum=87311: txt=tro4szkulis,
+# 21293@tfz@87311@@tro4szkulis,
+087310 <>{%torreo%} for {%torseo, tos-tum%} from {%tors-tum, torris,%%}
+087311 <>{%%torrens:%} Lith. {%tro4ksztu,%} ‘to thirst;’ {%tro4szkulis,%}
+087312 <>‘thirst:’ Hib. {%tart (tar-t),%} ‘thirst, drought;’ {%tart-%%}
+
+------------------------------------------------------------
+Case 064. key=u7la, 1 subcases
+
+Subcase 064.01: hw=ulba, L=12370, lnum=39895: txt=u7la;
+# 12370@ulba@39895@@u7la;
+039894 <>womb; a cave; [cf. Lat. {%alvus, vulva;%} Lith. {%urwa,%%}
+039895 <>{%%u7la;%} Hib. {%uile,%} ‘a corner.’]
+039896 <P>{%Ulban2a%} or {%ulvan2a, as, a1, am,%} thick, clotted,
+
+------------------------------------------------------------
+Case 065. key=ubhayatah2-prau7ga, 1 subcases
+
+Subcase 065.01: hw=prauga, L=30109, lnum=137675: txt=ubhayatah2-prau7ga,
+# 30109@prauga@137675@@ubhayatah2-prau7ga,
+137674 <>the pole or shafts of a chariot (Sa1y. {%= i1shayor agram2%%}
+137675 <>{%%yuga-bandhana-stha1nam%}); {%ubhayatah2-prau7ga,%}
+137676 <>having the foreparts of the shafts on both sides; ({%as,%%}
+
+------------------------------------------------------------
+Case 066. key=ve14sz-pat-s, 1 subcases
+
+Subcase 066.01: hw=pati, L=26880, lnum=120874: txt=ve14sz-pat-s,
+# 26880@pati@120874@@ve14sz-pat-s,
+120873 <>{%%im-po(t)-s, pot-is, possum%} for {%potis-sum, pot-es-%%}
+120874 <>{%%ta1(t)-s:%} Lith. {%pat-s,%} ‘husband;’ {%ve14sz-pat-s,%} ‘lord,
+120875 <>ruler:’ Slav. {%gos-podju,%} ‘lord:’ Russ. {%gos-podin,%}
+
+------------------------------------------------------------
+Case 067. key=y4-s, 1 subcases
+
+Subcase 067.01: hw=tvakz, L=21671, lnum=89945: txt=y4-s,
+# 21671@tvakz@89945@@y4-s,
+089944 <>{%%sen,%} ‘to break flax;’ {%dihsel,%} ‘a shaft:’ Lith. {%tek-%%}
+089945 <>{%%y4-s,%} ‘a ram;’ {%tenk-u11,%} ‘to fall to one's share;’ {%tink-u11,%}
+089946 <>‘to be fit;’ {%tinka-s,%} ‘it happens;’ {%tik-ra-s,%} ‘right,

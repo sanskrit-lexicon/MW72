@@ -1,0 +1,296 @@
+#INF 210@aKKala@2333@@tum,
+#INF 344@aNgIkf@3246@@tum,
+#INF 629@atikup@4517@@tum,
+#INF 647@atigam@4561@@tum,
+#INF 680@atitfp@4645@@tum
+#INF 1246@aDivac@6358@@tum,
+#INF 1986@anukft@8469@@tum,
+#INF 2019@anuKyA@8550@@tum,
+#INF 2026@anugam@8562@@tum,
+#INF 2046@anugup@8612@@tum,
+#INF 2130@anutfd@8815@@tum,
+#INF 2293@anupare@9238@@tum,
+#INF 2392@anupre@9456@@tum,
+#INF 2417@anuBuj@9526@@tum,
+#INF 2438@anuman@9586@@tum,
+#INF 2472@anumfj@9674@@tum
+#INF 2503@anuraYj@9738@@tum,
+#INF 2584@anuvikf@9983@@tum,
+#INF 2623@anuvfD@10068@@tum,
+#INF 2783@anusfp@10457@@tum
+#INF 2796@anusmf@10484@@tum,
+#INF 3020@anvatI@11736@@tum,
+#INF 3039@anvave@11805@@tum,
+#INF 3166@apagam@12154@@tum,
+#INF 3232@apatfp@12304@@tum,
+#INF 3270@apaDmA@12415@@tum,
+#INF 3271@apaDyE@12417@@tum,
+#INF 3279@apanaS@12435@@tum
+#INF 3475@apavfj@12941@@tum,
+#INF 3699@apikzi@13494@@tum,
+#INF 3700@apigam@13496@@tum,
+#INF 3706@apiGas@13510@@tum,
+#INF 3821@apodi@13795@@tum,
+#INF 4183@aBiKyA@14741@@tum,
+#INF 4187@aBigam@14754@@tum,
+#INF 4201@aBigup@14779@@tum,
+#INF 4211@aBigras@14799@@tum,
+#INF 4221@aBiGf@14829@@tum,
+#INF 4226@aBiGrA@14838@@tum,
+#INF 4243@aBicud@14884@@tum,
+#INF 4248@aBijan@14894@@tum,
+#INF 4256@aBijalp@14915@@tum,
+#INF 4275@aBitaq@14971@@tum,
+#INF 4312@aBidyut@15055@@tum,
+#INF 4358@aBinam@15172@@tum,
+#INF 4411@aBinizpad@15298@@tum,
+#INF 4436@aBipad@15357@@tum,
+#INF 4451@aBipIq@15397@@tum,
+#INF 4456@aBipUj@15407@@tum,
+#INF 4460@aBipUR@15414@@tum,
+#INF 4533@aBipre@15569@@tum,
+#INF 4610@aBimfd@15745@@tum,
+#INF 4649@aBiram@15841@@tum,
+#INF 4661@aBiruc@15867@@tum,
+#INF 4710@aBivas@15971@@tum,
+#INF 4720@aBiviKyA@15988@@tum,
+#INF 4725@aBivijYA@16001@@tum,
+#INF 4736@aBiviBA@16023@@tum,
+#INF 4738@aBiviyA@16027@@tum,
+#INF 4755@aBivfz@16058@@tum,
+#INF 4799@aBiSas@16153@@tum,
+#INF 4877@aBisaMhan@16345@@tum,
+#INF 4932@aBisame@16467@@tum,
+#INF 4958@aBisUc@16523@@tum,
+#INF 5010@aBI@16628@@tum,
+#INF 5228@aByAyA@17169@@tum,
+#INF 5282@aByudi@17280@@tum,
+#INF 5371@am@17541@@tum,
+#INF 5702@araNkf@18828@@tum,
+#INF 5772@arAtiya@19062@@tum,
+#INF 5913@ard@19728@@tum,
+#INF 5949@arv@19949@@tum,
+#INF 6125@avakuz@20529@@tum,
+#INF 6126@avakUl@20532@@tum,
+#INF 6127@avakft@20534@@tum,
+#INF 6181@avakzu@20657@@tum,
+#INF 6183@avakzud@20660@@tum,
+#INF 6184@avakzE@20662@@tum,
+#INF 6191@avagaR@20676@@tum,
+#INF 6198@avagam@20689@@tum,
+#INF 6238@avaGuz@20800@@tum,
+#INF 6249@avaGrA@20818@@tum,
+#INF 6274@avacft@20877@@tum,
+#INF 6388@avaDIr@21178@@tum,
+#INF 6397@avaDf@21201@@tum,
+#INF 6415@avanam@21251@@tum,
+#INF 6423@avanaS@21270@@tum
+#INF 6459@avapIq@21355@@tum,
+#INF 6481@avaBAs@21398@@tum,
+#INF 6486@avaBid@21412@@tum,
+#INF 6489@avaBuj@21418@@tum,
+#INF 6509@avamuc@21466@@tum,
+#INF 6515@avamfj@21477@@tum
+#INF 6518@avamfd@21484@@tum,
+#INF 6531@avayA@21515@@tum,
+#INF 6727@avasTA@22015@@tum,
+#INF 6742@avasvan@22054@@tum,
+#INF 6781@avAj@22151@@tum,
+#INF 7963@Akzar@25925@@tum,
+#INF 8077@Agrah@26274@@tum,
+#INF 8107@AGrA@26357@@tum,
+#INF 8208@Ajan@26640@@tum,
+#INF 8258@AYj@26777@@tum
+#INF 8343@Atud@27036@@tum,
+#INF 8452@Adf@27647@@tum
+#INF 8497@ADu@27756@@tum,
+#INF 8735@ApiS@28360@@tum,
+#INF 8820@ABaj@28577@@tum,
+#INF 8863@ABf@28689@@tum,
+#INF 8937@Amfd@28892@@tum,
+#INF 8953@AmnA@28924@@tum,
+#INF 9114@Aru@29408@@tum,
+#INF 9176@ArC@29546@@tum,
+#INF 9324@Avac@29996@@tum,
+#INF 9330@Avap@30012@@tum,
+#INF 9390@AviBA@30152@@tum,
+#INF 9475@ASak@30402@@tum,
+#INF 9603@As@30875@@tum,
+#INF 9674@Askand@31063@@tum,
+#INF 9679@Asku@31074@@tum,
+#INF 9718@AsPAy@31181@@tum,
+#INF 9764@Ahu@31311@@tum,
+#INF 9795@Ahvf@31413@@tum,
+#INF 9929@inD@32305@@tum,
+#INF 10030@izkf@32710@@tum,
+#INF 10057@IK@32798@@tum,
+#INF 10058@INK@32801@@tum
+#INF 10161@uK@33210@@tum,
+#INF 10182@uccaw@33376@@tum,
+#INF 10189@uccar@33394@@tum
+#INF 10201@uccal@33430@@tum,
+#INF 10269@ujjas@33602@@tum,
+#INF 10280@ujjIv@33631@@tum,
+#INF 10298@uYC@33674@@tum,
+#INF 10367@utkuw@33893@@tum,
+#INF 10530@utpaw@34565@@tum,
+#INF 10538@utpat@34579@@tum,
+#INF 10610@utsad@34797@@tum,
+#INF 10733@udAdA@35276@@tum,
+#INF 10741@udAyam@35304@@tum,
+#INF 10828@udguh@35571@@tum
+#INF 10829@udgF@35574@@tum
+#INF 10872@udGfz@35698@@tum,
+#INF 10958@udDmA@35949@@tum,
+#INF 11045@udvap@36153@@tum,
+#INF 11136@unnI@36395@@tum,
+#INF 11149@unmaT@36426@@tum,
+#INF 11247@upakft@36719@@tum,
+#INF 11252@upakxp@36732@@tum
+#INF 11286@upaKyA@36817@@tum,
+#INF 11289@upagam@36823@@tum,
+#INF 11320@upagranT@36902@@tum,
+#INF 11331@upaGuz@36943@@tum,
+#INF 11358@upaci@37024@@tum,
+#INF 11404@upajri@37142@@tum,
+#INF 11534@upanipat@37477@@tum,
+#INF 11547@upanI@37531@@tum,
+#INF 11557@upanI@37564@@tum,
+#INF 11587@upapare@37665@@tum,
+#INF 11618@upapre@37734@@tum,
+#INF 11677@upamfd@37886@@tum,
+#INF 11855@upaSam@38354@@tum,
+#INF 11880@upaSuB@38415@@tum,
+#INF 11883@upaSuz@38419@@tum,
+#INF 11927@upasad@38532@@tum,
+#INF 11944@upasamas@38581@@tum,
+#INF 11951@upasamUh@38597@@tum,
+#INF 11952@upasame@38600@@tum,
+#INF 12007@upastf@38740@@tum,
+#INF 12070@upahArIkf@38909@@tum,
+#INF 12088@upAKyA@38975@@tum,
+#INF 12259@upode@39448@@tum,
+#INF 12385@ullas@39934@@tum,
+#INF 12429@uz@40045@@tum,
+#INF 12795@ez@42577@@tum
+#INF 12940@okz@42975@@tum,
+#INF 13220@OzaDIkf@43783@@tum,
+#INF 13254@kak@43972@@tum,
+#INF 13310@kac@44247@@tum,
+#INF 13357@kaw@44420@@tum,
+#INF 13466@kaRq@45015@@tum,
+#INF 13512@kaT@45203@@tum,
+#INF 13533@kad@45385@@tum,
+#INF 13634@kapilIkf@46035@@tum,
+#INF 13668@kam@46218@@tum,
+#INF 14034@kaluzIkf@48403@@tum,
+#INF 14151@kas@49026@@tum,
+#INF 14691@kAs@51957@@tum,
+#INF 14822@kizk@52497@@tum,
+#INF 15158@kup@53763@@tum,
+#INF 15237@kumB@54116@@tum,
+#INF 15589@kf@55898@@tum,
+#INF 16234@kruS@59520@@tum:
+#INF 16271@klaT@59735@@tum,
+#INF 16295@kliS@59816@@tum,
+#INF 16312@kleS@59880@@tum,
+#INF 16341@kzaj@59991@@tum,
+#INF 16369@kzap@60216@@tum,
+#INF 16702@KaRqIkf@62134@@tum,
+#INF 16716@Kan@62179@@tum,
+#INF 16969@KyA@62939@@tum,
+#INF 17065@ganD@63766@@tum,
+#INF 17228@gaveza@65155@@tum,
+#INF 17623@gF@67403@@tum,
+#INF 18259@car@72316@@tum
+#INF 18969@cyut@75503@@tum,
+#INF 19237@jawilIkf@76670@@tum,
+#INF 19473@jAgf@78324@@tum,
+#INF 19633@ji@79014@@tum
+#INF 19861@jE@80031@@tum,
+#INF 19940@jyA@80422@@tum,
+#INF 19994@jval@80779@@tum,
+#INF 20784@tAmrIkf@84416@@tum,
+#INF 21012@tIrTIkf@85867@@tum,
+#INF 21059@tuR@86112@@tum,
+#INF 21265@tftIyAkf@87206@@tum,
+#INF 21778@dakziRIkf@90698@@tum,
+#INF 21947@daridrA@91970@@tum,
+#INF 22949@drava@100421@@tum,
+#INF 23707@Dvf@106046@@tum:
+#INF 23904@naya@107617@@tum,
+#INF 24096@nAD@109311@@tum,
+#INF 24296@niHSvas@110390@@tum,
+#INF 24467@nigarh@110895@@tum,
+#INF 24557@nicft@111138@@tum,
+#INF 24595@nitud@111284@@tum,
+#INF 24669@niDyE@111680@@tum,
+#INF 24685@ninard@111719@@tum,
+#INF 24692@ninI@111733@@tum,
+#INF 24749@nipIy@111911@@tum,
+#INF 24756@niprahan@111937@@tum,
+#INF 24772@nibAD@112010@@tum,
+#INF 24780@niBaYj@112039@@tum,
+#INF 24793@nimajj@112078@@tum,
+#INF 24844@nimfd@112281@@tum,
+#INF 25100@nirIkz@113169@@tum,
+#INF 25194@nirgam@113483@@tum,
+#INF 25265@nirRI@113695@@tum,
+#INF 25340@nirDmA@113931@@tum,
+#INF 25342@nirDyE@113934@@tum,
+#INF 25399@nirBuj@114080@@tum,
+#INF 25676@nirhf@114939@@tum,
+#INF 26211@nistyaj@116660@@tum,
+#INF 26251@nihf@116769@@tum,
+#INF 26318@nIrajIkf@117158@@tum,
+#INF 26597@nyAsa@118639@@tum,
+; frons ? # 28304@parRa@126498@@pat,
+; karma - noun Question: in 15589@kf@55786@@karma,, what is 'Let2' ? grammar?
+;?101904 <>{%bis, dis-%} in {%dis-cedo%} &c.
+;164908 <>{%%fer%} in {%belli-fer, fer-cu-lu-m, fer-a1x, for-du-s,%%}
+;164909 <>{%%far, far-i1na, fer-ti-li-s, for(t)-s, for-tu1-na, for-%%}
+;181311 <>{%%marti;%} [cf. Zend {%mar,%} ‘to die;’ {%mare-ta,%} ‘mortal;’
+;181312 <>{%maretan,%} ‘man:’ Gr. <g></g>
+;122703 <>{%for:%} Old Germ. {%far-, fer:%} Mod. Germ. {%ver-:%}
+;122704 <>Lith. {%par-,%} ‘back, again;’ {%per,%} ‘through:’ Hib.
+;122705 <>{%frea, far-,%} ‘back, again.’]
+;137659 <>{%provi1na:%} Umbr. {%pru = pro; pre = prœ; perne,%}
+;137660 <>‘in front;’ {%pernaio,%} ‘ancient;’ {%per,%} ‘for (?):’ Goth.
+;137661 <>{%fru-ma,%} ‘first;’ {%frum-ist,%} ‘at first;’ {%fairra,%} ‘far:’
+;131245 <>Zend {%pita,%} base {%pa-tar:%} Gr. <g></g>
+;131246 <>Lat. {%pa-ter, Jup-piter:%} Goth. {%fa-dar:%} Old
+;137664 <>{%pra-, pro-,%} ‘before;’ {%priÇ-vy,%} ‘first:’ Lith. {%pra-,%}
+;137665 <>‘before;’ {%pro,%} ‘through, for;’ {%pir-ma-s,%} ‘first;’
+;137666 <>{%pirm,%} ‘before:’ Hib. {%fur,%} ‘for;’ {%foir,%} ‘before;’
+;237437 <>gen. {%szuns;%} Hib. nom. {%cu,%} gen. and pl. {%coin;%} Russ.
+;237438 <>{%sobaka%} (for {%shaka%}); Pers. {%sag.%}] {%--S4va-kishkin, i1,%%}
+;041570 <>‘any;’ {%neach,%} ‘any one, one, some one, he;’ {%neach-%%}
+;041571 <>{%%tar,%} ‘neither;’ {%neachdarach,%} ‘neutral:’ Gr. <g>ἑκάτερος</g>
+;041572 <><g>ἕκα-τος</g> Lat. {%œquus, c-ocles%} fr. {%e10c-ocles:%}
+; Brahman -  English ?
+; Kali - noun (capitalized)
+;208362 <>‘once;’ {%ber%} in {%September, October,%} &c.] {%--Va1ra-%%}
+; Soma - English? or capitalized Sanskrit
+;032768 <>corresponding to {%i%} long, and having the sound of {%ee%}
+;032769 <>in {%feel.%} [Page0143-b+ 73]
+;033062 <>vowel of the alphabet, pronounced as the {%u%} in {%full.%%}
+;062977 <>bet, the soft guttural having the sound of {%g%} in {%give.%%}
+;031873 <>{%%ea, id,%} and {%idem;%} the regular forms are partly de-
+;081057 <>has much the sound of {%n%} in {%inch;%} when preceding
+;081058 <>{%j, jh,%} much the sound of {%n%} in {%singe. --Na-ka1ra, as,%}
+;043819 <>sound to {%k%} in {%keep%} or {%king. --Ka-ka1ra, as,%} m. the
+;043220 <>alphabet, having the same sound as {%ou%} in {%our.%}
+;140018 <>{%red-%} as in {%red-dere, red-ire; re-%} as in {%re-ferre;%%}
+;140019 <>{%%prœ%} for {%prai; por, pol, pos%} for {%port%} in the forms
+;140020 <>{%por-rigo, pol-liceor, pol-lus, pos-sides:%} Old Slav.
+;045210 <>Eng. {%quoth%} and {%quote;%} Gr. <g>κωτίλος, κωτίλλω.</g>]
+;237950 <>to {%sh%} in the English word {%shun.%} (Many roots which
+;266794 <>‘that, there;’ {%siom,%} ‘they, them:’ Cambro-Brit. {%hun,%}
+;070637 <>that of {%ng%} in {%song%}. -- {%N4a-ka1ra, as,%} m. the letter or
+;185906 <>{%sumo%}), {%sub-imo, demo%} (for {%de-imo%}): Lith. {%immu,%}
+;260794 <>{%%sufan, saufjan;%} Old Norse {%sup;%} Angl. Sax. {%su-%%}
+;087430 <>Hib. {%toir,%} ‘a pursuit;’ {%tor,%} ‘a pursuer;’ {%toramh,%}
+;087431 <>‘pursuit;’ {%toras,%} ‘a journey;’ {%teirin,%} ‘a descent;’
+;081066 <>it has much the sound of {%t%} in {%true,%} but properly pro-
+;152760 <>said to be pronounced like {%ph%} in {%uphill, loophole.%%}
+;220215 <>{%%velare; verus, valeo, valor; velle:%} Old Germ.

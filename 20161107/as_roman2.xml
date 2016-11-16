@@ -1,0 +1,259 @@
+<fsm start='INIT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+<!-- Coding of some characters in the Unicode Latin Extended-A (01xx)
+  and Latin Exteded Addition (1exx) pages.
+  The encoding idea is due to Thomas Malten, 
+  who uses this, or some variation of this,
+  to represent characters shown in texts as Latin letters with additional
+  markings (e.g., line/dot above/below).
+  The encoding of this file is done by Jim Funderburk.
+  The form of this xml file is due to Ralph Bunker.
+  In the encoding, Latin letters are followed by 1 (or occasionally, more
+  than 1) digit.
+  The digits have the following meaning in this version:
+  1 = line above (macron)
+  2 = dot below
+  3 = dot above
+  4 = acute accent above
+  5 = tilde above
+  6 = line below
+  7 = 'hat' above
+  Note: also, the extra cases S13 ans s13 are coded 
+    to show as 's' with inverted hat above; this used in Tamil Lexicon
+
+  Note: May 27, 2011:  added a10,A10,i10,I10,u10,U10
+  Note: May 14, 2013: added some characters used in French/German
+                      These are from the Unicode Latin-1 Supplement 00xx
+  Note: Mar 20, 2014: Specialized to show accents per Schmidt.
+                      The approach is to make consistent with the slp1 
+                      accent displays, per:
+                      x3 <-> x\
+                      x4 <-> x/
+                      Also, a few 'Literary citations' are excluded from this
+                      scheme.
+-->
+<e> <s>INIT</s> <in>a1</in> <out>ā</out> </e>
+<!-- Before May14, 2013: <e> <s>INIT</s> <in>a10</in> <out>ā</out> </e> -->
+
+<e> <s>INIT</s> <in>a10</in> <out>â</out> </e> <!-- French Lowercase a-circumflex -->
+<e> <s>INIT</s> <in>a11</in> <out>à</out> </e> <!-- French Lowercase a-grave -->
+
+<e> <s>INIT</s> <in>a3</in> <out>à</out> </e>
+<e> <s>INIT</s> <in>a13</in> <out>ā̀</out> </e>
+<e> <s>INIT</s> <in>a14</in> <out>ā́</out> </e>
+<e> <s>INIT</s> <in>a18</in> <out>ā</out> </e>  <!-- crescent? -->
+<e> <s>INIT</s> <in>a2</in> <out>ạ</out> </e>
+<e> <s>INIT</s> <in>a4</in> <out>á</out> </e> 
+<e> <s>INIT</s> <in>a7</in> <out>ä</out> </e>  <!-- German  Lowercase a-umlaut -->
+<e> <s>INIT</s> <in>b3</in> <out>ḃ</out> </e>
+<e> <s>INIT</s> <in>b2</in> <out>ḅ</out> </e>
+<e> <s>INIT</s> <in>b6</in> <out>ḇ</out> </e>
+<e> <s>INIT</s> <in>c3</in> <out>ċ</out> </e>
+<e> <s>INIT</s> <in>c4</in> <out>ć</out> </e>
+<e> <s>INIT</s> <in>c7</in> <out>ĉ</out> </e>
+<e> <s>INIT</s> <in>d3</in> <out>ḋ</out> </e>
+<e> <s>INIT</s> <in>d2</in> <out>ḍ</out> </e>
+<e> <s>INIT</s> <in>d4</in> <out>d́</out> </e>
+<e> <s>INIT</s> <in>d6</in> <out>ḏ</out> </e>
+<e> <s>INIT</s> <in>e1</in> <out>ē</out> </e>
+<e> <s>INIT</s> <in>e3</in> <out>ė</out> </e>
+<e> <s>INIT</s> <in>e2</in> <out>ẹ</out> </e>
+<e> <s>INIT</s> <in>e4</in> <out>é</out> </e>  
+<e> <s>INIT</s> <in>e14</in> <out>ḗ</out> </e>
+<e> <s>INIT</s> <in>e5</in> <out>ẽ</out> </e>
+<e> <s>INIT</s> <in>e7</in> <out>ë</out> </e> <!-- French lowercase e-umlaut -->
+<e> <s>INIT</s> <in>e10</in> <out>ê</out> </e>  <!-- French  Lowercase e-circumflex -->
+<e> <s>INIT</s> <in>e11</in> <out>è</out> </e> <!-- French Lowercase e-grave -->
+<e> <s>INIT</s> <in>g1</in> <out>ḡ</out> </e>
+<e> <s>INIT</s> <in>g3</in> <out>ġ</out> </e>
+<e> <s>INIT</s> <in>g4</in> <out>ǵ</out> </e>
+<e> <s>INIT</s> <in>g7</in> <out>ĝ</out> </e>
+<e> <s>INIT</s> <in>h3</in> <out>ḣ</out> </e>
+<e> <s>INIT</s> <in>h2</in> <out>ḥ</out> </e>
+<e> <s>INIT</s> <in>h4</in> <out>h́</out> </e>
+<e> <s>INIT</s> <in>h6</in> <out>ẖ</out> </e>
+<e> <s>INIT</s> <in>h7</in> <out>ĥ</out> </e>
+<e> <s>INIT</s> <in>i1</in> <out>ī</out> </e>
+<!-- Before May 2013 change: <e> <s>INIT</s> <in>i10</in> <out>ī</out> </e> -->
+<e> <s>INIT</s> <in>i10</in> <out>î</out> </e>  <!-- French lowercase i-circumflex -->
+<e> <s>INIT</s> <in>i3</in> <out>ì</out> </e>
+<e> <s>INIT</s> <in>i4</in> <out>í</out> </e>
+<e> <s>INIT</s> <in>i13</in> <out>ī̀</out> </e>
+<e> <s>INIT</s> <in>i14</in> <out>ī́</out> </e>
+<e> <s>INIT</s> <in>i5</in> <out>ĩ</out> </e>
+<e> <s>INIT</s> <in>i7</in> <out>ï</out> </e>  <!-- French lowercase i-umlaut -->
+<e> <s>INIT</s> <in>j7</in> <out>ĵ</out> </e>
+<e> <s>INIT</s> <in>k2</in> <out>ḳ</out> </e>
+<e> <s>INIT</s> <in>k4</in> <out>ḱ</out> </e>
+<e> <s>INIT</s> <in>k6</in> <out>ḵ</out> </e>
+<e> <s>INIT</s> <in>l2</in> <out>ḷ</out> </e>
+<e> <s>INIT</s> <in>l12</in> <out>ḹ</out> </e> 
+<e> <s>INIT</s> <in>l4</in> <out>ĺ</out> </e>
+<e> <s>INIT</s> <in>l6</in> <out>ḻ</out> </e>
+<e> <s>INIT</s> <in>m3</in> <out>ṁ</out> </e>
+<e> <s>INIT</s> <in>m2</in> <out>ṃ</out> </e>
+<e> <s>INIT</s> <in>m4</in> <out>ḿ</out> </e>
+<e> <s>INIT</s> <in>n3</in> <out>ṅ</out> </e>
+<e> <s>INIT</s> <in>n2</in> <out>ṇ</out> </e>
+<e> <s>INIT</s> <in>n5</in> <out>ñ</out> </e>
+<e> <s>INIT</s> <in>n6</in> <out>ṉ</out> </e>
+
+<e> <s>INIT</s> <in>o1</in> <out>ō</out> </e>
+<e> <s>INIT</s> <in>o2</in> <out>ọ</out> </e>
+<e> <s>INIT</s> <in>o4</in> <out>ó</out> </e>
+<e> <s>INIT</s> <in>o7</in> <out>ö</out> </e>   <!-- German  Lowercase o-umlaut -->
+<e> <s>INIT</s> <in>o11</in> <out>ò</out> </e> <!-- French Lowercase o-grave -->
+<e> <s>INIT</s> <in>p3</in> <out>ṗ</out> </e>
+<e> <s>INIT</s> <in>p4</in> <out>ṕ</out> </e>
+<e> <s>INIT</s> <in>r3</in> <out>ṙ</out> </e>
+<e> <s>INIT</s> <in>r21</in> <out>ṝ</out> </e>
+<e> <s>INIT</s> <in>r12</in> <out>ṝ</out> </e>
+<e> <s>INIT</s> <in>r2</in> <out>ṛ</out> </e>
+<e> <s>INIT</s> <in>r24</in> <out>ṛ́</out> </e>
+<e> <s>INIT</s> <in>r4</in> <out>ŕ</out> </e>
+<e> <s>INIT</s> <in>r6</in> <out>ṟ</out> </e>
+<e> <s>INIT</s> <in>s3</in> <out>ṡ</out> </e>
+<e> <s>INIT</s> <in>s2</in> <out>ṣ</out> </e>
+<e> <s>INIT</s> <in>s4</in> <out>ś</out> </e>
+<e> <s>INIT</s> <in>s7</in> <out>ŝ</out> </e>
+<e> <s>INIT</s> <in>t3</in> <out>ṫ</out> </e>
+<e> <s>INIT</s> <in>t2</in> <out>ṭ</out> </e>
+<e> <s>INIT</s> <in>t4</in> <out>t́</out> </e>
+<e> <s>INIT</s> <in>t6</in> <out>ṯ</out> </e>
+<e> <s>INIT</s> <in>u1</in> <out>ū</out> </e>
+<e> <s>INIT</s> <in>u4</in> <out>ú</out> </e>
+<e> <s>INIT</s> <in>u13</in> <out>ū̀</out> </e>
+<e> <s>INIT</s> <in>u14</in> <out>ū́</out> </e>
+<e> <s>INIT</s> <in>u2</in> <out>ụ</out> </e>
+<e> <s>INIT</s> <in>u5</in> <out>ũ</out> </e>
+<e> <s>INIT</s> <in>u7</in> <out>ü</out> </e>   <!-- German Lowercase u-umlaut -->
+<e> <s>INIT</s> <in>u11</in> <out>ù</out> </e>  <!-- French  Lowercase U-grave-->
+<e> <s>INIT</s> <in>w3</in> <out>ẇ</out> </e>
+<e> <s>INIT</s> <in>w2</in> <out>ẉ</out> </e>
+<e> <s>INIT</s> <in>w4</in> <out>ẃ</out> </e>
+<e> <s>INIT</s> <in>w7</in> <out>ŵ</out> </e>
+<e> <s>INIT</s> <in>x3</in> <out>ẋ</out> </e>
+<e> <s>INIT</s> <in>y3</in> <out>ẏ</out> </e>
+<e> <s>INIT</s> <in>y2</in> <out>ỵ</out> </e>
+<e> <s>INIT</s> <in>y4</in> <out>ý</out> </e>
+<e> <s>INIT</s> <in>y5</in> <out>ỹ</out> </e>
+<e> <s>INIT</s> <in>y10</in> <out>ŷ</out> </e>
+<e> <s>INIT</s> <in>z3</in> <out>ż</out> </e>
+<e> <s>INIT</s> <in>z2</in> <out>ẓ</out> </e>
+<e> <s>INIT</s> <in>z4</in> <out>ź</out> </e>
+<e> <s>INIT</s> <in>z6</in> <out>ẕ</out> </e>
+<e> <s>INIT</s> <in>z7</in> <out>ẑ</out> </e>
+<e> <s>INIT</s> <in>A1</in> <out>Ā</out> </e>
+<e> <s>INIT</s> <in>A14</in> <out>Ā́</out> </e>
+<e> <s>INIT</s> <in>A10</in> <out>Ā</out> </e>
+<e> <s>INIT</s> <in>A3</in> <out>À</out> </e>
+<e> <s>INIT</s> <in>A2</in> <out>Ạ</out> </e>
+<e> <s>INIT</s> <in>A4</in> <out>Á</out> </e>
+<e> <s>INIT</s> <in>B3</in> <out>Ḃ</out> </e>
+<e> <s>INIT</s> <in>B2</in> <out>Ḅ</out> </e>
+<e> <s>INIT</s> <in>B4</in> <out>B́</out> </e>
+<e> <s>INIT</s> <in>B6</in> <out>Ḇ</out> </e>
+<e> <s>INIT</s> <in>C3</in> <out>Ċ</out> </e>
+<e> <s>INIT</s> <in>C4</in> <out>Ć</out> </e>
+<e> <s>INIT</s> <in>C7</in> <out>Ĉ</out> </e>
+<e> <s>INIT</s> <in>D3</in> <out>Ḋ</out> </e>
+<e> <s>INIT</s> <in>D2</in> <out>Ḍ</out> </e>
+<e> <s>INIT</s> <in>D4</in> <out>D́</out> </e>
+<e> <s>INIT</s> <in>D6</in> <out>Ḏ</out> </e>
+<e> <s>INIT</s> <in>E1</in> <out>Ē</out> </e>
+<e> <s>INIT</s> <in>E3</in> <out>Ė</out> </e>
+<e> <s>INIT</s> <in>E2</in> <out>Ẹ</out> </e>
+<e> <s>INIT</s> <in>E4</in> <out>É</out> </e>  
+<e> <s>INIT</s> <in>E5</in> <out>Ẽ</out> </e>
+<e> <s>INIT</s> <in>G1</in> <out>Ḡ</out> </e>
+<e> <s>INIT</s> <in>G3</in> <out>Ġ</out> </e>
+<e> <s>INIT</s> <in>G4</in> <out>Ǵ</out> </e>
+<e> <s>INIT</s> <in>G7</in> <out>Ĝ</out> </e>
+<e> <s>INIT</s> <in>H3</in> <out>Ḣ</out> </e>
+<e> <s>INIT</s> <in>H2</in> <out>Ḥ</out> </e>
+<e> <s>INIT</s> <in>H4</in> <out>H́</out> </e>
+<e> <s>INIT</s> <in>H7</in> <out>Ĥ</out> </e>
+<e> <s>INIT</s> <in>I1</in> <out>Ī</out> </e>
+<e> <s>INIT</s> <in>I3</in> <out>Ì</out> </e>
+<e> <s>INIT</s> <in>I2</in> <out>Ị</out> </e>
+<e> <s>INIT</s> <in>I4</in> <out>Í</out> </e> <!-- changed from Í -->
+<e> <s>INIT</s> <in>I5</in> <out>Ĩ</out> </e>
+<e> <s>INIT</s> <in>I7</in> <out>Ï</out> </e> <!-- French capital i-umlaut -->
+<e> <s>INIT</s> <in>J4</in> <out>J́</out> </e>
+<e> <s>INIT</s> <in>J7</in> <out>Ĵ</out> </e>
+<e> <s>INIT</s> <in>K2</in> <out>Ḳ</out> </e>
+<e> <s>INIT</s> <in>K4</in> <out>Ḱ</out> </e>
+<e> <s>INIT</s> <in>K6</in> <out>Ḵ</out> </e>
+<e> <s>INIT</s> <in>L2</in> <out>Ḷ</out> </e>
+<e> <s>INIT</s> <in>L21</in> <out>Ḹ</out> </e> 
+<e> <s>INIT</s> <in>L4</in> <out>Ĺ</out> </e>
+<e> <s>INIT</s> <in>L6</in> <out>Ḻ</out> </e>
+<e> <s>INIT</s> <in>M3</in> <out>Ṁ</out> </e>
+<e> <s>INIT</s> <in>M2</in> <out>Ṃ</out> </e>
+<e> <s>INIT</s> <in>M4</in> <out>Ḿ</out> </e>
+<e> <s>INIT</s> <in>N3</in> <out>Ṅ</out> </e>
+<e> <s>INIT</s> <in>N2</in> <out>Ṇ</out> </e>
+<e> <s>INIT</s> <in>N4</in> <out>Ń</out> </e>
+<e> <s>INIT</s> <in>N5</in> <out>Ñ</out> </e>
+<e> <s>INIT</s> <in>N6</in> <out>Ṉ</out> </e>
+<e> <s>INIT</s> <in>O1</in> <out>Ō</out> </e>
+<e> <s>INIT</s> <in>O2</in> <out>Ọ</out> </e>
+<e> <s>INIT</s> <in>P3</in> <out>Ṗ</out> </e>
+<e> <s>INIT</s> <in>P4</in> <out>Ṕ</out> </e>
+<e> <s>INIT</s> <in>R3</in> <out>Ṙ</out> </e>
+<e> <s>INIT</s> <in>R21</in> <out>Ṝ</out> </e> 
+<e> <s>INIT</s> <in>R2</in> <out>Ṛ</out> </e>
+<e> <s>INIT</s> <in>R4</in> <out>Ŕ</out> </e>
+<e> <s>INIT</s> <in>R6</in> <out>Ṟ</out> </e>
+<e> <s>INIT</s> <in>S3</in> <out>Ṡ</out> </e>
+<e> <s>INIT</s> <in>S2</in> <out>Ṣ</out> </e>
+<e> <s>INIT</s> <in>S4</in> <out>Ś</out> </e>
+<e> <s>INIT</s> <in>S7</in> <out>Ŝ</out> </e>
+<e> <s>INIT</s> <in>T3</in> <out>Ṫ</out> </e>
+<e> <s>INIT</s> <in>T2</in> <out>Ṭ</out> </e>
+<e> <s>INIT</s> <in>T4</in> <out>T́</out> </e>
+<e> <s>INIT</s> <in>T6</in> <out>Ṯ</out> </e>
+<e> <s>INIT</s> <in>U1</in> <out>Ū</out> </e>
+<e> <s>INIT</s> <in>U2</in> <out>Ụ</out> </e>
+<e> <s>INIT</s> <in>U4</in> <out>Ú</out> </e>
+<e> <s>INIT</s> <in>U5</in> <out>Ũ</out> </e>
+<e> <s>INIT</s> <in>V4</in> <out>V́</out> </e>
+<e> <s>INIT</s> <in>W3</in> <out>Ẇ</out> </e>
+<e> <s>INIT</s> <in>W2</in> <out>Ẉ</out> </e>
+<e> <s>INIT</s> <in>W4</in> <out>Ẃ</out> </e>
+<e> <s>INIT</s> <in>W7</in> <out>Ŵ</out> </e>
+<e> <s>INIT</s> <in>X3</in> <out>Ẋ</out> </e>
+<e> <s>INIT</s> <in>Y3</in> <out>Ẏ</out> </e>
+<e> <s>INIT</s> <in>Y2</in> <out>Ỵ</out> </e>
+<e> <s>INIT</s> <in>Y4</in> <out>Ý</out> </e>
+<e> <s>INIT</s> <in>Y5</in> <out>Ỹ</out> </e>
+<e> <s>INIT</s> <in>Y7</in> <out>Ŷ</out> </e>
+<e> <s>INIT</s> <in>Z3</in> <out>Ż</out> </e>
+<e> <s>INIT</s> <in>Z2</in> <out>Ẓ</out> </e>
+<e> <s>INIT</s> <in>Z4</in> <out>Ź</out> </e>
+<e> <s>INIT</s> <in>Z6</in> <out>Ẕ</out> </e>
+<e> <s>INIT</s> <in>Z7</in> <out>Ẑ</out> </e>  
+<e> <s>INIT</s> <in>s13</in> <out>š</out> </e>  
+<e> <s>INIT</s> <in>S13</in> <out>Š</out> </e> 
+ <!-- mw72 uses a special coding for guttural nasal; 
+      it looks like an 'n' with a small dot on the right.
+      there is nodirect unicode equivalent character for this.
+      Since 'n with acute' is not used elsewhere, I am using it.
+      Another choice considered wias 'n' + ̄ (combining macron)
+  removed this Nov 13, 2016
+<e> <s>INIT</s> <in>n.¤</in> <out>ń</out> </e>  
+-->
+
+<!-- additions of Nov 13, 2016 ejf -->
+<e> <s>INIT</s> <in>a10</in> <out>â</out> </e>
+<e> <s>INIT</s> <in>e10</in> <out>ê</out> </e>
+<e> <s>INIT</s> <in>i10</in> <out>î</out> </e>
+<e> <s>INIT</s> <in>o10</in> <out>ô</out> </e>
+<e> <s>INIT</s> <in>u10</in> <out>û</out> </e>
+
+<e> <s>INIT</s> <in>aÇ</in> <out>ă</out> </e>
+<e> <s>INIT</s> <in>eÇ</in> <out>ĕ</out> </e>
+<e> <s>INIT</s> <in>iÇ</in> <out>ĭ</out> </e>
+<e> <s>INIT</s> <in>oÇ</in> <out>ŏ</out> </e>
+<e> <s>INIT</s> <in>uÇ</in> <out>ŭ</out> </e>
+<e> <s>INIT</s> <in>n4</in> <out>ń</out> </e> <!-- guttural nasal in MW72-->
+</fsm>

@@ -1,0 +1,78 @@
+a a 
+A ā 
+i i 
+I ī 
+u u 
+U ū 
+f ṛi ṛ *
+F ṛī ṝ *
+x lṛi ḷ *
+X lṛī ḹ *
+e e 
+E ai
+o o
+O au
+M ṉ,ṃ ṃ *
+H ḥ 
+' ' '
+k k 
+K kh 
+g g 
+G gh 
+N ń ṅ *
+c ć c *
+C ćh ch *
+j j 
+J jh
+Y ṅ ñ *
+w ṭ 
+W ṭh 
+q ḍ 
+Q ḍh 
+R ṇ 
+t t 
+T th 
+d d 
+D dh 
+n n 
+p p 
+P ph 
+b b 
+B bh 
+m m 
+y y 
+r r 
+l l 
+L ḷ 
+| ḷh 
+v v 
+S ś 
+z sh ṣ *
+s s 
+h h 
+----
+Uses of diaresis diacritic in mw72 MWIAST sanskrit for vowel diaresis:
+ï (1) rājasāï
+ü (10) tejāüra, pra-üga, %praüga, etc.
+----
+use of circumflex diacritic
+â (1) ćâńgerī  
+----
+use of breve diacritic
+ă (4) ă, ăńgās, mātărau, %mātăras
+----
+use of acute accent only in preface
+ǵ, ḱ, ṕ  -  these occur only in preface
+Similarly for the combining acute accent: ́
+----
+º  MASCULINE ORDINAL INDICATOR 
+used to indicate missing parts.
+----
+Upper-case IAST
+All Sanskrit words in italics may start with a capital letter.
+The capitalization is irrelevant as far as the correspondence
+to the underlying Devanagari (or SLP1) spelling.
+The capital letters which occur with diacritics in sanskrit italics are:
+Ā, Ć, Ń, Ś, Ū, Ḍ, Ṇ, Ṛ, Ṭ
+---- 
+ṁ (11ṁ)  Another variant of anusvara.

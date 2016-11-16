@@ -1,0 +1,70 @@
+Case 001. key=--Hiran2ya-prau7ga, 1 subcases
+
+Subcase 001.01: hw=hiraRya, L=54198, lnum=270352: txt=--Hiran2ya-prau7ga,
+# 54198@hiraRya@270352@@--Hiran2ya-prau7ga,
+270351 <>of a town of the Asuras. {%--Hiran2ya-pes4as, a1s, a1s,%%}
+270352 <>{%%as,%} Ved. having golden lustre. {%--Hiran2ya-prau7ga,%%}
+270353 <>{%%am,%} n., Ved. a golden fore-part of a chariot-pole,
+
+------------------------------------------------------------
+Case 002. key=--N2a-ka1ra as, 1 subcases
+
+Subcase 002.01: hw=Ra, L=20238, lnum=81452: txt=--N2a-ka1ra, as,
+# 20238@Ra@81452@@--N2a-ka1ra, as,
+081451 <P>.{#Ra#}¦ 1. {%n2a,%} the nasal {%n2%} belonging to the
+081452 <>third or cerebral class of consonants. {%--N2a-ka1ra, as,%}
+081453 <>m. the letter or sound {%n2.%}
+
+------------------------------------------------------------
+Case 003. key=--N4a-ka1ra as, 1 subcases
+
+Subcase 003.01: hw=Na, L=18075, lnum=70637: txt=--N4a-ka1ra, as,
+# 18075@Na@70637@@--N4a-ka1ra, as,
+070636 <>preceded by a vowel; the sound of {%n4%} corresponds to
+070637 <>that of {%ng%} in {%song%}. {%--N4a-ka1ra, as,%} m. the letter or
+070638 <>sound {%n4a.%} [Page0310-b+ 76]
+
+------------------------------------------------------------
+Case 004. key=--Prau7ga-c4it t t t, 1 subcases
+
+Subcase 004.01: hw=prauga, L=30109, lnum=137678: txt=--Prau7ga-c4it, t, t, t,
+# 30109@prauga@137678@@--Prau7ga-c4it, t, t, t,
+137677 <>{%%am%}), m. n., N. of the second S4astra or hymn at
+137678 <>the morning libation. {%--Prau7ga-c4it, t, t, t,%} Ved.
+137679 <>arranged in the form of the forepart of a chariot-pole.
+
+------------------------------------------------------------
+Case 005. key=ma1u7n2atha, 1 subcases
+
+Subcase 005.01: hw=mAuTa, L=36819, lnum=175909: txt=ma1u7n2atha.
+# 36819@mAuTa@175909@@ma1u7n2atha.
+175908 <P>.{#mAuTa#}¦ {%ma1u7tha,%} N. of a place; (also read
+175909 <>{%ma1u7n2atha.%})
+175910 <P>.{#mAMScatu#}¦ {%ma1n6s4c4atu, us, us, u,%} Ved. (probably
+
+------------------------------------------------------------
+Case 006. key=prau7ga, 1 subcases
+
+Subcase 006.01: hw=prayuga, L=32605, lnum=146332: txt=prau7ga,
+# 32605@prayuga@146332@@prau7ga,
+146331 <P>{%Pra-yuga, am,%} n. regarded as the original form
+146332 <>of {%prau7ga,%} q. v.
+146333 <P>2. {%pra-yuj, k, k, k,%} joining, connected with (literally
+
+------------------------------------------------------------
+Case 007. key=prau7ga s4astra, 1 subcases
+
+Subcase 007.01: hw=prAtar, L=33554, lnum=150044: txt=prau7ga s4astra
+# 33554@prAtar@150044@@prau7ga s4astra
+150043 <>{%%devatya-graha1h2, dvi-devatya-bhaksha, r2itu-ya1-%%}
+150044 <>{%%ja1h2, a1jya%} or {%prau7ga s4astra%}). {%--Pra1tah2savanika%}
+150045 <>or {%pra1tah2savani1ya, as, a1, am,%} Ved. belonging or
+
+------------------------------------------------------------
+Case 008. key=ubhayatah2-prau7ga, 1 subcases
+
+Subcase 008.01: hw=prauga, L=30109, lnum=137675: txt=ubhayatah2-prau7ga,
+# 30109@prauga@137675@@ubhayatah2-prau7ga,
+137674 <>the pole or shafts of a chariot (Sa1y. {%= i1shayor agram2%%}
+137675 <>{%%yuga-bandhana-stha1nam%}); {%ubhayatah2-prau7ga,%}
+137676 <>having the foreparts of the shafts on both sides; ({%as,%%}

@@ -1,0 +1,91 @@
+; quote correction 0001
+; All these quote corrections change "’‘"  to "'"
+427 old <>shire, shore, shears,%} &c. arranged under {%‘shear,’%} to cut off, separate.
+427 new <>shire, shore, shears,%} &c. arranged under ‘{%shear,%}’ to cut off, separate.
+; quote correction 0002
+18797 old <>pestle (for {%ayo-’gra%} above ?). {%--A-yoni-ja, as, a1, am,%}
+18797 new <>pestle (for {%ayo-'gra%} above ?). {%--A-yoni-ja, as, a1, am,%}
+; quote correction 0003
+18927 old <>{%--Aran2ye-‘nu1c4ya (ºye-anº), as,%} m., Ved. a kind of
+18927 new <>{%--Aran2ye-'nu1c4ya (ºye-anº), as,%} m., Ved. a kind of
+; quote correction 0004
+25125 old <>deny:’ Lat. {%nego%} for {%n’--ego,%} ‘to say no:’ also {%ajo.%}] [Page0109-a+ 78]
+25125 new <>deny:' Lat. {%nego%} for {%n'--ego,%} 'to say no:' also {%ajo.%}] [Page0109-a+ 78]
+; quote correction 0005
+75137 old <>objector's statement (e. g. {%‘R2ig-vedam adhyemi’
+75137 new <>objector's statement (e. g. ‘{%R2ig-vedam adhyemi%}’{%
+; quote correction 0006
+91315 old <>word {%mukha%} is preceded by {%dadhi.’%}) {%--Dadhi-
+91315 new <>word {%mukha%} is preceded by {%dadhi.%}’) {%--Dadhi-
+; quote correction 0007
+135341 old <>‘full {%an3jali,’%} two handfuls. {%--Pu1rn2a1naka (ºn2a-a1nº),
+135341 new <>'full {%an3jali,%}’ two handfuls. {%--Pu1rn2a1naka (ºn2a-a1nº),
+; quote correction 0008
+185615 old <>almost untranslatable (e. g. {%yan maran2am2 so ‘sya
+185615 new <>almost untranslatable (e. g. {%yan maran2am2 so 'sya
+; quote correction 0009
+185777 old <>{%yo ‘tti yasya yada1 ma1n6sam,%} when any one eats
+185777 new <>{%yo 'tti yasya yada1 ma1n6sam,%} when any one eats
+; quote correction 0010
+189830 old <>{%--Raksho-’dhidevata1,%} f. the chief goddess of the
+189830 new <>{%--Raksho-'dhidevata1,%} f. the chief goddess of the
+; quote correction 0011
+190173 old <>{%--Raktapitta-ha1,%} f. ‘removing {%rakta-pitta,’%} a
+190173 new <>{%--Raktapitta-ha1,%} f. ‘removing {%rakta-pitta,%}’ a
+; quote correction 0012
+190881 old <>{%--Ratna-tejo-’bhyudgata-ra1ja, as,%} m., N. of a
+190881 new <>{%--Ratna-tejo-'bhyudgata-ra1ja, as,%} m., N. of a
+; quote correction 0013
+253479 old <>the word {%saha,’%} a particular figure of speech which
+253479 new <>the word {%saha%},’ a particular figure of speech which
+; quote correction 0014
+271983 old <P>{%A-ghnat;%} for {%‘anti1’%} read {%ati1.%}
+271983 new <P>{%A-ghnat;%} for ‘{%anti1%}’ read {%ati1.%}
+; quote correction 0015
+272153 old <P>{%Anya1-dr2iksha;%} for {%‘anya-dr2is4, anya-dr2is4a’%}
+272153 new <P>{%Anya1-dr2iksha;%} for ‘{%anya-dr2is4, anya-dr2is4a%}’
+; quote correction 0016
+272178 old <P>{%Apa-sphur;%} for {%‘u1s, u1s, u1s,’%} read {%u1r, u1r, u1r.%}
+272178 new <P>{%Apa-sphur;%} for ‘{%u1s, u1s, u1s,%}’ read {%u1r, u1r, u1r.%}
+; quote correction 0017
+272223 old <P>{%Amu1-dr2iksha;%} for {%‘a1’%} read {%i1.%}
+272223 new <P>{%Amu1-dr2iksha;%} for ‘{%a1%}’ read {%i1.%}
+; quote correction 0018
+272288 old <P>{%A-sas4c4ivas;%} for {%‘as’%} read {%at.%}
+272288 new <P>{%A-sas4c4ivas;%} for ‘{%as%}’ read {%at.%}
+; quote correction 0019
+272344 old <P>{%A1s4ir;%} for {%‘i1s’%} read {%i1r.%}
+272344 new <P>{%A1s4ir;%} for ‘{%i1s%}’ read {%i1r.%}
+; quote correction 0020
+272373 old <P>{%I1yivas;%} for {%‘as’%} read {%at.%}
+272373 new <P>{%I1yivas;%} for ‘{%as%}’ read {%at.%}
+; quote correction 0021
+272409 old <P>{%Ud-vij;%} for {%‘-vejitum’%} read {%-vijitum.%}
+272409 new <P>{%Ud-vij;%} for ‘{%-vejitum%}’ read {%-vijitum.%}
+; quote correction 0022
+272471 old <P>{%R2ijvac4;%} for {%‘a1n4’%} read {%an4.%}
+272471 new <P>{%R2ijvac4;%} for ‘{%a1n4%}’ read {%an4.%}
+; quote correction 0023
+272472 old <P>{%R2ita-jur;%} for {%‘ur’%} read {%u1r.%}
+272472 new <P>{%R2ita-jur;%} for ‘{%ur%}’ read {%u1r.%}
+; quote correction 0024
+272580 old <P>{%Gatvara;%} for {%‘a1’%} read {%i1.%}
+272580 new <P>{%Gatvara;%} for ‘{%a1%}’ read {%i1.%}
+; quote correction 0025
+272689 old <P>{%Dada1s4vas;%} for {%‘vas’%} read {%vat.%}
+272689 new <P>{%Dada1s4vas;%} for ‘{%vas%}’ read {%vat.%}
+; quote correction 0026
+272690 old <P>{%Dadivas;%} for {%‘vas’%} read {%vat.%}
+272690 new <P>{%Dadivas;%} for ‘{%vas%}’ read {%vat.%}
+; quote correction 0027
+272691 old <P>{%Dadr2is4ivas;%} for {%‘vas’%} read {%vat.%}
+272691 new <P>{%Dadr2is4ivas;%} for ‘{%vas%}’ read {%vat.%}
+; quote correction 0028
+272699 old <P>{%Da1s4vas;%} for {%‘vas’%} read {%vat.%}
+272699 new <P>{%Da1s4vas;%} for ‘{%vas%}’ read {%vat.%}
+; quote correction 0029
+272873 old <P>{%Bukka-mahi1pati;%} for {%‘bhu1pa1ta’%} read {%bhu1pati.%}
+272873 new <P>{%Bukka-mahi1pati;%} for ‘{%bhu1pa1ta%}’ read {%bhu1pati.%}
+; quote correction 0030
+272886 old <P>{%Ma1sa;%} for {%‘su1rya-ma1sa1’%} read {%su1rya1-ma1sa1.%}
+272886 new <P>{%Ma1sa;%} for ‘{%su1rya-ma1sa1%}’ read {%su1rya1-ma1sa1.%}

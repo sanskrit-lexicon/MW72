@@ -1,0 +1,1157 @@
+244036 records from italics4.txt
+find_etymologies WARNING 2 at line 17
+<>[{%All rights reserved%}] [Pagev+ 45]
+
+find_etymologies WARNING 2 at line 205
+<>inscriptions, Chaldee and Syriac], and Arabic, because in the tenth
+
+find_etymologies WARNING 2 at line 662
+<>little work called the Durga-puja [sic] by Prata4pachandra Ghosha
+
+find_etymologies WARNING 2 at line 1331
+<>all descriptive and explanatory statements are given between (); comparisons, between [].
+
+find_etymologies WARNING 2 at line 1360
+<>{%the use of symbols, but it is hoped that most of the inconsistencies are noticed in the following table.%}]
+
+find_etymologies WARNING 2 at line 1752
+<>Gr. <g>ἄγχω</g>]
+
+find_etymologies WARNING 2 at line 2006
+<>a term of foreign origin; cf. Lat. <nsi>Acca.</nsi>]
+
+find_etymologies WARNING 2 at line 2019
+<P>1. {%akra, as, a1, am,%} Ved. violent [Lat. <nsi>acer?</nsi>].
+
+find_etymologies WARNING 2 at line 2911
+<>{%a1n, ati1, at,%} sinful; [voc. {%aghavan%} or {%aghos,%} see s. v.]
+
+find_etymologies WARNING 2 at line 3742
+<>or fight in, area, court [Lat. <nsi>ager?</nsi>]; the body; any
+
+find_etymologies WARNING 2 at line 3850
+<>a habitation [Lat. <nsi>agmen</nsi>].
+
+find_etymologies WARNING 2 at line 3860
+<>cf. {%ajira%}].
+
+find_etymologies WARNING 2 at line 4224
+<><nsi>ant;</nsi> Arm. <nsi>ti;</nsi> Zend <nsi>aiti</nsi>]. As a prefix to verbs and
+
+find_etymologies WARNING 2 at line 5290
+<>first three classes [for {%atri-ja1ta,%} see s. v. {%atri%}].
+
+find_etymologies WARNING 2 at line 5880
+<><nsi>thro10;</nsi> Lat. <nsi>inferus</nsi>]. {%--Adhara-tas%} or {%adhara-%}
+
+find_etymologies WARNING 2 at line 7236
+<>of the planets. [Gr. <g>ἀναφή</g>]
+
+find_etymologies WARNING 2 at line 11676
+<>be regarded as equivalent to an oblique case]; {%anyo-%}
+
+find_etymologies WARNING 2 at line 12000
+<>also <g>ἀφρός</g>]. {%--Apa-vat, a1n, ati1, at,%} Ved. watery.
+
+find_etymologies WARNING 2 at line 14404
+<>‘evil]. <nsi>--Abala-dhanvan, a1, a1, a,</nsi> possessing a weak
+
+find_etymologies WARNING 2 at line 18268
+<><nsi>mu10n</nsi>]. {%--Amba1-gan4ga1,%} f. a river in Ceylon. {%--Amba1-%}
+
+find_etymologies WARNING 2 at line 19147
+<>cf. Lat. <nsi>aratrum.</nsi>] {%--Aritra-ga1dha, as, a1, am,%}
+
+find_etymologies WARNING 2 at line 21534
+<><nsi>eurus;</nsi> also the Lat. <nsi>aver-nus</nsi>]. {%--Avara-ja, as, a1,%}
+
+find_etymologies WARNING 2 at line 22127
+<><nsi>ava-ster</nsi>].
+
+find_etymologies WARNING 2 at line 23328
+<>and Lat. <nsi>caminus.</nsi>]
+
+find_etymologies WARNING 2 at line 23386
+<>Mod. Germ. <nsi>Za7hre;</nsi> Lith. <nsi>aszara</nsi>]. {%--As4ru-kala1,%}
+
+find_etymologies WARNING 2 at line 23683
+<>may be for {%asu-anta,%} ‘end of life.’]
+
+find_etymologies WARNING 2 at line 24530
+<>disturb sacrifices]; the sun; Ra1hu; an elephant; N.
+
+find_etymologies WARNING 2 at line 24536
+<>from {%asita,%} q. v.] {%--Asura-kuma1ra, a1s,%} m. pl. a
+
+find_etymologies WARNING 2 at line 24799
+<>haps that which throws out or emits rays of light.]
+
+find_etymologies WARNING 2 at line 25125
+<>deny:' Lat. <nsi>nego</nsi> for {%n'--ego,%} 'to say no:' also <nsi>ajo.</nsi>] [Page0109-a+ 78]
+
+find_etymologies WARNING 2 at line 27430
+<>word has been compared the Slav. <nsi>jedin,</nsi> ‘one.’]
+
+find_etymologies WARNING 2 at line 29335
+<><g>ἔρημος</g>] {%--A1ra1ma-s4i1tala1,%} f., N. of a fragrant plant.
+
+find_etymologies WARNING 2 at line 29692
+<>Germ. <nsi>e10ra</nsi> and Mod. Germ. <nsi>Ehre.</nsi>] {%--A1rya-gr2ihya,%}
+
+find_etymologies WARNING 2 at line 32308
+<><nsi>œs-tus, œs-tas:</nsi> Old Germ. <nsi>eit,</nsi> ‘fire.’]
+
+find_etymologies WARNING 2 at line 32343
+<><g>ἐλ-έφας</g> and the Lat. <nsi>ebur.</nsi>] {%--Ibha-kan2a1,%} f. a plant
+
+find_etymologies WARNING 2 at line 32375
+<>in numeral adverbs as <nsi>quinquies.</nsi>] {%--Iyat-ta1,%} f. or
+
+find_etymologies WARNING 2 at line 32464
+<>tion;’ Gr. <g>ἐλάω</g>] [Page0142-a+ 71]
+
+find_etymologies WARNING 2 at line 32617
+<>haps Gr. <g>ἰό-της</g> and <g>ἵ-μερος</g>]
+
+find_etymologies WARNING 2 at line 32842
+<>‘such;’ Lat. <nsi>li</nsi> in <nsi>ta10lis, qua10lis.</nsi>] [Page0143-c+ 73]
+
+find_etymologies WARNING 2 at line 32937
+<>adj. <nsi>eigan,</nsi> ‘own;’ Mod. Germ. <nsi>eigen.</nsi>]
+
+find_etymologies WARNING 2 at line 34970
+<>{%tama,%} 1. {%ut-tara,%} &c.]
+
+find_etymologies WARNING 2 at line 40784
+<>[pl. {%sa1ma1ni%}] are sung, and the verses called {%yajus%}
+
+find_etymologies WARNING 2 at line 40785
+<>[pl. {%yaju1n6shi%}] are some of them not metrical and are
+
+find_etymologies WARNING 2 at line 40992
+<><nsi>rithim,</nsi> ‘I run, range, rush.’]
+
+find_etymologies WARNING 2 at line 41294
+<>[{%sv-apas%}] they obtained divinity, exercised super-
+
+find_etymologies WARNING 2 at line 41295
+<>human powers, and became entitled to worship.]
+
+find_etymologies WARNING 2 at line 41649
+<>‘neither of two.’] {%--Eka-ta1,%} f. oneness, unity, union,
+
+find_etymologies WARNING 2 at line 42269
+<>(e. g. {%etad me dhanam,%} this [scil. cow] is my
+
+find_etymologies WARNING 2 at line 42329
+<>made complete by] himself, his wife, and his progeny);
+
+find_etymologies WARNING 2 at line 42350
+<>perhaps also to Lat. <nsi>œsculus.</nsi>]
+
+find_etymologies WARNING 2 at line 45172
+<>affix {%paya%} has been compared with Gr. <g>ποῖος</g>]
+
+find_etymologies WARNING 2 at line 45330
+<>[with {%katham%} cf. Gr. <g>κατά.</g>]
+
+find_etymologies WARNING 2 at line 46787
+<>basket for flowers; [Lat. <nsi>corbis?</nsi>]. {%--Karan2d2a-%}
+
+find_etymologies WARNING 2 at line 47962
+<><nsi>calculo.</nsi>]
+
+find_etymologies WARNING 2 at line 50592
+<><g>κόραξ, κορώνη</g> Germ. <nsi>Rabe;</nsi> Eng. <nsi>crow.</nsi>]
+
+find_etymologies WARNING 2 at line 53965
+<><g>μεῖραξ, μειράκιον</g> ?]. {%--Kuma1ra-gupta, as,%} m., N.
+
+find_etymologies WARNING 2 at line 54891
+<>[Lat. <nsi>calvus</nsi>] in {%ati-kulva,%} too bald.
+
+find_etymologies WARNING 2 at line 55478
+<>bulbous plant; [? cf. {%ku1rc4ika1.%}]
+
+find_etymologies WARNING 2 at line 56434
+<>first part of this word cf. Hib. <nsi>cearc,</nsi> ‘a hen.’] {%--Kr2i-%}
+
+find_etymologies WARNING 2 at line 58537
+<>{%= kaumodaki1;%} [also {%kaupa1daki1 ?%}].
+
+find_etymologies WARNING 2 at line 62564
+<>digging [f. {%ku1pa-kha1%} and {%visa-kha1.%}]
+
+find_etymologies WARNING 2 at line 69584
+<>and {%glomus,%} cf. also {%gud2a%} and {%gola%}]; the moon;
+
+find_etymologies WARNING 2 at line 69698
+<>Gram. 778.]
+
+find_etymologies WARNING 2 at line 70675
+<>the payer of a debt and a physician [and] a Bra1hman
+
+find_etymologies WARNING 2 at line 70676
+<>[and] a river). In the Veda and even in classical
+
+find_etymologies WARNING 2 at line 70679
+<>{%Indras4c4a Somah2,%} both Indra [and] Soma; {%dur-%}
+
+find_etymologies WARNING 2 at line 70681
+<>divided [and] quickly to be united). Rarely {%c4a%} may
+
+find_etymologies WARNING 2 at line 70706
+<>{%ya1vanta eva te ta1va1n6s4c4a sa,%} as great as they [were]
+
+find_etymologies WARNING 2 at line 72050
+<>{%bha1sa%}]; the sword of Ra1van2a; N. of a prince; ({%a1%}),
+
+find_etymologies WARNING 2 at line 78766
+<P>{%Ja1-ma1tr2i, ta1,%} m. (‘the maker of [new] offspring,’
+
+find_etymologies WARNING 2 at line 79723
+<>various reading has {%jud2.%}]
+
+find_etymologies WARNING 2 at line 80157
+<>{%ma1na%} pres. part.], to know, have knowledge, become
+
+find_etymologies WARNING 2 at line 83849
+<>{%[tad+s4abda],%} having that name or the name of that),
+
+find_etymologies WARNING 2 at line 85313
+<>rt. 1. {%kr2i.%}] {%--Tiras-kr2ita, as, a1, am,%} concealed,
+
+find_etymologies WARNING 2 at line 87391
+<>gen. {%tatarushas;%} inf. {%taradhyai%}]; to pass across
+
+find_etymologies WARNING 2 at line 88328
+<><nsi>tres-decem;</nsi> Lith. <nsi>trylika</nsi> fr. <nsi>trydika.</nsi>] {%--Trayo-%}
+
+find_etymologies WARNING 2 at line 90281
+<>to see [? cf. rt. {%dan6s%}]: Caus. P. {%dan6s4ayati, -yitum,%}
+
+find_etymologies WARNING 2 at line 93108
+<>Cambro-Brit. <nsi>de,</nsi> ‘to part;’ <nsi>dead,</nsi> ‘a parting.’]
+
+find_etymologies WARNING 2 at line 94342
+<>Slav. <nsi>diÇ-naÇ,</nsi> ‘day.’] {%--Divah2-s4yeni1,%} f. epithet of par-
+
+find_etymologies WARNING 2 at line 99194
+<>of Yaudheya; of a river; of a country [? cf. {%da1vika%}];
+
+find_etymologies WARNING 2 at line 100351
+<>and {%dyuna.%}]
+
+find_etymologies WARNING 2 at line 101371
+<><nsi>da, do, di.</nsi>] {%--Dvi-ka, as, a1, am,%} having two {%ks%}
+
+find_etymologies WARNING 2 at line 104249
+<>[a sacrifice] in which oblations are offered.)
+
+find_etymologies WARNING 2 at line 107713
+<>Brahman], which spirit is thence also called Na1ra1yan2a
+
+find_etymologies WARNING 2 at line 108226
+<><nsi>nua, nuadh.</nsi>] {%--Nava-ka1rika1,%} f. a bride, a woman
+
+find_etymologies WARNING 2 at line 108782
+<>from Kadru1, wife of Kas4yapa [or from Su-rasa1], in
+
+find_etymologies WARNING 2 at line 109594
+<>objects, noun, word (e. g. {%megha-na1man,%} [every]
+
+find_etymologies WARNING 2 at line 109618
+<>{%dadha1ti,%} granting [which I doubt] that this rich man
+
+find_etymologies WARNING 2 at line 110277
+<><nsi>nidhan.</nsi>]
+
+find_etymologies WARNING 2 at line 112132
+<>be referred to {%ni-me,%} q. v.]
+
+find_etymologies WARNING 2 at line 112336
+<>to restrain, [apparently only used in the derivatives.]
+
+find_etymologies WARNING 2 at line 113767
+<>{%nir-dara, am,%} n. = pith, essence.] {%--Nirdari-va1sin,%}
+
+find_etymologies WARNING 2 at line 115413
+<>{%nijbhya1m%}] or {%nis4a1bhya1m,%} &c.), night; {%nis4i nis4i,%}
+
+find_etymologies WARNING 2 at line 117532
+<>now [Sa1y. quickly] have compassion upon me).
+
+find_etymologies WARNING 2 at line 118898
+<>[as an adj.] being on the enemy's side; {%maha1-%}
+
+find_etymologies WARNING 2 at line 119530
+<>the Buddhists, the knees], nose, and breast). {%--Pan3-%}
+
+find_etymologies WARNING 2 at line 120408
+<>(e. g. {%pan3c4a1s4at-pan2ika,%} [a fine] consisting of fifty
+
+find_etymologies WARNING 2 at line 122039
+<>substantive verb, e. g. {%s4asa1dau paratah2 [sati],%}
+
+find_etymologies WARNING 2 at line 123054
+<>part of IX. 97] and is also described as a law-giver.) [Page0538-a+ 76]
+
+find_etymologies WARNING 2 at line 123898
+<>crificer; a servant; fire; [? cf. {%pari-jman.%}]
+
+find_etymologies WARNING 2 at line 128064
+<>{%apa1si1t%} (Ved. forms {%pi1pa1ya%} [Sa1y. fr. {%pyai%}],
+
+find_etymologies WARNING 2 at line 133411
+<>{%pura1,%} soon she will fall within [the range of] thy
+
+find_etymologies WARNING 2 at line 133596
+<>haps Lat. <nsi>urbs;</nsi> perhaps Lith. <nsi>pil-i1-s,</nsi> ‘a castle.’]
+
+find_etymologies WARNING 2 at line 135041
+<>Hari-van6s4a 3423, S4akuni1-ves4a-dha1rin2i1] appeared to
+
+find_etymologies WARNING 2 at line 135673
+<>will fall.] {%--Pu1rva-vayas, a1s, a1s, as,%} or {%pu1rva-%}
+
+find_etymologies WARNING 2 at line 136157
+<>shortened into {%pr2ithivi,%} especially in comps.] {%--Pr2i-%}
+
+find_etymologies WARNING 2 at line 138685
+<>{%an4ga-pº,%} the seizing of the limbs [by a demon],
+
+find_etymologies WARNING 2 at line 142361
+<>to go towards, go back, [only used in Caus.]: Caus.
+
+find_etymologies WARNING 2 at line 144046
+<>east, Manu III. 87]; ({%en2a%}), ind. from left to right;
+
+find_etymologies WARNING 2 at line 148008
+<>{%--Prasan4ga-sama, as,%} m. a particular Ja1ti [q. v.]
+
+find_etymologies WARNING 2 at line 159342
+<>consonants] as a respectful mode of address, and also
+
+find_etymologies WARNING 2 at line 159524
+<>‘broken.’]
+
+find_etymologies WARNING 2 at line 160943
+<>become, about to be, future [Lat. <nsi>futurus</nsi>]; immi-
+
+find_etymologies WARNING 2 at line 160981
+<>little else than a transcript of Manu.] {%--Bhavishyot-%}
+
+find_etymologies WARNING 2 at line 161303
+<>[karun2a] on the death of a wife, the fourth teaches
+
+find_etymologies WARNING 2 at line 162060
+<>{%hah2,%} one who is free from attachment to all [earthly]
+
+find_etymologies WARNING 2 at line 162068
+<>name of a person] of the expression {%bhos,%} Manu II.
+
+find_etymologies WARNING 2 at line 163621
+<>[but referred by Sa1y. to rt. 1. {%budh%}], 3rd sing. {%bhu1tu;%}
+
+find_etymologies WARNING 2 at line 163681
+<>{%pratyanantari1-bhu1%} [also read {%pratyantari1-bhu1%}],
+
+find_etymologies WARNING 2 at line 164304
+<>composed of the [five] elements, epithet of the body
+
+find_etymologies WARNING 2 at line 165036
+<>Wind [Ma1tari-s4van], or as kindling Fire from the
+
+find_etymologies WARNING 2 at line 166267
+<>{%bhra1ntya1,%} under the false idea of [its being] a lotus;
+
+find_etymologies WARNING 2 at line 166269
+<>works to be] Bra1hman2as); unsteadiness; doubt, un-
+
+find_etymologies WARNING 2 at line 166792
+<>[? cf. {%magha%}]; N. of a mythical being (supposed to
+
+find_etymologies WARNING 2 at line 166803
+<>tector of [Vis4va1mitra's] sacrifice,’ an epithet of Ra1ma-
+
+find_etymologies WARNING 2 at line 166807
+<>{%--Makha-dveshin, i1,%} m. ‘enemy of [Daksha's]
+
+find_etymologies WARNING 2 at line 166827
+<>‘enemy of [Daksha's] sacrifice,’ an epithet of S4iva.
+
+find_etymologies WARNING 2 at line 168314
+<>{%mandati, -te%} [see rt. {%mand%}], {%mademahi, matsi, %}[Page0734-b+ 81]
+
+find_etymologies WARNING 2 at line 169989
+<>losophy as distinct from the soul [{%a1tman, purusha%}];
+
+find_etymologies WARNING 2 at line 170671
+<>veda [see {%r2ic4%}] contains 1017 Su1ktas or hymns, which
+
+find_etymologies WARNING 2 at line 175474
+<>[to be] living who lives consumed by pain); some-
+
+find_etymologies WARNING 2 at line 175488
+<>{%pari khyatam mo asma1kam [putra1n],%} deny us
+
+find_etymologies WARNING 2 at line 175490
+<>[according to Sa1y. {%mo = maiva%}]; and R2ig-veda 1.
+
+find_etymologies WARNING 2 at line 175492
+<>{%ma1 ka1rshi1t%}], let him not on any account destroy);
+
+find_etymologies WARNING 2 at line 178743
+<>{%yati,%} &c., to pronounce [a word] wrongly once:
+
+find_etymologies WARNING 2 at line 180098
+<>{%mun2d2itika1.%}]
+
+find_etymologies WARNING 2 at line 183754
+<>plucked the rushes [{%eraka1%}], and with these, turned
+
+find_etymologies WARNING 2 at line 183777
+<>under rt. {%man.%}]
+
+find_etymologies WARNING 2 at line 184024
+<>they were denominated Yakshas, [fr. {%jaksh,%} to eat];
+
+find_etymologies WARNING 2 at line 184347
+<>fused]; the other called Va1jasaneyi-sam2hita1 or S4ukla,
+
+find_etymologies WARNING 2 at line 184351
+<>fore looks white and orderly]: the order of sacrifices,
+
+find_etymologies WARNING 2 at line 185605
+<>[to him] who does not give?); or the relative itself
+
+find_etymologies WARNING 2 at line 185607
+<>{%a1ryam a1huh2,%} they call him honourable [who] does
+
+find_etymologies WARNING 2 at line 185632
+<>whichever [is] how many soever degrees, i. e. in [Page0808-a+ 81]
+
+find_etymologies WARNING 2 at line 186090
+<>provinces of the kingdom of Yama] to be born
+
+find_etymologies WARNING 2 at line 186095
+<>{%dharma-ra1ja, dharma%}], sometimes ‘Rod-bearer’
+
+find_etymologies WARNING 2 at line 186096
+<>or ‘Noose-bearer’ [see {%dan2d2a-dhara, pa1s4in%}], some-
+
+find_etymologies WARNING 2 at line 186097
+<>times ‘lord of the Pitr2is or Manes’ [see {%pitr2i-pati%}],
+
+find_etymologies WARNING 2 at line 186099
+<>{%mr2ityu-ra1j, mr2ityu, ka1la, antaka%}], sometimes
+
+find_etymologies WARNING 2 at line 186100
+<>‘god of the S4ra1ddha’ [see {%s4ra1ddha-deva%}]: in the
+
+find_etymologies WARNING 2 at line 186112
+<>Karbura [<nsi>= Cerberus?</nsi>], ‘spotted,’ and S4ya1ma,
+
+find_etymologies WARNING 2 at line 186125
+<>Vaivasvata, and cf. {%Vaivasvata%}]; Yama is, how-
+
+find_etymologies WARNING 2 at line 187412
+<>{%ya1ni [karma1n2i%}], which [actions]; according to
+
+find_etymologies WARNING 2 at line 187412
+<>{%ya1ni [karma1n2i%}], which [actions]; according to
+
+find_etymologies WARNING 2 at line 187441
+<>may be ‘tormenting [irreligious] men in hell’).
+
+find_etymologies WARNING 2 at line 188763
+<>tied] for its aim’). {%--Yu1pa-vat, a1n, ati1, at,%} having
+
+find_etymologies WARNING 2 at line 188908
+<>incorrect ascertainment, fancy, sleep, and recollection]
+
+find_etymologies WARNING 2 at line 188911
+<>uncoloured by contact with other substances], and by
+
+find_etymologies WARNING 2 at line 189169
+<>conscious sense or intelligence [{%vijn3a1na%}] alone.)
+
+find_etymologies WARNING 2 at line 190012
+<>Ved. acc. {%rajjvam,%} gen. {%rajjva1s%} [Manu XI. 168]
+
+find_etymologies WARNING 2 at line 192516
+<>{%ra1san, ra1sat%} [see 2. {%ra1s%}], {%ra1sva, rarate, rara1-%}
+
+find_etymologies WARNING 2 at line 193301
+<>{%adhº), as,%} m. a judge (placed over [judicial affairs]
+
+find_etymologies WARNING 2 at line 193882
+<>[see Raghu], and he typifies the conquering Ksha-
+
+find_etymologies WARNING 2 at line 193890
+<>two branches of the lunar dynasty]; he is sometimes
+
+find_etymologies WARNING 2 at line 193896
+<>enumerated among the nine white Balas [see {%bala%}]:
+
+find_etymologies WARNING 2 at line 194227
+<>however, are always malignant beings [see {%ra1kshasa%}],
+
+find_etymologies WARNING 2 at line 194232
+<>names Das4a-gri1va, Das4a1nana, &c.] and twenty arms,
+
+find_etymologies WARNING 2 at line 195052
+<><nsi>lauka-s, lauki-s.</nsi>]
+
+find_etymologies WARNING 2 at line 195361
+<>is also addressed as benevolent and auspicious [{%s4iva%}],
+
+find_etymologies WARNING 2 at line 195366
+<>coloured,’ ‘wearing braided hair’ [{%kapardin%}], ‘ce-
+
+find_etymologies WARNING 2 at line 195373
+<>{%marut%}]: in the later mythology the epithet {%s4iva,%} [Page0849-b+ 81]
+
+find_etymologies WARNING 2 at line 195396
+<>{%na1d dra1van2a1c4-c4a,%} cf. rts. 1. {%rud,%} 2. {%dru%}]; hence
+
+find_etymologies WARNING 2 at line 195696
+<><nsi>ruaidhim,</nsi> ‘I redden.’] {%--Rudhira-ta1mra1ksha, as,%}
+
+find_etymologies WARNING 2 at line 197432
+<>the recovery of the Amr2ita [see {%mandara%}]; she
+
+find_etymologies WARNING 2 at line 197440
+<>Dharma and mother of Ka1ma, as sister [or mother]
+
+find_etymologies WARNING 2 at line 200198
+<>({%dha1ra-lopaka, am,%} n. [probably] epithet of a par-
+
+find_etymologies WARNING 2 at line 200251
+<>of Orion lying in a direct line with Sirius] at Brahma1
+
+find_etymologies WARNING 2 at line 200542
+<>called hell [see {%pa1ta1la%}], and seven higher regions
+
+find_etymologies WARNING 2 at line 201961
+<>said to be also cl. 1. P. {%vac4ati%}), {%uva1c4a%} (Ved. {%[pra]-%}
+
+find_etymologies WARNING 2 at line 201963
+<>Ved. {%[pra]vavakshe%}), {%vakshyati, -te, avoc4at,%}
+
+find_etymologies WARNING 2 at line 202313
+<>proper N., (see Pa1n2. IV. 1, 58; cf. {%vajra-nakha.%}]
+
+find_etymologies WARNING 2 at line 203267
+<>{%vanuya1t = hin6sya1t], vanishat, vanushanta, vani-%}
+
+find_etymologies WARNING 2 at line 203268
+<>{%shanta, vanta%} [as if cl. 2], {%van6sva, va1vanas, va1-%}
+
+find_etymologies WARNING 2 at line 203269
+<>{%vandhi%}), Inf. {%vanitum%} (Ved. {%[pra]vantave%}), to
+
+find_etymologies WARNING 2 at line 203642
+<>102, 19. {%vananvati = ka1sht2ha1ni hanti,%} [the axe]
+
+find_etymologies WARNING 2 at line 203924
+<>sing. {%uvapitha%}), {%u1pe%} (according to some also {%[a1]vepe%}),
+
+find_etymologies WARNING 2 at line 204293
+<>it would be better if [death should happen] from the
+
+find_etymologies WARNING 2 at line 204656
+<>night as Mitra over the day [see 1. {%mitra%}], but
+
+find_etymologies WARNING 2 at line 204680
+<>or firmament, and in one place [R2ig-veda VII. 64, 2]
+
+find_etymologies WARNING 2 at line 205111
+<>Indra [R2ig-veda II. 14, 6], or by Indra and Vishn2u
+
+find_etymologies WARNING 2 at line 205154
+<>‘black;’ <nsi>voron,</nsi> ‘a raven:’ Lith. <nsi>warnas,</nsi> ‘a raven.’]
+
+find_etymologies WARNING 2 at line 205708
+<>year into six seasons [see {%r2itu%}], the rains falling in
+
+find_etymologies WARNING 2 at line 206454
+<>veda VII. 33, 11] he is called the son of the Apsaras
+
+find_etymologies WARNING 2 at line 206471
+<>{%arundhati1%}]; other legends make him one of the
+
+find_etymologies WARNING 2 at line 206473
+<>stars of the Great Bear [see {%r2ishi%}]; his name is often
+
+find_etymologies WARNING 2 at line 206508
+<>As4vins], the number of thirty-three gods to which
+
+find_etymologies WARNING 2 at line 206511
+<>[connected with {%ap,%} ‘water’]; 2. Dhruva, ‘the
+
+find_etymologies WARNING 2 at line 207324
+<>of the R2ig-veda [X. 125] is attributed to this goddess
+
+find_etymologies WARNING 2 at line 207636
+<>sam2hita1 [q. v.] of the Yajur-veda, because in this
+
+find_etymologies WARNING 2 at line 207649
+<>partridges [see {%taittiri1ya-sam2hita1%}]; Ya1jn3avalkya
+
+find_etymologies WARNING 2 at line 208145
+<>{%bali%}]; the germ of the story of this incarnation
+
+find_etymologies WARNING 2 at line 208253
+<>from the concurrence [{%sammu1rc4hana%}] of two winds).
+
+find_etymologies WARNING 2 at line 209479
+<>{%kamala, as, a1, am,%} opening [her] lotus-like mouth.
+
+find_etymologies WARNING 2 at line 209827
+<>{%sam2vat%}], which begins 57 B. C.; he is said to have
+
+find_etymologies WARNING 2 at line 209833
+<>{%nava-ratna%}], and innumerable legends are related
+
+find_etymologies WARNING 2 at line 209846
+<>‘valour-[won] Urvas4i1,’ N. of one of the three cele-
+
+find_etymologies WARNING 2 at line 213225
+<>Bha1rata-varsha [see {%kula1c4ala,%} p. 240, col. 3], and
+
+find_etymologies WARNING 2 at line 213369
+<>[of Indra] to the chariot on both sides, R2ig-veda
+
+find_etymologies WARNING 2 at line 214373
+<>different mother] and Kumbha-karn2a; both Ra1van2a
+
+find_etymologies WARNING 2 at line 215097
+<>e. g. {%vatsair viyuta1h2,%} [cows] separated from their
+
+find_etymologies WARNING 2 at line 216376
+<>Sa1varn2i by Sa-varn2a1], and therefore a kind of parent
+
+find_etymologies WARNING 2 at line 216377
+<>of the human race [see Manu]; in R2ig-veda X. 17,
+
+find_etymologies WARNING 2 at line 216730
+<>{%vi-venatam = ma1 vi-ka1mau bhavatam,%} [O As4vins]
+
+find_etymologies WARNING 2 at line 217383
+<>Dhvani [also written Dhu1ri ?]: they are particularly
+
+find_etymologies WARNING 2 at line 217418
+<>arts, [whence he is worshipped by Ka1rus or artizans];
+
+find_etymologies WARNING 2 at line 217422
+<>[Brahma1] himself as the creator of all things and
+
+find_etymologies WARNING 2 at line 217693
+<>c4andra, records [I. 51-65] how Vis4va1-mitra, on his
+
+find_etymologies WARNING 2 at line 217696
+<>bly typical of {%go,%} ‘the earth’], offered the Muni un-
+
+find_etymologies WARNING 2 at line 217701
+<>classes], which ended in the defeat of Vis4va1-mi1tra,
+
+find_etymologies WARNING 2 at line 218462
+<>between the acts [{%an4kayor madhya-varti1%}] and
+
+find_etymologies WARNING 2 at line 218464
+<>{%prayojitah2%}], who explain to the audience the pro-
+
+find_etymologies WARNING 2 at line 218596
+<>{%tri-vikrama%}], explained as denoting the threefold
+
+find_etymologies WARNING 2 at line 218601
+<>of this Vedic conception [see {%bali%}]; he does not
+
+find_etymologies WARNING 2 at line 218628
+<>{%bali%}]; 6. Paras4u-ra1ma or ‘Ra1ma with the axe,’
+
+find_etymologies WARNING 2 at line 218649
+<>Manu I. 10]; the wife of Vishn2u is Lakshmi1 or
+
+find_etymologies WARNING 2 at line 218663
+<>and Arjuna [see {%yamala1rjuna%}], Ka1lanemi, Haya-
+
+find_etymologies WARNING 2 at line 219009
+<>symbol usually marked by two perpendicular dots [:]
+
+find_etymologies WARNING 2 at line 220189
+<>{%avran, vran, [apa] vam = vr2in2omi%} in R2ig-veda X.
+
+find_etymologies WARNING 2 at line 220488
+<>{%avartishyata%} and {%avartsyat%} (Vedic forms {%[anu]-%}
+
+find_etymologies WARNING 2 at line 220489
+<>{%vartti, [a1] varta, avart, [sam-a1] vavartti%}), {%var-%}
+
+find_etymologies WARNING 2 at line 220489
+<>{%vartti, [a1] varta, avart, [sam-a1] vavartti%}), {%var-%}
+
+find_etymologies WARNING 2 at line 221389
+<>12. {%[pra] vr2ihata1t = prakarshen2a c4hinnava1n asi%}),
+
+find_etymologies WARNING 2 at line 222011
+<>{%sam2hita1, va1jasaneyi-sam2hita1%}], 3. the Sa1ma-veda;
+
+find_etymologies WARNING 2 at line 222029
+<>latter is impure--but only once [XI. 33] mentions the
+
+find_etymologies WARNING 2 at line 222042
+<>{%mantra%}], and 2. a Bra1hman2a portion consisting of
+
+find_etymologies WARNING 2 at line 222046
+<>with the Mantras [see {%bra1hman2a, vidhi%}], both
+
+find_etymologies WARNING 2 at line 222075
+<>{%yajur-veda, sa1ma-veda%}]; the more modern Atharva-
+
+find_etymologies WARNING 2 at line 222082
+<>some plant or drug gifted with magical properties],
+
+find_etymologies WARNING 2 at line 222103
+<>the Vedas and not composed them], and each of the
+
+find_etymologies WARNING 2 at line 222106
+<>{%d2ala, varga%}]: a tradition makes Vya1sa the com-
+
+find_etymologies WARNING 2 at line 222112
+<>however, the {%devata1%} may be an inanimate object],
+
+find_etymologies WARNING 2 at line 222120
+<>i. e. human compositions], and the mystical treatises
+
+find_etymologies WARNING 2 at line 222134
+<>{%da1nta%} in VI. 83, 94] underlying the ceremonial, viz.
+
+find_etymologies WARNING 2 at line 222156
+<>ing as limbs [for preserving the integrity] of the
+
+find_etymologies WARNING 2 at line 222298
+<>{%pra1tis4a1khya%}]: 2. {%C4handas,%} ‘metre,’ represented
+
+find_etymologies WARNING 2 at line 222316
+<>{%ya1ska%}]: 5. {%Jyotisha,%} ‘astronomy,’ or rather the
+
+find_etymologies WARNING 2 at line 222324
+<>S4rauta Su1tras, [see {%su1tra%} and cf. {%veda,%} p. 963]:
+
+find_etymologies WARNING 2 at line 222358
+<>longing to the Mi1ma1n6sa1 school [see {%mi1ma1n6sa1%}] and
+
+find_etymologies WARNING 2 at line 222363
+<>the Universal Spirit], stands out prominently by itself
+
+find_etymologies WARNING 2 at line 222378
+<>neut. of {%brahman%}] or the Supreme Soul, also called
+
+find_etymologies WARNING 2 at line 222387
+<>the three qualities, [see {%gun2a%}]; the liberation of the
+
+find_etymologies WARNING 2 at line 223652
+<>four [see {%gun2a%}]; 3. Karman, ‘action;’ 4. Sa1ma1nya,
+
+find_etymologies WARNING 2 at line 223662
+<>teriori, and analogy], but the other Prama1n2as are
+
+find_etymologies WARNING 2 at line 224513
+<>II. 58, 23. [Bombay ed.] the Intens. form {%vyapa-%}
+
+find_etymologies WARNING 2 at line 225303
+<>[see {%veda1nta%}]; he was the son of the sage Para1s4ara
+
+find_etymologies WARNING 2 at line 225317
+<>girl [see {%vidura,%} p. 918] and of S4uka, the supposed
+
+find_etymologies WARNING 2 at line 227057
+<>identified with the Tartars or Scythians [Lat. <nsi>Sacœ</nsi>]
+
+find_etymologies WARNING 2 at line 227304
+<>[the banner of] Indra,’ {%= s4akrotsava%} below; [cf.
+
+find_etymologies WARNING 2 at line 227636
+<>Mandana], and to have been an incarnation of the
+
+find_etymologies WARNING 2 at line 227650
+<>four disciples of S4an4kara [see {%s4aiva%}]; he is the
+
+find_etymologies WARNING 2 at line 228033
+<>Amritsar, [see {%vipa1s4%}]; it afterwards joins the Chena1b
+
+find_etymologies WARNING 2 at line 228077
+<>arrangement into sixty-eight Prapa1t2hakas]; the first
+
+find_etymologies WARNING 2 at line 228090
+<>tains the Br2ihad-a1ran2yaka [q. v.] Upanishad; the
+
+find_etymologies WARNING 2 at line 230144
+<>[see {%tantra%}], and the ritual enjoined is of two
+
+find_etymologies WARNING 2 at line 230930
+<>na1tha's commentary to Kira1t. V. 44].
+
+find_etymologies WARNING 2 at line 232140
+<>tion, [see {%rudra%}]; according to Vishn2u-Pura1n2a I. 8.
+
+find_etymologies WARNING 2 at line 232206
+<>[also called Pina1ka] in his hand to denote, as some
+
+find_etymologies WARNING 2 at line 235237
+<>of the Lin4ga [see {%s4iva%}] are very numerous every-
+
+find_etymologies WARNING 2 at line 236149
+<>called {%pa1rvan2a, asht2aka,%} q. q. v. v.], when three
+
+find_etymologies WARNING 2 at line 236150
+<>Pin2d2as or balls of meal [see {%pin2d2a%}] and water are
+
+find_etymologies WARNING 2 at line 236152
+<>forefathers [see {%pitr2i%}]: 2. Naimittika, i. e. occasional
+
+find_etymologies WARNING 2 at line 236155
+<>{%ekoddisht2a,%} q. v.]; the object being twofold, viz.
+
+find_etymologies WARNING 2 at line 236178
+<>[see {%vis4va%}]: the S4ra1ddha to a recently deceased
+
+find_etymologies WARNING 2 at line 236393
+<>S4ri1-Durga1, S4ri1-Ra1ma], and may be repeated twice,
+
+find_etymologies WARNING 2 at line 236395
+<>veneration [e. g. S4ri1-s4ri1-s4ri1-Durga1]; it is also used
+
+find_etymologies WARNING 2 at line 236397
+<>[e. g. S4ri1-Jayadeva] as well as of celebrated works
+
+find_etymologies WARNING 2 at line 236398
+<>[e. g. S4ri1-Bha1gavata] and sacred objects, and is often
+
+find_etymologies WARNING 2 at line 236950
+<>{%gun2a, as, a1, am,%} ‘having the quality [sound] which
+
+find_etymologies WARNING 2 at line 238622
+<>name] implying service.)
+
+find_etymologies WARNING 2 at line 238647
+<>{%yuge%} [loc. c.] is enumerated among the {%san4gra1ma-%}
+
+find_etymologies WARNING 2 at line 240620
+<><nsi>kartas.</nsi>] {%--Sakr2it-praja, as,%} m. ‘having offspring
+
+find_etymologies WARNING 2 at line 241162
+<>having a San4kra1nti, ({%a-san4kra1nta,%} [a month] which
+
+find_etymologies WARNING 2 at line 242737
+<>of Daksha and wife of Bhava [S4iva], and sometimes
+
+find_etymologies WARNING 2 at line 245262
+<>seven cities [R2ig-veda 1. 63, 7], seven divisions of
+
+find_etymologies WARNING 2 at line 245264
+<>62, 4], seven A1dityas, seven Da1navas, seven horses
+
+find_etymologies WARNING 2 at line 245269
+<>veda 1. 72, 6], thrice seven cows, &c.); [cf. Zend
+
+find_etymologies WARNING 2 at line 251585
+<>Ghogra [see {%gharghara%}] on which stands the
+
+find_etymologies WARNING 2 at line 251633
+<>[see {%brahman%}], and sometimes identified with Va1c4,
+
+find_etymologies WARNING 2 at line 251638
+<>to Ya1ska [Nirukta II. 23] she was regarded both as
+
+find_etymologies WARNING 2 at line 251641
+<>twice named in the R2ig-veda] was to the later;
+
+find_etymologies WARNING 2 at line 251645
+<>vati1 [see Manu II. 17]; hence the river Sarasvati1
+
+find_etymologies WARNING 2 at line 251675
+<>[see above]; it corresponds with the modern Sur-
+
+find_etymologies WARNING 2 at line 251892
+<>{%ma1tra%}]; 4. Indriya or organs; 5. Vaika1rika or
+
+find_etymologies WARNING 2 at line 254006
+<>the Soul] from the fetters of the phenomenal crea-
+
+find_etymologies WARNING 2 at line 254015
+<>of illusion;’ Bahu-dha1naka, ‘much-containing’], [Page1103-b+ 81]
+
+find_etymologies WARNING 2 at line 254023
+<>both modifications of it]; 3rd in order comes Ahan4-
+
+find_etymologies WARNING 2 at line 254029
+<>course in one sense also Productions]; then follow,
+
+find_etymologies WARNING 2 at line 254031
+<>bhu1tas or grosser elements [also called Maha1-bhu1ta],
+
+find_etymologies WARNING 2 at line 254033
+<>property of sound [{%s4abda%}], which is the Vishaya
+
+find_etymologies WARNING 2 at line 254036
+<>Gun2a or property of tangibility or touch [{%spars4a%}],
+
+find_etymologies WARNING 2 at line 254039
+<>colour [{%ru1pa%}], which is the Vishaya for the Eye;
+
+find_etymologies WARNING 2 at line 254041
+<>taste [{%rasa%}], which is the Vishaya for the Tongue;
+
+find_etymologies WARNING 2 at line 254043
+<>odour or smell [{%gandha%}], which is the Vishaya for
+
+find_etymologies WARNING 2 at line 254044
+<>the Nose, [see {%gun2a%}]; each of these elements after
+
+find_etymologies WARNING 2 at line 254050
+<>class of sixteen [{%shod2as4akah2%}]; these eleven organs
+
+find_etymologies WARNING 2 at line 254058
+<>tion and volition, [see {%manas%}]: the twenty-fifth
+
+find_etymologies WARNING 2 at line 254078
+<>[{%lin4ga-s4ari1ra%} or {%su1kshma-s4ari1ra%}] composed of
+
+find_etymologies WARNING 2 at line 254090
+<>{%gun2a%}] which binds and confines the soul: the Sa1n4-
+
+find_etymologies WARNING 2 at line 254095
+<>Veda1nta denies, [see {%veda1nta%}]; it is said to be
+
+find_etymologies WARNING 2 at line 254098
+<>branch of the Sa1n4khya proper, [see {%yoga%}]: the
+
+find_etymologies WARNING 2 at line 254105
+<>Sa1n4khya-ka1rika1 [see below], and the numerous
+
+find_etymologies WARNING 2 at line 254365
+<>(Ved. {%[pra-] si1shadha1ti = prasa1dhayatu,%} R2ig-veda
+
+find_etymologies WARNING 2 at line 254547
+<>XII. 41] they are the gods whose locality is the
+
+find_etymologies WARNING 2 at line 254970
+<>{%s4am,%} and {%soma%} is fr. another rt. [3. {%su%}], yet there
+
+find_etymologies WARNING 2 at line 254976
+<>Agnisht2oma, Ukthya, &c.]; nevertheless it is really
+
+find_etymologies WARNING 2 at line 254982
+<>A1rc4ika [or Pu1rva1rc4ika or C4hando-grantha], contains
+
+find_etymologies WARNING 2 at line 254987
+<>Uttara1rc4ika or Uttara1-grantha], contains 1225 verses,
+
+find_etymologies WARNING 2 at line 255036
+<>residence of the Pitr2is]; this Veda is said to possess
+
+find_etymologies WARNING 2 at line 255038
+<>man2a [= Pan3c4a-vin6s4a], the Shad2vin6s4a, the Sa1ma-
+
+find_etymologies WARNING 2 at line 255041
+<>Upanishad [<nsi>sic</nsi>], which last is probably the same as
+
+find_etymologies WARNING 2 at line 255181
+<>cending the senses [{%ati1ndriya-vishaya%}], such as
+
+find_etymologies WARNING 2 at line 255182
+<>the paths of the heavenly bodies [{%su1rya1di-gati%}], the
+
+find_etymologies WARNING 2 at line 260567
+<>{%vr2itti%}] on those that follow; these short sentences
+
+find_etymologies WARNING 2 at line 260592
+<>{%bra1hman2a%}], giving concise rules for the perform-
+
+find_etymologies WARNING 2 at line 260605
+<>founded on S4ruti], which are really ‘rules for domestic
+
+find_etymologies WARNING 2 at line 260608
+<>on {%smr2iti%} or ‘tradition,’ see {%sma1rta%}]; these led to
+
+find_etymologies WARNING 2 at line 260621
+<>{%s4a1khya%}] and the Phit2-su1tras of S4a1ntanava; in
+
+find_etymologies WARNING 2 at line 260872
+<>[see {%sapta1s4va, harit, harid-as4va, s4undhyu%}]; he
+
+find_etymologies WARNING 2 at line 260885
+<>edit.], Ra1ma, when about to do battle with Ra1van2a,
+
+find_etymologies WARNING 2 at line 260901
+<>lines of Hindu1 kings [see {%su1rya-van6s4a%} below];
+
+find_etymologies WARNING 2 at line 261805
+<>1. the mountain Mu1ja-vat is mentioned], stripped of
+
+find_etymologies WARNING 2 at line 261810
+<>tion [see {%pa1vama1na%}], whence, after further pressure,
+
+find_etymologies WARNING 2 at line 262220
+<>the charioteer [{%su1ta%}] Adhi-ratha, see {%karn2a.%})
+
+find_etymologies WARNING 2 at line 262246
+<>born in the next world [{%sarva-tanu1h2%}] with his
+
+find_etymologies WARNING 2 at line 263756
+<><nsi>stallan, stellan;</nsi> Lith. <nsi>stelloju,</nsi> ‘I appoint.’]
+
+find_etymologies WARNING 2 at line 264717
+<>{%yati%} and [according to some readings] {%snehati%} are
+
+find_etymologies WARNING 2 at line 264992
+<>me] straight in the face.) {%--Spasht2a-garbha1,%} f. a
+
+find_etymologies WARNING 2 at line 265038
+<>[probably] conferring worlds; cf. {%dhana-sº.%})
+
+find_etymologies WARNING 2 at line 265095
+<>{%stha1na, spr2isht2a%}], throat, palate, top of palate, and
+
+find_etymologies WARNING 2 at line 265636
+<>the Pra1kr2it {%simisima1-anti%} [see s.v.] is incorrectly
+
+find_etymologies WARNING 2 at line 266724
+<>or expressing [its] own inherent or true meaning,
+
+find_etymologies WARNING 2 at line 266740
+<>own object; having [its] own true and natural mean-
+
+find_etymologies WARNING 2 at line 268193
+<>forms, Pres. {%hanati%} [as if cl. 1], {%jighnate%} [cf. rt.
+
+find_etymologies WARNING 2 at line 268209
+<>31), {%jan4ghanti,%} (Ved. {%[ni-]ghanighnate,%} pres. part.
+
+find_etymologies WARNING 2 at line 268210
+<>dat. or according to Sa1y. {%= [ni-]hanti,%} R2ig-veda I.
+
+find_etymologies WARNING 2 at line 270302
+<>deity here?’] in the form Nara-sin6ha, ‘half man,
+
+find_etymologies WARNING 2 at line 270397
+<>carnate as a boar [the symbol of great strength],
+
+find_etymologies WARNING 2 at line 270495
+<>or present (an oblation [acc.], especially with fire or
+
+7647 etymology sections
+italics key Occurs twice: 173@akzi@2224@@aksha
+italics key Occurs twice: 397@acCa@3416@@c4had
+italics key Occurs twice: 996@adas@5463@@asau,
+italics key Occurs twice: 996@adas@5463@@adas,
+italics key Occurs twice: 1103@aDara@5874@@adhas
+italics key Occurs twice: 3112@anvIpa@11981@@anu
+italics key Occurs twice: 4799@aBiSas@16154@@abhi-s4as,
+italics key Occurs twice: 6838@avikalpa@22280@@am
+italics key Occurs twice: 6907@avidUra@22425@@am
+italics key Occurs twice: 9523@AScarya@30552@@am
+italics key Occurs twice: 9597@As@30823@@a1s
+italics key Occurs twice: 9884@iti@31803@@ti
+italics key Occurs twice: 10019@izwa@32650@@am
+italics key Occurs twice: 10047@I@32774@@i.
+italics key Occurs twice: 10116@ISAna@32958@@i1
+italics key Occurs twice: 12688@X@41517@@lr2i1s
+italics key Occurs twice: 12754@ena@42377@Pruss@ains;
+italics key Occurs twice: 12930@o@42947@@o,
+italics key Occurs twice: 13494@katama@45126@@katama
+italics key Occurs twice: 13636@kapiSa@46039@@a1
+italics key Occurs twice: 14548@kArzi@50950@@is
+italics key Occurs twice: 14768@kim@52151@@kim
+italics key Occurs twice: 15654@kfpaRa@56593@@am
+italics key Occurs twice: 16278@klam@59752@@klam
+italics key Occurs twice: 17084@gaBasti@64140@@is
+italics key Occurs twice: 17238@gavyUti@65202@@go
+italics key Occurs twice: 18527@cikkaRa@73559@@a1
+italics key Occurs twice: 18867@ced@75131@@c4ed
+italics key Occurs twice: 20314@tat@81731@@tad,
+italics key Occurs twice: 20343@tad@82173@@am
+italics key Occurs twice: 20506@taralAyita@83243@@as
+italics key Occurs twice: 20955@tiro@85371@@tiras.
+italics key Occurs twice: 21018@tIvra@85893@@ti1ra
+italics key Occurs twice: 21264@tftIya@87183@@am
+italics key Occurs twice: 21549@tri@89032@@is
+italics key Occurs twice: 21939@dari@91926@@is
+italics key Occurs twice: 22014@daSama@92578@@am
+italics key Occurs twice: 22561@dus@96954@@dur
+italics key Occurs twice: 22684@deva@98982@@u1s
+italics key Occurs twice: 22778@do@99716@@da1,
+italics key Occurs twice: 23093@dvi@101592@@am,
+italics key Occurs twice: 23093@dvi@101669@@as
+italics key Occurs twice: 23269@Davala@103482@@i1
+italics key Occurs twice: 23427@DIra@104461@@am
+italics key Occurs twice: 23615@DyE@105551@SAN@budh,
+italics key Occurs twice: 23714@na@106124@Slav@ne;
+italics key Occurs twice: 24141@nAman@109610@@na1ma1
+italics key Occurs twice: 24647@nidrAlu@111541@@us
+italics key Occurs twice: 25486@niryantraRa@114328@@am
+italics key Occurs twice: 26623@nyUna@118791@@am
+italics key Occurs twice: 27207@pariklizwa@123350@@am
+italics key Occurs twice: 28579@paS@127600@@pas4
+italics key Occurs twice: 29424@puMs@132334@@pun6s
+italics key Occurs twice: 29513@puras@133312@@is
+italics key Occurs twice: 30677@prati@140021@Bohem@proti:
+italics key Occurs twice: 34407@banDu@154103@@ya1
+italics key Occurs twice: 34638@bAleya@156181@@bali
+italics key Occurs twice: 34688@bAhu@156314@@ba1hu
+italics key Occurs twice: 34911@brahman@157807@@a1s4rama
+italics key Occurs twice: 35656@BU@163643@@bhavati
+italics key Occurs twice: 35686@BUri@164640@@da1
+italics key Occurs twice: 35693@BUnA@164741@@bhu1na1,
+italics key Occurs twice: 35693@BUnA@164742@@bhu1man,
+italics key Occurs twice: 35854@Bos@165868@@bhoh2
+italics key Occurs twice: 35898@Braj@166052@@bhraj
+italics key Occurs twice: 36469@manyA@171419@@manya1
+italics key Occurs twice: 36710@mahA@173538@@as,
+italics key Occurs twice: 36713@mahi@175096@@is
+italics key Occurs twice: 38661@yAvan@187783@@ya1van
+italics key Occurs twice: 38683@yu@187846@@yu
+italics key Occurs twice: 38795@yuvat@188576@@yuvat
+italics key Occurs twice: 39013@raYj@190052@@rajayati
+italics key Occurs twice: 39424@rAS@194270@@ra1s,
+italics key Occurs twice: 39569@rI@194941@@ra,
+italics key Occurs twice: 39740@rUpa@196011@@as
+italics key Occurs twice: 40146@laB@198257@@alambhi
+italics key Occurs twice: 41041@vad@203004@@udita
+italics key Occurs twice: 41065@vaD@203090@@badh,
+italics key Occurs twice: 41316@vartu@204825@@vartu
+italics key Occurs twice: 41334@varI@204927@@vara,
+italics key Occurs twice: 41430@vartu@205442@@vartu
+italics key Occurs twice: 41633@vas@206396@@ushita,
+italics key Occurs twice: 43828@vilambita@215897@@am
+italics key Occurs twice: 44287@vizvaYc@218388@@ak
+italics key Occurs twice: 44616@vITi@219892@@vi1
+italics key Occurs twice: 44701@vft@220482@@vr2it
+italics key Occurs twice: 44704@vft@220539@@t
+italics key Occurs twice: 46055@Sata@227968@Sax@hund;
+italics key Occurs twice: 46055@Sata@227976@@is
+italics key Occurs twice: 46441@SAnta@230500@@am
+italics key Occurs twice: 46578@SASvata@231177@@am
+italics key Occurs twice: 46761@Siz@232650@@s4ishyate,
+italics key Occurs twice: 46938@SuB@233932@@ya1
+italics key Occurs twice: 47656@zaz@237999@Goth@sihs;
+italics key Occurs twice: 47991@saMvara@239368@@= s4ambara
+italics key Occurs twice: 51831@sADAraRa@254610@@i1
+italics key Occurs twice: 52274@siv@257019@@vi
+italics key Occurs twice: 52274@siv@257029@Engl@seam:
+italics key Occurs twice: 52274@siv@257029@Engl@seam:
+italics key Occurs twice: 52441@sura@259916@@asita,
+italics key Occurs twice: 52441@sura@260043@@pa
+italics key Occurs twice: 53670@svadita@266998@@sv-adita,
+italics key Occurs twice: 53878@ha@268221@@ha
+italics key Occurs twice: 53976@halA@269047@@hala1
+italics key Occurs twice: 54033@hA@269459@@ha1
+italics key Occurs twice: 54039@hA@269479@@ha1
+done with update etymologies
+228 etymologies have type EMPTY
+222 etymologies have type MIXED
+1000 etymologies have type NONSAN
+6197 etymologies have type SAN

@@ -1,0 +1,26 @@
+244036 records from italics4_roman2.txt
+Non-invertible unknown: 1 
+line :8115@ANga@26373@@ăńgās
+line1:8115@ANga@26373@@aNgAs
+line2:8115@ANga@26373@@ańgās
+Non-invertible unknown: 2 
+line :13388@kawu@44576@@kaṭutarāi.
+line1:13388@kawu@44576@@kawutarAi.
+line2:13388@kawu@44576@@kaṭutarāï.
+Non-invertible unknown: 3 
+line :30109@prauga@137672@hw1@pra-üga, am,
+line1:30109@prauga@137672@hw1@pra-uga, am,
+line2:30109@prauga@137672@hw1@pra-uga, am,
+Non-invertible unknown: 4 
+line :36810@mAtf@175598@@mātărau,
+line1:36810@mAtf@175598@@mAtarO,
+line2:36810@mAtf@175598@@mātarau,
+Non-invertible unknown: 5 
+line :36810@mAtf@175598@@mātăras,
+line1:36810@mAtf@175598@@mAtaras,
+line2:36810@mAtf@175598@@mātaras,
+238353 lines read from italics4_roman2.txt
+CAP 86827
+CAPṉ,ṁ 2599
+SAME 148922
+TODO 5
