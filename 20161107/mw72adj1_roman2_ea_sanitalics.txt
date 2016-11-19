@@ -313,7 +313,7 @@ Page0179-a+ 73 :: fkTa :: 40719 :: <>perty, inheritance, partition, a share. {%-
 Page0179-a+ 73 :: fkTa :: 40721 :: <>property. {%--Ṛiktha-hara, as, ī, am,%} an heir, a co-
 Page0179-a+ 73 :: fkTa :: 40722 :: <>heir. {%--Ṛiktha-hārin, ī, iṇī, i,%} inheriting or sharing
 # 32 --------------------------------------------------
-ṛ  (\u1e5b) 16787 := LATIN SMALL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b) 16779 := LATIN SMALL LETTER R WITH DOT BELOW
 Pagev+ 45 :: NO HW :: 32 :: <>{%Reasons for undertaking a New Sanskṛit Dictionary.%}
 Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 365 :: <>interminable chain. In illustration of this the student is referred to such roots as 1. {%kṛi,%} p. 245;
 Pagex+ 59 :: Plan and Arrangement of the Present Work. :: 410 :: <>all forms co-exist in {%bhṛi, dhṛi, dhvṛi, hvṛi,%} &c. Again, such a
@@ -343,7 +343,7 @@ Page0355-c+ 66 :: Ṭańka, as, am, :: 81106 :: <>of the mint. {%--Ṭańka-vat,
 Page0355-c+ 66 :: Ṭańka, as, am, :: 81107 :: <>or declivities. {%--Ṭańka-śālā,%} f. a mint.
 Page0355-c+ 66 :: Ṭańkaka, as, :: 81108 :: <P>{%Ṭańkaka, as,%} m. a stamped coin especially of
 # 36 --------------------------------------------------
-ṭ  (\u1e6d) 13201 := LATIN SMALL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d) 13203 := LATIN SMALL LETTER T WITH DOT BELOW
 Pagexxviii-c+ 31 :: Aids and Encouragements received. :: 1648 :: <>For the correct pronunciation of the aspirated consonants, {%kh, ćh, ṭh, th, ph,%} &c., see p. xix of the preceding Preface.
 Page0001-a+ 70 :: Aṉśu, us, :: 1714 :: <>bearer of rays, the sun. {%--Aṉśu-paṭṭa, am,%} n. a kind
 Page0001-a+ 70 :: Aṉśu, us, :: 1714 :: <>bearer of rays, the sun. {%--Aṉśu-paṭṭa, am,%} n. a kind

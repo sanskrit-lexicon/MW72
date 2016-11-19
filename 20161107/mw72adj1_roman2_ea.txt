@@ -1408,7 +1408,7 @@ Pagexv+ 59 :: Plan and Arrangement of the Present Work. :: 647 :: <>Ṛig-veda--
 Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 933 :: <F>†) Amongst other publications the Ṛig-veda itself, edited by
 Pagexx+ 60 :: Plan and Arrangement of the Present Work. :: 941 :: <>which the Ṛig-veda will extend, now being edited in the native
 # 155 --------------------------------------------------
-ṛ  (\u1e5b) 19644 := LATIN SMALL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b) 19636 := LATIN SMALL LETTER R WITH DOT BELOW
 Pagev+ 45 :: NO HW :: 19 :: <P>A WORK of the kind here submitted to the students of Sanskṛit must be left to prove
 Pagev+ 45 :: NO HW :: 24 :: <P>1. Reasons for undertaking a New Sanskṛit Dictionary.
 Pagev+ 45 :: NO HW :: 26 :: <P>3. Extent of Sanskṛit Literature comprehended.
@@ -1440,7 +1440,7 @@ Page0355-c+ 66 :: Ṭańka, as, am, :: 81105 :: <>an epithet of Śiva. {%--Ṭa�
 Page0355-c+ 66 :: Ṭańka, as, am, :: 81106 :: <>of the mint. {%--Ṭańka-vat, ān, atī, at,%} having crags
 Page0355-c+ 66 :: Ṭańka, as, am, :: 81107 :: <>or declivities. {%--Ṭańka-śālā,%} f. a mint.
 # 159 --------------------------------------------------
-ṭ  (\u1e6d) 14890 := LATIN SMALL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d) 14892 := LATIN SMALL LETTER T WITH DOT BELOW
 Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 229 :: <>modern Prākṛits or spoken languages of the Hindūs, such as Hindī, Marāṭhī, Gujarātī, Bengālī, &c.;
 Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 245 :: <>Tri-piṭaka. Prākṛit is the name given to other and later pro-
 Pageviii+ 149 :: Plan and Arrangement of the Present Work. :: 247 :: <>of the present Hindū dialects, Hindī, Marāṭhī, &c., see note,

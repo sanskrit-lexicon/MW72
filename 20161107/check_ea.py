@@ -7,6 +7,23 @@ import codecs, unicodedata
 as_max = 10
 sys.path.append('../')
 import headword
+parms = headword.dictParms['mw72']
+reHeadwords0 = parms['reheadwords']
+nhwcases = len(reHeadwords0)
+reHeadwords = [re.compile(x) for x in reHeadwords0]
+
+def hwParse(line):
+ hwcase = None
+ for idxheadword in xrange(0,nhwcases):
+  reHeadword = reHeadwords[idxheadword]
+  m = reHeadword.search(line)
+  if m:
+   hwcase = idxheadword+1
+   break
+ hw_raw = None
+ if hwcase != None:
+  hw_raw = m.group('HW')
+ return (hwcase,hw_raw)
 
 class As(object):
  def __init__(self,key,m):
@@ -55,7 +72,7 @@ def check_as(filein,fileout):
   m = re.search(r'\[(Page.*?)\]',line)
   if m:
    last_page = m.group(1)
-  (hwcase,hw_raw,hom_raw) = headword.hwParse(line)
+  (hwcase,hw_raw) = hwParse(line)
   if hwcase:
    last_hw = hw_raw
   nstr = "%s" % n
