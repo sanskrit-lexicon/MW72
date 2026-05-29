@@ -31,3 +31,33 @@ sh xmlchk_xampp.sh mw72
 
 - **Python 3**
 - **mw72.txt** — in `$BASE/cologne/csl-orig/v02/mw72/mw72.txt`
+
+## Data format
+
+MW72 entries use standard CDSL Sanskrit-lexicography markup, with **English** glosses. The original digitization used the AS scheme; conversion to SLP1/modern IAST is tracked in issues #3/#4.
+
+| Tag | Role | Example |
+|---|---|---|
+| `<L>NNNN` | Entry begin, with `<pc>` print page-column ref | `<L>1<pc>0001-a` |
+| `<k1>`, `<k2>` | Primary / secondary headword (SLP1) | `<k1>a<k2>a` |
+| `<h>N` | Homonym number | `<h>1` |
+| `<LEND>` | Entry end | |
+| `{#…#}` | Sanskrit text (SLP1) | `{#a#}` |
+| `{%…%}` | English gloss / italic display | `{%a,%}` |
+
+Annotated example — the first entry of `mw72.txt`:
+```
+<L>1<pc>0001-a<k1>a<k2>a<h>1       # entry 1; print page 0001 col a; headword "a"; homonym 1
+{#a#} 1¦. {%a,%} the first letter of the alphabet; ...   # SLP1 headword ¦ English gloss
+<LEND>                             # entry end
+```
+
+## GitHub Issue Conventions
+
+This repository uses the Cologne dictionary-repo issue taxonomy. Every issue has exactly one **type**, one **severity**, and one **milestone**:
+
+- **Type** (9): link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **Severity** (3): minor, medium, hard
+- **Milestone** (4): Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
+
+See the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md) for label definitions and the type→milestone mapping.
