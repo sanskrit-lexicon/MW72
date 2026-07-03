@@ -1,0 +1,53 @@
+; markup_fix log for mw72.txt
+; nested: 0
+; whitespace: 25
+; changed: 24
+;
+26847 old ‘evil]. <nsi> — Abala-dhanvan, ā, ā, a,</nsi> possessing a weak
+26847 new ‘evil]. <nsi>— Abala-dhanvan, ā, ā, a,</nsi> possessing a weak
+134423 old Gr. <lang n="greek">σχίζω, σχίδη, σχέδη, σχινδαλμός, σκινδαλμός, </lang>
+134423 new Gr. <lang n="greek">σχίζω, σχίδη, σχέδη, σχινδαλμός, σκινδαλμός,</lang>
+172050 old Lat. <nsi>duo, bis</nsi> for <nsi>dvis; bi-</nsi> in comp., e. g. <nsi>bi-farius; </nsi>
+172050 new Lat. <nsi>duo, bis</nsi> for <nsi>dvis; bi-</nsi> in comp., e. g. <nsi>bi-farius;</nsi>
+186394 old snow:’ Gr. <lang n="greek">νίζ-ω, νίπ-τ-ω, χέρ-νιβ-α </lang> (acc.) <lang n="greek">νίπ-</lang>
+186394 new snow:’ Gr. <lang n="greek">νίζ-ω, νίπ-τ-ω, χέρ-νιβ-α</lang> (acc.) <lang n="greek">νίπ-</lang>
+215080 old <nsi>speculum, specu-s, spec-to:</nsi> Old Germ. <nsi>speh-ō-m, </nsi>
+215080 new <nsi>speculum, specu-s, spec-to:</nsi> Old Germ. <nsi>speh-ō-m,</nsi>
+215717 old <lang n="greek">πάτνη, πάθην, φάτνη, δεσ-πό-της, </lang> perhaps <lang n="greek">ἄνθρωπος</lang>
+215717 new <lang n="greek">πάτνη, πάθην, φάτνη, δεσ-πό-της,</lang> perhaps <lang n="greek">ἄνθρωπος</lang>
+223796 old <nsi>tendere;</nsi> Goth. <nsi>faura, faur;</nsi> Angl. Sax. <nsi>for, </nsi>
+223796 new <nsi>tendere;</nsi> Goth. <nsi>faura, faur;</nsi> Angl. Sax. <nsi>for,</nsi>
+257672 old Kaśmīra (= <lang n="arabic">شاه فتح </lang>).
+257672 new Kaśmīra (= <lang n="arabic">شاه فتح</lang>).
+269212 old <lang n="greek">φά-σ-μα; φά-ε </lang> (Homeric), ‘he appeared;’ <lang n="greek">ὑπό-φαυ-σι-ς,</lang>
+269212 new <lang n="greek">φά-σ-μα; φά-ε</lang> (Homeric), ‘he appeared;’ <lang n="greek">ὑπό-φαυ-σι-ς,</lang>
+272922 old <lang n="greek">φοι-τά-ω(?), φώς, gen. φωτός, </lang> ‘the generating one,’
+272922 new <lang n="greek">φοι-τά-ω(?), φώς, gen. φωτός,</lang> ‘the generating one,’
+280691 old <lang n="greek">μέσο-ς:</lang> Lat. <nsi>med-iu-s, di-midi-us:</nsi> Oscan. <nsi>mef- </nsi>
+280691 new <lang n="greek">μέσο-ς:</lang> Lat. <nsi>med-iu-s, di-midi-us:</nsi> Oscan. <nsi>mef-</nsi>
+281141 old <nsi>madha,</nsi> ‘wisdom, medical science;’ <nsi>vohu-mad = </nsi>
+281141 new <nsi>madha,</nsi> ‘wisdom, medical science;’ <nsi>vohu-mad =</nsi>
+281159 old think;’ <nsi>po-man-a-ti = </nsi> <lang n="greek">μνημονεύειν</lang> <nsi>pa-me-ti = </nsi>
+281159 new think;’ <nsi>po-man-a-ti =</nsi> <lang n="greek">μνημονεύειν</lang> <nsi>pa-me-ti =</nsi>
+281160 old <lang n="greek">μνήμη;</lang> <nsi>ma-d-rŭ = </nsi> <lang n="greek">φρόνιμος:</lang> Russ. <nsi>mnju,</nsi> ‘I sup-
+281160 new <lang n="greek">μνήμη;</lang> <nsi>ma-d-rŭ =</nsi> <lang n="greek">φρόνιμος:</lang> Russ. <nsi>mnju,</nsi> ‘I sup-
+297105 old <lang n="greek">μορ-τό-ς, μαραίν-ω, μαρα-σ-μό-ς:</lang> Lat. <nsi>mor- </nsi>
+297105 new <lang n="greek">μορ-τό-ς, μαραίν-ω, μαρα-σ-μό-ς:</lang> Lat. <nsi>mor-</nsi>
+297752 old <lang n="greek">μλάγος), γάλα, γάλακτος </lang> (for <lang n="greek">μλακτο</lang>): Lat.
+297752 new <lang n="greek">μλάγος), γάλα, γάλακτος</lang> (for <lang n="greek">μλακτο</lang>): Lat.
+304315 old metre, twice <lang n="greek">¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘, ˘ ¯ ˘ ¯ ˘ ¯ ˘ </lang>
+304315 new metre, twice <lang n="greek">¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘, ˘ ¯ ˘ ¯ ˘ ¯ ˘</lang>
+317381 old <nsi>roder:</nsi> Slav. <nsi>rud-e-ti, ruzd-a:</nsi> Lith. <nsi>raud-a, rud- </nsi>
+317381 new <nsi>roder:</nsi> Slav. <nsi>rud-e-ti, ruzd-a:</nsi> Lith. <nsi>raud-a, rud-</nsi>
+319468 old <lang n="greek">γ, δ, ε, </lang> Tauri. {%—Rohiṇī-ṣeṇa, as,%} m. a proper N.;
+319468 new <lang n="greek">γ, δ, ε,</lang> Tauri. {%—Rohiṇī-ṣeṇa, as,%} m. a proper N.;
+333949 old [cf. Zend <nsi>vanh, vas-tra;</nsi> Gr. <lang n="greek">ἕν-νυ-μι </lang> (for <lang n="greek">ϝεσνυμι</lang>),
+333949 new [cf. Zend <nsi>vanh, vas-tra;</nsi> Gr. <lang n="greek">ἕν-νυ-μι</lang> (for <lang n="greek">ϝεσνυμι</lang>),
+381357 old <lang n="greek"> κάρδοπος ,</lang> (probably) <lang n="greek">κραῦρος,</lang> (perhaps also) <lang n="greek">κέραμος,</lang>
+381357 new <lang n="greek">κάρδοπος ,</lang> (probably) <lang n="greek">κραῦρος,</lang> (perhaps also) <lang n="greek">κέραμος,</lang>
+426182 old <nsi>toru-s:</nsi> Goth. <nsi>strau-ja:</nsi> Old Germ. <nsi>strao, betti- </nsi>
+426182 new <nsi>toru-s:</nsi> Goth. <nsi>strau-ja:</nsi> Old Germ. <nsi>strao, betti-</nsi>
+432788 old <nsi>du-s;</nsi> probably Goth. <nsi>svaran;</nsi> Angl. Sax. <nsi>swaran, </nsi>
+432788 new <nsi>du-s;</nsi> probably Goth. <nsi>svaran;</nsi> Angl. Sax. <nsi>swaran,</nsi>
+438991 old Gr. <lang n="greek">κέχλαδα, καχλάζω, </lang> perhaps also <lang n="greek">γῆθος, γηθέω;</lang>
+438991 new Gr. <lang n="greek">κέχλαδα, καχλάζω,</lang> perhaps also <lang n="greek">γῆθος, γηθέω;</lang>
