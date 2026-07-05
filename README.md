@@ -1,5 +1,7 @@
 # MW72 — Monier-Williams *A Sanskrit-English Dictionary* (1872)
 
+_Created: 24-08-2014 · Last updated: 05-07-2026_
+
 Development and correction repository for the **1872 first edition** of **Monier Monier-Williams's *A Sanskrit-English Dictionary*** — distinct from the better-known, much-expanded 1899 edition (`MW`). Part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/mw72/mw72.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw72/mw72.txt) (55,388 entries); this repository holds preparatory and correction work.
 
 ## Documentation
@@ -115,6 +117,28 @@ pie showData
 - The original digitization used the AS (Anusvāra) scheme; conversion to SLP1 and modern IAST is tracked in issues [#3](https://github.com/sanskrit-lexicon/MW72/issues/3) and [#4](https://github.com/sanskrit-lexicon/MW72/issues/4).
 - Devanāgarī and IAST are generated at display time, not stored in the source.
 
+## Usage example
+
+Applying a correction to a real line of [`mw72.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw72/mw72.txt) with `updateByLine.py` (root [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/CLAUDE.md) "Shared correction pattern"). The real current line 13 (title page) reads:
+
+```
+MONIER WILLIAMS, M.A.
+```
+
+A change file pairs the old/new lines by line number (illustrating a hypothetical spelling normalization, `WILLIAMS` → `WILLIAMS,`):
+
+```
+; change_mw72_example.txt
+13 old MONIER WILLIAMS, M.A.
+13 new MONIER-WILLIAMS, M.A.
+```
+
+```sh
+python updateByLine.py mw72.txt change_mw72_example.txt mw72_corrected.txt
+```
+
+Illustrative only (no such correction is queued) — the "before" line is the real, current `csl-orig/v02/mw72/mw72.txt` line 13.
+
 ## How it works
 
 ```mermaid
@@ -159,3 +183,5 @@ Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
