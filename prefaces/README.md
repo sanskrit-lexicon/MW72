@@ -62,7 +62,7 @@ Rebuild: `python build_combined.py` (or `DICT=mw72 python build_combined.py`).
 ## Notes
 
 - Sanskrit terms, work-titles, and bibliographic abbreviation keys are left verbatim in their original Roman transliteration; the Nāgarī column on page 25 is given in Unicode Devanāgarī.
-- Russian translations follow scholarly register: personal names in Cyrillic with no redundant Latin parentheses (Böhtlingk = Бётлингк, Roth = Рот, Wilson = Уилсон, Whitney = Уитни, Müller = Мюллер, Benfey = Бенфей, Goldstücker = Гольдштюкер, Curtius = Курциус, etc.); bibliographic work-titles kept in their original script.
+- Russian translations follow scholarly register: personal names in Cyrillic with no redundant Latin parentheses (Böhtlingk = Бетлингк, Roth = Рот, Wilson = Уилсон, Whitney = Уитни, Müller = Мюллер, Benfey = Бенфей, Goldstücker = Гольдштюкер, Curtius = Курциус, etc.); bibliographic work-titles kept in their original script.
 - Uncertain readings are marked `[?]`; the dense three-column Abbreviations and bibliography pages were OCR'd at native-resolution crops.
 
 Produced by the `/cologne-preface-ocr` skill.
