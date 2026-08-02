@@ -1,10 +1,15 @@
 # MW72 — Monier-Williams *A Sanskrit-English Dictionary* (1872)
 
+_Created: 14-08-2014 · Last updated: 02-08-2026_
+
 Development and correction repository for the **1872 first edition** of **Monier Monier-Williams's *A Sanskrit-English Dictionary*** — distinct from the better-known, much-expanded 1899 edition (`MW`). Part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/mw72/mw72.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw72/mw72.txt) (55,388 entries); this repository holds preparatory and correction work.
+
+**Edition basis (house note, 02-08-2026):** MW72's English-gloss stock rests on **Wilson 1832**, with **PWG matter added** on top. MW 1899 then **brings English meanings forward** from this edition. That is the MW-side Wilson path; PWG itself rests on **Wilson 1819** (not digitised as a full body at Cologne). Do not treat "Wilson" as edition-free when comparing MW72/MW to PWG. Full chain: [WIL edition lineage 1819/1832](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md). Note also: this digitisation carries **zero** `<ls>` source tags ([FINDINGS §511](https://github.com/gasyoun/SanskritLexicography/blob/master/FINDINGS.md#511-mw72-carries-zero-ls-source-citations--every-cross-dictionary-citation-test-that-names-it-shrinks-to-mw)).
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide, correction workflow, and data-format reference.
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/MW72/blob/master/CLAUDE.md) — repository guide, correction workflow, and data-format reference.
+- [WIL edition lineage](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) — 1819 (PWG) vs 1832 (this edition's English base).
 
 ## Contents
 

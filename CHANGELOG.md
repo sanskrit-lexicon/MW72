@@ -3,6 +3,12 @@
 All notable changes to the MW72 repository's metadata and documentation are recorded here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 The dictionary source text itself is maintained canonically in `csl-orig`.
 
+## [Unreleased]
+
+### Changed
+
+- **README: English base = WIL 1832 + PWG matter** (Grok 4.5 `grok-4.5`, 02-08-2026) — MW1899 carries English meanings forward from this edition; PWG's Wilson base is the separate **1819** print. Pointer: [WIL edition lineage](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md).
+
 ## [1.0.0] - 2026-06-13
 
 ### Changed
