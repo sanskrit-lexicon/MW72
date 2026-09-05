@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0025_Image_0002.png
 source_page: "Abbreviations"
@@ -167,3 +169,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 - ◡ denotes that a vowel or syllable is to be noted as short.
 - ¯ (macron) = that a vowel or syllable is long.
 - ¦ that the rest of a word is to be supplied, e.g. '*ri-iṅ*' after *kariudra* is for *kari-indra*.
+
+_Dr. Mārcis Gasūns_

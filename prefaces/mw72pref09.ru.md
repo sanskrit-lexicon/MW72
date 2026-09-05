@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0010_Image_0002.png
 source_page: "Extent of Sanskrit Literature comprehended, 1"
@@ -26,3 +28,5 @@ translation_of: mw72pref09.md
 ---
 
 \* Санскритско-французский Словарь г-на Эмиля Бюрнуфа, который также появился после того, как бо́льшая часть моего труда была в наборе, есть самостоятельная разработка некоторых идей, сходных с моими собственными.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0025_Image_0002.png
 source_page: "Abbreviations"
@@ -167,3 +169,5 @@ translation_of: mw72pref24.md
 - ◡ обозначает, что гласный или слог следует отметить как краткий.
 - ¯ (макрон) = что гласный или слог долог.
 - ¦ что остальная часть слова должна быть восполнена, напр. '*ri-iṅ*' после *kariudra* есть для *kari-indra*.
+
+_Dr. Mārcis Gasūns_

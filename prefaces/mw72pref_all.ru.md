@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `mw72prefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `mw72prefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MW72/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -915,3 +917,5 @@ deva, обыкновенно называемую Śabda-kalpa-druma\*, и хо�
 a, ā; i, ī; u, ū; ṛi, ṝi; ḷri, ḹri; e, ai; o, au;—n или m, ḥ;—k, kh; g, gh; ṅ;—ć, ćh; j, jh; ñ;—ṭ, ṭh; ḍ, ḍh; ṇ;—t, th; d, dh; n;—p, ph; b, bh; m;—y, r, l, ḻ, v; ś, sh, s;—h.
 
 Заметьте: n изображает истинную Anusvāra в теле слова перед символом любого носового; часто оно встречается в конце слова, как в *dāna*, *daśa* и проч.; но может также изображать Anusvāra, когда конечное n сопровождается начальными шипящими и *h*, и в словах, образованных с приращением (аугментом).
+
+_Dr. Mārcis Gasūns_

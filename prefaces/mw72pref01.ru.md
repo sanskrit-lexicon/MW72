@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0001_Image_0002.png
 source_page: Title
@@ -38,3 +40,5 @@ translation_of: mw72pref01.md
 M DCCC LXXII.
 
 [Все права защищены]
+
+_Dr. Mārcis Gasūns_

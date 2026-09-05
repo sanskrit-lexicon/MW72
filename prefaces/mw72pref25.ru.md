@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0026_Image_0002.png
 source_page: "Dictionary order of the nagari letters"
@@ -83,3 +85,5 @@ translation_of: mw72pref25.md
 a, ā; i, ī; u, ū; ṛi, ṝi; ḷri, ḹri; e, ai; o, au;—n или m, ḥ;—k, kh; g, gh; ṅ;—ć, ćh; j, jh; ñ;—ṭ, ṭh; ḍ, ḍh; ṇ;—t, th; d, dh; n;—p, ph; b, bh; m;—y, r, l, ḻ, v; ś, sh, s;—h.
 
 Заметьте: n изображает истинную Anusvāra в теле слова перед символом любого носового; часто оно встречается в конце слова, как в *dāna*, *daśa* и проч.; но может также изображать Anusvāra, когда конечное n сопровождается начальными шипящими и *h*, и в словах, образованных с приращением (аугментом).
+
+_Dr. Mārcis Gasūns_

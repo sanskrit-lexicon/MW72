@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0019_Image_0002.png
 source_page: "Principal Sources, 2"
@@ -56,3 +58,5 @@ To these acknowledgments of special obligations I now subjoin an alphabetical li
 ---
 
 \* A fine copy of this valuable work, now very difficult to procure in its perfect state, was searched for, some years ago, at Calcutta and most kindly presented to me by my friend Mr. Walter Scott Seton-Karr, Foreign Secretary to the Governments of Lord Lawrence and Lord Mayo, and Vice-Chancellor of the Calcutta University.
+
+_Dr. Mārcis Gasūns_

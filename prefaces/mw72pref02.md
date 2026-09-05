@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0003_Image_0002.png
 source_page: "Preface : Reasons for undertaking a New Sanskrit Dictionary, 1"
@@ -30,3 +32,5 @@ Not even the most superficial observer can possibly be blind to the educational 
 \* Thoroughness in our teaching of Greek and Latin will never be effected until we lead our pupils to look more into the intimate internal constitution of these languages in their correlation to each other and to the other members of the Aryan family. To this end Sanskrit is indispensable. French again will never be taught as it ought to be till our boys are made to understand its connection with Latin in every part of its grammatical structure. I had such an excellent work as the 'Historical Grammar of the French Tongue by Auguste Brachet,' translated by the Rev. G. W. Kitchin, as an evidence that we are beginning to realize the defects in our present system of linguistic training.
 
 b
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0013_Image_0002.png
 source_page: "Alphabet and System of Transliteration employed, 1"
@@ -28,3 +30,5 @@ Probably the first Phœnician graphic signs were, like the Chinese, of an ideogr
 \* See the note on Vedic accents, p. xix of this Preface.
 
 † Though some Sanskrit books—such as Professor Aufrecht's Ṛig-veda—printed in the Roman character are much used by European scholars, it is doubtful whether these have obtained even a limited circulation in India. I trust, therefore, that when this volume falls into the hands of any great Paṇḍit, to whom one of our Indian Governments may present it, he will not consider that I am degrading Sanskrit like the man who pollutes cow's milk by putting it into a dog's skin. *Nahi pītvaa syād go-kshīraṃ śva-dṛitau dhṛitam* ; cf. Muir's Sanskrit Texts, vol. ii. p. 53, note 97. Of course I know that many native books are printed in which Sanskrit words are transliterated by Roman letters, but my desire is to see some standard texts accurately printed in this character and circulated throughout India. At present the loose and careless way in which the Roman alphabet is applied tends to bring the whole system into disrepute. This is exemplified in writing the names of places and persons as well as in books. A little work called the Durga-pūja [*sic*] by Pratāpachandra Ghosha has just been received by me from Calcutta. It contains much useful information, but here we have Sanskrit words transliterated without any attempt at exactness, e.g. Devi, Durga, pūja, Purana, oshtami, Krshna, Savitri, and numberless others.
+
+_Dr. Mārcis Gasūns_

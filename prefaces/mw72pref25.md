@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0026_Image_0002.png
 source_page: "Dictionary order of the nagari letters"
@@ -83,3 +85,5 @@ WITHOUT THEIR NĀGARĪ EQUIVALENTS.
 a, ā ; i, ī ; u, ū ; ṛi, ṝi ; ḷri, ḹri ; e, ai ; o, au ;—n or m, ḥ ;—k, kh ; g, gh ; n ;—ć, ćh ; j, jh ; ñ ;—ṭ, ṭh ; ḍ, ḍh ; ṇ ;—t, th ; d, dh ; n ;—p, ph ; b, bh ; m ;—y, r, l, ḻ, v ; ś, sh, s ;—h.
 
 Observe :—n represents the true Anusvāra in the body of a word before the symbol of any nasal will often be found at the end of a word, as in *dāna*, *daśa* &c. ; but may also represent Anusvāra, when final n is followed by initial sibilants and *h*, and in words formed with the augment.
+
+_Dr. Mārcis Gasūns_

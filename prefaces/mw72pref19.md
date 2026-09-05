@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0020_Image_0002.png
 source_page: "Aids and Encouragements received, 1"
@@ -88,3 +90,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 My first acknowledgments are due to the Delegates of the Clarendon Press, without whose kind patronage this work could never have been published. It does not become me to commend the efforts these gentlemen are making for the furtherance of education, except so far as to say that they fifty respected the mind and wishes of the University of Oxford. Nor does the Clarendon Press itself need any monument of my rearing. Let those who desire proofs of its efficiency look around and note the series of valuable educational books constantly issuing from its founts, models of clear and accurate typography, in almost every department of science.
 
 Perhaps, however, I may be permitted to mention specially the name of one who has recently left us, but who was a member of the Press-Delegacy when the publication of this
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0001_Image_0002.png
 source_page: Title
@@ -36,3 +38,5 @@ AND BY W. H. ALLEN AND CO.
 M DCCC LXXII.
 
 [All rights reserved]
+
+_Dr. Mārcis Gasūns_

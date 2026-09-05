@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0024_Image_0002.png
 source_page: "Directions to be used before using this dictionary"
@@ -36,3 +38,5 @@ Under roots and verbs the 3rd pers. singular of the various tenses is given, oth
 When words really dissimilar appear similar either in Roman or Nāgarī type, the figures 1, 2, 3, &c. are placed before them ; so, for example, 1. *as*, 2. *as*, 3. *as* ; 4. *as* ; 1. *vid*, 2. *vid* ; 3. *vid*, 4. *vid* ; 5. *vid* ; 1. *sam-īraṇa*, 2. *sam-īraṇa* ; 1. *cara, 2. cara* ; 1. *roop*, 2. *roop*.
 
 It is believed that few common words or meanings likely to be met with in the classical literature have been omitted in this work ; nevertheless the Supplement at the end of the volume should occasionally be consulted ; thus in the two pages, 623, 624, one or two words and the common meaning 'allix,' belonging to *prati-vas*, have accidentally dropped out, but are supplied in the supplementary pages.
+
+_Dr. Mārcis Gasūns_

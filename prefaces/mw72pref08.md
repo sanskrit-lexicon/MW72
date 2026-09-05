@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0009_Image_0002.png
 source_page: "Plan, 4"
@@ -24,3 +26,5 @@ Another distinctive characteristic of this Dictionary consists in the articles o
 ‡ See, for example, the roots 1. *su*, 2. *su*, 3. *su*, 4. *su*, at p. 1117, and 1. *kāla*, 2. *kāla*, at pp. 224, 225.
 
 [footnote continued from p. x:] root as *sad* is probably nothing but a compound of *su* and *sad*, and such roots as *stubh*, *stambh*, *stambh* are plainly mere modifications of each other.
+
+_Dr. Mārcis Gasūns_

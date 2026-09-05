@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0017_Image_0002.png
 source_page: "Alphabet, 5"
@@ -22,3 +24,5 @@ I also prefer the symbol *ṣ* for the cerebral sibilant. Should a second editio
 † At any rate, it is to be hoped that the hyphen will not be denied to Sanskrit for the better understanding of the more complex words, such, for example, as *vaidika-manu-ādi-praṇīta-smṛititvāt, karma-phala-rūpa-śarira-dhāri-jīva-nirmitatvābhibhava-mātreṇa*, taken at hap-hazard from Dr. Muir's Texts. We may even express a hope that German scholars and other Europeans, who speak forms of Āryan speech, all of them equally delighting in composition, may condescend more frequently to the employment of the hyphen for some of their own Sesquipedalia Verba, thereby imitating the practical Englishman in his Parliamentary compounds, such, for example, as habeas-corpus-suspension-act-continuance-Ireland-bill.
 
 ‡ A hat might be taken from Anglo-Saxon ð, as before observed, especially if ^ be used for long vowels. The mark ' is perhaps too much like that required for accentuation. I hope, however, that the system of accentuating classical Sanskrit will never be allowed. Why complicate a subject already sufficiently intricate by introducing another element of perplexity which native scholars themselves do not sanction? Let accentuation be kept for the Veda ; and in Vedic words a more upright and conspicuous stroke might, in my opinion, be used with advantage.
+
+_Dr. Mārcis Gasūns_

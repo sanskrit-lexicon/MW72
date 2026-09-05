@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0014_Image_0002.png
 source_page: "Alphabet, 2"
@@ -20,3 +22,5 @@ From what I have before advanced, it will, I think, be clear that it ought to be
 \* The Roman, however, having no proper aspirated consonantal sounds, rejected the Greek θ, φ, χ, and to represent these unhappily originated the clumsy *th, ph, ch*, writing also *ps* for φ.
 
 † According to Mr. Edward Thomas (Prinsep's Indian Antiquities, vol. ii. p. 42), the theory by which Professor Weber has sought to establish a Phœnician origin for the Indian alphabets is untenable. There are, however, two sets of Buddhist inscriptions [tracing them to a] Phœnician source. Those on the rock of Girnar (Giri-nagara) in Kāṭṭywar, Gujarāt, which are said to be most important in their relation to the present Indian alphabets, are not so clearly traceable. Mr. Thomas appears to have good ground for thinking that many of the Nāgarī letters were derived from the Dravidians of the South.
+
+_Dr. Mārcis Gasūns_

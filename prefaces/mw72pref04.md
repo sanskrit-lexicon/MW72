@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0005_Image_0002.png
 source_page: "Reasons, 3"
@@ -16,3 +18,5 @@ It is perhaps also not known that he actually made some progress in carrying out
 ---
 
 \* It was justice in a note like the late Professor Goldstücker's life, which appeared in a recent number of a well-known scientific periodical, that many thousands of notes and references for the new edition of Wilson's Sanskrit Dictionary and other works, the result of an unremitting study of the MSS. treasures at the India House &c., are left behind by Professor Goldstücker. With reference to this matter, I ought in justice to the present learned and courteous librarian of the India Office, as well as in justice to my own Dictionary, to put on record, that soon after his appointment, Dr. Rost offered to allow me also the use of any of these MSS. treasures if I would name any likely to be useful to myself. Knowing, however, that about eighty MSS., including those I needed most, were doing good service at the house of Professor Goldstücker, aiding him day by day in the elaboration of his Dictionary, I did not feel justified in interrupting the prosecution of so large a work for the sake of any advantage that might have accrued to my own less weighty performance. Moreover, I felt that I could not in justice interrupt the continuity of Professor Goldstücker's labours, when I had the use of the Wilsonian Collection belonging to the Bodleian, which, however inferior to those at the India Office in the departments required by a lexicographer, were still freely placed at my command by our own learned and obliging librarian, the Rev. H. O. Coxe.
+
+_Dr. Mārcis Gasūns_

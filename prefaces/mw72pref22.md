@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0023_Image_0002.png
 source_page: "Defects, 3"
@@ -20,3 +22,5 @@ With these explanations I close my present labours, profoundly conscious of thei
 <div style="text-align:right">MONIER WILLIAMS.</div>
 
 Oxford, *May* 1872.
+
+_Dr. Mārcis Gasūns_

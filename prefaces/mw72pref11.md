@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0012_Image_0002.png
 source_page: "Extent, 3"
@@ -16,3 +18,5 @@ The foregoing sketch of the nature of Sanskrit literature will, I trust, explain
 ---
 
 \* It should be mentioned however, that for the latter part of the Ṛig-veda I have not had the advantage of Professor Max Müller's editorial skill. The first volume of his edition of this work, with Sāyaṇa's commentary, was brought out under the patronage of the East India Company in 1849. Three other volumes have since appeared, completing as far as the end of the eighth Maṇḍala. For the remainder I have been obliged to trust to an imperfect MS. of Sāyaṇa's commentary in the Wilsonian Collection belonging to the Bodleian Library. This is the only Ṛig-veda MS. of any value that I have had it in my power to employ, as I have not been able to consult the excellent MSS. belonging to the India Office Library, which others had a greater right to use than myself. I am informed that a fifth volume of the Ṛig-veda is about to appear.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0006_Image_0002.png
 source_page: "Plan and Arrangement of the Present Work, 1"
@@ -24,3 +26,5 @@ Happily it is now a familiar fact to most educated persons that the Indo-Europea
 † Though the younger sisters sometimes preserve older forms.
 
 ‡ At this is the first classical Dictionary put forth by any English scholar which attempts to introduce abundant comparisons between the various members of the Indo-European family, I here append a brief account of the Āryan cognate languages beginning with the Indian. 1. By Pāli or Pāli is meant one of the oldest forms of the ancient provincial Hindū language of which Sanskrit is the learned form, (see p. xiii of Preface). It must have been spoken either in Magadha or in some district not far from Oude, where Buddha flourished, and being carried by the Buddhists into Ceylon became their sacred language, and is preserved in their canonical scriptures called Tri-piṭaka. Prākrit is the name given to other and later provincial forms of Sanskrit, which were the precursors and parents of the present Hindū dialects, Hindī, Marāṭhī, &c., see note, p. xvii. These latter may be called modern Prākrits. 2. Next as to the Īrānian; (*a*) Zand or Zend (old Bactrian) is an old Persian and Indian way Sanskrit, in which the most ancient books are written, called Zand Avastā, belonging to the Pārsīs (or fugitives from Persia scattered on the coast of India, and still believers in the religion founded by Zardusht or Zoroaster). Old Persian is a name given to the dialect preserved in one set of cuneiform inscriptions, about contemporaneous with Zand. Pahlavī (sometimes written
+
+_Dr. Mārcis Gasūns_

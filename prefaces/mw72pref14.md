@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0015_Image_0002.png
 source_page: "Alphabet, 3"
@@ -20,3 +22,5 @@ Be it remembered that we are not expecting either absurdities or impossibilities
 ---
 
 \* Viz. Sanskṛit, with its kindred Hindī, Marāṭhī, Gujarātī, Bengālī, Uriya, Asamese, Panjābī, Gurumukhī, Sindhī, Nepalese, Kaśmīrī, the Singhalese of Ceylon ; the Pushtu of Afghānistān ; the five Dravidian languages, Tamil, Malayālam, Telugu, Kanarese, Tulu ; the half Dravidian Brahū-ī ; the composite Urdū or Hindūstānī current throughout India ; and lastly Burmese.
+
+_Dr. Mārcis Gasūns_

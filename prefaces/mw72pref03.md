@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0004_Image_0002.png
 source_page: "Reasons, 2"
@@ -18,3 +20,5 @@ In point of fact the Hindūs may be said to be the original inventors of the 'sc
 \* See the notes on the Semitic and Āryan languages at pp. viii, ix of this Preface. Cambridge is at this moment engaged in establishing both a Semitic and Indian languages Tripos. Although our system of 'Schools' at Oxford is somewhat different, yet, I hope, we shall not be behind the Sister University in our encouragement of these languages.
 
 † The debt which we English scholars owe to Professor Max Müller for having first introduced us to this science by his well-known lectures, is too universally acknowledged to require notice here. I am not sure whether twelve lectures on the principles of linguistic science by William Dwight Whitney, Professor of Sanskrit in Yale College, are quite so well known in this country. If they are not, I here commend them to all interested in the study of language, merely remarking that their excellence is too obvious to require any praise from me.
+
+_Dr. Mārcis Gasūns_

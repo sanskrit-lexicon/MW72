@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0022_Image_0002.png
 source_page: "Defects, 2"
@@ -16,3 +18,5 @@ In the first place, there has not been absolute consistency in the collocation o
 Again, in the arranging of a whole chain of words etymologically allied, some formations have been placed under compounds which ought properly to have a separate line assigned to them. Others again have separate lines which ought more consistently to come under compounds. For example, abstract nouns formed with the affixes *tā* and *tva*, and possessive adjectives formed with *vat, mat*, &c. are placed in the order of the compounds, when they are really not compounds at all. Still it is plain that such a word as *svāmi-tā*, 'ownership,' is really equivalent to *svāmi-bhāva*, and such a word as *śrī-mat*, 'possessed of fortune,' to *śrī-yukta*. In these cases my motive for sacrificing absolute consistency has rather been to gain space. Other liberties indulged in with regard to the use of the hyphen are noticed in the table of directions following the Preface.
 
 With regard to the nominative cases of adjectives and of a few participles—such as those of Parasmai-pada Intensives—and even of a few substantives, I fear this Dictionary cannot always be quite trusted ; though it may perhaps be conceded that I have improved upon any predecessor in this respect. In point of fact it has not been possible to settle with certainty the nominative cases, especially in the feminine forms, of all adjectives. The German Wörterbuch avoids exhibiting the nominative cases of adjectives and participles, and rarely gives their feminines, leaving also the nominative cases of substantives to be inferred from their gender. Although I studied Pāṇini's chapter on feminine formations with great care, I was unable to discover either in his Grammar or in any other Grammar or Dictionary a solution of all my difficulties. My rule has been to give the nominative cases both of substantives and adjectives in all their genders wherever there was ground for certainty or for a reasonable inference,
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0010_Image_0002.png
 source_page: "Extent of Sanskrit Literature comprehended, 1"
@@ -24,3 +26,5 @@ Conscious, then, as my present office has made me of the general ignorance preva
 ---
 
 \* The Sanskrit-French Dictionary of M. Émile Burnouf, which also appeared after much of my work was in type, is an independent working out of some ideas similar to my own.
+
+_Dr. Mārcis Gasūns_

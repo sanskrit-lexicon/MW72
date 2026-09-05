@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0018_Image_0002.png
 source_page: "Principal Sources drawn upon in the Process of Compilation, 1"
@@ -24,3 +26,5 @@ I have now to enumerate the various works consulted by me in compiling this Dict
 \* This will be found at p. 5 of the 'Original Papers Illustrating the History of the Application of the Roman Alphabet to the Languages of India,' edited by me at the request of Sir Charles Trevelyan in 1859, and published by Messrs. Longmans. I conceived this volume to be of value to every one interested in the diffusion of education among the natives of our Indian Empire.
 
 † Amongst other publications the Ṛig-veda itself, edited by Professor Aufrecht, has been printed and published in the Romanic character ; also part of the Kathā-sarit-sāgara by Dr. Hermann Brockhaus. Dr. Muir in his Sanskrit Texts has also extensively used the Indo-Romanic system, as well as Dr. Weber in the Indische Studien, where some of the Upanishads are so transliterated. Let any one compare Professor Aufrecht's own compact and cheap octavo volume with the six massive quartos to which the Ṛig-veda will extend, now being edited in the native character. Even if the Romanized edition had the commentary, it would probably not extend beyond two moderate octavo volumes. With regard to the series of valuable Hindūstānī works printed in the Anglo-Hindūstānī character by missionaries in India, a full account of them will be found in Sir Charles Trevelyan's 'Original Papers' referred to in a previous note. The whole Bible has been beautifully printed in this form, and carried through the press by the Rev. R. Cotton Mather ; also a glossary to part of the Bible by his son Mr. Cotton Mather.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0016_Image_0002.png
 source_page: "Alphabet, 4"
@@ -18,3 +20,5 @@ After what I have thus advanced, our great Indian Paṇḍits remain, as I fear 
 \* It is certainly remarkable that the whole Vyākaraṇa of Pāṇini, unlike the Greek grammar or γράμμα, appears to ignore written symbols, as if Sanskrit was never intended to have any peculiar graphic system of its own. In South India Sanskrit is written in different characters ; and the first inscriptions found on rocks are in Pāli and Prākṛit, not in Sanskrit. They are referred to the Buddhist sovereigns who possessed political power in India about three centuries B.C. The present form of Nāgarī is thought to be little older than the tenth or eleventh century of our era.
 
 † What should we think of an English Dictionary which, disdaining to aid our overtried vision by any typographical contrivances at the supposed sacrifice of euphonic propriety, should insist on presenting the corresponding example in proper phonetic conjunction thus—'goodfriendsguardfromevil ?'
+
+_Dr. Mārcis Gasūns_

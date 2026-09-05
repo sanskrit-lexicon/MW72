@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0015_Image_0002.png
 source_page: "Alphabet, 3"
@@ -22,3 +24,5 @@ translation_of: mw72pref14.md
 ---
 
 \* А именно: Sanskṛit, с его родственными Hindī, Marāṭhī, Gujarātī, Bengālī, Uriya, ассамским, Panjābī, Gurumukhī, Sindhī, непальским, Kaśmīrī, сингальским Цейлона; Pushtu Афганистана; пятью дравидийскими языками — Tamil, Malayālam, Telugu, канарским, Tulu; полудравидийским Brahū-ī; составным Urdū, или Hindūstānī, в ходу по всей Индии; и, наконец, бирманским.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0023_Image_0002.png
 source_page: "Defects, 3"
@@ -22,3 +24,5 @@ translation_of: mw72pref22.md
 <div style="text-align:right">МОНИЕР УИЛЬЯМС.</div>
 
 Оксфорд, *май* 1872.
+
+_Dr. Mārcis Gasūns_

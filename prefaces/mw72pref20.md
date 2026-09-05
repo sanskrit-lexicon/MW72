@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0021_Image_0002.png
 source_page: "Defects and Inconsistencies acknowledged, 1"
@@ -22,3 +24,5 @@ Finally, I must express my gratitude for the extreme care with which the reading
 ### Defects and Inconsistencies acknowledged.
 
 When some one pointed out to Dr. Johnson the imperfections of his great Dictionary, he is said to have retorted on his critics that mere fault-finding was often an indication of ignorance. His work was too large, he affirmed, not to take in errors, and the quicksightedness to these was a symptom of the dulness which could not comprehend the merit of the performance as a whole. Without imitating this convenient way of disposing of criticism in my own case,
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0007_Image_0002.png
 source_page: "Plan, 2"
@@ -20,3 +22,5 @@ We now come to the six European lines: 1. The Keltic or Celtic (of the Kelts), l
 † As distinguished from 'monosyllabic,' like the Chinese; and 'agglutinative,' like the Turkish, Turkish, and other members of an immense class of languages in which the termination is easily separable from the body of the word. These are still called by some Tūrānian (from Tūr, eldest son of Farīdūn, to whom he assigned Tūrkistān, thence called Tūrān).
 
 ‡ For a further insight into these Arabic formations, the student is referred to a chapter on the use of Arabic words in my 'Practical Hindūstānī Grammar,' published by Longman & Co.
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `mw72prefNN.md`. Index: [README.md](README.md).
+Per-page files: `mw72prefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MW72/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -921,3 +923,5 @@ WITHOUT THEIR NĀGARĪ EQUIVALENTS.
 a, ā ; i, ī ; u, ū ; ṛi, ṝi ; ḷri, ḹri ; e, ai ; o, au ;—n or m, ḥ ;—k, kh ; g, gh ; n ;—ć, ćh ; j, jh ; ñ ;—ṭ, ṭh ; ḍ, ḍh ; ṇ ;—t, th ; d, dh ; n ;—p, ph ; b, bh ; m ;—y, r, l, ḻ, v ; ś, sh, s ;—h.
 
 Observe :—n represents the true Anusvāra in the body of a word before the symbol of any nasal will often be found at the end of a word, as in *dāna*, *daśa* &c. ; but may also represent Anusvāra, when final n is followed by initial sibilants and *h*, and in words formed with the augment.
+
+_Dr. Mārcis Gasūns_

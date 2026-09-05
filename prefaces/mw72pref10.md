@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0011_Image_0002.png
 source_page: "Extent, 2"
@@ -20,3 +22,5 @@ Sanskrit literature, it should be remembered, embraces two distinct periods, Ved
 ‡ The systems of philosophy are properly only three : 1. the Nyāya by Gautama, which is the most practical, and contains the Hindū system of logic ; 2. the Sānkhya by Kapila, which is dualistic, asserting the separate existence of soul and matter ; 3. the Vedānta by Vyāsa or Bādarāyaṇa, which asserts the unity of all being : but of each of these respectively there are branches, viz. (a) the Vaiśeshika by Kaṇāda ; (b) the Yoga by Patañjali ; (c) the Pūrva-mīmāṃsā by Jaimini.
 
 § Some idea of the extent of Sanskrit literature may be gained by comparing the two great epic or heroic poems called the Mahā-bhārata and Rāmāyaṇa with the Iliad and Odyssey, as I have attempted to do in the small volume called 'Indian Epic Poetry,' published by Messrs. Williams and Norgate. The Mahā-bhārata, printed at Calcutta, contains 107,389 verses, each verse being supposed to consist of two lines. See also my edition of the 'Story of Nala,' published at the Clarendon Press.
+
+_Dr. Mārcis Gasūns_

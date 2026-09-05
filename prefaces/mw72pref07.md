@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw72_Page_0008_Image_0002.png
 source_page: "Plan, 3"
@@ -20,3 +22,5 @@ In unison with this design, the roots of the language—always brought prominent
 \* I cannot sufficiently acknowledge my debt to Westergaard's *Radices*. The copy I have had for about thirty years tells a tale of constant reference. Indeed we have to thank Danish quite as much as German scholars, for what they have done towards promoting linguistic culture.
 
 † The number of distinct radical forms in Wilkins' collection is 1750, but as many forms having the same sound have different meanings, and are conjugated differently, they are held to be distinct roots, and the number is thereby swelled to 2490. Probably, the real number of elementary radicals in Sanskrit might be reduced to a comparatively small catalogue. Some roots containing dentals have been cerebralized or *vice versâ*, and both forms are allowed to co-exist, as *than* and *sthan*, *than* and *dhan*; others whose initials are aspirated consonants have passed into other aspirated consonants or retained only the aspirate; and all forms co-exist in *thrī*, *dhrī*, *dhvrī*, *hrī*, &c. Again, such a
+
+_Dr. Mārcis Gasūns_
