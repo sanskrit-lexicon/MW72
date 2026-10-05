@@ -1,5 +1,7 @@
 # MW72 — Monier-Williams *A Sanskrit-English Dictionary* (1872)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151367.svg)](https://doi.org/10.5281/zenodo.23151367)
+
 _Created: 24-08-2014 · Last updated: 11-07-2026_
 
 Development and correction repository for the **1872 first edition** of **Monier Monier-Williams's *A Sanskrit-English Dictionary*** — distinct from the better-known, much-expanded 1899 edition ([`MW`](https://github.com/sanskrit-lexicon/MWS)). Part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/mw72/mw72.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mw72/mw72.txt) (55,388 entries); this repository holds preparatory and correction work.
